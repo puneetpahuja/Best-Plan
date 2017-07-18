@@ -10,15 +10,18 @@
   (when validity (/ (* thing days-in-month) validity)))
 
 ;; nil means unlimited validity
-(defrecord Recharge [cost validity monthly-cost details internal-details comments])
+(defrecord Recharge [cost validity monthly-cost details internal-details comments user-info])
+(defrecord TalktimeRecharge [talktime monthly-talktime])
+(defrecord CostCutterRecharge [local-rate std-rate])
+(defrecord MinutesRecharge [minutes monthly-minutes])
+(defrecord CostCutterTalktimeCombo [cost-cutter-recharge talktime-recharge cost monthly-cost comments])
 
 (defn recharge [cost validity comments]
   (let [monthly-cost (monthly cost validity)
-        details (str "Cost: Rs" cost " Validity: " (if validity (str validity "days") "Unlimited"))
+        details (str "Cost: Rs" cost " Validity: "
+                     (if validity (str validity "days") "Unlimited"))
         internal-details (str "Monthly cost: " monthly-cost)]
-    (->Recharge cost validity monthly-cost details internal-details comments)))
-
-(defrecord TalktimeRecharge [talktime monthly-talktime])
+    (->Recharge cost validity monthly-cost details internal-details comments nil)))
 
 (defn talktime-recharge [cost talktime validity comments]
   (let [monthly-talktime (monthly talktime validity)
@@ -27,8 +30,6 @@
         (merge base-recharge
                {:details (str (:details base-recharge) " Talktime: " talktime)}))))
 
-(defrecord CostCutterRecharge [local-rate std-rate])
-
 (defn cost-cutter-recharge [cost local-rate std-rate validity comments]
   (let [base-recharge (recharge cost validity comments)]
     (-> (->CostCutterRecharge local-rate std-rate)
@@ -36,8 +37,6 @@
                 {:details (str (:details base-recharge)
                                (when local-rate (str " Local Call Rate: " local-rate "Rs/min"))
                                (when std-rate (str " Std Call Rate: " std-rate "Rs/min")))}))))
-
-(defrecord MinutesRecharge [minutes monthly-minutes])
 
 (defn minutes-recharge [cost minutes validity comments]
   (let [monthly-minutes (monthly minutes validity)
@@ -48,3 +47,6 @@
                                " Minutes: " minutes)
                  :internal-details (str (:internal-details base-recharge)
                                         " Monthly minutes: " monthly-minutes)}))))
+
+(defn cost-cutter-talktime-combo [cost-cutter-recharge talktime-recharge]
+  (->CostCutterTalktimeCombo cost-cutter-recharge talktime-recharge (+ (:cost cost-cutter-recharge)) ()))
