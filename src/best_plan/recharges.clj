@@ -14,7 +14,7 @@
 (defrecord TalktimeRecharge [talktime monthly-talktime])
 (defrecord CostCutterRecharge [local-rate std-rate])
 (defrecord MinutesRecharge [minutes monthly-minutes])
-(defrecord CostCutterTalktimeCombo [cost-cutter-recharge talktime-recharge cost monthly-cost comments])
+(defrecord CostCutterTalktimeCombo [cost-cutter-recharge talktime-recharge cost comments])
 
 (defn recharge [cost validity comments]
   (let [monthly-cost (monthly cost validity)
@@ -49,4 +49,72 @@
                                         " Monthly minutes: " monthly-minutes)}))))
 
 (defn cost-cutter-talktime-combo [cost-cutter-recharge talktime-recharge]
-  (->CostCutterTalktimeCombo cost-cutter-recharge talktime-recharge (+ (:cost cost-cutter-recharge)) ()))
+  (->CostCutterTalktimeCombo cost-cutter-recharge
+                             talktime-recharge
+                             (+ (:cost cost-cutter-recharge) (:cost talktime-recharge))
+                             (str "Cost cutter recharge: "
+                                  (:comments cost-cutter-recharge)
+                                  "And talktime recharge: "
+                                  (:comments talktime-recharge))))
+
+(defn monthly-bill-talktime [{:keys [monthly-talktime cost talktime validity monthly-cost] :as plan}
+                             {:keys [talktime-needed] :as user}]
+  (assoc plan
+         :monthly-bill
+         (if validity
+           (if (<= talktime-needed monthly-talktime)
+             monthly-cost
+             (* talktime-needed (/ cost talktime)))
+           (* talktime-needed (/ cost talktime)))))
+
+(defn monthly-bill-minutes [{:keys [monthly-minutes cost minutes validity monthly-cost] :as plan}
+                            {:keys [total-usage] :as user}]
+  (assoc plan
+         :monthly-bill
+         (if validity
+           (if (<= total-usage monthly-minutes)
+             monthly-cost
+             (* total-usage (/ cost minutes)))
+           (* total-usage (/ cost minutes)))))
+
+(defn get-first-value [key [first & rest]]
+  (when first
+    (if-let [value (key first)]
+      value
+      (get-first-value key rest))))
+
+(defn monthly-bill-cost-cutter [{{:keys []
+                                  cost-cutter-monthly-cost :monthly-cost
+                                  :as cost-cutter-plan} :cost-cutter-recharge
+                                 {:keys [validity monthly-talktime cost talktime]
+                                  talktime-monthly-cost :monthly-cost
+                                  :as talktime-plan} :talktime-recharge
+                                 :as plan}
+                                {:keys [local-usage std-usage] :as user}]
+  (let [talktime-needed (+ (* (get-first-value :local-rate [cost-cutter-plan user]) local-usage)
+                           (* (get-first-value :std-rate [cost-cutter-plan user]) std-usage))]
+    (assoc plan
+           :monthly-bill
+           (+ cost-cutter-monthly-cost
+              (if validity
+                (if (<= talktime-needed monthly-talktime)
+                  talktime-monthly-cost
+                  (* talktime-needed (/ cost talktime)))
+                (* talktime-needed (/ cost talktime)))))))
+
+
+(defprotocol MonthlyBill
+  (monthly-bill [plan user] "Gives the monthly bill for the plan given user details"))
+
+(extend-protocol MonthlyBill
+  TalktimeRecharge
+  (monthly-bill [plan user]
+    (monthly-bill-talktime plan user))
+
+  MinutesRecharge
+  (monthly-bill [plan user]
+    (monthly-bill-minutes plan user))
+
+  CostCutterTalktimeCombo
+  (monthly-bill [plan user]
+    (monthly-bill-cost-cutter plan user)))

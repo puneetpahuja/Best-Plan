@@ -1,7 +1,9 @@
 (ns best-plan.core
   (:require [best-plan.recharges :refer :all]
             [clojure.math.combinatorics :refer [cartesian-product] :as combo]
+            [clojure.tools.trace :as t]
             :reload)
+  (:import [best_plan.recharges TalktimeRecharge MinutesRecharge CostCutterTalktimeCombo])
   (:gen-class))
 
 (comment TODO
@@ -33,59 +35,11 @@
                                   [[14 nil 0.25 28 ""]
                                    [16 0.6 0.6 28 ""]
                                    [17 0.3 nil 28 ""]]))
-
-(defn monthly-bill-talktime [plan user]
-  (let [talktime-needed (:talktime-needed user)
-        monthly-talktime (:monthly-talktime plan)
-        cost (:cost plan)
-        talktime (:talktime plan)])
-  (assoc plan
-         :monthly-bill
-         (if (:validity plan)
-           (if (<= talktime-needed monthly-talktime)
-             (:monthly-cost plan)
-             (/ (* talktime-needed cost) talktime))
-           (/ (* talktime-needed cost) talktime))))
-
-(defn monthly-bill-minutes [plan user]
-  (let [total-usage (:total-usage user)
-        monthly-minutes (:monthly-minutes plan)
-        cost (:cost plan)
-        minutes (:minutes plan)]
-    (assoc plan
-           :monthly-bill
-           (if (:validity plan)
-             (if (<= total-usage monthly-minutes)
-               (:monthly-cost plan)
-               (/ (* total-usage cost) minutes))
-             (/ (* total-usage cost) minutes)))))
-
-(defn monthly-bill-cost-cutter [plan user]
-  )
-
-(defprotocol MonthlyBill
-  (monthly-bill [plan user] "Gives the monthly bill for the plan given user details"))
-
-(extend-protocol MonthlyBill
-  TalktimeRecharge
-  (monthly-bill [plan user]
-    (monthly-bill-talktime plan user))
-
-  MinutesRecharge
-  (monthly-bill [plan user]
-    (monthly-bill-minutes plan user))
-
-  CostCutterTalktimeCombo
-  (monthly-bill [plan user]
-    (monthly-bill-cost-cutter plan user)))
-
 ;; usage is monthly
 (defrecord User [telecom-provider circle local-rate std-rate local-usage std-usage total-usage talktime-needed])
 
 (defn user [telecom-provider circle local-rate std-rate local-usage std-usage]
-  (->UserData telecom-provider circle local-rate std-rate local-usage std-usage (+ local-usage std-usage) (+ (* local-rate local-usage) (* std-rate std-usage))))
-
-(def test-user (user 'dummy 'any 0.6 1.15 200 300))
+  (->User telecom-provider circle local-rate std-rate local-usage std-usage (+ local-usage std-usage) (+ (* local-rate local-usage) (* std-rate std-usage))))
 
 (defn make-cost-cutter-talktime-pair [[cost-cutter talktime]]
   (cost-cutter-talktime-combo cost-cutter-recharge talktime-recharge))
@@ -104,3 +58,7 @@
                       (get-cost-cutter-plans user)
                       (get-minutes-plans user))]
     (sort-by :monthly-bill (map #(monthly-bill % user) plans))))
+
+(def test-user (user 'dummy 'any 0.6 1.15 200 300))
+
+;; (get-best-plans test-user)
