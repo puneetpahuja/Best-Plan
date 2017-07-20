@@ -1,7 +1,7 @@
 (ns best-plan.core
   (:require [best-plan.recharges :refer :all]
             [clojure.math.combinatorics :refer [cartesian-product] :as combo]
-            [clojure.tools.trace :as t]
+            [clojure.tools.trace :refer [trace-ns trace-vars untrace-ns untrace-vars] :as t]
             :reload)
   (:import [best_plan.recharges TalktimeRecharge MinutesRecharge CostCutterTalktimeCombo])
   (:gen-class))
@@ -22,14 +22,14 @@
                                 [5000 8000 20 ""]]))
 
 (def dummy-minutes-plans (map #(apply minutes-recharge %)
-                              [[100 1100 nil ""]
-                               [20 2000 nil "Exclusive offer on My Airtel app and Airtel.in"]
-                               [200 1220 nil "Exclusive offer on My Airtel app and Airtel.in"]
+                              [[100 110 nil ""]
+                               [20 200 nil "Exclusive offer on My Airtel app and Airtel.in"]
+                               [200 400 nil "Exclusive offer on My Airtel app and Airtel.in"]
                                [20 145.39 nil ""]
-                               [30 24443.09 nil ""]
-                               [10 140 10 ""]
-                               [500 8000 20 ""]
-                               [50 5000 nil ""]]))
+                               [30 244.09 nil ""]
+                               [10 50 10 ""]
+                               [500 800 20 ""]
+                               [50 200 nil ""]]))
 
 (def dummy-cost-cutter-plans (map #(apply cost-cutter-recharge %)
                                   [[14 nil 0.25 28 ""]
@@ -42,7 +42,7 @@
   (->User telecom-provider circle local-rate std-rate local-usage std-usage (+ local-usage std-usage) (+ (* local-rate local-usage) (* std-rate std-usage))))
 
 (defn make-cost-cutter-talktime-pair [[cost-cutter talktime]]
-  (cost-cutter-talktime-combo cost-cutter-recharge talktime-recharge))
+  (cost-cutter-talktime-combo cost-cutter talktime))
 
 (defn get-talktime-plans [user]
   dummy-talktime-plans)
@@ -57,7 +57,7 @@
   (let [plans (concat (get-talktime-plans user)
                       (get-cost-cutter-plans user)
                       (get-minutes-plans user))]
-    (sort-by :monthly-bill (map #(monthly-bill % user) plans))))
+    (sort-by :monthly-bill (map #(trim-for-user (monthly-bill % user)) plans))))
 
 (def test-user (user 'dummy 'any 0.6 1.15 200 300))
 
