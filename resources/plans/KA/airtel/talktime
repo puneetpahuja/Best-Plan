@@ -1,0 +1,8 @@
+cost        talktime    validity    comments
+10          10          10          ""
+20          15.39       nil         ""
+30          23.09       nil         ""
+50          50          nil         "Exclusive offer on My Airtel app and Airtel.in"
+100         110         nil         "Exclusive offer on My Airtel app and Airtel.in"
+200         220         nil         "Exclusive offer on My Airtel app and Airtel.in"
+5000        8000        20          ""

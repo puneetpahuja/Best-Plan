@@ -8,6 +8,15 @@
 
 (def days-in-month 30)
 
+;; usage is monthly
+(defrecord User [telecom-provider circle local-rate std-rate local-usage
+                 std-usage total-usage talktime-needed])
+
+(defn user [telecom-provider circle local-rate std-rate local-usage std-usage]
+  (->User telecom-provider circle local-rate std-rate local-usage std-usage
+          (+ local-usage std-usage) (+ (* local-rate local-usage)
+                                       (* std-rate std-usage))))
+
 (defn monthly [thing validity]
   (when validity (* thing (/ days-in-month validity))))
 
@@ -16,7 +25,8 @@
 (defrecord TalktimeRecharge [talktime monthly-talktime])
 (defrecord CostCutterRecharge [local-rate std-rate])
 (defrecord MinutesRecharge [minutes monthly-minutes])
-(defrecord CostCutterTalktimeCombo [cost-cutter-recharge talktime-recharge cost details comments])
+(defrecord CostCutterTalktimeCombo [cost-cutter-recharge talktime-recharge cost
+                                    details comments])
 
 (defn base-recharge [cost validity comments]
   (let [monthly-cost (monthly cost validity)
@@ -29,15 +39,18 @@
         base-recharge (base-recharge cost validity comments)]
     (-> (->TalktimeRecharge talktime monthly-talktime)
         (merge base-recharge
-               {:details (str (:details base-recharge) " | Talktime: " talktime)}))))
+               {:details (str (:details base-recharge)
+                              " | Talktime: " talktime)}))))
 
 (defn cost-cutter-recharge [cost local-rate std-rate validity comments]
   (let [base-recharge (base-recharge cost validity comments)]
     (-> (->CostCutterRecharge local-rate std-rate)
         (merge  base-recharge
                 {:details (str (:details base-recharge)
-                               (when local-rate (str " | Local Call Rate: " local-rate "Rs/min"))
-                               (when std-rate (str " | Std Call Rate: " std-rate "Rs/min")))}))))
+                               (when local-rate (str " | Local Call Rate: "
+                                                     local-rate "Rs/min"))
+                               (when std-rate (str " | Std Call Rate: "
+                                                   std-rate "Rs/min")))}))))
 
 (defn minutes-recharge [cost minutes validity comments]
   (let [monthly-minutes (monthly minutes validity)
@@ -52,8 +65,10 @@
         val-t (property talktime-recharge)]
     (cond
       (number? val-c) (+ val-c val-t)
-      (string? val-c) (str (when-not (blank? val-c) (str "Cost cutter recharge: " val-c ". "))
-                           (when-not (blank? val-t) (str "Talktime recharge: " val-t ". ")))
+      (string? val-c) (str (when-not (blank? val-c)
+                             (str "Cost cutter recharge: " val-c ". "))
+                           (when-not (blank? val-t)
+                             (str "Talktime recharge: " val-t ". ")))
       :else :combine-property-error)))
 
 (defn cost-cutter-talktime-combo [cost-cutter-recharge talktime-recharge]
@@ -63,9 +78,10 @@
                              (combine-property :details cost-cutter-recharge talktime-recharge)
                              (combine-property :comments cost-cutter-recharge talktime-recharge)))
 
-(defn monthly-bill-talktime [{:keys [monthly-talktime cost talktime validity monthly-cost] :as plan}
+(defn monthly-bill-talktime [{:keys [monthly-talktime cost talktime validity
+                                     monthly-cost] :as recharge}
                              {:keys [talktime-needed] :as user}]
-  (assoc plan
+  (assoc recharge
          :monthly-bill
          (round-two-digits (if validity
                              (if (<= talktime-needed monthly-talktime)
@@ -73,9 +89,10 @@
                                (* talktime-needed (/ cost talktime)))
                              (* talktime-needed (/ cost talktime))))))
 
-(defn monthly-bill-minutes [{:keys [monthly-minutes cost minutes validity monthly-cost] :as plan}
+(defn monthly-bill-minutes [{:keys [monthly-minutes cost minutes validity
+                                    monthly-cost] :as recharge}
                             {:keys [total-usage] :as user}]
-  (assoc plan
+  (assoc recharge
          :monthly-bill
          (round-two-digits (if validity
                              (if (<= total-usage monthly-minutes)
@@ -89,17 +106,16 @@
       value
       (get-first-value key rest))))
 
-(defn monthly-bill-cost-cutter [{{:keys []
-                                  cost-cutter-monthly-cost :monthly-cost
-                                  :as cost-cutter-plan} :cost-cutter-recharge
+(defn monthly-bill-cost-cutter [{{cost-cutter-monthly-cost :monthly-cost
+                                  :as cost-cutter-recharge} :cost-cutter-recharge
                                  {:keys [validity monthly-talktime cost talktime]
                                   talktime-monthly-cost :monthly-cost
-                                  :as talktime-plan} :talktime-recharge
-                                 :as plan}
+                                  :as talktime-recharge} :talktime-recharge
+                                 :as recharge}
                                 {:keys [local-usage std-usage] :as user}]
-  (let [talktime-needed (+ (* (get-first-value :local-rate [cost-cutter-plan user]) local-usage)
-                           (* (get-first-value :std-rate [cost-cutter-plan user]) std-usage))]
-    (assoc plan
+  (let [talktime-needed (+ (* (get-first-value :local-rate [cost-cutter-recharge user]) local-usage)
+                           (* (get-first-value :std-rate [cost-cutter-recharge user]) std-usage))]
+    (assoc recharge
            :monthly-bill
            (round-two-digits (+ cost-cutter-monthly-cost
                                 (if validity
@@ -108,35 +124,34 @@
                                     (* talktime-needed (/ cost talktime)))
                                   (* talktime-needed (/ cost talktime))))))))
 
-
 (defprotocol Recharge
-  (monthly-bill [plan user] "Gives the monthly bill for the plan for the given user details")
-  (trim-for-user [plan] "Gives a subset of plan details that you want to show to the user"))
+  (monthly-bill [recharge user]
+    "Gives the monthly bill for the recharge for the given user details")
+  (trim-for-user [recharge]
+    "Gives a subset of recharge details that you want to show to the user"))
 
-(def user-attributes [:cost :validity :details :comments :monthly-bill :talktime
-                      :local-rate :std-rate :minutes])
+(def user-attributes [:monthly-bill :details :comments])
 
 (extend-protocol Recharge
   TalktimeRecharge
-  (monthly-bill [plan user]
-    (monthly-bill-talktime plan user))
-  (trim-for-user [plan]
-    (select-keys plan user-attributes))
+  (monthly-bill [recharge user]
+    (monthly-bill-talktime recharge user))
+  (trim-for-user [recharge]
+    (select-keys recharge user-attributes))
 
   CostCutterRecharge
-  (monthly-bill [plan user])
-  (trim-for-user [plan]
-    (select-keys plan user-attributes))
+  (monthly-bill [recharge user])
+  (trim-for-user [recharge]
+    (select-keys recharge user-attributes))
 
   MinutesRecharge
-  (monthly-bill [plan user]
-    (monthly-bill-minutes plan user))
-  (trim-for-user [plan]
-    (select-keys plan user-attributes))
+  (monthly-bill [recharge user]
+    (monthly-bill-minutes recharge user))
+  (trim-for-user [recharge]
+    (select-keys recharge user-attributes))
 
   CostCutterTalktimeCombo
-  (monthly-bill [plan user]
-    (monthly-bill-cost-cutter plan user))
-  (trim-for-user [plan]
-    (merge plan {:cost-cutter-recharge (trim-for-user (:cost-cutter-recharge plan))
-                 :talktime-recharge (trim-for-user (:talktime-recharge plan))})))
+  (monthly-bill [recharge user]
+    (monthly-bill-cost-cutter recharge user))
+  (trim-for-user [recharge]
+    (select-keys recharge user-attributes)))

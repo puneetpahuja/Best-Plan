@@ -1,9 +1,9 @@
 (ns best-plan.core
   (:require [best-plan.recharges :refer :all]
-            [clojure.math.combinatorics :refer [cartesian-product] :as combo]
+            [clojure.math.combinatorics :refer [cartesian-product] :as comb]
+            [best-plan.fs :refer :all]
             [clojure.tools.trace :refer [trace-ns trace-vars untrace-ns untrace-vars] :as t]
             :reload)
-  (:import [best_plan.recharges TalktimeRecharge MinutesRecharge CostCutterTalktimeCombo])
   (:gen-class))
 
 (comment TODO
@@ -12,53 +12,12 @@
 ;; call rates are in rupees per minute
 ;; usage is in minutes
 
-(def dummy-talktime-plans (map #(apply talktime-recharge %)
-                               [[100 110 nil "Exclusive offer on My Airtel app and Airtel.in"]
-                                [50 50 nil "Exclusive offer on My Airtel app and Airtel.in"]
-                                [200 220 nil "Exclusive offer on My Airtel app and Airtel.in"]
-                                [20 15.39 nil ""]
-                                [30 23.09 nil ""]
-                                [10 10 10 ""]
-                                [5000 8000 20 ""]]))
+(defn get-best-recharges [user]
+  (let [recharges (concat (get-talktime-recharges user)
+                          (get-cost-cutter-combo user)
+                          (get-minutes-recharges user))]
+    (sort-by :monthly-bill (map #(trim-for-user (monthly-bill % user)) recharges))))
 
-(def dummy-minutes-plans (map #(apply minutes-recharge %)
-                              [[100 110 nil ""]
-                               [20 200 nil "Exclusive offer on My Airtel app and Airtel.in"]
-                               [200 400 nil "Exclusive offer on My Airtel app and Airtel.in"]
-                               [20 145.39 nil ""]
-                               [30 244.09 nil ""]
-                               [10 50 10 ""]
-                               [500 800 20 ""]
-                               [50 200 nil ""]]))
+(def test-user (user "airtel" "KA" 0.6 1.15 200 300))
 
-(def dummy-cost-cutter-plans (map #(apply cost-cutter-recharge %)
-                                  [[14 nil 0.25 28 ""]
-                                   [16 0.6 0.6 28 ""]
-                                   [17 0.3 nil 28 ""]]))
-;; usage is monthly
-(defrecord User [telecom-provider circle local-rate std-rate local-usage std-usage total-usage talktime-needed])
-
-(defn user [telecom-provider circle local-rate std-rate local-usage std-usage]
-  (->User telecom-provider circle local-rate std-rate local-usage std-usage (+ local-usage std-usage) (+ (* local-rate local-usage) (* std-rate std-usage))))
-
-(defn make-cost-cutter-talktime-pair [[cost-cutter talktime]]
-  (cost-cutter-talktime-combo cost-cutter talktime))
-
-(defn get-talktime-plans [user]
-  dummy-talktime-plans)
-
-(defn get-minutes-plans [user]
-  dummy-minutes-plans)
-
-(defn get-cost-cutter-plans [user]
-  (map make-cost-cutter-talktime-pair (cartesian-product dummy-cost-cutter-plans dummy-talktime-plans)))
-
-(defn get-best-plans [user]
-  (let [plans (concat (get-talktime-plans user)
-                      (get-cost-cutter-plans user)
-                      (get-minutes-plans user))]
-    (sort-by :monthly-bill (map #(trim-for-user (monthly-bill % user)) plans))))
-
-(def test-user (user 'dummy 'any 0.6 1.15 200 300))
-
-;; (get-best-plans test-user)
+(clojure.pprint/pprint (get-best-recharges test-user))
