@@ -6,7 +6,10 @@
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.clojure/math.combinatorics "0.1.4"]
                  [org.clojure/tools.trace "0.7.9"]
-                 [ring "1.4.0"]]
+                 [ring "1.4.0"]
+                 [metosin/ring-http-response "0.6.5"]
+                 [compojure "1.4.0"]
+                 [selmer "1.0.2"]]
   :resource-paths ["resources"]
   :main ^:skip-aot best-plan.server
   :target-path "target/%s"

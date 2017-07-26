@@ -1,6 +1,7 @@
 (ns best-plan.fs
   (:require [clojure.string :as s]
             [best-plan.recharges :refer :all]
+            [clojure.math.combinatorics :refer [cartesian-product] :as comb]
             [clojure.java.io :as io]))
 
 ;; for future use for big files
@@ -36,5 +37,5 @@
 
 (defn get-cost-cutter-combos [user]
   (map make-cost-cutter-talktime-pair
-       (get-cost-cutter-recharges user)
-       (get-talktime-recharges user)))
+       (cartesian-product (get-cost-cutter-recharges user)
+                          (get-talktime-recharges user))))

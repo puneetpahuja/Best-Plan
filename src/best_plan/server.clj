@@ -1,12 +1,32 @@
 (ns best-plan.server
   (:require [ring.adapter.jetty :as jetty]
-            [ring.util.response :as response]
-            [ring.middleware.reload :refer [wrap-reload]]))
+            [clojure.java.io :as io]
+            [ring.middleware.params :refer [wrap-params]]
+            [best-plan.core :refer [get-best-recharges]]
+            [best-plan.recharges :refer [user]]
+            [clojure.pprint :refer [pprint]]
+            [clojure.walk :as walk]))
 
-(defn handler [request-map]
-  (response/response (str "<html><body> Your best plans are: "
-                          (get-best-recharges (get-user request-map))
-                          "</body></html>")))
+(defn show-input-form []
+  {:body (slurp (io/resource "html/input.html"))
+   :status 200})
+
+(defn show-plans [{:strs [telecom-provider circle local-rate std-rate local-usage
+                          std-usage]}]
+  {:body (-> (get-best-recharges (user telecom-provider circle
+                                       (read-string local-rate)
+                                       (read-string std-rate)
+                                       (read-string local-usage)
+                                       (read-string std-usage)))
+             pprint
+             with-out-str)
+   :status 200})
+
+(defn handler [req]
+  (let [user (:form-params req)]
+    (if (and user (not-empty user))
+      (show-plans user)
+      (show-input-form))))
 
 (defn -main []
-  (jetty/run-jetty (-> handler var wrap-reload) {:port 3000 :join? false}))
+  (jetty/run-jetty (wrap-params handler) {:port 3000}))
