@@ -130,7 +130,7 @@
   (trim-for-user [recharge]
     "Gives a subset of recharge details that you want to show to the user"))
 
-(def user-attributes [:monthly-bill :details :comments])
+(def user-attributes [:cost :monthly-bill :details :comments])
 
 (extend-protocol Recharge
   TalktimeRecharge

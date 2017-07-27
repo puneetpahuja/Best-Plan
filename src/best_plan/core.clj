@@ -13,7 +13,6 @@
 ;; usage is in minutes
 
 (defn get-best-recharges [user]
-  (println user)
   (let [recharges (concat (get-talktime-recharges user)
                           (get-cost-cutter-combos user)
                           (get-minutes-recharges user))]

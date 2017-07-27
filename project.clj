@@ -9,7 +9,8 @@
                  [ring "1.4.0"]
                  [metosin/ring-http-response "0.6.5"]
                  [compojure "1.4.0"]
-                 [selmer "1.0.2"]]
+                 [selmer "1.0.2"]
+                 [hiccup "1.0.5"]]
   :resource-paths ["resources"]
   :main ^:skip-aot best-plan.server
   :target-path "target/%s"
