@@ -1,0 +1,115 @@
+<html>
+  <head>
+    <title>Input</title>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+
+  <body>
+    <div class="container">
+      <br /> <br />
+      <h3 class="center-align">Get Best Talktime Plans</h3>
+      <br /><br />
+
+      <form action="" method="POST" class="center-align">
+        <select name="circle" id="state">
+          <option value="" disabled selected>Choose your region</option>
+          <option value="AP">Andhra Pradesh</option>
+          <option value="NE">Arunachal Pradesh</option>
+          <option value="AS">Assam</option>
+          <option value="BI">Bihar</option>
+          <option value="MP">Chattisgarh</option>
+          <option value="DE">Delhi NCR</option>
+          <option value="MA">Goa</option>
+          <option value="GU">Gujarat</option>
+          <option value="HA">Haryana</option>
+          <option value="HP">Himachal Pradesh</option>
+          <option value="JK">Jammu & Kashmir</option>
+          <option value="BI">Jharkhand</option>
+          <option value="KA">Karnataka</option>
+          <option value="KE">Kerala</option>
+          <option value="KO">Kolkata</option>
+          <option value="MP">Madhya Pradesh</option>
+          <option value="MA">Maharashtra</option>
+          <option value="NE">Manipur</option>
+          <option value="NE">Meghalaya</option>
+          <option value="NE">Mizoram</option>
+          <option value="MU">Mumbai</option>
+          <option value="NE">Nagaland</option>
+          <option value="OR">Odisha</option>
+          <option value="PU">Punjab</option>
+          <option value="RA">Rajasthan</option>
+          <option value="NE">Sikkim</option>
+          <option value="TN">Tamil Nadu</option>
+          <option value="AP">Telangana</option>
+          <option value="NE">Tripura</option>
+          <option value="UPE">Uttar Pradesh East</option>
+          <option value="UPW">Uttar Pradesh West</option>
+          <option value="UPW">Uttarakhand</option>
+          <option value="WB">West Bengal</option>
+        </select>
+
+        <br />
+
+        <select name="telecom-provider" id="company">
+          <option value="" disabled selected>Choose your telecom provider</option>
+          <option value="airtel">Airtel</option>
+          <option value="idea">Idea</option>
+        </select>
+
+        <br />
+
+        <fieldset>
+          <legend>
+            Monthly Usage (in minutes)
+          </legend>
+
+          <div class="input-field">
+            <input type="number" name="local-usage" class="validate" id="local-use">
+            <label for="local-use">Local Usage (ex: 200)</label>
+          </div>
+
+          <div class="input-field">
+            <input type="number" name="std-usage" class="validate" id="std-use">
+            <label for="std-use">STD Usage (ex: 150)</label>
+          </div>
+
+        </fieldset>
+
+        <br />
+
+        <fieldset>
+          <legend>
+            Call Rates (in Rs./Minute)
+          </legend>
+
+          <div class="input-field">
+            <input type="number" step="0.01" name="local-rate" class="validate" id="local-call-rate">
+            <label for="local-call-rate">Local Call Rate (ex: 0.6)</label>
+          </div>
+
+          <div class="input-field">
+            <input type="number" step="0.01" name="std-rate" class="validate" id="std-call-rate">
+            <label for="std-call-rate">STD Call Rate (ex: 1.15)</label>
+          </div>
+        </fieldset>
+
+        <br /><br />
+
+        <button class="btn waves-effect waves-light" type="submit" name="action">
+          Get Best Plans
+          <i class="material-icons right">account_balance_wallet</i>
+        </button>
+      </form>
+
+      <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+      <script type="text/javascript" src="js/materialize.min.js"></script>
+      <script>$(document).ready(function() {$('select').material_select();});</script>
+
+    </div>
+  </body>
+</html>

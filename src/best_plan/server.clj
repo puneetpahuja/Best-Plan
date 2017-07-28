@@ -9,7 +9,7 @@
             [ring.util.response :as resp]))
 
 (defn show-input-form []
-  {:body (slurp (io/resource "public/input.html"))
+  {:body (slurp (io/resource "public/input_vanilla.html"))
    :status 200})
 
 (defn get-recharges [{:strs [telecom-provider circle local-rate std-rate
@@ -48,7 +48,8 @@
   (let [user (:form-params req)]
     (if (and user (not-empty user))
       (show-plans user)
-      (resp/resource-response "input.html" {:root "public"}))))
+      ;;(resp/resource-response "input.html" {:root "public"})
+      (show-input-form))))
 
 (defn -main []
   (jetty/run-jetty (wrap-params handler) {:port 3000}))
