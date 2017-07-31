@@ -1,11 +1,25 @@
 <html>
-  <head>
-    <title>Input</title>
-  </head>
-  <body>
-    <form action="" method="POST">
 
-      <label for="state">State </label>
+<head>
+  <title>Input</title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <style>
+  fieldset {
+    display:inline;
+  }
+  html {
+    font-family: "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  }
+  </style>
+</head>
+
+<body>
+  <center>
+    <br /><br /><br />
+    <h1>Get Best Talktime Plans</h1>
+    <br /><br />
+    <form action="" method="POST">
+      <label for="state">Region</label>
       <select name="circle" id="state">
         <option value="AP">Andhra Pradesh</option>
         <option value="NE">Arunachal Pradesh</option>
@@ -41,58 +55,54 @@
         <option value="UPW">Uttarakhand</option>
         <option value="WB">West Bengal</option>
       </select>
-
       <br />
-      <br />
-
+      <br /><br />
       <label for="company">Telecom Provider </label>
       <select name="telecom-provider" id="company">
         <option value="airtel">Airtel</option>
         <option value="idea">Idea</option>
       </select>
-
       <br />
-      <br />
-
+      <br /><br />
       <fieldset>
         <legend>
-          Monthly usage(in minutes)
+          Monthly usage (in minutes)
         </legend>
+        <br />
         <label>
-          Local <input type="text" name="local-usage">
+          Local
+          <input type="text" name="local-usage">
         </label>
-
         <br />
         <br />
-
         <label>
-          STD <input type="text" name="std-usage">
+          STD
+          <input type="text" name="std-usage">
         </label>
       </fieldset>
-
       <br />
       <br />
-
       <fieldset>
         <legend>
-          Call rates(in Rs./minute)
+          Call rates (in Rs./minute)
         </legend>
+        <br />
         <label>
-          Local <input type="text" name="local-rate">
+          Local
+          <input type="text" name="local-rate">
         </label>
-
         <br />
         <br />
-
         <label>
-          STD <input type="text" name="std-rate">
+          STD
+          <input type="text" name="std-rate">
         </label>
       </fieldset>
-
       <br />
       <br />
-
-      <input type="submit" value="Get best plan">
+      <input type="submit" value="Get best plans">
     </form>
-  </body>
+  </center>
+</body>
+
 </html>
