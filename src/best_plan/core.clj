@@ -18,6 +18,6 @@
                           (get-minutes-recharges user))]
     (sort-by :monthly-bill (map #(trim-for-user (monthly-bill % user)) recharges))))
 
-(def test-user (user "airtel" "KA" 0.6 1.15 200 300))
+;; (def test-user (user "airtel" "KA" 0.6 1.15 200 300))
 
 ;; (clojure.pprint/pprint (count (get-best-recharges test-user)))

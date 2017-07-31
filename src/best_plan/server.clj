@@ -22,21 +22,33 @@
   [:td data])
 
 (defn get-table-row [& cells]
-  (vec (concat [:tr] (map get-table-data cells))))
+  (into [:tr] (map get-table-data cells)))
 
 (defn get-table-heading-data [data]
   [:th {:scope "col"} data])
 
 (defn get-table-heading-row [& cells]
-  (vec (concat [:tr] (map get-table-heading-data cells))))
+  (into [:tr] (map get-table-heading-data cells)))
 
 (defn get-table-row-user [{:keys [cost details comments monthly-bill]}]
   (get-table-row details comments cost monthly-bill))
 
 (defn get-output-html [user]
   (html [:html
-         [:head [:title "Best Plans"]]
-         [:body (vec (concat [:table
+         [:head
+          [:title "Best Plans"]
+          [:link {:href "https://fonts.googleapis.com/css?family=Roboto"
+                  :rel "stylesheet"}]
+          [:style "table {border-collapse: collapse; border-spacing: 0px;}
+                   table, th, td {padding: 5px; border: 1px solid black;}
+                   td {text-align:right;}
+                   html {font-family: \"Segoe UI\", \"Roboto\", sans-serif;}"]]
+         [:body (vec (concat [:table {:border "1" :cellpadding "10"
+                                      :border-collapse "collapse"}
+                              [:col {:width "47%"}]
+                              [:col {:width "37%"}]
+                              [:col {:width "6%" :align "right"}]
+                              [:col {:width "10%" :align "right"}]
                               (get-table-heading-row "Details" "Comments" "Cost"
                                                      "Monthly Bill")]
                              (map get-table-row-user (get-recharges user))))]]))
@@ -48,8 +60,9 @@
   (let [user (:form-params req)]
     (if (and user (not-empty user))
       (show-plans user)
-      ;;(resp/resource-response "input.html" {:root "public"})
-      (show-input-form))))
+      (resp/resource-response "input_vanilla.html" {:root "public"})
+      ;;(show-input-form)
+      )))
 
 (defn -main []
   (jetty/run-jetty (wrap-params handler) {:port 3000}))
