@@ -7,6 +7,7 @@
                  [hiccup "1.0.5"]
                  [metosin/ring-http-response "0.6.5"]
                  [org.clojure/clojure "1.8.0"]
+                 [org.clojure/data.csv "0.1.4"]
                  [org.clojure/math.combinatorics "0.1.4"]
                  [org.clojure/tools.trace "0.7.9"]
                  [ring "1.4.0"]
