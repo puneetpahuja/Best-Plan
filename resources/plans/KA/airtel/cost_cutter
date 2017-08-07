@@ -1,4 +1,0 @@
-cost        local-rate  std-rate    validity    comments
-14          nil         0.25        28          ""
-16          0.6         0.6         28          ""
-17          0.3         nil         28          ""

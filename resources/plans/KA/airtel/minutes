@@ -1,9 +1,0 @@
-cost        minutes     validity    comments
-10          50          10          ""
-15          145.39      nil         ""
-20          200         nil         "Exclusive offer on My Airtel app and Airtel.in"
-30          244.09      nil         ""
-50          200         nil         ""
-100         110         nil         ""
-200         400         nil         "Exclusive offer on My Airtel app and Airtel.in"
-500         800         20          ""
