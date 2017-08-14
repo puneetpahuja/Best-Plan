@@ -22,6 +22,5 @@
                           (fs/get-minutes-recharges user))]
     (sort-by :monthly-bill (map #(r/trim-for-user (r/monthly-bill % user)) recharges))))
 
-(def test-user (u/user "airtel" "KA" 0.6 1.15 200 300))
-
-(clojure.pprint/pprint (get-best-recharges test-user))
+;; (def test-user (u/user "airtel" "KA" 0.6 1.15 200 300))
+;; (clojure.pprint/pprint (get-best-recharges test-user))

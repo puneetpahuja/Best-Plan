@@ -1,0 +1,10 @@
+cost,local-rate,std-rate,validity,comments
+9,0.35,nil,28,Local mobile calls at 35p/m. Dial *369*9# to activate on talktime deduction of Rs.9
+17,0.3,nil,28,Local Mobile calls at 30p/min.Dial *369*17#  to activate on talktime deduction of Rs.17
+29,0.3,nil,60,Local Mobile at 30p/m. Dial *369*29# to activate on talktime deduction of Rs.29
+49,0.3,nil,90,Local Mobile at 30p/m
+16,nil,0.25,28,STD Mobile at 25p/min. Dial *369*16# to activate on talktime deduction of Rs.16
+28,nil,0.25,60,STD Mobile at 25p/min. Dial *369*28# to activate on talktime deduction of Rs.28
+18,0.6,0.6,28,Local/STD mobile calls at 1p/sec.Dial *369*18# to activate on talktime deduction of Rs.18
+32,0.3,0.25,28,Local mobile @ 30p/m & STD mobile @ 25p/m. Dial *369*32# to activate on talktime deduction of Rs32
+59,0.3,0.25,60,Local mobile @ 30p/m & STD mobile @ 25p/m
