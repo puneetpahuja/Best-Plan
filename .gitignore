@@ -10,4 +10,6 @@ pom.xml.asc
 .hgignore
 .hg/
 /src/best_plan/api.clj
+/src/best_plan/api_dy.clj
 /resources/raw_jsons
+/resources/raw_jsons_dy

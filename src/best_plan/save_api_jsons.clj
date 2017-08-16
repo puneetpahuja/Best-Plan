@@ -40,8 +40,9 @@
 
 (defn save-operator-recharges-jsons [operator]
   (let [page-1-json (get-operator-recharges-json api/api-key operator 1)
-        count (:count (read-json page-1-json))
-        pages (Math/ceil (/ count 100))]
+        count (or (:count (read-json page-1-json)) 0)
+        pages (Math/ceil (/ count 10))]
+    (println count pages)
     (spit (str dir (convert-api-to-text operator) "_recharges_1.json") page-1-json)
     (map (fn [page]
            (spit (str dir (convert-api-to-text operator) "_recharges_" page ".json")
@@ -50,8 +51,9 @@
 
 (defn save-operator-circle-recharges-jsons [operator circle]
   (let [page-1-json (get-operator-circle-recharges-json api/api-key operator circle 1)
-        count (:count (read-json page-1-json))
-        pages (Math/ceil (/ count 100))]
+        count (or (:count (read-json page-1-json)) 0)
+        pages (Math/ceil (/ count 10))]
+    (println count pages)
     (spit (str dir (convert-api-to-text operator) "_" (convert-api-to-text circle) "_recharges_1.json") page-1-json)
     (map (fn [page]
            (spit (str dir (convert-api-to-text operator) "_" (convert-api-to-text circle) "_recharges_" page ".json")
@@ -61,10 +63,12 @@
 (defn save-all-jsons []
   (let [operators-json (get-operators-json api/api-key 1)
         operators (get-operators operators-json)]
+    (println operators)
     (spit (str dir "operators.json") operators-json)
     (map (fn [operator]
            (let [circles-json (get-operator-circles-json api/api-key operator 1)
                  circles (get-operator-circles circles-json)]
+             (println circles)
              (spit (str dir (convert-api-to-text operator) "_circles.json")
                    circles-json)
              (save-operator-recharges-jsons operator)
