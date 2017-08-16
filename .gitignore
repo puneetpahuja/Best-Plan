@@ -9,3 +9,5 @@ pom.xml.asc
 /.nrepl-port
 .hgignore
 .hg/
+/src/best_plan/api.clj
+/resources/raw_jsons
