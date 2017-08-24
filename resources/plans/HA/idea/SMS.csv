@@ -1,0 +1,11 @@
+id,cost,talktime,validity,short description,long description
+10008,2,,1 day,Recharge of Rs. 2 by Idea,20 Local/ National SMS -- 
+10009,5,,2 days,Recharge of Rs. 5 by Idea,50 Local/National SMS -- 
+10011,9,,7 days,Recharge of Rs. 9 by Idea,100 Local/ National SMS -- 
+10012,12,,28 days,Recharge of Rs. 12 by Idea,Local/ National SMS @ 10p/SMS -- 
+10013,15,,15 days,Recharge of Rs. 15 by Idea,150 Local/National SMS  -- 
+10015,28,,28 days,Recharge of Rs. 28 by Idea,280 Local/National SMS  -- 
+10016,43,,28 days,Recharge of Rs. 43 by Idea,475 Local/National SMS  -- 
+10018,59,,28 days,Recharge of Rs. 59 by Idea,650 Local/National SMS -- 
+10019,63,,28 days,Recharge of Rs. 63 by Idea,Unlimited Local/National SMS -- 
+10020,91,,90 days,Recharge of Rs. 91 by Idea,1000 Local/National SMS  -- 

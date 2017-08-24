@@ -1,0 +1,19 @@
+id,cost,talktime,validity,short description,long description
+7601,5,,1 day,Recharge of Rs. 5 by Docomo,30 MB 2G Data
+7602,15,,3 days,Recharge of Rs. 15 by Docomo,90 MB 2G Data
+7603,26,,5 days,Recharge of Rs. 26 by Docomo,150 MB 2G Data
+7604,31,,28 days,Recharge of Rs. 31 by Docomo,100 MB 2G Data
+7605,39,,7 days,Recharge of Rs. 39 by Docomo,225 MB 2G Data
+7606,52,,28 days,Recharge of Rs. 52 by Docomo,"1GB 2G Data, for AON < 90 Days, 300MB 2G Data, for AON > 90 Days"
+7607,54,,10 days,Recharge of Rs. 54 by Docomo,325 MB 2G Data
+7608,58,,28 days,Recharge of Rs. 58 by Docomo,250 MB 2G Data
+7609,74,,14 days,Recharge of Rs. 74 by Docomo,500 MB 2G Data
+7610,95,,28 days,Recharge of Rs. 95 by Docomo,500 MB 2G Data
+7611,96,,56 days,Recharge of Rs. 96 by Docomo,500 MB 2G Data
+7612,98,,28 days,Recharge of Rs. 98 by Docomo,1GB 2G Data
+7614,161,,30 days,Recharge of Rs. 161 by Docomo,1 GB 2G Data
+7615,174,,28 days,Recharge of Rs. 174 by Docomo,1.25 GB 2G Data
+7616,199,,30 days,Recharge of Rs. 199 by Docomo,1.25 GB Day Data + 1 GB Night 2G Data
+7617,249,,30 days,Recharge of Rs. 249 by Docomo,3 GB Day Data + 1 GB Night 2G Data
+7618,269,,28 days,Recharge of Rs. 269 by Docomo,5 GB 2G Data
+7621,505,,365 days,Recharge of Rs. 505 by Docomo,5GB 2G Data

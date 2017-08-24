@@ -1,0 +1,31 @@
+id,cost,talktime,validity,short description,long description
+11547,25,25,3 days,Recharge of Rs. 25 by Idea,3 Local Idea Night Minutes (11pm to 6am)
+11548,55,55,N.A,Recharge of Rs. 55 by Idea,3 Local Idea Night Minutes (11pm to 6am) -- Talktime Validity (Days): 7 -- Tariff Validity (Days): 7
+11551,306,306,N.A,Recharge of Rs. 306 by Idea,1 Local Night SMS (11pm to 6am) -- Talktime Validity: Unrestricted
+11553,786,786,N.A,Recharge of Rs. 786 by Idea,1 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 1
+11557,29,22.32,N.A,Recharge of Rs. 29 by Idea,1 Local Idea Night Minutes (11pm to 6am)
+11559,35,27.43,N.A,Recharge of Rs. 35 by Idea,1 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 1
+11560,39,30.91,N.A,Recharge of Rs. 39 by Idea,1 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 7
+11562,49,39.61,N.A,Recharge of Rs. 49 by Idea,1 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 7
+11564,59,48.3,N.A,Recharge of Rs. 59 by Idea,1 Local Idea Night Minutes (11pm to 6am -- Tariff Validity (Days): 1
+11566,69,57,N.A,Recharge of Rs. 69 by Idea,1 Local Idea Night Minutes (11pm to 6am)  -- Tariff Validity (Days): 1
+11568,79,65.7,N.A,Recharge of Rs. 79 by Idea,1 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 1
+11570,89,74.39,N.A,Recharge of Rs. 89 by Idea,1 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 1
+11572,99,83.09,N.A,Recharge of Rs. 99 by Idea,1 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 1
+11574,109,91.78,N.A,Recharge of Rs. 109 by Idea,1 Local Idea Night Minutes (11pm to 6am)  -- Tariff Validity (Days): 1
+11585,209,174.12,N.A,Recharge of Rs. 209 by Idea,5 Local I2I Minutes -- Talktime Validity (Days): Unrestricted -- Tariff Validity (Days): 1 
+11594,402,346.57,N.A,Recharge of Rs. 402 by Idea,5 Local I2I Minutes (1 days) -- Talktime Validity (Days): Unrestricted
+11596,498,300,28 days,Recharge of Rs. 498 by Idea,Unlimited Data -- FUP limit: Speed Upto 40kbps post 3GB usage
+11597,510,440.48,N.A,Recharge of Rs. 510 by Idea,1 Local Idea Night Minutes (11pm to 6am) 
+11613,158,,15 days,Recharge of Rs. 158 by Idea,"110 Local and National Mins, 250MB Data, 110 Local and National SMS -- Overage: 4p/10Kb"
+11614,258,,30 days,Recharge of Rs. 258 by Idea,"250 Local and National Mins, 500MB Data, 250 Local and National SMS -- Overage: 4p/10Kb"
+11615,458,,30 days,Recharge of Rs. 458 by Idea,"450 Local and National Mins, 1GB Data, 500 Local and National SMS -- Overage: 4p/10Kb"
+11616,658,,30 days,Recharge of Rs. 658 by Idea,"700 Local and National Mins, 1.5GB Data, 750 Local and National SMS -- Overage: 4p/10Kb"
+11617,958,,30 days,Recharge of Rs. 958 by Idea,"1000 Local and National Mins, 3GB Data, 1000 Local and National SMS -- Overage: 4p/10Kb"
+11618,347,,28 days,Recharge of Rs. 347 by Idea,"Unlimited Local/STD calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable -- 5 Local/STD night SMS Val 1 Day -- Get 5% of MRP as Talktime on recharges through My Idea App and Idea Website -- This STV should not be used for any commercial activity. "
+11649,297,,28 days,Recharge of Rs. 297 by Idea,Unlimited Data + 400 Local/National Mobile Min -- FUP limit: Speed Upto 10 kbps post 2 GB usage
+11653,443,,28 days,Recharge of Rs. 443 by Idea,2.5 GB Addon data -- Unlimited call (CUP apply)
+11657,696,,84 days,Recharge of Rs. 696 by Idea,"Unlimited Local/STD/Roaming calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 250 mins in a day or 1000 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable. -- 6 GB 2G Data (Get 10% of MRP as Talktime on recharges through My Idea App and Idea Website) -- This STV should not be used for any commercial activity"
+11659,896,,84 days,Recharge of Rs. 896 by Idea,"Unlimited Local/STD/Roaming calls --  -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 250 mins in a day or 1000 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable -- 15 GB 2G Data (Get 10% of MRP as Talktime on recharges through My Idea App and Idea Website) -- This STV should not be used for any commercial activity"
+11662,1196,,84 days,Recharge of Rs. 1196 by Idea,"Unlimited Local/STD/Roaming calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 250 mins in a day or 1000 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable -- 30 GB 2G Data (Get 10% of MRP as Talktime on recharges through My Idea App and Idea Website) -- This STV should not be used for any commercial activity"
+11737,127,,30 days,Recharge of Rs. 127 by Idea,"BBM , E-Mail & Internet browsing up to 1GB -- Overage: 4p/10KB"

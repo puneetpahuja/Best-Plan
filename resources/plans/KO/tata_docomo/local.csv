@@ -1,0 +1,28 @@
+id,cost,talktime,validity,short description,long description
+8250,6,,1 day,Recharge of Rs. 6 by Docomo,Unlimited Local T2T Calls (Till recharge date)
+8251,7,,2 days,Recharge of Rs. 7 by Docomo,Local On-Net Mins- unlimited (night call 11pm to 7am)
+8252,16,,28 days,Recharge of Rs. 16 by Docomo,Local On-Net & Local Off-Net mobile calls @ 30p/min
+8253,18,,3 days,Recharge of Rs. 18 by Docomo,40 STD + LOC Min
+8254,22,,2 days,Recharge of Rs. 22 by Docomo,20 hrs unlimited Local tata mobile calls daily (6pm to 10pm @ 1p/ sec.)
+8255,27,,28 days,Recharge of Rs. 27 by Docomo,All Local On-Net mobile calls @ 12p/min & STD On-Net mobile @ 35p/min
+8256,28,,28 days,Recharge of Rs. 28 by Docomo,150 Local on Net Min
+8257,34,,6 days,Recharge of Rs. 34 by Docomo,75 STD + LOC Min
+8258,35,,28 days,Recharge of Rs. 35 by Docomo,Local Mobile calls @ 30p/Min
+8259,36,,28 days,Recharge of Rs. 36 by Docomo,"Local On-Net & Off-Net, STD On-Net & STD Off-Net mobile calls @30p/min"
+8260,42,,84 days,Recharge of Rs. 42 by Docomo,Local On-Net & Local Off-Net mobile calls @ 30p/min 
+8261,47,,14 days,Recharge of Rs. 47 by Docomo,Local On-Net Mins- unlimited (night call 11pm to 7am) 
+8262,53,,84 days,Recharge of Rs. 53 by Docomo,Local On-Net & Local Off-Net mobile calls @ 1.2p/2s
+8263,63,,56 days,Recharge of Rs. 63 by Docomo,All Local/STD mobile calls @ 1.2p/ 2sec.
+8264,75,,60 days,Recharge of Rs. 75 by Docomo,"Local Mobile calls @ 30p/Min, STD Calls @25p/min"
+8265,85,,84 days,Recharge of Rs. 85 by Docomo,Local On-Net mobile calls @ 10p/min & STD On-Net Mobile calls @ 30p/min -- Local On-Net mobile calls @ 10p/min -- STD On-Net mobile calls @ 30p/min
+8266,99,,84 days,Recharge of Rs. 99 by Docomo,Local On-Net mobile calls @ 1.2p/2sec -- Local Off-Net mobile calls @ 1.2p/2sec -- STD On-Net mobile calls @ 1.2p/2sec -- STD Off-Net mobile calls @ 1.2p/2sec -- Local/STD Mobile calls @ 30p/min(on seconds pulse)
+8267,103,,56 days,Recharge of Rs. 103 by Docomo,"Unlimited Loc/Std On-net calls, call charges @1p/s in ICR area"
+8268,111,,28 days,Recharge of Rs. 111 by Docomo,13200 Local + STD Secs
+8269,145,,14 days,Recharge of Rs. 145 by Docomo,20 hrs Unlimited Local On-Net mobile calls daily (6PM to 10PM @ 1p/ sec.)
+8270,148,,14 days,Recharge of Rs. 148 by Docomo,"Unlimited Local/Std capped at 600 Min, call charges @1p/s in ICR area. --  Call charges will be 30p/Min post capped Mins @ 30p/min"
+8271,161,,28 days,Recharge of Rs. 161 by Docomo,350 STD + Local Mobile mins
+8272,246,,28 days,Recharge of Rs. 246 by Docomo,"Unlimited Local/Std capped at 1200 Min, call charges @1p/s in ICR area. -- Call charges will be 30p/Min post capped Mins"
+8273,298,,28 days,Recharge of Rs. 298 by Docomo,"Unlimited Local/Std capped at 2000 Min, call charges @1p/s in ICR area. --  Call charges will be 30p/Min post capped Mins"
+8274,302,,28 days,Recharge of Rs. 302 by Docomo,700 Local + STD Mobile Mins
+8275,599,,28 days,Recharge of Rs. 599 by Docomo,Unlimited Local On-Net Mins
+8276,666,,28 days,Recharge of Rs. 666 by Docomo,168000 Local + STD Secs 

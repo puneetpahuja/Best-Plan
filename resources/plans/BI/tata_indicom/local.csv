@@ -1,0 +1,11 @@
+id,cost,talktime,validity,short description,long description
+15010,11,,1 day,Recharge of Rs. 11 by Indicom,Local On-Net mobile calls @ 0p/sec
+15011,16,,28 days,Recharge of Rs. 16 by Indicom,"Local On-Net, Off-Net mobile calls @ 1p/s -- STD On-Net, Off-Net mobile calls @ 1p/2s"
+15012,21,,55 days,Recharge of Rs. 21 by Indicom,Local On-Net & Off-Net mobile calls @ 1.2p/2s
+15013,23,,27 days,Recharge of Rs. 23 by Indicom,Local/STD Mobile calls @1.2p/2 sec
+15014,26,,28 days,Recharge of Rs. 26 by Indicom,Local On-Net mobile calls @ 1p/6s -- STD On-Net mobile calls @ 1p/3s
+15015,118,,27 days,Recharge of Rs. 118 by Indicom,Local On-Net mobile calls @ 0p/s
+15016,199,,28 days,Recharge of Rs. 199 by Indicom,Local On-Net mobile calls @ 0p/s -- Tariff will work on Tata Docomo Own Network only.
+15017,245,,28 days,Recharge of Rs. 245 by Indicom,48000 Local + STD Secs
+15018,299,,27 days,Recharge of Rs. 299 by Indicom,Local On-Net mobile calls @ 0p/sec -- Daily 30 Local Off-net Min + 30 Local Off-net Min every Sunday
+15019,666,,28 days,Recharge of Rs. 666 by Indicom,150000 Local Secs

@@ -1,0 +1,25 @@
+id,cost,talktime,validity,short description,long description
+7709,6,,7 days,Recharge of Rs. 6 by Docomo,25 Local On-Net mins
+7710,9,,1 day,Recharge of Rs. 9 by Docomo,Local On-Net mobile calls @ 0p/s 
+7711,14,,2 days,Recharge of Rs. 14 by Docomo,35 Local + STD Mins 
+7712,17,,28 days,Recharge of Rs. 17 by Docomo,Local and STD Mobile Calls @ 1p/sec 
+7713,21,,28 days,Recharge of Rs. 21 by Docomo,Local On-Net mobile calls @ 12p/min
+7714,23,,27 days,Recharge of Rs. 23 by Docomo,Local On-Net mobile calls @ 25p/min -- Local Off-Net mobile calls @ 25p/min
+7715,25,,28 days,Recharge of Rs. 25 by Docomo,Local On-Net mobile calls @ 1.5p/6s
+7716,29,,28 days,Recharge of Rs. 29 by Docomo,150 Local On-Net Mins
+7717,35,,10 days,Recharge of Rs. 35 by Docomo,100 Local Mins
+7718,38,,27 days,Recharge of Rs. 38 by Docomo,Local On-Net + Off-Net mobile & STD On-Net + Off-Net mobile calls @ 30p/min
+7719,43,,84 days,Recharge of Rs. 43 by Docomo,Local On-Net mobile calls @ 40p/min & Local Off-Net mobile calls @ 40p/min
+7720,46,,28 days,Recharge of Rs. 46 by Docomo,All Local Mobile Calls@25p/60s (1st 25 sec@1p/s & next 35 sec@0p/s) & On-Net STD Mobile Calls@1p/2s
+7721,52,,28 days,Recharge of Rs. 52 by Docomo,Local On-Net + OffNet mobile calls @ 1.3p/2s STD On-Net Off-Net mobile calls @ 1.3p/2s
+7722,53,,84 days,Recharge of Rs. 53 by Docomo,Local On-Net mobile calls @ 1.3p/2s Local Off-Net mobile calls @ 1.3p/2s
+7723,103,,28 days,Recharge of Rs. 103 by Docomo,Local/STD T2T Unltd Mobile Calling on TD Network & Local/STD T2T @ 1p/s on ICR Network
+7724,104,,28 days,Recharge of Rs. 104 by Docomo,600 Local On-Net mobile mins
+7725,105,,21 days,Recharge of Rs. 105 by Docomo,270 Local + STD Mins
+7726,118,,14 days,Recharge of Rs. 118 by Docomo,Local On-Net mobile calls @ 0p/s
+7727,148,,14 days,Recharge of Rs. 148 by Docomo,600 L+S Min; then Loc/STD Calls @30p/m on TD Network & L+S Calls @1p/s on ICR Network till expiry of the pack 
+7728,199,,27 days,Recharge of Rs. 199 by Docomo,Local On-Net mobile calls @ 0p/s
+7729,245,,28 days,Recharge of Rs. 245 by Docomo,700 Local + STD Mins
+7730,246,,28 days,Recharge of Rs. 246 by Docomo,1200 L+S Min; then Loc/STD Calls@30p/m on TD Network and L+S Calls@1p/s on ICR Network till expiry of the pack 
+7731,298,,28 days,Recharge of Rs. 298 by Docomo,Loc/STD Unltd Calls till 2000 Min; then Loc/STD Calls@30p/m on TD Network and Loc/STD Calls@1p/s on ICR Network
+7732,666,,28 days,Recharge of Rs. 666 by Docomo,2500 Local Mins

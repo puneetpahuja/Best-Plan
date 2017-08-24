@@ -1,0 +1,10 @@
+id,cost,talktime,validity,short description,long description
+8802,63,50,60 days,Recharge of Rs. 63 by Docomo,Local Onnet mobile calls @ 10p/min & Local Offnet mobile calls @ 30p/min -- 1 GB 3G Data (250 MB*4 months) -- Applicable only for new subscribers as FRC/SRC
+8803,64,50,180 days,Recharge of Rs. 64 by Docomo,Local & STD mobile calls @ 1p/Sec -- 1.5 GB 3G Data (250MB*6 months) -- Applicable only for new subscribers as FRC/SRC
+8804,128,100,180 days,Recharge of Rs. 128 by Docomo,Local & STD mobile calls @ 30p/min -- 3 GB 3G Data (500 MB*6 months) -- Applicable only for new subscribers as FRC/SRC
+8805,131,60,60 days,Recharge of Rs. 131 by Docomo,Local On-Net mobile calls @ 10p/ min. -- Local Off-Net mobile calls @ 30p/ min. -- STD On-Net mobile calls @ 1.5p/ sec. -- STD Off-Net mobile calls @ 1.5p/ sec. -- 500 MB 3G Data (250 MB/ month* 2 months) -- Applicable only for new subscribers as FRC/SRC
+8806,222,222,28 days,Recharge of Rs. 222 by Docomo,Local/STD Mobile calls @ All Local & STD mobile calls @ 45p/ min. (min pulse) -- Applicable only for new subscribers as FRC/SRC
+8807,249,40,90 days,Recharge of Rs. 249 by Docomo,All Local & STD mobile calls @ 1p/sec -- 1 GB 3G Data per day (for 28 days) -- Applicable only for new subscribers as FRC/SRC
+8808,251,251,30 days,Recharge of Rs. 251 by Docomo,Local On-Net mobile calls @ 1.5p/ sec. -- Local Off-Net mobile calls @ 1.5p/ sec. -- STD On-Net mobile calls @ 1.5p/ sec. -- STD Off-Net mobile calls @ 1.5p/ sec. -- 1 GB 3G Data -- Applicable only for new subscribers as FRC/SRC
+8809,269,40,180 days,Recharge of Rs. 269 by Docomo,Unlimited Onnet Local and STD calls for 28 days (post 28 days 1p/sec for next 152 days) and Others @1p/sec for 180 days and 1 GB 3G data per day for 28 days -- Applicable only for new subscribers as FRC/SRC
+8810,298,,90 days,Recharge of Rs. 298 by Docomo,"Unlimited Local+STD Onnet and 1500 mins for Local + STD Offnet (post 1500 offnet mins, Local + STD Offnet @ 30p/min) -- 1 GB 3G data/day (28 days). Post 28 days all Local+STD @ 30p/min for next 62 days -- Applicable only for new subscribers as FRC/SRC"
