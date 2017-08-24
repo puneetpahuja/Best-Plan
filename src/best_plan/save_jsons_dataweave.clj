@@ -1,5 +1,5 @@
-(ns best-plan.save-api-jsons
-  (:require [best-plan.api :as api]
+(ns best-plan.save-jsons-dataweave
+  (:require [best-plan.api-dataweave :as api]
             [clojure.data.json :as json]
             [clojure.string :as s]))
 
@@ -52,11 +52,11 @@
 (defn save-operator-circle-recharges-jsons [operator circle]
   (let [page-1-json (get-operator-circle-recharges-json api/api-key operator circle 1)
         count (or (:count (read-json page-1-json)) 0)
-        pages (Math/ceil (/ count 10))]
-    (println count pages)
-    (spit (str dir (convert-api-to-text operator) "_" (convert-api-to-text circle) "_recharges_1.json") page-1-json)
+        pages (Math/ceil (/ count 100))]
+    (println count pages operator circle)
+    (spit (str dir operator "_" circle "_recharges_1.json") page-1-json)
     (map (fn [page]
-           (spit (str dir (convert-api-to-text operator) "_" (convert-api-to-text circle) "_recharges_" page ".json")
+           (spit (str dir operator "_" circle "_recharges_" page ".json")
                  (get-operator-circle-recharges-json api/api-key operator circle page)))
          (range 2 (inc pages)))))
 
@@ -75,3 +75,11 @@
              (map #(save-operator-circle-recharges-jsons operator %)
                   (map convert-text-to-api circles))))
          (map convert-text-to-api operators))))
+
+(defn save-selected-jsons []
+  (let [operators ["Idea" "Vodafone" "Airtel"]]
+    (map (fn [operator]
+           (let [circles ["Andhra Pradesh" "Karnataka" "Mumbai"]]
+             (map #(save-operator-circle-recharges-jsons operator %)
+                  circles)))
+         operators)))
