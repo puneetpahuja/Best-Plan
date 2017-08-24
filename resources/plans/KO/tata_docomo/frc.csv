@@ -1,0 +1,11 @@
+id,cost,talktime,validity,short description,long description
+8282,31,20,90 days,Recharge of Rs. 31 by Docomo,Local On-Net mobile calls @ 10p/min -- Local Off-Net mobile calls @ 30p/min -- STD On-Net mobile calls @ 30p/min -- STD Off-Net mobile calls @ 30p/min -- National SMS (Local/STD SMS): Daily 48 SMS Free with first 2 SMS charged at Re1/sms for 90 days -- 100 MB 2G Data for 30 days -- Applicable only for new subscribers as FRC/SRC
+8283,52,30,180 days,Recharge of Rs. 52 by Docomo,Local On-Net mobile calls @ 1.2p/ 6secs. -- Local Off-Net mobile calls @ 1.2/ 2sec. -- STD On-Net mobile calls @ 1.2/ 2secs. -- STD Off-Net mobile calls @ 25p/ min. -- Local/STD Mobile calls @ 25p/ min. -- Data: 100 MB -- Applicable only for new subscribers as FRC/SRC
+8284,63,35,180 days,Recharge of Rs. 63 by Docomo,Local On-Net mobile calls @ 1p/ 6secs. -- Local Off-Net mobile calls @ 1p/ 2secs. -- STD On-Net mobile calls @ 1p/ 2secs. -- STD Off-Net mobile calls @ 25p/ min. -- Local/STD Mobile calls @ 25p/ min. -- Data: 100 MB -- Applicable only for new subscribers as FRC/SRC
+8285,74,40,90 days,Recharge of Rs. 74 by Docomo,Local On-Net mobile calls @ 10p/min -- Local Off-Net mobile calls @ 25p/min -- STD On-Net mobile calls @ 25p/min -- STD Off-Net mobile calls @ 25p/min -- National SMS (Local/STD SMS): Daily 97 SMS Free with first 3 SMS charged at Re1/sms for 90 days -- 100 MB 2G Data per month for 3 months -- Applicable only for new subscribers as FRC/SRC
+8286,128,,28 days,Recharge of Rs. 128 by Docomo,3GB 2G data -- Applicable only for new subscribers as FRC/SRC
+8287,146,90,28 days,Recharge of Rs. 146 by Docomo,1 GB 2G Data -- Applicable only for new subscribers as FRC/SRC
+8288,175,90,28 days,Recharge of Rs. 175 by Docomo,1 GB Data -- Applicable only for new subscribers as FRC/SRC
+8289,197,197,28 days,Recharge of Rs. 197 by Docomo,1 GB 2G Data -- Applicable only for new subscribers as FRC/SRC
+8290,253,175,28 days,Recharge of Rs. 253 by Docomo,1 GB Data -- Applicable only for new subscribers as FRC/SRC
+8291,499,350,56 days,Recharge of Rs. 499 by Docomo,2 GB Data -- Applicable only for new subscribers as FRC/SRC

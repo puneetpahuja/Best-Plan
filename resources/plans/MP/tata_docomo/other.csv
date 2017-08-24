@@ -1,0 +1,17 @@
+id,cost,talktime,validity,short description,long description
+8292,51,51,30 days,Recharge of Rs. 51 by Docomo,5 Local Onnet SMS (1 day)
+8295,222,222,28 days,Recharge of Rs. 222 by Docomo,Local/ STD mobile calls @ 1.5p/ 2secs -- Talktime has core validity.
+8306,71,30,14 days,Recharge of Rs. 71 by Docomo,200 MB 2G Data 
+8307,79,40,28 days,Recharge of Rs. 79 by Docomo,300MB 3G Data 
+8309,88,40,7 days,Recharge of Rs. 88 by Docomo,"Unlimited FREE Incoming on Any Network Roaming, All Outgoing Calls @ 50p/min."
+8311,119,40,14 days,Recharge of Rs. 119 by Docomo,500 MB 3G Data 
+8313,138,20,90 days,Recharge of Rs. 138 by Docomo,1 GB 3G Data (30 days) -- Local On-Net mobile calls @ 1.2p/ 2secs. -- Local Off-Net mobile calls @ 1.2p/ 2secs. -- STD On-Net mobile calls @ 1.2p/ 2secs. -- STD Off-Net mobile calls @ 1.2p/ secs
+8314,198,100,28 days,Recharge of Rs. 198 by Docomo,1 GB 3G Data
+8317,251,100,28 days,Recharge of Rs. 251 by Docomo,1 GB 3G Data 
+8318,299,200,28 days,Recharge of Rs. 299 by Docomo,2 GB 3G Data 
+8320,399,300,28 days,Recharge of Rs. 399 by Docomo,3 GB 3G Data 
+8323,499,300,60 days,Recharge of Rs. 499 by Docomo,2 GB 3G Data 
+8329,77,25,7 days,Recharge of Rs. 77 by Docomo,"Unlimited FREE Incoming on On-Net Roaming, All Outgoing Calls @ 30p/min."
+8333,39,,7 days,Recharge of Rs. 39 by Docomo,200 MB 2G Data -- 390 Local/STD SMS
+8336,74,,21 days,Recharge of Rs. 74 by Docomo,200 MB 2G Data -- 390 Local/STD SMS
+8394,43,30,90 days,Recharge of Rs. 43 by Docomo,500 MB 3G/2G Data in 3 months (30 days) -- Local/STD Mobile calls @ 1p/2sec -- 200 MB 3G Data on recharge day + 150 MB 3G data on 31st day + 150 MB 3G data on 61st day

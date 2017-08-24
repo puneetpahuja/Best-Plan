@@ -1,0 +1,22 @@
+id,cost,talktime,validity,short description,long description
+3814,35,35,1 day,Recharge of Rs. 35 by Airtel,2 Local A2A SMS
+3815,55,55,3 days,Recharge of Rs. 55 by Airtel,2 local A2A SMS (1 day)
+3816,75,75,5 days,Recharge of Rs. 75 by Airtel,2 Local Airtel to Airtel SMS (1 day)
+3817,99,99,7 days,Recharge of Rs. 99 by Airtel,2 Local Airtel to Airtel SMS for 1day.
+3818,198,198,27 days,Recharge of Rs. 198 by Airtel,2 Local A2A SMS for 1day -- 
+3819,306,306,27 days,Recharge of Rs. 306 by Airtel,National roaming Benefits: All mobile outgoing @ 60ps/min
+3826,18,13.45,N.A,Recharge of Rs. 18 by Airtel,1 Local A2A SMS (1 Day)
+3828,24,17.94,N.A,Recharge of Rs. 24 by Airtel,2 Local Airtel SMS (1 day)
+3831,43,33.44,N.A,Recharge of Rs. 43 by Airtel,2 Local Airtel SMS (1 day)
+3832,47,36.83,N.A,Recharge of Rs. 47 by Airtel,2 Local Airtel SMS (1 day)
+3871,358,,28 days,Recharge of Rs. 358 by Airtel,Unlimited All calls -- 1 GB Data -- T&C Apply. -- 
+3872,399,,28 days,Recharge of Rs. 399 by Airtel,Unlimited All Local+STD calls -- 1.25 GB (28GB on 4G H/S+uSIM (1GB/Day))
+3875,499,,28 days,Recharge of Rs. 499 by Airtel,Unlimited All Local + STD calls -- 2 GB (35 GB on 4G H/S+uSIM (1.25GB/Day))
+3877,899,,28 days,Recharge of Rs. 899 by Airtel,Unlimited all Local+STD calls -- 3 GB data. For 4G Handset with 4G SIM extra 3 GB data. T&C apply. 3 GB Happy Hours night data (3AM to 5AM)
+3880,1198,,28 days,Recharge of Rs. 1198 by Airtel,Unlimited all Local+STD calls -- 5 GB data. For 4G Handset with 4G SIM extra 5 GB data. T&C apply. 5 GB Happy Hours night data (3 AM to 5 AM)
+3881,23,,1 day,Recharge of Rs. 23 by Airtel,Unlimited Airtel Local + STD Mobile calls -- 100 MB on 4G H/S (50 MB on other H/S) -- T&C Apply
+3882,53,,7 days,Recharge of Rs. 53 by Airtel,Unlimited Airtel Local + STD Mobile calls -- 250 MB on 4G H/S (50 MB on other H/S) -- T&C Apply
+3883,93,,7 days,Recharge of Rs. 93 by Airtel,Unlimited A2A L+S Mobile calls + 100 Offnet L+S Minutes -- 250 MB on 4G H/S (50MB on other H/S) -- T&C Apply
+3884,199,,28 days,Recharge of Rs. 199 by Airtel,Unlimited Airtel Local + STD Mobile calls -- 500 MB on 4G H/S (50 MB on other H/S)
+3885,244,,28 days,Recharge of Rs. 244 by Airtel,"Unlimited Local + STD Airtel to Airtel Mobile calls -- 50 MB data.For 4G Handset+ 4G SIM,extra 1GB Data -- T&C apply"
+3888,599,,28 days,Recharge of Rs. 599 by Airtel,Unlimited All Local and STD calls -- 3 GB Data

@@ -1,0 +1,13 @@
+id,cost,talktime,validity,short description,long description
+7667,45,45,7 days,Recharge of Rs. 45 by Docomo,Local Onnet SMS: 5 
+7679,75,25,7 days,Recharge of Rs. 75 by Docomo,"On-Net Local & STD outgoing Calls at 30p/min, Rs25 Core Talktime "
+7680,86,26,28 days,Recharge of Rs. 86 by Docomo,ISD calls to: Bahrain @Rs3.38/minIran @Rs6.56/minIraq @Rs12.17/minKuwait@Rs4.77/minLibya@Rs17.15/minOman @Rs15.39/minQatar @Rs9.86/minSaudi Arabia @Rs6.46/minYemen @Rs7.47/minUAE @Rs7.89/minPakistan @Rs6.50/min Bangladesh@Rs1.50/min
+7681,92,40,7 days,Recharge of Rs. 92 by Docomo,"During Roaming on Tata/Aircel/Reliance Network, Local & STD outgoingCalls at 50p/min "
+7701,301,,28 days,Recharge of Rs. 301 by Docomo,500 MB Data -- 600 Local + STD Mins
+7702,302,,28 days,Recharge of Rs. 302 by Docomo,200 MB Data -- 800 Local + STD Mins
+7703,303,,28 days,Recharge of Rs. 303 by Docomo,1 GB Data -- 400 Local + STD Mins
+7704,348,,28 days,Recharge of Rs. 348 by Docomo,Local + Std Unltd Calls till 3000 Min; then L+S Calls @30p/m on TD Network -- Loc/STD Calls@1p/s on ICR Network -- 2 GB 2G data 
+7705,501,,56 days,Recharge of Rs. 501 by Docomo,2 GB Data -- 700 Local + STD Mins
+7706,502,,56 days,Recharge of Rs. 502 by Docomo,1 GB Data -- 1100 Local + STD Mins
+7707,503,,56 days,Recharge of Rs. 503 by Docomo,3 GB Data -- 300 Local + STD Mins
+7708,134,,28 days,Recharge of Rs. 134 by Docomo,Unlimited Free Incoming Calls and free 2G Data Pool Benefits while roaming

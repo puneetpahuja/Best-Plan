@@ -1,0 +1,19 @@
+id,cost,talktime,validity,short description,long description
+15384,4,,60 days,Recharge of Rs. 4 by Indicom,Local Mobile calls @1p/ Sec from Mumbai
+15385,8,,1 day,Recharge of Rs. 8 by Indicom,3000 Local On-Net Secs
+15386,14,,2 days,Recharge of Rs. 14 by Indicom,2400 Local Secs
+15387,18,,28 days,Recharge of Rs. 18 by Indicom,All Local mobile calls @ 30p/ min. 1st 60 sec. of Day @ 1.6p/ sec.
+15388,23,,28 days,Recharge of Rs. 23 by Indicom,"Local/STD Mobile calls @1.2p/sec for 1st 30 sec, 0p/Sec for next 30 sec; 1st 60 secs @ 1.5p/Sec"
+15389,39,,28 days,Recharge of Rs. 39 by Indicom,"Local On-Net mobile calls @ 25p/ Min -- Local Off-Net mobile calls @ 25p/ Min -- Not applicable for subscribers enjoying ""Pay Per Call"", ""Double Talktime"" benefits."
+15390,45,,84 days,Recharge of Rs. 45 by Indicom,Local/STD Mobile calls @ 30p/ min. 1st 60 sec. of Day @ 1.6p/ sec.
+15391,49,,28 days,Recharge of Rs. 49 by Indicom,5400 Local secs
+15392,54,,30 days,Recharge of Rs. 54 by Indicom,Local/STD Mobile calls @25p/ Min
+15393,73,,10 days,Recharge of Rs. 73 by Indicom,18000 Local On-Net Secs
+15394,84,,21 days,Recharge of Rs. 84 by Indicom,"18000 Local On-Net Secs, (Post benefit, Loc Tata to Tata Mob calls @ 90p/min)"
+15395,93,,28 days,Recharge of Rs. 93 by Indicom,"21000 Local On-Net Secs, (Post benefit, Loc Tata to Tata Mob calls @ 90p/min)"
+15396,99,,28 days,Recharge of Rs. 99 by Indicom,27000 Local On-Net Secs
+15397,125,,15 days,Recharge of Rs. 125 by Indicom,"60000 Local On-Net Secs, (Post benefit, Loc Tata to Tata Mob calls @ 90p/min)"
+15398,134,,28 days,Recharge of Rs. 134 by Indicom,21000 Local Mobile Secs
+15399,145,,30 days,Recharge of Rs. 145 by Indicom,"60000 Local On-Net Secs, (Post benefit, Loc Tata to Tata Mob calls @ 90p/min)"
+15400,209,,30 days,Recharge of Rs. 209 by Indicom,100000 Local On-Net Secs; 30000 Local Secs
+15401,299,,21 days,Recharge of Rs. 299 by Indicom,Local On-Net Secs: Unlimited -- Local Mins: 30 mins Daily

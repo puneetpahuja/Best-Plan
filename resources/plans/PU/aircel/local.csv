@@ -1,0 +1,18 @@
+id,cost,talktime,validity,short description,long description
+991,7,,1 day,Recharge of Rs. 7 by Aircel,UL Local A2A Calls
+992,11,,90 Days,Recharge of Rs. 11 by Aircel,All Local and STD calls @ 1p/sec
+993,13,,90 days,Recharge of Rs. 13 by Aircel,Local A2A Mobile Calls @ 10p/min
+994,16,,3 days,Recharge of Rs. 16 by Aircel,1800 Local /STD seconds
+995,23,,90 days,Recharge of Rs. 23 by Aircel,All Local calls @ 30p/min
+996,24,,7 days,Recharge of Rs. 24 by Aircel,"2,500 Local /STD seconds"
+997,27,,7 days,Recharge of Rs. 27 by Aircel,"3,000 Local seconds"
+998,34,,28 days,Recharge of Rs. 34 by Aircel,UL Local A2A for 6 Days Thereafter Local A2A @ 10p
+999,43,,14 days,Recharge of Rs. 43 by Aircel,5000 Local /STD seconds
+1000,51,,45 days,Recharge of Rs. 51 by Aircel,All Local Calls @ 25p/min
+1001,55,,28 days,Recharge of Rs. 55 by Aircel,"7,000 Local seconds"
+1002,58,,14 days,Recharge of Rs. 58 by Aircel,Unlimited Local Aircel to Aircel calls
+1003,63,,84 days,Recharge of Rs. 63 by Aircel,All Local Mobile Calls @1p/2Sec
+1004,75,,28 days,Recharge of Rs. 75 by Aircel,"8,500 Local /STD seconds"
+1005,92,,28 days,Recharge of Rs. 92 by Aircel,Unlimited Local Aircel to Aircel calls
+1006,105,,28 days,Recharge of Rs. 105 by Aircel,12000 Local /STD seconds
+1007,129,,28 days,Recharge of Rs. 129 by Aircel,UL Local / STD A2A Calls

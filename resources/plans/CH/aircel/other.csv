@@ -1,0 +1,13 @@
+id,cost,talktime,validity,short description,long description
+263,65,70,28 days,Recharge of Rs. 65 by Aircel,5 Local A2A SMS (1 Day)
+264,71,71,27 days,Recharge of Rs. 71 by Aircel,"Loc Aircel @10p, Other Local mobile Calls @30p/m"
+267,254,254,28 days,Recharge of Rs. 254 by Aircel,Talktime in Main Account -- 2G Unlimited Data
+270,499,600,60 days,Recharge of Rs. 499 by Aircel,600 TT (DA) + 1GB Data + 60 Loc/STD SMS ( Data Valid for 28 Days)
+272,749,749,81 days,Recharge of Rs. 749 by Aircel,"Local A2A @10p/min, Local A2O @30p/Min"
+277,85,50,27 days,Recharge of Rs. 85 by Aircel,"All Local Mobile 30p -- 50 TT (DA, 7 day Val)"
+278,93,50,27 days,Recharge of Rs. 93 by Aircel,"LA2A 20Ps/Min L A2M 40ps -- 50 TT (DA, 7 day Val)"
+282,147,100,27 days,Recharge of Rs. 147 by Aircel,"Local A2A @ 10p/m & Local A2M @ 30p/m + 100TT (DA, 7 day Val)"
+284,195,100,27 days,Recharge of Rs. 195 by Aircel,Unlimited 2G Data
+285,27,10,27 days,Recharge of Rs. 27 by Aircel,All STD Mobile Calls@35p/m + Rs.10 DA TT
+286,97,50,27 days,Recharge of Rs. 97 by Aircel,"All Local/STD calls @ 25p  -- 50 TT (DA, 7 day Val)"
+287,15,,3 days,Recharge of Rs. 15 by Aircel,2400 Local & STD secs + 40 A-A SMS

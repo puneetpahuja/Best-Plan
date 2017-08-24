@@ -1,0 +1,9 @@
+id,cost,talktime,validity,short description,long description
+15146,16,,30 days,Recharge of Rs. 16 by Indicom,All local and STD Off-net @ 60p/Min
+15147,23,,30 days,Recharge of Rs. 23 by Indicom,All Local and STD calls @ 36p/Min
+15148,35,,90 days,Recharge of Rs. 35 by Indicom,All Local calls @ 1p/ 2secs
+15149,55,,45 days,Recharge of Rs. 55 by Indicom,Local On-Net mobile calls @ 10p/Min -- Local Off-Net mobile calls @ 36p/Min -- STD On-Net mobile calls @ 90p/Min -- STD Off-Net mobile calls @ 90p/Min
+15150,88,,28 days,Recharge of Rs. 88 by Indicom,Local On-Net mobile calls @ 0p/Sec
+15151,98,,90 days,Recharge of Rs. 98 by Indicom,Local On-Net mobile calls @ 1p/ 6secs
+15152,299,,28 days,Recharge of Rs. 299 by Indicom,Local On-Net mobile calls @ 0p/sec -- Daily 30 Local Off-Net mins 60 LocalOff-Net Mins on Sunday
+15153,599,,28 days,Recharge of Rs. 599 by Indicom,Local On-Net mobile calls @ 0p/sec -- STD On-Net mobile calls @ 0p/Sec till 3000 mins -- Daily 30 STD Off-Net mins 60 STD Off-Net Mins on Sunday

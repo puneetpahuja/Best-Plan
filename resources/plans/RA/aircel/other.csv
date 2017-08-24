@@ -1,0 +1,25 @@
+id,cost,talktime,validity,short description,long description
+1013,11,12,1 day,Recharge of Rs. 11 by Aircel,1 SMS (L/N)
+1014,21,22,3 days,Recharge of Rs. 21 by Aircel,1 SMS (L/N)
+1015,65,65,6 days,Recharge of Rs. 65 by Aircel,65 Local SMS (Any Network) -- 65 MB Data (6 Days)
+1016,69,69,9 days,Recharge of Rs. 69 by Aircel,69 Local A2A Minutes -- 69 MB 2G Data (3 days)
+1017,83,83,28 days,Recharge of Rs. 83 by Aircel,"Roaming incoming Free , OG Local & STD @1.3 p/s -- Applicable on Aircel and Vodafone networks"
+1018,109,109,21 days,Recharge of Rs. 109 by Aircel,109 MB Data (3 days) -- 109 A2A mins
+1019,135,139,20 days,Recharge of Rs. 135 by Aircel,150 MB Data (5 days)
+1020,144,149,30 days,Recharge of Rs. 144 by Aircel,1 L/N SMS -- Rs.149 Talk time in promo account
+1021,155,155,30 days,Recharge of Rs. 155 by Aircel,155 Local SMS (Any Network) -- 155 MB Data (30 Days)
+1022,185,185,N.A,Recharge of Rs. 185 by Aircel,All Local call @1p2sec (30 Days)
+1024,222,222,N.A,Recharge of Rs. 222 by Aircel,All Local call @1p2sec (30 Days)
+1028,786,1000,60 days,Recharge of Rs. 786 by Aircel,"ISD Tariff Benefits: UAE, Saudi Arabia(Mobile & Fixed), Pakistan, Bangladesh @ 13p/sec"
+1030,1508,1808,30 days,Recharge of Rs. 1508 by Aircel,5 A2A mins (Validity - Same Day) -- Rs.1508 TT in Main Account + Rs.300 TT in Promo Account (30 days)
+1034,55,53,10 days,Recharge of Rs. 55 by Aircel,1 (L/N) SMS
+1045,36,20,45 days,Recharge of Rs. 36 by Aircel,"USA, Canada, UK (f), France (f), Hungary (f) @ 1p/secSingapore, China, Italy (f), Ireland (f) @ 1.5p/secNepal, Saudi Arabia, Sri Lanka, Pakistan, Kuwait @ 12p/secBangladesh, Sweden (f),Malaysia (f) @ 3p/secUAE @ 17p/sec"
+1046,145,15,28 days,Recharge of Rs. 145 by Aircel,Unlimited Local A2A calls
+1051,78,,30 days,Recharge of Rs. 78 by Aircel,350 MB Data (2G) + 350 Local/National SMS
+1052,368,,30 days,Recharge of Rs. 368 by Aircel,"33,000 Local/National sec -- 368 Local/National SMS -- 1280 MB Data (28 Days)"
+1062,99,,28 days,Recharge of Rs. 99 by Aircel,"20,000 Sec Local + STD Calls -- 500 MB 2G DATA"
+1067,199,,28 days,Recharge of Rs. 199 by Aircel,26000(L/N) sec -- 1 GB 2G data
+1068,249,,28 days,Recharge of Rs. 249 by Aircel,"Unlimited Local calls -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 300 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1200 mins in a week -- Unlimited 2G Data"
+1070,299,,28 days,Recharge of Rs. 299 by Aircel,"Unlimited Local /STD Calls -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 300 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1200 mins in a week --  Unlimited 2G DATA"
+1072,555,,30 days,Recharge of Rs. 555 by Aircel,"Unlimited Local A2A + Unlimited 2G Data + 10,000 Local/STD (m) seconds"
+1073,191,,30 days,Recharge of Rs. 191 by Aircel,"72,000 A2A Sec + 36,000 Other Local sec -- 250 MB 2G data"

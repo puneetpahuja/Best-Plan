@@ -1,0 +1,40 @@
+id,cost,talktime,validity,short description,long description
+15900,4,,28 days,Recharge of Rs. 4 by Uninor,All Local and STD @1p/sec
+15901,6,,3 days,Recharge of Rs. 6 by Uninor,666 Sec for Local Telenor to Telenor & 666 Sec for Local Telenor to others
+15902,7,,1 day,Recharge of Rs. 7 by Uninor,Unlimited local Telenor to Telenor Calls 
+15903,8,,5 days,Recharge of Rs. 8 by Uninor,All Local and STD @25p/min
+15904,12,,28 days,Recharge of Rs. 12 by Uninor,First 120 Local Secs of the day charged @ 1p/1 Sec and thereafter Local calls @ 1p/2 Sec
+15905,13,,28 days,Recharge of Rs. 13 by Uninor,All Local calls @1.2p/2 sec
+15906,17,,7 days,Recharge of Rs. 17 by Uninor,"26,000 Local Telenor to Telenor secs"
+15907,22,,28 days,Recharge of Rs. 22 by Uninor, Local Telenor to Telenor @ 1ps/10Sec
+15908,23,,7 days,Recharge of Rs. 23 by Uninor,7000 sec Local Telenor to Telenor & 3000 sec Local Telenor to others 
+15909,24,,28 days,Recharge of Rs. 24 by Uninor,All Local  Calls @25p/min 
+15910,29,,28 days,Recharge of Rs. 29 by Uninor,All Local calls @ 1p/2 sec
+15911,34,,28 days,Recharge of Rs. 34 by Uninor,All Local Calls @20p/min
+15912,36,,28 days,Recharge of Rs. 36 by Uninor,All Local & STD Telenor to others calls @ 25p/min + Telenor to Telenor STD Calls @ 15p/Min(home and telenor roam)
+15913,37,,28 days,Recharge of Rs. 37 by Uninor,All local/STD calls @25p/m and incoming calls free while roaming with Telenor Circles
+15914,38,,21 days,Recharge of Rs. 38 by Uninor,"29,000 Local Telenor to Telenor"
+15915,47,,28 days,Recharge of Rs. 47 by Uninor,All Local/STD Telenor to Others calls@20p/min + STD Telenor to Telenor calls@10p/min
+15916,48,,28 days,Recharge of Rs. 48 by Uninor,"42,000 Local Telenor to Telenor secs"
+15917,49,,28 days,Recharge of Rs. 49 by Uninor,5200 sec Local Telenor to Telenor & 4800 sec All India Calls
+15918,58,,14 days,Recharge of Rs. 58 by Uninor,Unlimited Local Telenor to Telenor calls
+15919,73,,21 days,Recharge of Rs. 73 by Uninor,"12,500 All India secs"
+15920,84,,84 days,Recharge of Rs. 84 by Uninor,All Telenor to Telenor STD Calls @ 15p/Min & All Local & Telenor to other STD calls @ 25p/mins
+15921,88,,21 days,Recharge of Rs. 88 by Uninor,Unlimited Local Telenor to Telenor calls
+15922,99,,21 days,Recharge of Rs. 99 by Uninor,"18,000 All India secs"
+15923,119,,28 days,Recharge of Rs. 119 by Uninor,"13,000 All Local Secs+ 6,000 Local Telenor to Telenor Secs"
+15924,124,,28 days,Recharge of Rs. 124 by Uninor,300 min All Local & STD
+15925,129,,28 days,Recharge of Rs. 129 by Uninor,"25,000 All India seconds"
+15926,131,,28 days,Recharge of Rs. 131 by Uninor,"19,000 All Local Sec & 10,000 Local Telenor to Telenor Sec "
+15927,148,,14 days,Recharge of Rs. 148 by Uninor,Unlimited Local & STD Telenor to Telenor Free Local/STD Telenor to other. (*100 Telenor to other min/day or 500 Telenor to other minutes in a week. Post that fixed tariff of 25p/min for Telenor to other calls will apply for the remainder of day/week)
+15928,159,,28 days,Recharge of Rs. 159 by Uninor,All Local/STD calls @25p/min -- 1 GB 4G Data
+15929,197,,30 days,Recharge of Rs. 197 by Uninor,2000 mins for Local Telenor to Telenor and 700 mins for Other local calls
+15930,201,,28 days,Recharge of Rs. 201 by Uninor,900 All Local Mins
+15931,219,,28 days,Recharge of Rs. 219 by Uninor,100000 Local Telenor to Telenor secs and 60000 Local Telenor to others
+15932,229,,28 days,Recharge of Rs. 229 by Uninor,All Local/STD calls @25p/min -- 2 GB 4G Data
+15933,238,,90 days,Recharge of Rs. 238 by Uninor,First 10000 Local Telenor to Telenor mins free & thereafter Local Telenor to Telenor calls @ 10p/min
+15934,249,,28 days,Recharge of Rs. 249 by Uninor,"145,000 Sec Local Telenor to Telenor and 55,000 Sec Local Telenor to others"
+15935,253,,90 days,Recharge of Rs. 253 by Uninor,"53,000 All India secs (28 days) after that All Local/STD calls @ 1p/sec (next 62 days)"
+15936,269,,28 days,Recharge of Rs. 269 by Uninor,Unlimited Local Telenor to telenor calls & Unlimited STD Telenor to telenor calls
+15937,551,,90 days,Recharge of Rs. 551 by Uninor,120000 Local Telenor to Telenor Seconds + 42000 Local Telenor to others Seconds per month for 3 months
+15938,601,,90 days,Recharge of Rs. 601 by Uninor,126000 Sec Local Telenor to others and 360000 Sec Local Telenor to Telenor calls

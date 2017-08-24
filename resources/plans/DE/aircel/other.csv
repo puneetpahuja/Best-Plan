@@ -1,0 +1,16 @@
+id,cost,talktime,validity,short description,long description
+341,26,26,3 days,Recharge of Rs. 26 by Aircel,Local/National SMS @15p 
+343,45,45,5 days,Recharge of Rs. 45 by Aircel,5 A2A Night minutes max for 2 days.
+344,69,69,10 days,Recharge of Rs. 69 by Aircel,1 Local A2A minute for 1 day.
+345,99,125,30 days,Recharge of Rs. 99 by Aircel,Local & STD Call @ 1.2p/sec (30 days)
+347,155,155,N.A,Recharge of Rs. 155 by Aircel,155 Local SMS (30 days) + 155 MB Data (10 days) .
+359,55,45,28 days,Recharge of Rs. 55 by Aircel,All mobile calls @ 25p/min
+361,66,50,28 days,Recharge of Rs. 66 by Aircel,"Free Roaming Incoming in UP, Bihar & Jharkhand on Aircel Network -- 5 Local A2A night minutes (for Home) for 2 days."
+364,83,50,28 days,Recharge of Rs. 83 by Aircel,"Free roaming incomng, Local/STD @25p/Min for home & roam on Aircel network -- Rs50 DA TT"
+368,119,100,28 days,Recharge of Rs. 119 by Aircel,L/S calls @20p
+372,18,,90 days ,Recharge of Rs. 18 by Aircel,"Free Roaming Incoming, LOC/STD calls @1p/sec on Aircel network --  225 L/N SMS + ISD tariff (28 days)"
+377,499,,28 days,Recharge of Rs. 499 by Aircel,"1499 Local Mobile Minutes, 49 STD Mobile Minutes, 49 Local & STD SMS"
+378,699,,28 days,Recharge of Rs. 699 by Aircel,2000 Local/STD Mobile Minutes -- 1000 Local/National SMS -- 750 MB 2G Data
+379,1411,,28 days,Recharge of Rs. 1411 by Aircel,1411 Local Mobile Minutes and 1411 STD Mobile Minutes -- 1411 Local/National SMS
+394,299,,28 days,Recharge of Rs. 299 by Aircel,"Unlimited Local/STD On-net Calls + 1500 Local/STD Off-net Mins (post 1500 Mins off-net mobile calls@20p/min till validity) -- 1 GB 2G Data per day -- Applicable as FRC & normal RC, For FRC post 28 days, All mobile calls@25p/min for next 60 days"
+395,498,,60 days,Recharge of Rs. 498 by Aircel,"Local A2A Unlimited Local A2O 1p/sec Local/Nation Mins 250 (30 days) -- 500 MB 2G Data/month for 2 months (Total 1GB) Post consumption of free mins, Local mobile calls @ 1p/sec"

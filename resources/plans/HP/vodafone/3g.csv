@@ -1,0 +1,15 @@
+id,cost,talktime,validity,short description,long description
+17113,24,,2 days,Recharge of Rs. 24 by Vodafone,95 MB 3G Data
+17114,42,,4 days,Recharge of Rs. 42 by Vodafone,160 MB 3G DATA
+17115,146,,14 days,Recharge of Rs. 146 by Vodafone,580 MB 3G Data
+17116,147,,14 days,Recharge of Rs. 147 by Vodafone,450 MB 3G DATA
+17117,251,,30 days,Recharge of Rs. 251 by Vodafone,1GB 3G Data Usage
+17118,297,,30 days,Recharge of Rs. 297 by Vodafone,1.25GB 3G Data Usage
+17119,347,,30 days,Recharge of Rs. 347 by Vodafone,1.5GB Data Usage
+17120,397,,30 days,Recharge of Rs. 397 by Vodafone,1.75GB 3G Data Usage
+17121,497,,30 days,Recharge of Rs. 497 by Vodafone,2.25GB 3G Data Usage
+17122,655,,30 days,Recharge of Rs. 655 by Vodafone,3GB UL 3G Data Usage (speed after 3GB is 64kbps)
+17123,697,,30 days,Recharge of Rs. 697 by Vodafone,3.5 GB UL 3G Data Usage (speed after 3.5GB is 64kbps)
+17124,855,,30 days,Recharge of Rs. 855 by Vodafone,5GB UL 3G Data Usage (speed after 5GB is 64kbps)
+17125,1097,,30 days,Recharge of Rs. 1097 by Vodafone,8GB UL 3G Data Usage (speed after 8GB is 64kbps)
+17126,1255,,30 days,Recharge of Rs. 1255 by Vodafone,10GB UL 3G Data Usage (speed after 10GB is 64kbps)
