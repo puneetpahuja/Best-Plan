@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-2281,55,55,14 days,Recharge of Rs. 55 by Airtel,5 LOC+STD SMS (2 Days)
-2295,147,125,N.A,Recharge of Rs. 147 by Airtel,5 local A2A Mins (3 days)
-2307,244,,28 days,Recharge of Rs. 244 by Airtel,"Unlimited Local + STD Airtel to Airtel Mobile calls -- 50 MB data.For 4G Handset + 4G SIM, extra 1 GB Data -- T&C apply"
+id,cost,talktime,validity,comments
+2281,55,55,14 days,5 LOC+STD SMS (2 Days)
+2295,147,125,N.A,5 local A2A Mins (3 days)
+2307,244,,28 days,"Unlimited Local + STD Airtel to Airtel Mobile calls -- 50 MB data.For 4G Handset + 4G SIM, extra 1 GB Data -- T&C apply"

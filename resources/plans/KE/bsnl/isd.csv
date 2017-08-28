@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-6023,18,,30 days,Recharge of Rs. 18 by BSNL,All voice calls to Nepal at Rs 8.50/min -- 
-6024,24,,30 days,Recharge of Rs. 24 by BSNL,"Calls to Australia, Bahrain, Indonesia, Kuwait @Rs. 6.49/min -- International SMS @ Rs. 3/SMS "
-6025,38,,30 days,Recharge of Rs. 38 by BSNL,"ISD calls to France, Germany, UK (Not all levels.4470, 4474 to 79, 4484 and 4487 are exempted) Voice @ Rs 4.49/Min -- SMS Rs 3.00"
-6026,43,,30 days,Recharge of Rs. 43 by BSNL,"Calls to Canada, China, Singapore, USA @Rs 1.49/Min, International SMS @Rs 3/SMS"
+id,cost,talktime,validity,comments
+6023,18,,30 days,All voice calls to Nepal at Rs 8.50/min -- 
+6024,24,,30 days,"Calls to Australia, Bahrain, Indonesia, Kuwait @Rs. 6.49/min -- International SMS @ Rs. 3/SMS "
+6025,38,,30 days,"ISD calls to France, Germany, UK (Not all levels.4470, 4474 to 79, 4484 and 4487 are exempted) Voice @ Rs 4.49/Min -- SMS Rs 3.00"
+6026,43,,30 days,"Calls to Canada, China, Singapore, USA @Rs 1.49/Min, International SMS @Rs 3/SMS"

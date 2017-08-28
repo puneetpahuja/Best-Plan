@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-4696,27,,27 days,Recharge of Rs. 27 by Airtel,GULF/NEPAL @6.99/MIN 
-4697,32,,27 days,Recharge of Rs. 32 by Airtel,GULF/NEPAL @12/P SEC 
+id,cost,talktime,validity,comments
+4696,27,,27 days,GULF/NEPAL @6.99/MIN 
+4697,32,,27 days,GULF/NEPAL @12/P SEC 

@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-8659,25,,28 days,Recharge of Rs. 25 by Docomo,"STD mobile calls @ 30p/ 60secs. (1st 30secs. @ 1p/ sec., next 30secs. charged @ 0p/ sec.) -- STD On-Net mobile calls @ 30p/ 60secs. -- STD Off-Net mobile calls @ 30p/ 60secs. "
-8660,39,,28 days,Recharge of Rs. 39 by Docomo,STD On-Net mobile calls @ 25p/min (Own Network) -- STD Off-Net mobile calls @ 25p/min (Own Network)
+id,cost,talktime,validity,comments
+8659,25,,28 days,"STD mobile calls @ 30p/ 60secs. (1st 30secs. @ 1p/ sec., next 30secs. charged @ 0p/ sec.) -- STD On-Net mobile calls @ 30p/ 60secs. -- STD Off-Net mobile calls @ 30p/ 60secs. "
+8660,39,,28 days,STD On-Net mobile calls @ 25p/min (Own Network) -- STD Off-Net mobile calls @ 25p/min (Own Network)

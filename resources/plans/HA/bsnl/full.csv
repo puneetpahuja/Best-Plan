@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-5483,220,220,N.A,Recharge of Rs. 220 by BSNL,Talktime of Rs. 220 for Rs. 220 recharge by BSNL
-5489,1100,1200,N.A,Recharge of Rs. 1100 by BSNL,Talktime of Rs. 1200 for Rs. 1100 recharge by BSNL
-5491,3300,3300,N.A,Recharge of Rs. 3300 by BSNL,Talktime of Rs. 3300 for Rs. 3300 recharge by BSNL
+id,cost,talktime,validity,comments
+5483,220,220,N.A,Talktime of Rs. 220 for Rs. 220 recharge by BSNL
+5489,1100,1200,N.A,Talktime of Rs. 1200 for Rs. 1100 recharge by BSNL
+5491,3300,3300,N.A,Talktime of Rs. 3300 for Rs. 3300 recharge by BSNL

@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-117,10,7.47,N.A,Recharge of Rs. 10 by Aircel,Talktime of Rs. 7.47 for Rs. 10 recharge by Aircel
-118,30,22.42,N.A,Recharge of Rs. 30 by Aircel,Talktime of Rs. 22.42 for Rs. 30 recharge by Aircel
-119,50,39.37,N.A,Recharge of Rs. 50 by Aircel,Talktime of Rs. 39.37 for Rs. 50 recharge by Aircel
-120,60,47.85,N.A,Recharge of Rs. 60 by Aircel,Talktime of Rs. 47.85 for Rs. 60 recharge by Aircel
-121,70,56.32,N.A,Recharge of Rs. 70 by Aircel,Talktime of Rs. 56.32 for Rs. 70 recharge by Aircel
-122,100,81.75,N.A,Recharge of Rs. 100 by Aircel,Talktime of Rs. 81.75 for Rs. 100 recharge by Aircel
-123,120,110,N.A,Recharge of Rs. 120 by Aircel,Talktime of Rs. 110 for Rs. 120 recharge by Aircel
-124,130,127,N.A,Recharge of Rs. 130 by Aircel,Talktime of Rs. 127 for Rs. 130 recharge by Aircel
-125,170,167,N.A,Recharge of Rs. 170 by Aircel,Talktime of Rs. 167 for Rs. 170 recharge by Aircel
-126,200,196,N.A,Recharge of Rs. 200 by Aircel,Talktime of Rs. 196 for Rs. 200 recharge by Aircel
-127,230,225,N.A,Recharge of Rs. 230 by Aircel,Talktime of Rs. 225 for Rs. 230 recharge by Aircel
-128,250,245,N.A,Recharge of Rs. 250 by Aircel,Talktime of Rs. 245 for Rs. 250 recharge by Aircel
+id,cost,talktime,validity,comments
+117,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by Aircel
+118,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by Aircel
+119,50,39.37,N.A,Talktime of Rs. 39.37 for Rs. 50 recharge by Aircel
+120,60,47.85,N.A,Talktime of Rs. 47.85 for Rs. 60 recharge by Aircel
+121,70,56.32,N.A,Talktime of Rs. 56.32 for Rs. 70 recharge by Aircel
+122,100,81.75,N.A,Talktime of Rs. 81.75 for Rs. 100 recharge by Aircel
+123,120,110,N.A,Talktime of Rs. 110 for Rs. 120 recharge by Aircel
+124,130,127,N.A,Talktime of Rs. 127 for Rs. 130 recharge by Aircel
+125,170,167,N.A,Talktime of Rs. 167 for Rs. 170 recharge by Aircel
+126,200,196,N.A,Talktime of Rs. 196 for Rs. 200 recharge by Aircel
+127,230,225,N.A,Talktime of Rs. 225 for Rs. 230 recharge by Aircel
+128,250,245,N.A,Talktime of Rs. 245 for Rs. 250 recharge by Aircel

@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-15633,775,200,180 days,Recharge of Rs. 775 by Indicom,All Outgoing calls @ 80p/ min. on Roaming Network All STD calls @ 1.15p/ min. on Roaming Network All Incoming calls while Roaming @ 0p/ min. All Local SMS from Roaming Network @ 25p/ SMS All National SMS from Roaming @ 38p/ SMS
+id,cost,talktime,validity,comments
+15633,775,200,180 days,All Outgoing calls @ 80p/ min. on Roaming Network All STD calls @ 1.15p/ min. on Roaming Network All Incoming calls while Roaming @ 0p/ min. All Local SMS from Roaming Network @ 25p/ SMS All National SMS from Roaming @ 38p/ SMS

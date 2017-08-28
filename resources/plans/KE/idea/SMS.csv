@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-10466,6,,1 day,Recharge of Rs. 6 by Idea,60 Local and National SMS -- 
-10467,14,,10 days,Recharge of Rs. 14 by Idea,150 Local and National SMS -- 
-10468,33,,28 days,Recharge of Rs. 33 by Idea,300 Local and National SMS -- 
-10469,54,,28 days,Recharge of Rs. 54 by Idea,600 Local /National SMS -- 
-10470,63,,28 days,Recharge of Rs. 63 by Idea,100 Local and National SMS/day -- 
-10471,76,,28 days,Recharge of Rs. 76 by Idea,850 Local and National SMS -- 
-10472,91,,90 days,Recharge of Rs. 91 by Idea,1000 Local and National SMS  -- 
+id,cost,talktime,validity,comments
+10466,6,,1 day,60 Local and National SMS -- 
+10467,14,,10 days,150 Local and National SMS -- 
+10468,33,,28 days,300 Local and National SMS -- 
+10469,54,,28 days,600 Local /National SMS -- 
+10470,63,,28 days,100 Local and National SMS/day -- 
+10471,76,,28 days,850 Local and National SMS -- 
+10472,91,,90 days,1000 Local and National SMS  -- 

@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-8431,12,,3 days,Recharge of Rs. 12 by Docomo,200 National SMS (Local/STD SMS)
-8432,34,,14 days,Recharge of Rs. 34 by Docomo,400 National SMS (Local/STD SMS) -- National SMS (Local/STD SMS): 400
-8433,44,,28 days,Recharge of Rs. 44 by Docomo,550 National SMS (Local/STD SMS)
+id,cost,talktime,validity,comments
+8431,12,,3 days,200 National SMS (Local/STD SMS)
+8432,34,,14 days,400 National SMS (Local/STD SMS) -- National SMS (Local/STD SMS): 400
+8433,44,,28 days,550 National SMS (Local/STD SMS)

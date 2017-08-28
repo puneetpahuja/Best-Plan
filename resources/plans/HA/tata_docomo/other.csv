@@ -1,16 +1,16 @@
-id,cost,talktime,validity,short description,long description
-7845,27,27,3 days,Recharge of Rs. 27 by Docomo,5 Local On-Net SMS
-7846,57,57,7 days,Recharge of Rs. 57 by Docomo,5 Local On-Net SMS
-7847,65,68,7 days,Recharge of Rs. 65 by Docomo,2 Local On-Net SMS
-7848,88,88,28 days,Recharge of Rs. 88 by Docomo,5 Local On-Net mins
-7849,105,105,28 days,Recharge of Rs. 105 by Docomo,Local On-Net Mins: 5
-7856,299,299,28 days,Recharge of Rs. 299 by Docomo,1 GB 3G Data
-7861,499,499,56 days,Recharge of Rs. 499 by Docomo,2 GB 3G Data 
-7868,998,999,56 days,Recharge of Rs. 998 by Docomo,5 GB 3G Data
-7869,999,999,56 days,Recharge of Rs. 999 by Docomo,2 GB 3G Data -- Talktime unrestricted Validity
-7884,144,100,28 days,Recharge of Rs. 144 by Docomo,1 GB 3G Data -- Talktime: Unlimited
-7886,159,80,14 days,Recharge of Rs. 159 by Docomo,Talktime: 80 (Validity as per subscriber account) -- Data: 200 MB
-7888,72,25,7 days,Recharge of Rs. 72 by Docomo,Unlimited Incoming Roaming on Local On-Net calls Local Outgoing calls @ 30p/ min. STD Outgoing calls @ 30p/ min. Local Outgoing calls @ 30p/ min. STD Outgoing calls @ 30p/ min -- Local SMS @ 25p/ SMS STD SMS @ 38p/ SMS
-7894,7,,28 days,Recharge of Rs. 7 by Docomo,"Unlimited Incoming Roaming in UP, Bihar & Jharkhand. Local Incoming Off-Net calls @ 45p/ min. & STD @ 45p/ min. Local Outgoing calls @ 80p/ min. STD Outgoing calls @ Rs.1.15/ min -- Local SMS @ 25p/ SMS STD SMS @ 38p/ SMS"
-7895,16,,7 days,Recharge of Rs. 16 by Docomo,Unlimited free Incoming Roaming calls in Delhi only Local Outgoing calls @ 80p/ min. STD Outgoing calls @ Rs.1.15/ min -- Local SMS @ 38p/ SMS STD SMS @ 45p/ SMS
-7896,37,,28 days,Recharge of Rs. 37 by Docomo,Unlimited Incoming Roaming Local Outgoing calls @ 50p/ min. STD Outgoing calls @ 50p/ min. Unlimited Incoming Roaming Local Outgoing calls @ 50p/ min. STD Outgoing calls @ 50p/ min -- Local SMS @ 25p/ SMS STD SMS @ 38p/ SMS while in Roaming.
+id,cost,talktime,validity,comments
+7845,27,27,3 days,5 Local On-Net SMS
+7846,57,57,7 days,5 Local On-Net SMS
+7847,65,68,7 days,2 Local On-Net SMS
+7848,88,88,28 days,5 Local On-Net mins
+7849,105,105,28 days,Local On-Net Mins: 5
+7856,299,299,28 days,1 GB 3G Data
+7861,499,499,56 days,2 GB 3G Data 
+7868,998,999,56 days,5 GB 3G Data
+7869,999,999,56 days,2 GB 3G Data -- Talktime unrestricted Validity
+7884,144,100,28 days,1 GB 3G Data -- Talktime: Unlimited
+7886,159,80,14 days,Talktime: 80 (Validity as per subscriber account) -- Data: 200 MB
+7888,72,25,7 days,Unlimited Incoming Roaming on Local On-Net calls Local Outgoing calls @ 30p/ min. STD Outgoing calls @ 30p/ min. Local Outgoing calls @ 30p/ min. STD Outgoing calls @ 30p/ min -- Local SMS @ 25p/ SMS STD SMS @ 38p/ SMS
+7894,7,,28 days,"Unlimited Incoming Roaming in UP, Bihar & Jharkhand. Local Incoming Off-Net calls @ 45p/ min. & STD @ 45p/ min. Local Outgoing calls @ 80p/ min. STD Outgoing calls @ Rs.1.15/ min -- Local SMS @ 25p/ SMS STD SMS @ 38p/ SMS"
+7895,16,,7 days,Unlimited free Incoming Roaming calls in Delhi only Local Outgoing calls @ 80p/ min. STD Outgoing calls @ Rs.1.15/ min -- Local SMS @ 38p/ SMS STD SMS @ 45p/ SMS
+7896,37,,28 days,Unlimited Incoming Roaming Local Outgoing calls @ 50p/ min. STD Outgoing calls @ 50p/ min. Unlimited Incoming Roaming Local Outgoing calls @ 50p/ min. STD Outgoing calls @ 50p/ min -- Local SMS @ 25p/ SMS STD SMS @ 38p/ SMS while in Roaming.

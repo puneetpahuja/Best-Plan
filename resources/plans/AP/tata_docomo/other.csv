@@ -1,19 +1,19 @@
-id,cost,talktime,validity,short description,long description
-7572,101,101,10 days,Recharge of Rs. 101 by Docomo,"99 Local & National SMS/ day, in which 1st SMS of the day will be charged @ Re.1."
-7576,195,195,28 days,Recharge of Rs. 195 by Docomo,1 GB 2G Data 
-7579,333,355,N.A,Recharge of Rs. 333 by Docomo,60 Local On-Net night secs. Valid 1 day
-7580,555,600,N.A,Recharge of Rs. 555 by Docomo,60 Local On-Net night secs. Valid 1 day
-7581,777,845,N.A,Recharge of Rs. 777 by Docomo,60 Local On-Net night secs. Valid 1 day
-7582,786,855,N.A,Recharge of Rs. 786 by Docomo,60 Local On-Net night secs. Valid 1 day
-7583,1111,1222,N.A,Recharge of Rs. 1111 by Docomo,60 Local On-Net night secs. Valid 1 day
-7590,147,90,28 days,Recharge of Rs. 147 by Docomo,1 GB 2G Data
-7591,186,75,30 days,Recharge of Rs. 186 by Docomo,1 GB Data
-7592,499,300,60 days,Recharge of Rs. 499 by Docomo,2048 MB 2G data
-7593,71,30,14 days,Recharge of Rs. 71 by Docomo,200 MB 2G data
-7594,76,25,30 days,Recharge of Rs. 76 by Docomo,Unlimited Incoming Roaming on Local On-Net calls Local Outgoing calls @ 30p/ min. STD Outgoing calls @ 30p/ min.
-7595,91,40,30 days,Recharge of Rs. 91 by Docomo,Unlimited Incoming Roaming on Local On-Net calls Local Outgoing calls @ 50p/ min. STD Outgoing calls @ 50p/ min.
-7596,151,75,28 days,Recharge of Rs. 151 by Docomo,500 MB 2G data
-7597,175,75,28 days,Recharge of Rs. 175 by Docomo,1024 MB 2G data
-7613,149,,28 days,Recharge of Rs. 149 by Docomo,Unlimited Local Tata to Tata Mobile Calls -- 1 GB/Day 2G Data
-7619,298,,28 days,Recharge of Rs. 298 by Docomo,1500 Local / STD Minutes -- 1 GB Data 
-7620,348,,28 days,Recharge of Rs. 348 by Docomo,2000 Local / STD Minutes -- 2 GB Data
+id,cost,talktime,validity,comments
+7572,101,101,10 days,"99 Local & National SMS/ day, in which 1st SMS of the day will be charged @ Re.1."
+7576,195,195,28 days,1 GB 2G Data 
+7579,333,355,N.A,60 Local On-Net night secs. Valid 1 day
+7580,555,600,N.A,60 Local On-Net night secs. Valid 1 day
+7581,777,845,N.A,60 Local On-Net night secs. Valid 1 day
+7582,786,855,N.A,60 Local On-Net night secs. Valid 1 day
+7583,1111,1222,N.A,60 Local On-Net night secs. Valid 1 day
+7590,147,90,28 days,1 GB 2G Data
+7591,186,75,30 days,1 GB Data
+7592,499,300,60 days,2048 MB 2G data
+7593,71,30,14 days,200 MB 2G data
+7594,76,25,30 days,Unlimited Incoming Roaming on Local On-Net calls Local Outgoing calls @ 30p/ min. STD Outgoing calls @ 30p/ min.
+7595,91,40,30 days,Unlimited Incoming Roaming on Local On-Net calls Local Outgoing calls @ 50p/ min. STD Outgoing calls @ 50p/ min.
+7596,151,75,28 days,500 MB 2G data
+7597,175,75,28 days,1024 MB 2G data
+7613,149,,28 days,Unlimited Local Tata to Tata Mobile Calls -- 1 GB/Day 2G Data
+7619,298,,28 days,1500 Local / STD Minutes -- 1 GB Data 
+7620,348,,28 days,2000 Local / STD Minutes -- 2 GB Data

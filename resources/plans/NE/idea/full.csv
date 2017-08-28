@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-11025,220,220,N.A,Recharge of Rs. 220 by Idea,Talktime of Rs. 220 for Rs. 220 recharge by Idea
-11027,330,330,N.A,Recharge of Rs. 330 by Idea,Talktime of Rs. 330 for Rs. 330 recharge by Idea
-11028,550,550,N.A,Recharge of Rs. 550 by Idea,Talktime of Rs. 550 for Rs. 550 recharge by Idea
+id,cost,talktime,validity,comments
+11025,220,220,N.A,Talktime of Rs. 220 for Rs. 220 recharge by Idea
+11027,330,330,N.A,Talktime of Rs. 330 for Rs. 330 recharge by Idea
+11028,550,550,N.A,Talktime of Rs. 550 for Rs. 550 recharge by Idea

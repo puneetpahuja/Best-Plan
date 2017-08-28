@@ -1,23 +1,23 @@
-id,cost,talktime,validity,short description,long description
-1398,23,,3 days,Recharge of Rs. 23 by Aircel,100 MB 2G/3G Data
-1399,29,,30 days,Recharge of Rs. 29 by Aircel,100 MB 3G/2G Data
-1401,44,,2 days,Recharge of Rs. 44 by Aircel,1 GB 3G/2G Data
-1402,47,,5 days,Recharge of Rs. 47 by Aircel,200 MB 3G/2G Data
-1404,67,,5 days,Recharge of Rs. 67 by Aircel,400 MB Data (2G/3G)
-1405,79,,5 days,Recharge of Rs. 79 by Aircel,2 GB 3G/2G data
-1407,98,,5 days,Recharge of Rs. 98 by Aircel,5 GB 3G/2G data (1 GB/Day)
-1408,101,,5 days,Recharge of Rs. 101 by Aircel,1 GB 3G/2G Data
-1409,103,,3 days,Recharge of Rs. 103 by Aircel,3GB 3G/2G Data
-1410,128,,21 days,Recharge of Rs. 128 by Aircel,600 MB 3G/2G Data
-1411,154,,28 days,Recharge of Rs. 154 by Aircel,3 GB 3G/2G data
-1412,181,,30 days,Recharge of Rs. 181 by Aircel,10 GB 3G/2G data (350MB/Day)
-1413,198,,28 days,Recharge of Rs. 198 by Aircel,"6 GB 3G/2G data (4 GB day, 2 GB night) (night timings - 0100 to 0600 hrs) "
-1414,199,,14 days,Recharge of Rs. 199 by Aircel,Unlimited Local and STD calls -- 1 GB 3G/2G data
-1415,249,,28 days,Recharge of Rs. 249 by Aircel,"10 GB 3G/2G data (6GB Day,4GB night) (night timings - 0100 to 0600 hrs )"
-1416,289,,28 days,Recharge of Rs. 289 by Aircel,"20 GB 3G/2G data (10GB day,10GB night) (night timings - 0100 to 0600 hrs )"
-1417,291,,14 days,Recharge of Rs. 291 by Aircel,Unlimited Local/STD calls -- 28 GB 2G/3G Data (1 GB/Day) 
-1419,399,,28 days,Recharge of Rs. 399 by Aircel,"UL L/N calls -- 2 GB/Day 3G/2G (1GB Day,1GB night(1am to 6am))"
-1420,449,,28 days,Recharge of Rs. 449 by Aircel,Unlimited Local and STD calls -- 1 GB/day 3G/2G data
-1421,499,,30 days,Recharge of Rs. 499 by Aircel,20 GB 3G/2G Data and Unlimited Local Aircel to Aircel Call free from ( 12 AM to 5 AM )
-1422,549,,28 days,Recharge of Rs. 549 by Aircel,Unlimited Local and STD calls -- 2 GB/day 3G/2G data
-1423,145,,28 days,Recharge of Rs. 145 by Aircel,Unlimited Local + STD Aircel Calls -- 500 MB Data
+id,cost,talktime,validity,comments
+1398,23,,3 days,100 MB 2G/3G Data
+1399,29,,30 days,100 MB 3G/2G Data
+1401,44,,2 days,1 GB 3G/2G Data
+1402,47,,5 days,200 MB 3G/2G Data
+1404,67,,5 days,400 MB Data (2G/3G)
+1405,79,,5 days,2 GB 3G/2G data
+1407,98,,5 days,5 GB 3G/2G data (1 GB/Day)
+1408,101,,5 days,1 GB 3G/2G Data
+1409,103,,3 days,3GB 3G/2G Data
+1410,128,,21 days,600 MB 3G/2G Data
+1411,154,,28 days,3 GB 3G/2G data
+1412,181,,30 days,10 GB 3G/2G data (350MB/Day)
+1413,198,,28 days,"6 GB 3G/2G data (4 GB day, 2 GB night) (night timings - 0100 to 0600 hrs) "
+1414,199,,14 days,Unlimited Local and STD calls -- 1 GB 3G/2G data
+1415,249,,28 days,"10 GB 3G/2G data (6GB Day,4GB night) (night timings - 0100 to 0600 hrs )"
+1416,289,,28 days,"20 GB 3G/2G data (10GB day,10GB night) (night timings - 0100 to 0600 hrs )"
+1417,291,,14 days,Unlimited Local/STD calls -- 28 GB 2G/3G Data (1 GB/Day) 
+1419,399,,28 days,"UL L/N calls -- 2 GB/Day 3G/2G (1GB Day,1GB night(1am to 6am))"
+1420,449,,28 days,Unlimited Local and STD calls -- 1 GB/day 3G/2G data
+1421,499,,30 days,20 GB 3G/2G Data and Unlimited Local Aircel to Aircel Call free from ( 12 AM to 5 AM )
+1422,549,,28 days,Unlimited Local and STD calls -- 2 GB/day 3G/2G data
+1423,145,,28 days,Unlimited Local + STD Aircel Calls -- 500 MB Data

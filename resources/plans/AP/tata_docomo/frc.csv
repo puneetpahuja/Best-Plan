@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-7666,222,222,30 days,Recharge of Rs. 222 by Docomo,Local/STD Mobile calls @ 36ps/min ( 1st 120 sec of day @2p/sec ) -- Applicable only for new subscribers as FRC/SRC
+id,cost,talktime,validity,comments
+7666,222,222,30 days,Local/STD Mobile calls @ 36ps/min ( 1st 120 sec of day @2p/sec ) -- Applicable only for new subscribers as FRC/SRC

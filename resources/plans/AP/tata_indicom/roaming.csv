@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-14984,28,,7 days,Recharge of Rs. 28 by Indicom,Free Incoming on Home Network
-14985,62,,30 days,Recharge of Rs. 62 by Indicom,Free Incoming on Home Network
+id,cost,talktime,validity,comments
+14984,28,,7 days,Free Incoming on Home Network
+14985,62,,30 days,Free Incoming on Home Network

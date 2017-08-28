@@ -1,9 +1,9 @@
-id,cost,talktime,validity,short description,long description
-10703,5,,2 days,Recharge of Rs. 5 by Idea,30 SMS
-10704,9,,4 days,Recharge of Rs. 9 by Idea,45 Local/National SMS -- 
-10705,15,,10 days,Recharge of Rs. 15 by Idea,100 SMS
-10706,22,,14 days,Recharge of Rs. 22 by Idea,200 local/ national sms
-10707,35,,14 days,Recharge of Rs. 35 by Idea,"Minimum benefit 350 L+N SMS, Max. benefits upto 750 SMS subject to time of recharge by customer"
-10708,47,,28 days,Recharge of Rs. 47 by Idea,500 Local/ national sms
-10709,64,,28 days,Recharge of Rs. 64 by Idea,700 SMS 
-10710,96,,28 days,Recharge of Rs. 96 by Idea,1000 Local/ National SMS
+id,cost,talktime,validity,comments
+10703,5,,2 days,30 SMS
+10704,9,,4 days,45 Local/National SMS -- 
+10705,15,,10 days,100 SMS
+10706,22,,14 days,200 local/ national sms
+10707,35,,14 days,"Minimum benefit 350 L+N SMS, Max. benefits upto 750 SMS subject to time of recharge by customer"
+10708,47,,28 days,500 Local/ national sms
+10709,64,,28 days,700 SMS 
+10710,96,,28 days,1000 Local/ National SMS

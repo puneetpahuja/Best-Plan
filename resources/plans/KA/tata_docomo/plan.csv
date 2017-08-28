@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-8138,152,,180 days,Recharge of Rs. 152 by Docomo,All Local calls @ 78p/min. & STD calls @ 90p/min. on Home Network & Roaming 
-8139,252,,180 days,Recharge of Rs. 252 by Docomo,All Local calls @ 78p/min. & STD calls @ 90p/min. on Home Network & Roaming
+id,cost,talktime,validity,comments
+8138,152,,180 days,All Local calls @ 78p/min. & STD calls @ 90p/min. on Home Network & Roaming 
+8139,252,,180 days,All Local calls @ 78p/min. & STD calls @ 90p/min. on Home Network & Roaming

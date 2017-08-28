@@ -1,21 +1,21 @@
-id,cost,talktime,validity,short description,long description
-14334,18,,2 days,Recharge of Rs. 18 by RelianceGSM,100 MB 2G Data
-14336,33,,5 days,Recharge of Rs. 33 by RelianceGSM,185 MB 2G Data
-14337,51,,7 days,Recharge of Rs. 51 by RelianceGSM,280 MB 2G data
-14338,57,,7 days,Recharge of Rs. 57 by RelianceGSM,300 MB
-14339,93,,7 days,Recharge of Rs. 93 by RelianceGSM,500 MB
-14340,99,,14 days,Recharge of Rs. 99 by RelianceGSM,550 MB 2G Data
-14341,112,,14 days,Recharge of Rs. 112 by RelianceGSM,500 MB
-14342,124,,16 days,Recharge of Rs. 124 by RelianceGSM,700 MB 2G Data
-14343,131,,14 days,Recharge of Rs. 131 by RelianceGSM,600 MB
-14344,147,,28 days,Recharge of Rs. 147 by RelianceGSM,1 GB/ Day 2G Data
-14345,151,,21 days,Recharge of Rs. 151 by RelianceGSM,600 MB
-14346,175,,28 days,Recharge of Rs. 175 by RelianceGSM,1 GB 2G Data
-14348,195,,28 days,Recharge of Rs. 195 by RelianceGSM,1.25 GB 2G Data
-14350,223,,28 days,Recharge of Rs. 223 by RelianceGSM,4 GB 2G Data. Unused data quota will be forfeited.
-14351,242,,28 days,Recharge of Rs. 242 by RelianceGSM,5 GB 2G Data. Unused data quota will be forfeited.
-14352,296,,28 days,Recharge of Rs. 296 by RelianceGSM,2.5 GB 2G Data
-14355,365,,378 days,Recharge of Rs. 365 by RelianceGSM,1GB 2G Data Per Day
-14356,398,,28 days,Recharge of Rs. 398 by RelianceGSM,5 GB
-14357,489,,28 days,Recharge of Rs. 489 by RelianceGSM,7 GB 2G Data. Unused data quota will be forfeited.
-14360,599,,28 days,Recharge of Rs. 599 by RelianceGSM,10 GB 2G Data. Unused data quota will be forfeited.
+id,cost,talktime,validity,comments
+14334,18,,2 days,100 MB 2G Data
+14336,33,,5 days,185 MB 2G Data
+14337,51,,7 days,280 MB 2G data
+14338,57,,7 days,300 MB
+14339,93,,7 days,500 MB
+14340,99,,14 days,550 MB 2G Data
+14341,112,,14 days,500 MB
+14342,124,,16 days,700 MB 2G Data
+14343,131,,14 days,600 MB
+14344,147,,28 days,1 GB/ Day 2G Data
+14345,151,,21 days,600 MB
+14346,175,,28 days,1 GB 2G Data
+14348,195,,28 days,1.25 GB 2G Data
+14350,223,,28 days,4 GB 2G Data. Unused data quota will be forfeited.
+14351,242,,28 days,5 GB 2G Data. Unused data quota will be forfeited.
+14352,296,,28 days,2.5 GB 2G Data
+14355,365,,378 days,1GB 2G Data Per Day
+14356,398,,28 days,5 GB
+14357,489,,28 days,7 GB 2G Data. Unused data quota will be forfeited.
+14360,599,,28 days,10 GB 2G Data. Unused data quota will be forfeited.

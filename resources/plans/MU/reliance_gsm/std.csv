@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-13999,35,,28 days,Recharge of Rs. 35 by RelianceGSM,All STD calls @30p/Min
-14000,36,,28 days,Recharge of Rs. 36 by RelianceGSM,All STD Calls @40p/Minute
-14001,37,,21 days,Recharge of Rs. 37 by RelianceGSM,"STD mobile calls to Gujarat, UP, Uttarakhand, Biharand Jharkhand @ 35p/min"
-14002,46,,28 days,Recharge of Rs. 46 by RelianceGSM,All STD Calls @25p/Min
+id,cost,talktime,validity,comments
+13999,35,,28 days,All STD calls @30p/Min
+14000,36,,28 days,All STD Calls @40p/Minute
+14001,37,,21 days,"STD mobile calls to Gujarat, UP, Uttarakhand, Biharand Jharkhand @ 35p/min"
+14002,46,,28 days,All STD Calls @25p/Min

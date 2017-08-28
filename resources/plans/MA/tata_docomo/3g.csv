@@ -1,20 +1,20 @@
-id,cost,talktime,validity,short description,long description
-8439,39,,4 days,Recharge of Rs. 39 by Docomo,150 MB 3G data
-8442,94,,14 days,Recharge of Rs. 94 by Docomo,300 MB2G/3G data
-8453,16,,2 days,Recharge of Rs. 16 by Docomo,65 MB 3G data
-8454,45,,28 days,Recharge of Rs. 45 by Docomo,120 MB 3G Data
-8455,75,,7 days,Recharge of Rs. 75 by Docomo,300 MB 3G data
-8456,115,,28 days,Recharge of Rs. 115 by Docomo,115 Local T2T Mobile Mins + 1GB 3G Data
-8457,125,,28 days,Recharge of Rs. 125 by Docomo,300 MB 3G data (Day/Night) + 300 MB 3G Data (Night))
-8458,146,,30 days,Recharge of Rs. 146 by Docomo,300 MB 3G data+ 75 Local + STD Mins
-8459,198,,28 days,Recharge of Rs. 198 by Docomo,2 GB 3G Data
-8460,208,,28 days,Recharge of Rs. 208 by Docomo,1GB 3G Data(Chance to win upto 10GB 3G Data)
-8461,245,,28 days,Recharge of Rs. 245 by Docomo,4 GB 3G Data
-8462,285,,28 days,Recharge of Rs. 285 by Docomo,5 GB 3G Data
-8463,289,,28 days,Recharge of Rs. 289 by Docomo,3 GB 3G Data
-8464,454,,28 days,Recharge of Rs. 454 by Docomo,3 GB 3G data
-8465,495,,60 days,Recharge of Rs. 495 by Docomo,10 GB 3G Data
-8466,501,,60 days,Recharge of Rs. 501 by Docomo,300 Local + STD mins -- Data: 3 GB 3G
-8467,502,,60 days,Recharge of Rs. 502 by Docomo,700 Local + STD mins -- Data: 2 GB 3G
-8468,503,,60 days,Recharge of Rs. 503 by Docomo,1 GB 3G data -- 1100 Local + STD mins
-8469,294,,28 days,Recharge of Rs. 294 by Docomo,700 Local & National Mobile Minutes -- 500 MB 3G data per day -- Other Benefits: Post consumption of free 700 mobile min customer will be charged @ 1p/sec. Landline to be charged @ 2p/sec. Balance data will be forfeited on daily basis
+id,cost,talktime,validity,comments
+8439,39,,4 days,150 MB 3G data
+8442,94,,14 days,300 MB2G/3G data
+8453,16,,2 days,65 MB 3G data
+8454,45,,28 days,120 MB 3G Data
+8455,75,,7 days,300 MB 3G data
+8456,115,,28 days,115 Local T2T Mobile Mins + 1GB 3G Data
+8457,125,,28 days,300 MB 3G data (Day/Night) + 300 MB 3G Data (Night))
+8458,146,,30 days,300 MB 3G data+ 75 Local + STD Mins
+8459,198,,28 days,2 GB 3G Data
+8460,208,,28 days,1GB 3G Data(Chance to win upto 10GB 3G Data)
+8461,245,,28 days,4 GB 3G Data
+8462,285,,28 days,5 GB 3G Data
+8463,289,,28 days,3 GB 3G Data
+8464,454,,28 days,3 GB 3G data
+8465,495,,60 days,10 GB 3G Data
+8466,501,,60 days,300 Local + STD mins -- Data: 3 GB 3G
+8467,502,,60 days,700 Local + STD mins -- Data: 2 GB 3G
+8468,503,,60 days,1 GB 3G data -- 1100 Local + STD mins
+8469,294,,28 days,700 Local & National Mobile Minutes -- 500 MB 3G data per day -- Other Benefits: Post consumption of free 700 mobile min customer will be charged @ 1p/sec. Landline to be charged @ 2p/sec. Balance data will be forfeited on daily basis

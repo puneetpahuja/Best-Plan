@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-12344,90,90,N.A,Recharge of Rs. 90 by Idea,Talktime of Rs. 90 for Rs. 90 recharge by Idea
-12345,150,150,N.A,Recharge of Rs. 150 by Idea,Talktime of Rs. 150 for Rs. 150 recharge by Idea
-12346,200,200,N.A,Recharge of Rs. 200 by Idea,Talktime of Rs. 200 for Rs. 200 recharge by Idea
-12347,300,300,N.A,Recharge of Rs. 300 by Idea,Talktime of Rs. 300 for Rs. 300 recharge by Idea
-12348,400,400,N.A,Recharge of Rs. 400 by Idea,Talktime of Rs. 400 for Rs. 400 recharge by Idea
-12349,500,500,N.A,Recharge of Rs. 500 by Idea,Talktime of Rs. 500 for Rs. 500 recharge by Idea
-12350,550,550,N.A,Recharge of Rs. 550 by Idea,Talktime of Rs. 550 for Rs. 550 recharge by Idea
-12351,600,600,N.A,Recharge of Rs. 600 by Idea,Talktime of Rs. 600 for Rs. 600 recharge by Idea
-12352,700,700,N.A,Recharge of Rs. 700 by Idea,Talktime of Rs. 700 for Rs. 700 recharge by Idea
-12353,800,800,N.A,Recharge of Rs. 800 by Idea,Talktime of Rs. 800 for Rs. 800 recharge by Idea
-12354,900,900,N.A,Recharge of Rs. 900 by Idea,Talktime of Rs. 900 for Rs. 900 recharge by Idea
-12355,1000,1000,N.A,Recharge of Rs. 1000 by Idea,Talktime of Rs. 1000 for Rs. 1000 recharge by Idea
-12356,2000,2000,N.A,Recharge of Rs. 2000 by Idea,Talktime of Rs. 2000 for Rs. 2000 recharge by Idea
+id,cost,talktime,validity,comments
+12344,90,90,N.A,Talktime of Rs. 90 for Rs. 90 recharge by Idea
+12345,150,150,N.A,Talktime of Rs. 150 for Rs. 150 recharge by Idea
+12346,200,200,N.A,Talktime of Rs. 200 for Rs. 200 recharge by Idea
+12347,300,300,N.A,Talktime of Rs. 300 for Rs. 300 recharge by Idea
+12348,400,400,N.A,Talktime of Rs. 400 for Rs. 400 recharge by Idea
+12349,500,500,N.A,Talktime of Rs. 500 for Rs. 500 recharge by Idea
+12350,550,550,N.A,Talktime of Rs. 550 for Rs. 550 recharge by Idea
+12351,600,600,N.A,Talktime of Rs. 600 for Rs. 600 recharge by Idea
+12352,700,700,N.A,Talktime of Rs. 700 for Rs. 700 recharge by Idea
+12353,800,800,N.A,Talktime of Rs. 800 for Rs. 800 recharge by Idea
+12354,900,900,N.A,Talktime of Rs. 900 for Rs. 900 recharge by Idea
+12355,1000,1000,N.A,Talktime of Rs. 1000 for Rs. 1000 recharge by Idea
+12356,2000,2000,N.A,Talktime of Rs. 2000 for Rs. 2000 recharge by Idea

@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-15703,89,,180 days,Recharge of Rs. 89 by Indicom,"Local Off-Net mobile calls @ 36p/min(per second pulse rate, first 30 second 1.2p/s next 30 second 0p/sec) -- STD Off-Net mobile calls @ 72p/min( per second pulse 1.2p/second )"
+id,cost,talktime,validity,comments
+15703,89,,180 days,"Local Off-Net mobile calls @ 36p/min(per second pulse rate, first 30 second 1.2p/s next 30 second 0p/sec) -- STD Off-Net mobile calls @ 72p/min( per second pulse 1.2p/second )"

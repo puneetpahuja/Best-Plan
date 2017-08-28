@@ -1,15 +1,15 @@
-id,cost,talktime,validity,short description,long description
-380,7,,1 day,Recharge of Rs. 7 by Aircel,1 GB Data
-381,17,,5 days,Recharge of Rs. 17 by Aircel,150 MB 2G Data
-382,24,,28 days,Recharge of Rs. 24 by Aircel,100 MB Data
-383,29,,5 days,Recharge of Rs. 29 by Aircel,1 GB per Day Data
-384,34,,7 days,Recharge of Rs. 34 by Aircel,Unlimited 2G Data (FUP 125 MB)
-385,52,,15 days,Recharge of Rs. 52 by Aircel,1 GB/Day 2G Data
-386,53,,5 days,Recharge of Rs. 53 by Aircel,"Unlimited 2G Internet, FUP 1 GB"
-387,58,,21 days,Recharge of Rs. 58 by Aircel,1 GB Data
-388,74,,21 days,Recharge of Rs. 74 by Aircel,1 GB per Day Data
-389,98,,28 days,Recharge of Rs. 98 by Aircel,"Unlimited 2G Data, No FUP"
-390,109,,25 days,Recharge of Rs. 109 by Aircel,Unlimited 2G data with 1 GB FUP
-391,134,,45 days,Recharge of Rs. 134 by Aircel,1 GB per Day Data
-392,199,,90 days,Recharge of Rs. 199 by Aircel,1 GB per Day Data
-393,251,,90 days,Recharge of Rs. 251 by Aircel,6 GB Data (2 GB/Month)
+id,cost,talktime,validity,comments
+380,7,,1 day,1 GB Data
+381,17,,5 days,150 MB 2G Data
+382,24,,28 days,100 MB Data
+383,29,,5 days,1 GB per Day Data
+384,34,,7 days,Unlimited 2G Data (FUP 125 MB)
+385,52,,15 days,1 GB/Day 2G Data
+386,53,,5 days,"Unlimited 2G Internet, FUP 1 GB"
+387,58,,21 days,1 GB Data
+388,74,,21 days,1 GB per Day Data
+389,98,,28 days,"Unlimited 2G Data, No FUP"
+390,109,,25 days,Unlimited 2G data with 1 GB FUP
+391,134,,45 days,1 GB per Day Data
+392,199,,90 days,1 GB per Day Data
+393,251,,90 days,6 GB Data (2 GB/Month)

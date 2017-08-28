@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-1300,15,,1 day,Recharge of Rs. 15 by Aircel,Unlimited All Local & STD calls
-1301,58,,21 days,Recharge of Rs. 58 by Aircel,Unlimited Local A2A calls@Rs0.00/-
-1302,68,,28 days,Recharge of Rs. 68 by Aircel,Unlimited Local A2A calls@Rs0.00/-
+id,cost,talktime,validity,comments
+1300,15,,1 day,Unlimited All Local & STD calls
+1301,58,,21 days,Unlimited Local A2A calls@Rs0.00/-
+1302,68,,28 days,Unlimited Local A2A calls@Rs0.00/-

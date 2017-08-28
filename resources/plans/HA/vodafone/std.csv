@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-17062,38,,28 days,Recharge of Rs. 38 by Vodafone,All STD mobile calls @ 25P/MIN -- 
-17063,58,,42 days,Recharge of Rs. 58 by Vodafone,All STD mobile calls @ 25p/min -- 
-17064,68,,56 days,Recharge of Rs. 68 by Vodafone,All STD mobile calls @ 25p/min -- 
-17065,93,,84 days,Recharge of Rs. 93 by Vodafone,All STD mobile calls @ 25p/min -- 
+id,cost,talktime,validity,comments
+17062,38,,28 days,All STD mobile calls @ 25P/MIN -- 
+17063,58,,42 days,All STD mobile calls @ 25p/min -- 
+17064,68,,56 days,All STD mobile calls @ 25p/min -- 
+17065,93,,84 days,All STD mobile calls @ 25p/min -- 

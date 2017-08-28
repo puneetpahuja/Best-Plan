@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-19016,5,,90 days,Recharge of Rs. 5 by Vodafone,Second Recharge: STD calls @25p/min  -- 
-19017,11,,90 days,Recharge of Rs. 11 by Vodafone,"Local Vodafone @10p/min, Other Local + std calls @35p/min -- Applicable only for new subscribers as FRC/SRC"
-19018,103,20,28 days,Recharge of Rs. 103 by Vodafone,ALL local & STD mobile Calls @ 1.5p/s -- 1024 MB 2G Data -- Applicable only for new subscribers as FRC/SRC
-19019,152,20,90 days,Recharge of Rs. 152 by Vodafone,ALL local & STD mobile Calls @ 1.5p/s -- 1024 MB 3G Data (28 days) -- Applicable only for new subscribers as FRC/SRC
-19020,294,,28 days,Recharge of Rs. 294 by Vodafone,Unlimited LocalSTD calls -- Unlimited 2G Data- applicable as first Recharge Only -- Applicable only for new subscribers as FRC/SRC
+id,cost,talktime,validity,comments
+19016,5,,90 days,Second Recharge: STD calls @25p/min  -- 
+19017,11,,90 days,"Local Vodafone @10p/min, Other Local + std calls @35p/min -- Applicable only for new subscribers as FRC/SRC"
+19018,103,20,28 days,ALL local & STD mobile Calls @ 1.5p/s -- 1024 MB 2G Data -- Applicable only for new subscribers as FRC/SRC
+19019,152,20,90 days,ALL local & STD mobile Calls @ 1.5p/s -- 1024 MB 3G Data (28 days) -- Applicable only for new subscribers as FRC/SRC
+19020,294,,28 days,Unlimited LocalSTD calls -- Unlimited 2G Data- applicable as first Recharge Only -- Applicable only for new subscribers as FRC/SRC

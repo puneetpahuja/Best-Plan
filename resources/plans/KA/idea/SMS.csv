@@ -1,12 +1,12 @@
-id,cost,talktime,validity,short description,long description
-10347,6,,2 days,Recharge of Rs. 6 by Idea,50 Local / National SMS -- 
-10348,9,,2 days,Recharge of Rs. 9 by Idea,50 Local / National SMS -- 
-10349,12,,10 days,Recharge of Rs. 12 by Idea,120 Local / National SMS
-10350,19,,20 days,Recharge of Rs. 19 by Idea,215 Local/National SMS
-10351,25,,20 days,Recharge of Rs. 25 by Idea,275 Local/National SMS -- 
-10352,31,,30 days,Recharge of Rs. 31 by Idea,350 Local/National SMS -- 
-10353,43,,30 days,Recharge of Rs. 43 by Idea,"650 Local/National SMS, First SMS of the day will be charged at 50p -- "
-10354,44,,60 days,Recharge of Rs. 44 by Idea,500 Local/National SMS# -- 
-10355,63,,28 days,Recharge of Rs. 63 by Idea,100 Local / National SMS Per Day
-10356,66,,28 days,Recharge of Rs. 66 by Idea,100 Local / National SMS Per Day
-10357,78,,60 days,Recharge of Rs. 78 by Idea,1500 Local/National SMS
+id,cost,talktime,validity,comments
+10347,6,,2 days,50 Local / National SMS -- 
+10348,9,,2 days,50 Local / National SMS -- 
+10349,12,,10 days,120 Local / National SMS
+10350,19,,20 days,215 Local/National SMS
+10351,25,,20 days,275 Local/National SMS -- 
+10352,31,,30 days,350 Local/National SMS -- 
+10353,43,,30 days,"650 Local/National SMS, First SMS of the day will be charged at 50p -- "
+10354,44,,60 days,500 Local/National SMS# -- 
+10355,63,,28 days,100 Local / National SMS Per Day
+10356,66,,28 days,100 Local / National SMS Per Day
+10357,78,,60 days,1500 Local/National SMS

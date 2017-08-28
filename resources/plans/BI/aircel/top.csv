@@ -1,11 +1,11 @@
-id,cost,talktime,validity,short description,long description
-188,10,7.47,N.A,Recharge of Rs. 10 by Aircel,Talktime of Rs. 7.47 for Rs. 10 recharge by Aircel
-189,30,27,N.A,Recharge of Rs. 30 by Aircel,Talktime of Rs. 27 for Rs. 30 recharge by Aircel
-191,70,59.32,N.A,Recharge of Rs. 70 by Aircel,Talktime of Rs. 59.32 for Rs. 70 recharge by Aircel
-192,100,95,N.A,Recharge of Rs. 100 by Aircel,Talktime of Rs. 95 for Rs. 100 recharge by Aircel
-193,110,90.22,N.A,Recharge of Rs. 110 by Aircel,Talktime of Rs. 90.22 for Rs. 110 recharge by Aircel
-194,120,98.69,N.A,Recharge of Rs. 120 by Aircel,Talktime of Rs. 98.69 for Rs. 120 recharge by Aircel
-195,130,107.17,N.A,Recharge of Rs. 130 by Aircel,Talktime of Rs. 107.17 for Rs. 130 recharge by Aircel
-196,150,124.12,N.A,Recharge of Rs. 150 by Aircel,Talktime of Rs. 124.12 for Rs. 150 recharge by Aircel
-197,200,195,N.A,Recharge of Rs. 200 by Aircel,Talktime of Rs. 195 for Rs. 200 recharge by Aircel
-198,220,183.44,N.A,Recharge of Rs. 220 by Aircel,Talktime of Rs. 183.44 for Rs. 220 recharge by Aircel
+id,cost,talktime,validity,comments
+188,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by Aircel
+189,30,27,N.A,Talktime of Rs. 27 for Rs. 30 recharge by Aircel
+191,70,59.32,N.A,Talktime of Rs. 59.32 for Rs. 70 recharge by Aircel
+192,100,95,N.A,Talktime of Rs. 95 for Rs. 100 recharge by Aircel
+193,110,90.22,N.A,Talktime of Rs. 90.22 for Rs. 110 recharge by Aircel
+194,120,98.69,N.A,Talktime of Rs. 98.69 for Rs. 120 recharge by Aircel
+195,130,107.17,N.A,Talktime of Rs. 107.17 for Rs. 130 recharge by Aircel
+196,150,124.12,N.A,Talktime of Rs. 124.12 for Rs. 150 recharge by Aircel
+197,200,195,N.A,Talktime of Rs. 195 for Rs. 200 recharge by Aircel
+198,220,183.44,N.A,Talktime of Rs. 183.44 for Rs. 220 recharge by Aircel

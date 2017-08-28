@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-15792,10,7.47,N.A,Recharge of Rs. 10 by Uninor,Talktime of Rs. 7.47 for Rs. 10 recharge by Telenor
-15793,20,17,N.A,Recharge of Rs. 20 by Uninor,Talktime of Rs. 17 for Rs. 20 recharge by Telenor
-15795,30,29,N.A,Recharge of Rs. 30 by Uninor,Talktime of Rs. 29 for Rs. 30 recharge by Telenor
-15796,40,38,N.A,Recharge of Rs. 40 by Uninor,Talktime of Rs. 38 for Rs. 40 recharge by Telenor
-15797,70,56.32,N.A,Recharge of Rs. 70 by Uninor,Talktime of Rs. 56.32 for Rs. 70 recharge by Telenor
-15798,80,64.8,N.A,Recharge of Rs. 80 by Uninor,Talktime of Rs. 64.8 for Rs. 80 recharge by Telenor
-15799,100,96,N.A,Recharge of Rs. 100 by Uninor,Talktime of Rs. 96 for Rs. 100 recharge by Telenor
-15801,120,98.69,N.A,Recharge of Rs. 120 by Uninor,Talktime of Rs. 98.69 for Rs. 120 recharge by Telenor
-15803,150,146,N.A,Recharge of Rs. 150 by Uninor,Talktime of Rs. 146 for Rs. 150 recharge by Telenor
-15804,200,197,N.A,Recharge of Rs. 200 by Uninor,Talktime of Rs. 197 for Rs. 200 recharge by Telenor
-15805,210,174.97,N.A,Recharge of Rs. 210 by Uninor,Talktime of Rs. 174.97 for Rs. 210 recharge by Telenor
-15806,250,208.86,N.A,Recharge of Rs. 250 by Uninor,Talktime of Rs. 208.86 for Rs. 250 recharge by Telenor
-15808,400,335.98,N.A,Recharge of Rs. 400 by Uninor,Talktime of Rs. 335.98 for Rs. 400 recharge by Telenor
+id,cost,talktime,validity,comments
+15792,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by Telenor
+15793,20,17,N.A,Talktime of Rs. 17 for Rs. 20 recharge by Telenor
+15795,30,29,N.A,Talktime of Rs. 29 for Rs. 30 recharge by Telenor
+15796,40,38,N.A,Talktime of Rs. 38 for Rs. 40 recharge by Telenor
+15797,70,56.32,N.A,Talktime of Rs. 56.32 for Rs. 70 recharge by Telenor
+15798,80,64.8,N.A,Talktime of Rs. 64.8 for Rs. 80 recharge by Telenor
+15799,100,96,N.A,Talktime of Rs. 96 for Rs. 100 recharge by Telenor
+15801,120,98.69,N.A,Talktime of Rs. 98.69 for Rs. 120 recharge by Telenor
+15803,150,146,N.A,Talktime of Rs. 146 for Rs. 150 recharge by Telenor
+15804,200,197,N.A,Talktime of Rs. 197 for Rs. 200 recharge by Telenor
+15805,210,174.97,N.A,Talktime of Rs. 174.97 for Rs. 210 recharge by Telenor
+15806,250,208.86,N.A,Talktime of Rs. 208.86 for Rs. 250 recharge by Telenor
+15808,400,335.98,N.A,Talktime of Rs. 335.98 for Rs. 400 recharge by Telenor

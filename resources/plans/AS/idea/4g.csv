@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-9405,46,,7 days,Recharge of Rs. 46 by Idea,150 MB 3G/4G Data -- Overage: 4p/10KB
-9407,247,,30 days,Recharge of Rs. 247 by Idea,1 GB 3G/4G Data -- Overage: 4p/10KB
-9408,448,,30 days,Recharge of Rs. 448 by Idea,2 GB 3G/4G Data -- Overage: 4p/10KB
-9409,649,,30 days,Recharge of Rs. 649 by Idea,3 GB Unlimited 3G/4G Data -- Overage: 4p/10KB
-9410,749,,30 days,Recharge of Rs. 749 by Idea,4 GB Unlimited 3G/4G Data -- Overage: 4p/10KB
-9411,949,,30 days,Recharge of Rs. 949 by Idea,6 GB Unlimited 3G/4G Data -- Overage: 4p/10KB
-9412,1249,,30 days,Recharge of Rs. 1249 by Idea,9 GB Unlimited 3G/4G Data -- Overage: 4p/10KB
-9413,1499,,30 days,Recharge of Rs. 1499 by Idea,10 GB Unlimited 3G/4G Data -- Overage: 4p/10KB
-9414,1549,,30 days,Recharge of Rs. 1549 by Idea,12 GB Unlimited 3G/4G Data -- Overage: 4p/10KB
+id,cost,talktime,validity,comments
+9405,46,,7 days,150 MB 3G/4G Data -- Overage: 4p/10KB
+9407,247,,30 days,1 GB 3G/4G Data -- Overage: 4p/10KB
+9408,448,,30 days,2 GB 3G/4G Data -- Overage: 4p/10KB
+9409,649,,30 days,3 GB Unlimited 3G/4G Data -- Overage: 4p/10KB
+9410,749,,30 days,4 GB Unlimited 3G/4G Data -- Overage: 4p/10KB
+9411,949,,30 days,6 GB Unlimited 3G/4G Data -- Overage: 4p/10KB
+9412,1249,,30 days,9 GB Unlimited 3G/4G Data -- Overage: 4p/10KB
+9413,1499,,30 days,10 GB Unlimited 3G/4G Data -- Overage: 4p/10KB
+9414,1549,,30 days,12 GB Unlimited 3G/4G Data -- Overage: 4p/10KB

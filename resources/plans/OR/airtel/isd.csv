@@ -1,15 +1,15 @@
-id,cost,talktime,validity,short description,long description
-3657,32,,27 days,Recharge of Rs. 32 by Airtel,ISD PACK FOR 35 COUNTRIES 
-3658,498,,1 day,Recharge of Rs. 498 by Airtel,"Unlimited incoming, 100min Local/call to India -- 500 MB data -- 100SMS/day -- Till 12:00 midnight"
-3659,647,,1 day,Recharge of Rs. 647 by Airtel,100 Min incoming -- 500 MB Data -- 100 SMS/Day -- 100 Min Loc/Call to India
-3660,649,,1 day,Recharge of Rs. 649 by Airtel,"100min incoming,100min Local/call to India -- 500 MB data -- 100 SMS/day"
-3661,996,,1 day,Recharge of Rs. 996 by Airtel,"100min incoming, 100min Local/call to India -- 500 MB data -- 100SMS/day -- Till 12:00 midnight. "
-3662,997,,30 days,Recharge of Rs. 997 by Airtel,"IR Pack: 30 MB data Free. Thereafter charged @39p/10kb -- Outgoing @Rs39/min, Incoming @Rs19/min -- @Rs15/SMS"
-3663,1199,,10 days,Recharge of Rs. 1199 by Airtel,Free benefits: Unlimited incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
-3664,2499,,30 days,Recharge of Rs. 2499 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-3665,2998,,10 days,Recharge of Rs. 2998 by Airtel,Free benefits: 250 min incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
-3666,2999,,10 days,Recharge of Rs. 2999 by Airtel,Free benefits: Unlimited incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
-3667,3997,,10 days,Recharge of Rs. 3997 by Airtel,Free benefits: 250 min incoming -- 3 GB data -- 100 sms/Day -- 250 min local/call to India
-3668,3998,,30 days,Recharge of Rs. 3998 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-3669,3999,,30 days,Recharge of Rs. 3999 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-3670,6999,,30 days,Recharge of Rs. 6999 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+id,cost,talktime,validity,comments
+3657,32,,27 days,ISD PACK FOR 35 COUNTRIES 
+3658,498,,1 day,"Unlimited incoming, 100min Local/call to India -- 500 MB data -- 100SMS/day -- Till 12:00 midnight"
+3659,647,,1 day,100 Min incoming -- 500 MB Data -- 100 SMS/Day -- 100 Min Loc/Call to India
+3660,649,,1 day,"100min incoming,100min Local/call to India -- 500 MB data -- 100 SMS/day"
+3661,996,,1 day,"100min incoming, 100min Local/call to India -- 500 MB data -- 100SMS/day -- Till 12:00 midnight. "
+3662,997,,30 days,"IR Pack: 30 MB data Free. Thereafter charged @39p/10kb -- Outgoing @Rs39/min, Incoming @Rs19/min -- @Rs15/SMS"
+3663,1199,,10 days,Free benefits: Unlimited incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
+3664,2499,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+3665,2998,,10 days,Free benefits: 250 min incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
+3666,2999,,10 days,Free benefits: Unlimited incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
+3667,3997,,10 days,Free benefits: 250 min incoming -- 3 GB data -- 100 sms/Day -- 250 min local/call to India
+3668,3998,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+3669,3999,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+3670,6999,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India

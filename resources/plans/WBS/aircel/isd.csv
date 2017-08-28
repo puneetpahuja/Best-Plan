@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-1363,5,,27 days,Recharge of Rs. 5 by Aircel,BANGLADESH @Rs 1.99/minNEPAL & BHUTAN @Rs 6.99/min
-1364,18,,10 days,Recharge of Rs. 18 by Aircel,UAE Rs.9.99/minSaudi Arabia Rs. 7.49/minMalaysia & Bangladesh Rs 2.20/min
-1365,42,,27 days,Recharge of Rs. 42 by Aircel,USA & CANADA 2p/secChina 1.5p/sec
+id,cost,talktime,validity,comments
+1363,5,,27 days,BANGLADESH @Rs 1.99/minNEPAL & BHUTAN @Rs 6.99/min
+1364,18,,10 days,UAE Rs.9.99/minSaudi Arabia Rs. 7.49/minMalaysia & Bangladesh Rs 2.20/min
+1365,42,,27 days,USA & CANADA 2p/secChina 1.5p/sec

@@ -1,23 +1,23 @@
-id,cost,talktime,validity,short description,long description
-17593,8,,1 day,Recharge of Rs. 8 by Vodafone,"Unlimited Vodafone local calls for 24hrs (Post 300mins per day,Loc V2V calls @10p/min)"
-17594,9,,1 day,Recharge of Rs. 9 by Vodafone,15 Local Mobile Minutes
-17595,26,,28 days,Recharge of Rs. 26 by Vodafone,Local calls @30p/min
-17596,29,,5 days,Recharge of Rs. 29 by Vodafone,100 Local Vodafone Minutes
-17597,31,,30 days,Recharge of Rs. 31 by Vodafone,Local and STD Mobile Calls @30p/min
-17598,34,,28 days,Recharge of Rs. 34 by Vodafone,Local Vodafone Calls @10p/min
-17599,36,,28 days,Recharge of Rs. 36 by Vodafone,Local Vodafone Calls @15p/min
-17600,41,,40 days,Recharge of Rs. 41 by Vodafone,Local Vodafone Calls @10p/min
-17601,45,,7 days,Recharge of Rs. 45 by Vodafone,80 Local Mobile Minutes
-17602,47,,56 days,Recharge of Rs. 47 by Vodafone,Local Mobile Calls @30p/min
-17603,49,,60 days,Recharge of Rs. 49 by Vodafone,Local and STD Mobile Calls @30p/min
-17604,59,,84 days,Recharge of Rs. 59 by Vodafone,"Local Vodafone Calls @1.4p/2sec, Other Local Mobiles @1.8p/2sec"
-17605,72,,56 days,Recharge of Rs. 72 by Vodafone,Local Vodafone Calls @15p/min
-17606,73,,90 days,Recharge of Rs. 73 by Vodafone,Local and STD Mobile Calls @30p/min
-17607,82,,84 days,Recharge of Rs. 82 by Vodafone,Local Vodafone Calls @10p/min
-17608,93,,90 days,Recharge of Rs. 93 by Vodafone,Local Mobile Calls @30p/min
-17609,97,,28 days,Recharge of Rs. 97 by Vodafone,"12000 Local + STD secs, all mobile calls will be charged 1p/sec for 28 days post completion of free secs"
-17610,99,,28 days,Recharge of Rs. 99 by Vodafone,200 Local Minutes
-17611,102,,56 days,Recharge of Rs. 102 by Vodafone,Local Vodafone Calls @15p/min
-17612,108,,28 days,Recharge of Rs. 108 by Vodafone,"14000 Local secs,all mobile calls will be charged 1p/sec for 28 days post completion of free secs"
-17613,119,,14 days,Recharge of Rs. 119 by Vodafone,600 Local Vodafone Minutes
-17614,127,,84 days,Recharge of Rs. 127 by Vodafone,Local Vodafone Calls @10p/min
+id,cost,talktime,validity,comments
+17593,8,,1 day,"Unlimited Vodafone local calls for 24hrs (Post 300mins per day,Loc V2V calls @10p/min)"
+17594,9,,1 day,15 Local Mobile Minutes
+17595,26,,28 days,Local calls @30p/min
+17596,29,,5 days,100 Local Vodafone Minutes
+17597,31,,30 days,Local and STD Mobile Calls @30p/min
+17598,34,,28 days,Local Vodafone Calls @10p/min
+17599,36,,28 days,Local Vodafone Calls @15p/min
+17600,41,,40 days,Local Vodafone Calls @10p/min
+17601,45,,7 days,80 Local Mobile Minutes
+17602,47,,56 days,Local Mobile Calls @30p/min
+17603,49,,60 days,Local and STD Mobile Calls @30p/min
+17604,59,,84 days,"Local Vodafone Calls @1.4p/2sec, Other Local Mobiles @1.8p/2sec"
+17605,72,,56 days,Local Vodafone Calls @15p/min
+17606,73,,90 days,Local and STD Mobile Calls @30p/min
+17607,82,,84 days,Local Vodafone Calls @10p/min
+17608,93,,90 days,Local Mobile Calls @30p/min
+17609,97,,28 days,"12000 Local + STD secs, all mobile calls will be charged 1p/sec for 28 days post completion of free secs"
+17610,99,,28 days,200 Local Minutes
+17611,102,,56 days,Local Vodafone Calls @15p/min
+17612,108,,28 days,"14000 Local secs,all mobile calls will be charged 1p/sec for 28 days post completion of free secs"
+17613,119,,14 days,600 Local Vodafone Minutes
+17614,127,,84 days,Local Vodafone Calls @10p/min

@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-8979,2,,90 days,Recharge of Rs. 2 by Docomo,All Local/STD mobiles @25p/m with 1st min charged @75p/min -- Recharge applicable to selective retailers in selective towns
-8980,63,43,180 days,Recharge of Rs. 63 by Docomo,"1-90days: All Loc & STDmob @30p/m,90-180days:All Loc & STDmob @40p/m1st min charged@75p/m for 1-180days -- Applicable only for new subscribers as FRC/SRC"
-8981,549,500,90 days,Recharge of Rs. 549 by Docomo,"Local On-Net mobile calls @ 10p/m -- Local Off-Net mobile calls @ 25p/m -- STD On-Net mobile calls @ 25p/m -- STD Off-Net mobile calls @ 25p/m -- National SMS (Local/STD SMS): 100 SMS per day -- 500 MB 2G data (30 days) every month, applicable for 3 months -- Applicable only for new subscribers as FRC/SRC"
-8982,987,,180 days,Recharge of Rs. 987 by Docomo,Local Off-Net and all STD mobile calls @ 30p/min(1p/2sec) -- National SMS (Local/STD SMS): 99 SMS/ day -- Data: 200 MB (In 6 months) -- Landline Local/STD @ 2.5p/sec -- 1st min. of the day charged @ 15p/ min. (1.5p/ 6sec.) -- Applicable only for new subscribers as FRC/SRC
+id,cost,talktime,validity,comments
+8979,2,,90 days,All Local/STD mobiles @25p/m with 1st min charged @75p/min -- Recharge applicable to selective retailers in selective towns
+8980,63,43,180 days,"1-90days: All Loc & STDmob @30p/m,90-180days:All Loc & STDmob @40p/m1st min charged@75p/m for 1-180days -- Applicable only for new subscribers as FRC/SRC"
+8981,549,500,90 days,"Local On-Net mobile calls @ 10p/m -- Local Off-Net mobile calls @ 25p/m -- STD On-Net mobile calls @ 25p/m -- STD Off-Net mobile calls @ 25p/m -- National SMS (Local/STD SMS): 100 SMS per day -- 500 MB 2G data (30 days) every month, applicable for 3 months -- Applicable only for new subscribers as FRC/SRC"
+8982,987,,180 days,Local Off-Net and all STD mobile calls @ 30p/min(1p/2sec) -- National SMS (Local/STD SMS): 99 SMS/ day -- Data: 200 MB (In 6 months) -- Landline Local/STD @ 2.5p/sec -- 1st min. of the day charged @ 15p/ min. (1.5p/ 6sec.) -- Applicable only for new subscribers as FRC/SRC

@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-14727,4,,180 days,Recharge of Rs. 4 by RelianceGSM,Home & Roaming Location All Local Calls @ Rs1/min & STD Calls @ Rs 1.5/min (incoming Calls in Roaming at 75p/min)
-14728,5,,1 day,Recharge of Rs. 5 by RelianceGSM,Home & Roaming Location All Local & STD Calls @ 1.5p/Sec (Free incoming Calls in Roaming)
+id,cost,talktime,validity,comments
+14727,4,,180 days,Home & Roaming Location All Local Calls @ Rs1/min & STD Calls @ Rs 1.5/min (incoming Calls in Roaming at 75p/min)
+14728,5,,1 day,Home & Roaming Location All Local & STD Calls @ 1.5p/Sec (Free incoming Calls in Roaming)

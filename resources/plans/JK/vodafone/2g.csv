@@ -1,15 +1,15 @@
-id,cost,talktime,validity,short description,long description
-18941,5,,1 hour,Recharge of Rs. 5 by Vodafone,Unlimited 2G data
-18942,6,,1 day,Recharge of Rs. 6 by Vodafone,30 MB 2G Data
-18943,13,,3 days,Recharge of Rs. 13 by Vodafone,"75 MB Data @2G speed. Post 75 MB you will be charged 4p/10kb Threshold balance should be Positive,Download charges as per content"
-18944,16,,1 day,Recharge of Rs. 16 by Vodafone,Unlimited 2G data for 24 Hour
-18945,36,,7 days,Recharge of Rs. 36 by Vodafone,"210 MB Data @2G speed. Post 210 MB you will be charged 4p/10kb Threshold balance should be Positive,Download charges as per content"
-18946,38,,28 days,Recharge of Rs. 38 by Vodafone,130 MB 2G data
-18947,58,,12 days,Recharge of Rs. 58 by Vodafone,"330 MB Data @2G speed. Post 330 MB you will be charged 4p/10kb Threshold balance should be Positive,Download charges as per content"
-18948,98,,20 days,Recharge of Rs. 98 by Vodafone,"560 MB Data @2G speed. Post 560 MB you will be charged 4p/10kb Threshold balance should be Positive,Download charges as per content"
-18949,126,,25 days,Recharge of Rs. 126 by Vodafone,"725 MB Data @2G speed. Post 725 MB you will be charged 4p/10kb Threshold balance should be Positive,Download charges as per content"
-18952,155,,28 days,Recharge of Rs. 155 by Vodafone,"880 MB Data @2G spped. Post 880 MB you will be charged 4p/10kb Threshold balance should be Positive,Download charges as per content"
-18953,175,,28 days,Recharge of Rs. 175 by Vodafone,1 GB @ 2G speed. Post 1 GB you will be charged at 4p/10kb
-18954,198,,28 days,Recharge of Rs. 198 by Vodafone,"2G, High speed Data till 2GB and after that throttling @ 40kbps , Threshold balance should be Positive, Download charges as per content"
-18955,209,,28 days,Recharge of Rs. 209 by Vodafone,"1 GB Day Data + 1 GB Night (Post 2GB you will be charged 4p/10kb Threshold balance should be Positive, Download charges as per content)"
-18956,249,,28 days,Recharge of Rs. 249 by Vodafone,"3GB @2G speed. Post 3GB your speed will be reduced up to 40 kbps. Threshold balance should be Positive,Download charges as per content"
+id,cost,talktime,validity,comments
+18941,5,,1 hour,Unlimited 2G data
+18942,6,,1 day,30 MB 2G Data
+18943,13,,3 days,"75 MB Data @2G speed. Post 75 MB you will be charged 4p/10kb Threshold balance should be Positive,Download charges as per content"
+18944,16,,1 day,Unlimited 2G data for 24 Hour
+18945,36,,7 days,"210 MB Data @2G speed. Post 210 MB you will be charged 4p/10kb Threshold balance should be Positive,Download charges as per content"
+18946,38,,28 days,130 MB 2G data
+18947,58,,12 days,"330 MB Data @2G speed. Post 330 MB you will be charged 4p/10kb Threshold balance should be Positive,Download charges as per content"
+18948,98,,20 days,"560 MB Data @2G speed. Post 560 MB you will be charged 4p/10kb Threshold balance should be Positive,Download charges as per content"
+18949,126,,25 days,"725 MB Data @2G speed. Post 725 MB you will be charged 4p/10kb Threshold balance should be Positive,Download charges as per content"
+18952,155,,28 days,"880 MB Data @2G spped. Post 880 MB you will be charged 4p/10kb Threshold balance should be Positive,Download charges as per content"
+18953,175,,28 days,1 GB @ 2G speed. Post 1 GB you will be charged at 4p/10kb
+18954,198,,28 days,"2G, High speed Data till 2GB and after that throttling @ 40kbps , Threshold balance should be Positive, Download charges as per content"
+18955,209,,28 days,"1 GB Day Data + 1 GB Night (Post 2GB you will be charged 4p/10kb Threshold balance should be Positive, Download charges as per content)"
+18956,249,,28 days,"3GB @2G speed. Post 3GB your speed will be reduced up to 40 kbps. Threshold balance should be Positive,Download charges as per content"

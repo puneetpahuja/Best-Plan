@@ -1,9 +1,9 @@
-id,cost,talktime,validity,short description,long description
-9858,5,,3 days,Recharge of Rs. 5 by Idea,30 Local/ National SMS
-9859,11,,15 days,Recharge of Rs. 11 by Idea,1st 2 SMS chargeable next 98 free for the day for 15 days -- 
-9860,16,,10 days,Recharge of Rs. 16 by Idea,175 Local/National SMS
-9861,34,,28 days,Recharge of Rs. 34 by Idea,375 L/N SMS
-9862,56,,28 days,Recharge of Rs. 56 by Idea,650 L/N SMS
-9863,63,,28 days,Recharge of Rs. 63 by Idea,100 Local/National SMS (per day)
-9864,84,,28 days,Recharge of Rs. 84 by Idea,950 L/N SMS
-9865,94,,45 days,Recharge of Rs. 94 by Idea,1100 Local+National SMS
+id,cost,talktime,validity,comments
+9858,5,,3 days,30 Local/ National SMS
+9859,11,,15 days,1st 2 SMS chargeable next 98 free for the day for 15 days -- 
+9860,16,,10 days,175 Local/National SMS
+9861,34,,28 days,375 L/N SMS
+9862,56,,28 days,650 L/N SMS
+9863,63,,28 days,100 Local/National SMS (per day)
+9864,84,,28 days,950 L/N SMS
+9865,94,,45 days,1100 Local+National SMS

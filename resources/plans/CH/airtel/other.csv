@@ -1,12 +1,12 @@
-id,cost,talktime,validity,short description,long description
-1875,779,779,7 days,Recharge of Rs. 779 by Airtel,"International Roaming  Outgoing Rs 40/Min and Incoming Rs 30/Min, Applicable only on selected countries and Operators."
-1896,245,215.05,28 days,Recharge of Rs. 245 by Airtel,5 Minutes Local A2A Calls (2 days)
-1933,399,,28 days,Recharge of Rs. 399 by Airtel,"Unlimited Local + STD all calls (T&C apply) -- 1.25 GB data For 4G HS + 4G SIM, get 1 GB/day"
-1936,499,,28 days,Recharge of Rs. 499 by Airtel,"Unlimited Local+STD all calls (T&C apply) -- 2 GB data For 4G HS + 4G SIM, get 1.25 GB/day"
-1938,648,,28 days,Recharge of Rs. 648 by Airtel,"Unlimited Local+STD all calls (T&C apply) -- 3.5 GB data; For 4G HS+4G SIM, get 2.5GB/day"
-1942,899,,27 days,Recharge of Rs. 899 by Airtel,"Unlimited Local+STD all calls (T&C apply) -- 6 GB data; For 4G HS+4G SIM, get 3.5GB/day"
-1946,1198,,27 days,Recharge of Rs. 1198 by Airtel,"Unlimited Local+STD all calls (T&C apply) -- 9 GB data; For 4G HS+4G SIM, get 5GB/day"
-1949,23,,1 day,Recharge of Rs. 23 by Airtel,Unltd Local + STD Airtel Mobile Calls -- 100 MB (4G H/S) or 50 MB(Non-4G H/S)
-1950,57,,7 days,Recharge of Rs. 57 by Airtel,Unltd Local +STD Airtel Mobile Calls -- 250 MB (4G H/S) or 50 MB(Non-4G H/S)
-1951,87,,7 days,Recharge of Rs. 87 by Airtel,Unltd Local +STD Airtel mobile calls + 100Min Airtel to Other Calls -- 250 MB(4G H/S) or 50 MB (Non-4G H/S)
-1952,244,,28 days,Recharge of Rs. 244 by Airtel,"Unlimited Local + STD Airtel to Airtel Mobile calls -- 50 MB data.For 4G Handset + 4G SIM, extra 1GB Data -- T&C apply"
+id,cost,talktime,validity,comments
+1875,779,779,7 days,"International Roaming  Outgoing Rs 40/Min and Incoming Rs 30/Min, Applicable only on selected countries and Operators."
+1896,245,215.05,28 days,5 Minutes Local A2A Calls (2 days)
+1933,399,,28 days,"Unlimited Local + STD all calls (T&C apply) -- 1.25 GB data For 4G HS + 4G SIM, get 1 GB/day"
+1936,499,,28 days,"Unlimited Local+STD all calls (T&C apply) -- 2 GB data For 4G HS + 4G SIM, get 1.25 GB/day"
+1938,648,,28 days,"Unlimited Local+STD all calls (T&C apply) -- 3.5 GB data; For 4G HS+4G SIM, get 2.5GB/day"
+1942,899,,27 days,"Unlimited Local+STD all calls (T&C apply) -- 6 GB data; For 4G HS+4G SIM, get 3.5GB/day"
+1946,1198,,27 days,"Unlimited Local+STD all calls (T&C apply) -- 9 GB data; For 4G HS+4G SIM, get 5GB/day"
+1949,23,,1 day,Unltd Local + STD Airtel Mobile Calls -- 100 MB (4G H/S) or 50 MB(Non-4G H/S)
+1950,57,,7 days,Unltd Local +STD Airtel Mobile Calls -- 250 MB (4G H/S) or 50 MB(Non-4G H/S)
+1951,87,,7 days,Unltd Local +STD Airtel mobile calls + 100Min Airtel to Other Calls -- 250 MB(4G H/S) or 50 MB (Non-4G H/S)
+1952,244,,28 days,"Unlimited Local + STD Airtel to Airtel Mobile calls -- 50 MB data.For 4G Handset + 4G SIM, extra 1GB Data -- T&C apply"

@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-4148,53,,N.A,Recharge of Rs. 53 by Airtel,75 MB 4G/3G/2G data 
-4165,95,,10 days,Recharge of Rs. 95 by Airtel,380 MB 3G Data
-4168,153,,16 days,Recharge of Rs. 153 by Airtel,600 MB 3G Data
+id,cost,talktime,validity,comments
+4148,53,,N.A,75 MB 4G/3G/2G data 
+4165,95,,10 days,380 MB 3G Data
+4168,153,,16 days,600 MB 3G Data

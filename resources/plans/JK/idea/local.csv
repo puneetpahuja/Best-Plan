@@ -1,16 +1,16 @@
-id,cost,talktime,validity,short description,long description
-12440,9,,7 days,Recharge of Rs. 9 by Idea,All Local Calls @ 35p/min
-12441,13,,60 days,Recharge of Rs. 13 by Idea,All Local Calls @ 1p/Sec
-12442,14,,10 days,Recharge of Rs. 14 by Idea,All Local & STD Calls @ 30p/Min
-12443,19,,28 days,Recharge of Rs. 19 by Idea,All Local & STD Calls @ 30p/Min First 60 Sec @ 2p/Sec
-12444,22,,28 days,Recharge of Rs. 22 by Idea,Local Idea calls @10p/Min
-12445,26,,28 days,Recharge of Rs. 26 by Idea,All Local Calls @ 30p/Min
-12446,32,,28 days,Recharge of Rs. 32 by Idea,All Local & STD Calls @ 25p/Min First 60 Sec @ 2p/Sec
-12447,34,,45 days,Recharge of Rs. 34 by Idea,Local Idea calls @ 10p/Min
-12448,36,,28 days,Recharge of Rs. 36 by Idea,All Local & STD Calls @ 30p/Min
-12449,43,,35 days,Recharge of Rs. 43 by Idea,All Local & STD Calls @ 30p/Min
-12450,75,,14 days,Recharge of Rs. 75 by Idea,250 Local & STD Minutes
-12451,94,,7 days,Recharge of Rs. 94 by Idea,"Unlimited Local Idea Mobile Calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.10/min will be applicable. -- This STV should not be used for any commercial activity. "
-12452,99,,28 days,Recharge of Rs. 99 by Idea,400 Local & STD Minutes .
-12453,247,,14 days,Recharge of Rs. 247 by Idea,"Free Local/STD Calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable. -- This STV should not be used for any commercial activity. "
-12454,346,,28 days,Recharge of Rs. 346 by Idea,"Free Local/STD Calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.10/min will be applicable. -- This STV should not be used for any commercial activity. "
+id,cost,talktime,validity,comments
+12440,9,,7 days,All Local Calls @ 35p/min
+12441,13,,60 days,All Local Calls @ 1p/Sec
+12442,14,,10 days,All Local & STD Calls @ 30p/Min
+12443,19,,28 days,All Local & STD Calls @ 30p/Min First 60 Sec @ 2p/Sec
+12444,22,,28 days,Local Idea calls @10p/Min
+12445,26,,28 days,All Local Calls @ 30p/Min
+12446,32,,28 days,All Local & STD Calls @ 25p/Min First 60 Sec @ 2p/Sec
+12447,34,,45 days,Local Idea calls @ 10p/Min
+12448,36,,28 days,All Local & STD Calls @ 30p/Min
+12449,43,,35 days,All Local & STD Calls @ 30p/Min
+12450,75,,14 days,250 Local & STD Minutes
+12451,94,,7 days,"Unlimited Local Idea Mobile Calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.10/min will be applicable. -- This STV should not be used for any commercial activity. "
+12452,99,,28 days,400 Local & STD Minutes .
+12453,247,,14 days,"Free Local/STD Calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable. -- This STV should not be used for any commercial activity. "
+12454,346,,28 days,"Free Local/STD Calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.10/min will be applicable. -- This STV should not be used for any commercial activity. "

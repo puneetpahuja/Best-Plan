@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-2888,8,,28 days,Recharge of Rs. 8 by Airtel,All Local & STD mobile Calls @1.4p/Sec
-2889,9,,5 days,Recharge of Rs. 9 by Airtel,Local Mobile @1.2p/2sec
-2890,12,,3 days,Recharge of Rs. 12 by Airtel,Local mobile @1.2p/2sec
-2891,15,,3 days,Recharge of Rs. 15 by Airtel,Local Airtel to Airtel @20p/min
-2892,17,,28 days,Recharge of Rs. 17 by Airtel,Local mobile calls @1.2p/2secs (1st 120 local mobile sec of the Day @1.5p/sec)
-2893,27,,28 days,Recharge of Rs. 27 by Airtel,Local mobile calls @10p/min(1st 120 Local Airtel to Airtel sec of the day @1.5p/sec)
-2894,37,,28 days,Recharge of Rs. 37 by Airtel,Local Mobile Calls @1.2p/2Sec
-2895,44,,28 days,Recharge of Rs. 44 by Airtel,Local Airtel to Airtel 10p/min
-2896,47,,28 days,Recharge of Rs. 47 by Airtel,Local Mobile @35p/m -- STD Mobile @30p/m
-2897,54,,28 days,Recharge of Rs. 54 by Airtel,Local STD Airtel to Airtel 15p/min
-2898,59,,28 days,Recharge of Rs. 59 by Airtel,Local + STD Mobile Calls @30p/mins
-2899,69,,45 days,Recharge of Rs. 69 by Airtel,Local mobile calls @35p/min -- STD mobile calls @30p/min
-2900,78,,56 days,Recharge of Rs. 78 by Airtel,Local Mobile Calls @1.2p/2Sec
+id,cost,talktime,validity,comments
+2888,8,,28 days,All Local & STD mobile Calls @1.4p/Sec
+2889,9,,5 days,Local Mobile @1.2p/2sec
+2890,12,,3 days,Local mobile @1.2p/2sec
+2891,15,,3 days,Local Airtel to Airtel @20p/min
+2892,17,,28 days,Local mobile calls @1.2p/2secs (1st 120 local mobile sec of the Day @1.5p/sec)
+2893,27,,28 days,Local mobile calls @10p/min(1st 120 Local Airtel to Airtel sec of the day @1.5p/sec)
+2894,37,,28 days,Local Mobile Calls @1.2p/2Sec
+2895,44,,28 days,Local Airtel to Airtel 10p/min
+2896,47,,28 days,Local Mobile @35p/m -- STD Mobile @30p/m
+2897,54,,28 days,Local STD Airtel to Airtel 15p/min
+2898,59,,28 days,Local + STD Mobile Calls @30p/mins
+2899,69,,45 days,Local mobile calls @35p/min -- STD mobile calls @30p/min
+2900,78,,56 days,Local Mobile Calls @1.2p/2Sec

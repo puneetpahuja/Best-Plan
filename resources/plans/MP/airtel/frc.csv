@@ -1,15 +1,15 @@
-id,cost,talktime,validity,short description,long description
-3090,11,,84 days,Recharge of Rs. 11 by Airtel,All Local Airtel mobile calls 10p/min -- Applicable only for new subscribers as FRC/SRC
-3091,12,,84 days,Recharge of Rs. 12 by Airtel,LOCAL & STD MOBILE @25P/MIN -- Applicable only for new subscribers as FRC/SRC
-3092,43,,35 Days,Recharge of Rs. 43 by Airtel,All Unlimited Local + STD calls in National Roaming (35 Days). For 4G H/s and 4G SIM (84 days) -- Applicable only on FRC 452(T&C apply) -- Applicable only for new subscribers as FRC/SRC
-3093,51,26,30 days,Recharge of Rs. 51 by Airtel,50 MB 3G/4G Data -- Applicable only for new subscribers as FRC/SRC
-3094,74,,28 days,Recharge of Rs. 74 by Airtel,1 GB 2G Data  -- Applicable only for new subscribers as FRC/SRC
-3095,81,50,30 days,Recharge of Rs. 81 by Airtel,50 MB 3G/4G Data -- Applicable only for new subscribers as FRC/SRC
-3096,86,50,30 days,Recharge of Rs. 86 by Airtel,200 MB 3G Data -- Call Rates: All Local + STD Mobile @1.2p/s + Fixedline @2.5p/Sec -- Applicable only for new subscribers as FRC/SRC
-3097,94,,28 days,Recharge of Rs. 94 by Airtel,"20,000 Local + STD seconds -- Applicable only for new subscribers as FRC/SRC"
-3098,103,,28 days,Recharge of Rs. 103 by Airtel,"2 GB 3G/4G Data on 4G handsets, 1 GB on other handsets  -- Applicable only for new subscribers as FRC/SRC"
-3099,152,,28 days,Recharge of Rs. 152 by Airtel,Unlimited Local & STD Airtel calls -- 2 GB data on 4G Handset with 4G SIM and 1 GB for others -- T&C apply. -- Applicable only for new subscribers as FRC/SRC
-3100,197,,28 days,Recharge of Rs. 197 by Airtel,Unlimited Local + STD Airtel mobile call + 150 Local + STD mobile mins -- 2 GB 3G/4G on 4G H/S (1 GB on 3G H/S) -- Applicable only for new subscribers as FRC/SRC
-3101,247,,28 days,Recharge of Rs. 247 by Airtel,Unlimited All Local calls -- 2 GB 4G for 4G H/S and for other H/S - 1 GB 2G/3G -- Applicable only for new subscribers as FRC/SRC
-3102,252,,30 days,Recharge of Rs. 252 by Airtel,Instant 1 GB 3G/4G data --  Extra 9 GB 3G/4G data to be claimed by MyAirtel App -- Call Rates: All Local + STD Mobile @1.5p/s + Fixedline @2.5p/Sec -- Applicable only for new subscribers as FRC/SRC
-3103,352,,28 days,Recharge of Rs. 352 by Airtel,Unlimited all Local + STD calls -- 1 GB/day 3G/4G data -- T&C apply. -- Applicable only for new subscribers as FRC/SRC
+id,cost,talktime,validity,comments
+3090,11,,84 days,All Local Airtel mobile calls 10p/min -- Applicable only for new subscribers as FRC/SRC
+3091,12,,84 days,LOCAL & STD MOBILE @25P/MIN -- Applicable only for new subscribers as FRC/SRC
+3092,43,,35 Days,All Unlimited Local + STD calls in National Roaming (35 Days). For 4G H/s and 4G SIM (84 days) -- Applicable only on FRC 452(T&C apply) -- Applicable only for new subscribers as FRC/SRC
+3093,51,26,30 days,50 MB 3G/4G Data -- Applicable only for new subscribers as FRC/SRC
+3094,74,,28 days,1 GB 2G Data  -- Applicable only for new subscribers as FRC/SRC
+3095,81,50,30 days,50 MB 3G/4G Data -- Applicable only for new subscribers as FRC/SRC
+3096,86,50,30 days,200 MB 3G Data -- Call Rates: All Local + STD Mobile @1.2p/s + Fixedline @2.5p/Sec -- Applicable only for new subscribers as FRC/SRC
+3097,94,,28 days,"20,000 Local + STD seconds -- Applicable only for new subscribers as FRC/SRC"
+3098,103,,28 days,"2 GB 3G/4G Data on 4G handsets, 1 GB on other handsets  -- Applicable only for new subscribers as FRC/SRC"
+3099,152,,28 days,Unlimited Local & STD Airtel calls -- 2 GB data on 4G Handset with 4G SIM and 1 GB for others -- T&C apply. -- Applicable only for new subscribers as FRC/SRC
+3100,197,,28 days,Unlimited Local + STD Airtel mobile call + 150 Local + STD mobile mins -- 2 GB 3G/4G on 4G H/S (1 GB on 3G H/S) -- Applicable only for new subscribers as FRC/SRC
+3101,247,,28 days,Unlimited All Local calls -- 2 GB 4G for 4G H/S and for other H/S - 1 GB 2G/3G -- Applicable only for new subscribers as FRC/SRC
+3102,252,,30 days,Instant 1 GB 3G/4G data --  Extra 9 GB 3G/4G data to be claimed by MyAirtel App -- Call Rates: All Local + STD Mobile @1.5p/s + Fixedline @2.5p/Sec -- Applicable only for new subscribers as FRC/SRC
+3103,352,,28 days,Unlimited all Local + STD calls -- 1 GB/day 3G/4G data -- T&C apply. -- Applicable only for new subscribers as FRC/SRC

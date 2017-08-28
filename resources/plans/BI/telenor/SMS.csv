@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-15813,4,,15 days,Recharge of Rs. 4 by Uninor,All Local & STD SMS @ 20p/SMS
-15814,17,,28 days,Recharge of Rs. 17 by Uninor,All Local & STD SMS @ 10p/SMS
-15815,27,,28 days,Recharge of Rs. 27 by Uninor,400 Local/National SMS + Local/National SMS > 400 in a day @ 5p/SMS
-15816,34,,28 days,Recharge of Rs. 34 by Uninor,500 Local & 100 National SMS free after that 5p/SMS
-15817,44,,28 days,Recharge of Rs. 44 by Uninor,Free 50 Local/National SMS everyday after that 5p/SMS
-15818,57,,28 days,Recharge of Rs. 57 by Uninor,100 Local SMS per day
+id,cost,talktime,validity,comments
+15813,4,,15 days,All Local & STD SMS @ 20p/SMS
+15814,17,,28 days,All Local & STD SMS @ 10p/SMS
+15815,27,,28 days,400 Local/National SMS + Local/National SMS > 400 in a day @ 5p/SMS
+15816,34,,28 days,500 Local & 100 National SMS free after that 5p/SMS
+15817,44,,28 days,Free 50 Local/National SMS everyday after that 5p/SMS
+15818,57,,28 days,100 Local SMS per day

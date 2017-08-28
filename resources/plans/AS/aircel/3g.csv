@@ -1,15 +1,15 @@
-id,cost,talktime,validity,short description,long description
-136,22,,2 days,Recharge of Rs. 22 by Aircel,85 MB Data
-137,26,,3 days,Recharge of Rs. 26 by Aircel,130 MB Data
-138,34,,28 days,Recharge of Rs. 34 by Aircel,100 MB Data
-139,37,,4 days,Recharge of Rs. 37 by Aircel,200 MB Data
-140,45,,2 Night,Recharge of Rs. 45 by Aircel,2 GB Data  (12 AM-6AM)
-141,46,,5 days,Recharge of Rs. 46 by Aircel,500 MB Data
-142,88,,5 days,Recharge of Rs. 88 by Aircel,2 GB Data
-143,97,,28 days,Recharge of Rs. 97 by Aircel,300 MB Data
-144,151,,28 days,Recharge of Rs. 151 by Aircel,2 GB Data
-145,198,,28 days,Recharge of Rs. 198 by Aircel,3GB + 1GB (Night 12 AM- 6 AM)
-146,238,,28 days,Recharge of Rs. 238 by Aircel,2 GB Data + 1 GB (Night 12 AM- 6 AM)
-147,289,,28 days,Recharge of Rs. 289 by Aircel,10 GB 3G Data
-148,498,,56 days,Recharge of Rs. 498 by Aircel,30 GB 3G Data
-149,139,,21 days,Recharge of Rs. 139 by Aircel,Unlimited Local + STD Aircel Calls -- 50 MB 3G Data
+id,cost,talktime,validity,comments
+136,22,,2 days,85 MB Data
+137,26,,3 days,130 MB Data
+138,34,,28 days,100 MB Data
+139,37,,4 days,200 MB Data
+140,45,,2 Night,2 GB Data  (12 AM-6AM)
+141,46,,5 days,500 MB Data
+142,88,,5 days,2 GB Data
+143,97,,28 days,300 MB Data
+144,151,,28 days,2 GB Data
+145,198,,28 days,3GB + 1GB (Night 12 AM- 6 AM)
+146,238,,28 days,2 GB Data + 1 GB (Night 12 AM- 6 AM)
+147,289,,28 days,10 GB 3G Data
+148,498,,56 days,30 GB 3G Data
+149,139,,21 days,Unlimited Local + STD Aircel Calls -- 50 MB 3G Data

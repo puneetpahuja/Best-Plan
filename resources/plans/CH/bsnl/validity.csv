@@ -1,11 +1,11 @@
-id,cost,talktime,validity,short description,long description
-5272,36,,180 days,Recharge of Rs. 36 by BSNL,Validity Extension: SEC
-5273,37,,180 days,Recharge of Rs. 37 by BSNL,Validity Extension: MIN
-5274,49,,365 days,Recharge of Rs. 49 by BSNL,Nesam Gold_validity-extension
-5275,75,,180 days,Recharge of Rs. 75 by BSNL,Validity Extension: Anbu Jodi
-5276,94,,365 days,Recharge of Rs. 94 by BSNL,Validity Extension: DATA_94
-5277,98,,30 days,Recharge of Rs. 98 by BSNL,Validity Extension: JaiJawan
-5278,136,,730 days,Recharge of Rs. 136 by BSNL,Freedom_136_validity-extension
-5279,199,,180 days,Recharge of Rs. 199 by BSNL,RTP_FR_199 (Roaming pack)
-5280,276,,365 days,Recharge of Rs. 276 by BSNL,Family_TN_Police_CUG_Plan_276_validity-extension
-5281,666,,180 days,Recharge of Rs. 666 by BSNL,BSNL_SIXER_666_validity-extension
+id,cost,talktime,validity,comments
+5272,36,,180 days,Validity Extension: SEC
+5273,37,,180 days,Validity Extension: MIN
+5274,49,,365 days,Nesam Gold_validity-extension
+5275,75,,180 days,Validity Extension: Anbu Jodi
+5276,94,,365 days,Validity Extension: DATA_94
+5277,98,,30 days,Validity Extension: JaiJawan
+5278,136,,730 days,Freedom_136_validity-extension
+5279,199,,180 days,RTP_FR_199 (Roaming pack)
+5280,276,,365 days,Family_TN_Police_CUG_Plan_276_validity-extension
+5281,666,,180 days,BSNL_SIXER_666_validity-extension

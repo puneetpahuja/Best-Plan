@@ -1,34 +1,34 @@
-id,cost,talktime,validity,short description,long description
-6692,19,,7 days,Recharge of Rs. 19 by BSNL,Local On-net @ 20p/min
-6693,24,,90 days,Recharge of Rs. 24 by BSNL,All local On-net calls @ 1p/sec
-6694,28,,90 days,Recharge of Rs. 28 by BSNL,All local Onnet calls at 49p per Min
-6695,42,,21 days,Recharge of Rs. 42 by BSNL,For Per Min Plan: a. 10ps/min for On-Net voice calls (Local/STD)b. 30ps/min for Off-Net voice calls (Local/STD) -- For Per Sec Plan: a. 1ps/3secs for On-Net voice calls (Local/STD)b. 2ps/3 secs for Off-Net voice calls (Local/STD)
-6696,44,,25 days,Recharge of Rs. 44 by BSNL,Local any net 1.4P per 2Sec
-6697,45,,3 days,Recharge of Rs. 45 by BSNL,308 local on net Minutes
-6698,48,,6 days,Recharge of Rs. 48 by BSNL,4800 local or STD Seconds to any network 
-6699,55,,28 days,Recharge of Rs. 55 by BSNL,Local On-net @ 20p/min
-6700,58,,8 days,Recharge of Rs. 58 by BSNL,5600 Seconds Local or STD to any network
-6701,61,,28 days,Recharge of Rs. 61 by BSNL,All local& STD calls@40p/min
-6702,65,,27 days,Recharge of Rs. 65 by BSNL,STV Voice local onnet at 15p/min
-6703,69,,30 days,Recharge of Rs. 69 by BSNL,Local Call Anynet at 1 ps per 2 sec
-6704,76,,10 days,Recharge of Rs. 76 by BSNL,150 local minutes to any network 
-6705,88,,48 days,Recharge of Rs. 88 by BSNL,For Per Min Plan: a. 10ps/min for On-Net voice calls (Local/STD)b. 30ps/min for Off-Net voice calls (Local/STD) -- For Per Sec Plan: a. 1ps/3secs for On-Net voice calls (Local/STD)b. 2ps/3 secs for Off-Net voice calls (Local/STD)
-6706,94,,14 days,Recharge of Rs. 94 by BSNL,9500 local /STD Seconds to any network 
-6707,121,,30 days,Recharge of Rs. 121 by BSNL,1800 mins local or STD onnet night(11PM to 6AM)
-6708,122,,75 days,Recharge of Rs. 122 by BSNL,Local any net 1.4P per 2Sec
-6709,135,,28 days,Recharge of Rs. 135 by BSNL,275 min free to any network (Local/STD)
-6710,142,,30 days,Recharge of Rs. 142 by BSNL,U/L On net (local/STD) voice calls + U/L Off-net  (local/STD) voice calls (in Home LSA Only). The Free off-net (Local/STD) voice calls is limited to 20min/day -- This STV is applicable only for all free plan-149 customers.
-6711,159,,28 days,Recharge of Rs. 159 by BSNL,Free 20300 Sec Loc or STD calls to any network
-6712,164,,5 days,Recharge of Rs. 164 by BSNL,Unlimited(Local plus STD)onnet calls
-6713,181,,30 days,Recharge of Rs. 181 by BSNL,23800 Sec Local/STD Voice Calls to Any N/w
-6714,196,,28 days,Recharge of Rs. 196 by BSNL,21000 Local /STD Seconds Any- Net
-6715,201,,28 days,Recharge of Rs. 201 by BSNL,Free 26800 Secs  to Any Network Local and STD Calls
-6716,212,,28 days,Recharge of Rs. 212 by BSNL,600 Any net local Minutes
-6717,343,,24 days,Recharge of Rs. 343 by BSNL,UNLIMITED Local Onnet free
-6718,359,,60 days,Recharge of Rs. 359 by BSNL,52000 sec free to any network (Local/STD)
-6719,419,,75 days,Recharge of Rs. 419 by BSNL,1000 any net minutes
-6720,449,,84 days,Recharge of Rs. 449 by BSNL,1400 min free to any network (Local/STD)
-6721,574,,27 days,Recharge of Rs. 574 by BSNL,Unlimited Local on-Net Calls and 500 Minutes Free Local /STD Calls Any-Net
-6722,699,,28 days,Recharge of Rs. 699 by BSNL,UNLIMITED LOCAL and STD ONNET CALLS
-6723,894,,81 days,Recharge of Rs. 894 by BSNL,Unlimited Local OnNet calls
-6724,1494,,90 days,Recharge of Rs. 1494 by BSNL,Unlimited Local on-Net Calls and 1500 Minutes Free Local /STD Calls Any-Net
+id,cost,talktime,validity,comments
+6692,19,,7 days,Local On-net @ 20p/min
+6693,24,,90 days,All local On-net calls @ 1p/sec
+6694,28,,90 days,All local Onnet calls at 49p per Min
+6695,42,,21 days,For Per Min Plan: a. 10ps/min for On-Net voice calls (Local/STD)b. 30ps/min for Off-Net voice calls (Local/STD) -- For Per Sec Plan: a. 1ps/3secs for On-Net voice calls (Local/STD)b. 2ps/3 secs for Off-Net voice calls (Local/STD)
+6696,44,,25 days,Local any net 1.4P per 2Sec
+6697,45,,3 days,308 local on net Minutes
+6698,48,,6 days,4800 local or STD Seconds to any network 
+6699,55,,28 days,Local On-net @ 20p/min
+6700,58,,8 days,5600 Seconds Local or STD to any network
+6701,61,,28 days,All local& STD calls@40p/min
+6702,65,,27 days,STV Voice local onnet at 15p/min
+6703,69,,30 days,Local Call Anynet at 1 ps per 2 sec
+6704,76,,10 days,150 local minutes to any network 
+6705,88,,48 days,For Per Min Plan: a. 10ps/min for On-Net voice calls (Local/STD)b. 30ps/min for Off-Net voice calls (Local/STD) -- For Per Sec Plan: a. 1ps/3secs for On-Net voice calls (Local/STD)b. 2ps/3 secs for Off-Net voice calls (Local/STD)
+6706,94,,14 days,9500 local /STD Seconds to any network 
+6707,121,,30 days,1800 mins local or STD onnet night(11PM to 6AM)
+6708,122,,75 days,Local any net 1.4P per 2Sec
+6709,135,,28 days,275 min free to any network (Local/STD)
+6710,142,,30 days,U/L On net (local/STD) voice calls + U/L Off-net  (local/STD) voice calls (in Home LSA Only). The Free off-net (Local/STD) voice calls is limited to 20min/day -- This STV is applicable only for all free plan-149 customers.
+6711,159,,28 days,Free 20300 Sec Loc or STD calls to any network
+6712,164,,5 days,Unlimited(Local plus STD)onnet calls
+6713,181,,30 days,23800 Sec Local/STD Voice Calls to Any N/w
+6714,196,,28 days,21000 Local /STD Seconds Any- Net
+6715,201,,28 days,Free 26800 Secs  to Any Network Local and STD Calls
+6716,212,,28 days,600 Any net local Minutes
+6717,343,,24 days,UNLIMITED Local Onnet free
+6718,359,,60 days,52000 sec free to any network (Local/STD)
+6719,419,,75 days,1000 any net minutes
+6720,449,,84 days,1400 min free to any network (Local/STD)
+6721,574,,27 days,Unlimited Local on-Net Calls and 500 Minutes Free Local /STD Calls Any-Net
+6722,699,,28 days,UNLIMITED LOCAL and STD ONNET CALLS
+6723,894,,81 days,Unlimited Local OnNet calls
+6724,1494,,90 days,Unlimited Local on-Net Calls and 1500 Minutes Free Local /STD Calls Any-Net

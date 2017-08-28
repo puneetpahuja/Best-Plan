@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-2266,27,,90 days,Recharge of Rs. 27 by Airtel,National Roaming Benefit: Local & STD outgoing calls @60p/min
-2267,48,,28 days,Recharge of Rs. 48 by Airtel,Home Tariff charging while Roaming anywhere in India (28 Days)
+id,cost,talktime,validity,comments
+2266,27,,90 days,National Roaming Benefit: Local & STD outgoing calls @60p/min
+2267,48,,28 days,Home Tariff charging while Roaming anywhere in India (28 Days)

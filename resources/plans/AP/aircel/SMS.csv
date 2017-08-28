@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-41,9,,7 days,Recharge of Rs. 9 by Aircel,100 L/N SMS FREE 
-42,16,,14 days,Recharge of Rs. 16 by Aircel,200 L/N SMS
-43,23,,30 days,Recharge of Rs. 23 by Aircel,325 (A2A 200 A2O 125) L/N SMS 
-44,39,,30 days,Recharge of Rs. 39 by Aircel,600 L/N SMS; 1st SMS @ 30p
-45,46,,28 days,Recharge of Rs. 46 by Aircel,750 (A2A 500 A2O 250) L/N SMS
+id,cost,talktime,validity,comments
+41,9,,7 days,100 L/N SMS FREE 
+42,16,,14 days,200 L/N SMS
+43,23,,30 days,325 (A2A 200 A2O 125) L/N SMS 
+44,39,,30 days,600 L/N SMS; 1st SMS @ 30p
+45,46,,28 days,750 (A2A 500 A2O 250) L/N SMS

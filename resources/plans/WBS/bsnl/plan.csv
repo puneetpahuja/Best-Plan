@@ -1,9 +1,9 @@
-id,cost,talktime,validity,short description,long description
-7432,36,,180 days,Recharge of Rs. 36 by BSNL,Plan: Migration_PSP_36
-7433,37,,180 days,Recharge of Rs. 37 by BSNL,Migration_PMP_37:Plan validity will be extended by 180 days.Note-subscribers of withdrawn Per Minute/Per Second/ Lifetime/Student Special/General plans can also extend their validity using this voucher -- Free data 50MB to be consumed within 30 days
-7434,75,,180 days,Recharge of Rs. 75 by BSNL,Plan: Pyari Jodi 75
-7435,97,,90 days,Recharge of Rs. 97 by BSNL,60 min any net voice call for 30 days reduced call rate to 03 BSNL and 02 non BSNL local numbers:onnet at 20per min offnet at 40p per min and reduced SMS charges for all(including F and F numbers):-local SMS at 10p per SMS and STD SMS at 50p per SMS.Subscriber can change F and F numbers with a charge of Rs5 per change per number.STV benefit is avilable in home LSA only.
-7436,99,,30 days,Recharge of Rs. 99 by BSNL,Plan: Jai_Jawan_99
-7437,118,,365 days,Recharge of Rs. 118 by BSNL,StudentSpecialPlan_118_migration
-7438,199,,180 days,Recharge of Rs. 199 by BSNL,Plan: RTP_FR_199
-7439,666,,180 days,Recharge of Rs. 666 by BSNL,BSNL_SIXER_666_validity-extension
+id,cost,talktime,validity,comments
+7432,36,,180 days,Plan: Migration_PSP_36
+7433,37,,180 days,Migration_PMP_37:Plan validity will be extended by 180 days.Note-subscribers of withdrawn Per Minute/Per Second/ Lifetime/Student Special/General plans can also extend their validity using this voucher -- Free data 50MB to be consumed within 30 days
+7434,75,,180 days,Plan: Pyari Jodi 75
+7435,97,,90 days,60 min any net voice call for 30 days reduced call rate to 03 BSNL and 02 non BSNL local numbers:onnet at 20per min offnet at 40p per min and reduced SMS charges for all(including F and F numbers):-local SMS at 10p per SMS and STD SMS at 50p per SMS.Subscriber can change F and F numbers with a charge of Rs5 per change per number.STV benefit is avilable in home LSA only.
+7436,99,,30 days,Plan: Jai_Jawan_99
+7437,118,,365 days,StudentSpecialPlan_118_migration
+7438,199,,180 days,Plan: RTP_FR_199
+7439,666,,180 days,BSNL_SIXER_666_validity-extension

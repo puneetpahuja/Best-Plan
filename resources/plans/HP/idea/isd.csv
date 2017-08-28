@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-10297,7,,28 days,Recharge of Rs. 7 by Idea,Nepal voice calls @12p/sec
-10298,13,,56 days,Recharge of Rs. 13 by Idea,"US / Canada at 2p/secChina/ Hong Kong/ Tibet / UK-Landline / Aus-Landline / NZ-Landline at 4p/secMalaysia / Singapore / Thailand / France-Landline at 5p/secRussia at 8p/secNepal & Pakistan at 11p/secAustralia-Mobile / Baharain / Kuwait / Saudi-Arabia / UAE / Oman-Landline / France Mobile at 13p/sec Israel, Sri-Lanka & Bhutan at 15p/secOman Mobile / NZ Mobile at 24p/sec"
-10299,34,,56 days,Recharge of Rs. 34 by Idea,US/Canada at 75p/minChina / Tibet at Re. 1/minHong-Kong & Bangladesh at Rs. 2.99/minNepal at Rs. 6/minItaly at Rs. 9/min
-10300,596,,10 days,Recharge of Rs. 596 by Idea,"International Roaming Pack for UAE** NO Talktime -- Incoming calls at Rs. 30/min & Outgoing calls at Rs. Rs.30/min -- Outgoing SMS at Rs. 25 per SMS, Incoming SMS Free"
-10301,1496,,30 days,Recharge of Rs. 1496 by Idea,"International Roaming Pack for UAE** NO Talktime -- 30 minutes Incoming Free. Post Free minutes Incoming calls at Rs.30/min & Outgoing calls at Rs.30/min -- Outgoing SMS at Rs.25 per SMS, Incoming SMS Free"
+id,cost,talktime,validity,comments
+10297,7,,28 days,Nepal voice calls @12p/sec
+10298,13,,56 days,"US / Canada at 2p/secChina/ Hong Kong/ Tibet / UK-Landline / Aus-Landline / NZ-Landline at 4p/secMalaysia / Singapore / Thailand / France-Landline at 5p/secRussia at 8p/secNepal & Pakistan at 11p/secAustralia-Mobile / Baharain / Kuwait / Saudi-Arabia / UAE / Oman-Landline / France Mobile at 13p/sec Israel, Sri-Lanka & Bhutan at 15p/secOman Mobile / NZ Mobile at 24p/sec"
+10299,34,,56 days,US/Canada at 75p/minChina / Tibet at Re. 1/minHong-Kong & Bangladesh at Rs. 2.99/minNepal at Rs. 6/minItaly at Rs. 9/min
+10300,596,,10 days,"International Roaming Pack for UAE** NO Talktime -- Incoming calls at Rs. 30/min & Outgoing calls at Rs. Rs.30/min -- Outgoing SMS at Rs. 25 per SMS, Incoming SMS Free"
+10301,1496,,30 days,"International Roaming Pack for UAE** NO Talktime -- 30 minutes Incoming Free. Post Free minutes Incoming calls at Rs.30/min & Outgoing calls at Rs.30/min -- Outgoing SMS at Rs.25 per SMS, Incoming SMS Free"

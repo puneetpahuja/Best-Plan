@@ -1,15 +1,15 @@
-id,cost,talktime,validity,short description,long description
-3784,33,,28 days,Recharge of Rs. 33 by Airtel,"US,Canada,Singapore,UK-FL @ Rs1.99/mHongkong, China, Aus/NZ-FL @ Rs2.99/m"
-3785,63,,28 days,Recharge of Rs. 63 by Airtel,ISD calls for US Canada: 27000 Second @ 1.2p/Sec 
-3786,492,,1 day,Recharge of Rs. 492 by Airtel,Free benefits : 100Min incoming -- 500 MB Data -- 100 SMS/Day -- 100Min Loc/Call to India
-3787,647,,1 day,Recharge of Rs. 647 by Airtel,Free benefits : 100Min incoming -- 500 MB Data -- 100 SMS/Day -- 100Min Loc/Call to India
-3788,649,,1 day,Recharge of Rs. 649 by Airtel,"100min incoming,100min Local/call to India -- 500 MB data -- 100 SMS/day"
-3789,995,,1 day,Recharge of Rs. 995 by Airtel,"100min incoming, 100min Local/call to India -- 500 MB data -- 100SMS/day -- Till 12:00 midnight. "
-3790,1199,,10 days,Recharge of Rs. 1199 by Airtel,Free benefits: unlimited incoming -- 3 GB data -- 100 sms/Day -- 250min loc/call to India
-3791,2499,,30 days,Recharge of Rs. 2499 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-3792,2998,,10 days,Recharge of Rs. 2998 by Airtel,Free benefits: 250 min incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
-3793,2999,,10 days,Recharge of Rs. 2999 by Airtel,Free benefits: unlimited incoming -- 3 GB data -- 100 sms/Day -- 250min loc/call to India
-3794,3995,,10 days,Recharge of Rs. 3995 by Airtel,Free benefits: unlimited incoming -- 3 GB data -- 100 sms/Day -- 250min loc/call to India
-3795,3996,,30 days,Recharge of Rs. 3996 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-3796,3998,,30 days,Recharge of Rs. 3998 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-3797,6999,,30 days,Recharge of Rs. 6999 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+id,cost,talktime,validity,comments
+3784,33,,28 days,"US,Canada,Singapore,UK-FL @ Rs1.99/mHongkong, China, Aus/NZ-FL @ Rs2.99/m"
+3785,63,,28 days,ISD calls for US Canada: 27000 Second @ 1.2p/Sec 
+3786,492,,1 day,Free benefits : 100Min incoming -- 500 MB Data -- 100 SMS/Day -- 100Min Loc/Call to India
+3787,647,,1 day,Free benefits : 100Min incoming -- 500 MB Data -- 100 SMS/Day -- 100Min Loc/Call to India
+3788,649,,1 day,"100min incoming,100min Local/call to India -- 500 MB data -- 100 SMS/day"
+3789,995,,1 day,"100min incoming, 100min Local/call to India -- 500 MB data -- 100SMS/day -- Till 12:00 midnight. "
+3790,1199,,10 days,Free benefits: unlimited incoming -- 3 GB data -- 100 sms/Day -- 250min loc/call to India
+3791,2499,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+3792,2998,,10 days,Free benefits: 250 min incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
+3793,2999,,10 days,Free benefits: unlimited incoming -- 3 GB data -- 100 sms/Day -- 250min loc/call to India
+3794,3995,,10 days,Free benefits: unlimited incoming -- 3 GB data -- 100 sms/Day -- 250min loc/call to India
+3795,3996,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+3796,3998,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+3797,6999,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India

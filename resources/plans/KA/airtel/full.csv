@@ -1,12 +1,12 @@
-id,cost,talktime,validity,short description,long description
-2534,350,350,N.A,Recharge of Rs. 350 by Airtel,Talktime of Rs. 350 for Rs. 350 recharge by Airtel
-2535,500,500,N.A,Recharge of Rs. 500 by Airtel,Talktime of Rs. 500 for Rs. 500 recharge by Airtel
-2536,700,700,N.A,Recharge of Rs. 700 by Airtel,Talktime of Rs. 700 for Rs. 700 recharge by Airtel
-2538,800,800,N.A,Recharge of Rs. 800 by Airtel,Talktime of Rs. 800 for Rs. 800 recharge by Airtel
-2539,1000,1000,N.A,Recharge of Rs. 1000 by Airtel,Talktime of Rs. 1000 for Rs. 1000 recharge by Airtel
-2540,1500,1550,N.A,Recharge of Rs. 1500 by Airtel,Talktime of Rs. 1550 for Rs. 1500 recharge by Airtel
-2541,2000,2000,N.A,Recharge of Rs. 2000 by Airtel,Talktime of Rs. 2000 for Rs. 2000 recharge by Airtel
-2542,2500,2600,N.A,Recharge of Rs. 2500 by Airtel,Talktime of Rs. 2600 for Rs. 2500 recharge by Airtel
-2543,3000,3000,N.A,Recharge of Rs. 3000 by Airtel,Talktime of Rs. 3000 for Rs. 3000 recharge by Airtel
-2544,4000,4100,N.A,Recharge of Rs. 4000 by Airtel,Talktime of Rs. 4100 for Rs. 4000 recharge by Airtel
-2545,5000,5000,N.A,Recharge of Rs. 5000 by Airtel,Talktime of Rs. 5000 for Rs. 5000 recharge by Airtel
+id,cost,talktime,validity,comments
+2534,350,350,N.A,Talktime of Rs. 350 for Rs. 350 recharge by Airtel
+2535,500,500,N.A,Talktime of Rs. 500 for Rs. 500 recharge by Airtel
+2536,700,700,N.A,Talktime of Rs. 700 for Rs. 700 recharge by Airtel
+2538,800,800,N.A,Talktime of Rs. 800 for Rs. 800 recharge by Airtel
+2539,1000,1000,N.A,Talktime of Rs. 1000 for Rs. 1000 recharge by Airtel
+2540,1500,1550,N.A,Talktime of Rs. 1550 for Rs. 1500 recharge by Airtel
+2541,2000,2000,N.A,Talktime of Rs. 2000 for Rs. 2000 recharge by Airtel
+2542,2500,2600,N.A,Talktime of Rs. 2600 for Rs. 2500 recharge by Airtel
+2543,3000,3000,N.A,Talktime of Rs. 3000 for Rs. 3000 recharge by Airtel
+2544,4000,4100,N.A,Talktime of Rs. 4100 for Rs. 4000 recharge by Airtel
+2545,5000,5000,N.A,Talktime of Rs. 5000 for Rs. 5000 recharge by Airtel

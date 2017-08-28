@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-203,44,,28 days,Recharge of Rs. 44 by Aircel,"825 Local/National SMS (Post expiry of 825 SMS, All Local/National SMS @ 5p/SMS)"
+id,cost,talktime,validity,comments
+203,44,,28 days,"825 Local/National SMS (Post expiry of 825 SMS, All Local/National SMS @ 5p/SMS)"

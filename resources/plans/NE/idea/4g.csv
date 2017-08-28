@@ -1,18 +1,18 @@
-id,cost,talktime,validity,short description,long description
-11116,46,,7 days,Recharge of Rs. 46 by Idea,150 MB 4G/3G Data -- Overage: 4p/10kb
-11117,123,,28 Nights,Recharge of Rs. 123 by Idea,1 GB 4G/3G -- Overage: 4p/10kb
-11118,198,,30 days,Recharge of Rs. 198 by Idea,800 MB 4G/3G Data -- Overage: 4p/10kb
-11119,247,,30 days,Recharge of Rs. 247 by Idea,1 GB 4G/3G Data -- Overage: 4p/10kb
-11120,251,,28 days,Recharge of Rs. 251 by Idea,2.5 GB 4G/3G data -- Overage: 4p/10kb -- Available after Long term plan recharge of MRP 748
-11121,251,,28 days,Recharge of Rs. 251 by Idea,5 GB 4G/3G data -- Overage: 4p/10kb -- Available after Long Term plan recharge of MRP 1498
-11122,348,,30 days,Recharge of Rs. 348 by Idea,1.5 GB 3G/4G Data -- Overage: 4p/10kb
-11123,448,,30 days,Recharge of Rs. 448 by Idea,2 GB 3G/4G Data -- Overage: 4p/10kb
-11124,498,,28 days,Recharge of Rs. 498 by Idea,"Instant 4 GB 3G/4G Data (28 Days) -- For 6 Months, enjoy 1 GB 3G/4G data for 28 Days @Rs.121 -- Overage: 4p/10kb"
-11125,649,,30 days,Recharge of Rs. 649 by Idea,3 GB Unlimited 3G/4G Data -- Overage: 4p/10kb
-11126,748,,28 days,Recharge of Rs. 748 by Idea,"Instant 7 GB 4G/3G Data -- For next 6 months get 1 GB 4G/3G data @ Just Rs 106, 2.5 GB 4G/3G data @ Just @Rs251 -- Overage: 4p/10kb"
-11127,749,,30 days,Recharge of Rs. 749 by Idea,4 GB Unlimited 3G/4G Data -- Overage: 4p/10kb
-11128,949,,30 days,Recharge of Rs. 949 by Idea,6 GB Unlimited 3G/4G Data -- Overage: 4p/10kb
-11129,1249,,30 days,Recharge of Rs. 1249 by Idea,9 GB Unlimited 3G/4G Data -- Overage: 4p/10kb
-11130,1498,,28 days,Recharge of Rs. 1498 by Idea,"Instant 15 GB 4G/3G data benefit -- For next 12 Months get 1 GB 4G/3G data @ Just Rs 54, 2 GB 4G/3G data @ just Rs106, 5 GB 4G/3G data @ just Rs 251 -- Overage: 4p/10kb"
-11131,1499,,30 days,Recharge of Rs. 1499 by Idea,10 GB Unlimited 3G/4G Data -- Overage: 4p/10kb
-11132,1549,,30 days,Recharge of Rs. 1549 by Idea,12 GB Unlimited 3G/4G Data -- Overage: 4p/10kb
+id,cost,talktime,validity,comments
+11116,46,,7 days,150 MB 4G/3G Data -- Overage: 4p/10kb
+11117,123,,28 Nights,1 GB 4G/3G -- Overage: 4p/10kb
+11118,198,,30 days,800 MB 4G/3G Data -- Overage: 4p/10kb
+11119,247,,30 days,1 GB 4G/3G Data -- Overage: 4p/10kb
+11120,251,,28 days,2.5 GB 4G/3G data -- Overage: 4p/10kb -- Available after Long term plan recharge of MRP 748
+11121,251,,28 days,5 GB 4G/3G data -- Overage: 4p/10kb -- Available after Long Term plan recharge of MRP 1498
+11122,348,,30 days,1.5 GB 3G/4G Data -- Overage: 4p/10kb
+11123,448,,30 days,2 GB 3G/4G Data -- Overage: 4p/10kb
+11124,498,,28 days,"Instant 4 GB 3G/4G Data (28 Days) -- For 6 Months, enjoy 1 GB 3G/4G data for 28 Days @Rs.121 -- Overage: 4p/10kb"
+11125,649,,30 days,3 GB Unlimited 3G/4G Data -- Overage: 4p/10kb
+11126,748,,28 days,"Instant 7 GB 4G/3G Data -- For next 6 months get 1 GB 4G/3G data @ Just Rs 106, 2.5 GB 4G/3G data @ Just @Rs251 -- Overage: 4p/10kb"
+11127,749,,30 days,4 GB Unlimited 3G/4G Data -- Overage: 4p/10kb
+11128,949,,30 days,6 GB Unlimited 3G/4G Data -- Overage: 4p/10kb
+11129,1249,,30 days,9 GB Unlimited 3G/4G Data -- Overage: 4p/10kb
+11130,1498,,28 days,"Instant 15 GB 4G/3G data benefit -- For next 12 Months get 1 GB 4G/3G data @ Just Rs 54, 2 GB 4G/3G data @ just Rs106, 5 GB 4G/3G data @ just Rs 251 -- Overage: 4p/10kb"
+11131,1499,,30 days,10 GB Unlimited 3G/4G Data -- Overage: 4p/10kb
+11132,1549,,30 days,12 GB Unlimited 3G/4G Data -- Overage: 4p/10kb

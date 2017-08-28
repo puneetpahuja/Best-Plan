@@ -1,23 +1,23 @@
-id,cost,talktime,validity,short description,long description
-6511,14,15,2 days,Recharge of Rs. 14 by BSNL,15 MB 2G/3G Data
-6512,20,20,N.A,Recharge of Rs. 20 by BSNL,Full Talk value offer equal to Rs.20 from 15 to 20 Aug 2017. Other days talktime 14.95
-6513,40,40,N.A,Recharge of Rs. 40 by BSNL,Full Talk value offer equal to Rs.40 from 15 to 20 Aug 2017. Other days talktime 30.9
-6514,60,60,N.A,Recharge of Rs. 60 by BSNL,Full Talk value offer equal to Rs.60 from 15 to 20 Aug 2017. Other days talktime 47.85
-6515,80,80,N.A,Recharge of Rs. 80 by BSNL,Full Talk value offer equal to Rs.80 from 15 to 20 Aug 2017. Other days talktime 64.8
-6517,120,130,N.A,Recharge of Rs. 120 by BSNL,Talk value offer equal to Rs.130 from 15 to 20 Aug 2017. Other days talktime 98.69
-6518,160,180,N.A,Recharge of Rs. 160 by BSNL,Talk value offer equal to Rs.180 from 15 to 20 Aug 2017. Other days talktime 132.59
-6520,220,250,N.A,Recharge of Rs. 220 by BSNL,Talk value offer equal to Rs.250 from 15 to 20 Aug 2017. Other days talktime 220
-6521,497,497,30 days,Recharge of Rs. 497 by BSNL,2 GB 2G/3G Data
-6522,500,500,N.A,Recharge of Rs. 500 by BSNL,"Applicable to Per Sec, Per Min, Express Plan-25, Pyari Jodi, Jai Jawan, Plan-8, Data Plan-96 only. For others talktime 420.73"
-6529,43,20,21 days,Recharge of Rs. 43 by BSNL,BSNL Calls 1p/3 Sec + Other Calls 2p/3 Sec -- Talktime in main balance
-6530,48,11,28 days,Recharge of Rs. 48 by BSNL,All BSNL Calls @ 5p/Min (11PM to 6AM) -- Talktime in main balance
-6532,71,50,28 days,Recharge of Rs. 71 by BSNL,All Calls @ 30p/Min -- Talktime in main balance
-6534,95,50,28 days,Recharge of Rs. 95 by BSNL,BSNL Calls @ 10p/Min + Other Calls @ 30p/Min -- Talktime in main balance
-6536,111,90,20 days,Recharge of Rs. 111 by BSNL,4200 sec talk time to BSNL numbers
-6538,177,50,5 days,Recharge of Rs. 177 by BSNL,1 GB 2G/3G Data. Free Data usage is also available in national roaming but in BSNL network only.Data charges beyond free usage is 3paise 10KB.However Data charges while roaming in MTNL area is 3paise KB.
-6539,222,190,40 days,Recharge of Rs. 222 by BSNL,6600sec Talk Time to BSNL Nos
-6542,301,300,28 days,Recharge of Rs. 301 by BSNL,Dedicated Balance Rs.300 -- All Calls in Home LSA and during Roaming 25p/Min
-6545,501,500,28 days,Recharge of Rs. 501 by BSNL,Dedicated Balance Rs.500. -- All BSNL Calls @ 10p/Min and other Calls 25p/Min (in Home LSA and during Roaming)
-6550,77,80,10 days,Recharge of Rs. 77 by BSNL,40 MB 2G/3G Data
-6551,451,80,60 days,Recharge of Rs. 451 by BSNL,2 GB 2G/3G Data
-6554,91,,30 days,Recharge of Rs. 91 by BSNL,120 Min Local/STD and 40 SMS free
+id,cost,talktime,validity,comments
+6511,14,15,2 days,15 MB 2G/3G Data
+6512,20,20,N.A,Full Talk value offer equal to Rs.20 from 15 to 20 Aug 2017. Other days talktime 14.95
+6513,40,40,N.A,Full Talk value offer equal to Rs.40 from 15 to 20 Aug 2017. Other days talktime 30.9
+6514,60,60,N.A,Full Talk value offer equal to Rs.60 from 15 to 20 Aug 2017. Other days talktime 47.85
+6515,80,80,N.A,Full Talk value offer equal to Rs.80 from 15 to 20 Aug 2017. Other days talktime 64.8
+6517,120,130,N.A,Talk value offer equal to Rs.130 from 15 to 20 Aug 2017. Other days talktime 98.69
+6518,160,180,N.A,Talk value offer equal to Rs.180 from 15 to 20 Aug 2017. Other days talktime 132.59
+6520,220,250,N.A,Talk value offer equal to Rs.250 from 15 to 20 Aug 2017. Other days talktime 220
+6521,497,497,30 days,2 GB 2G/3G Data
+6522,500,500,N.A,"Applicable to Per Sec, Per Min, Express Plan-25, Pyari Jodi, Jai Jawan, Plan-8, Data Plan-96 only. For others talktime 420.73"
+6529,43,20,21 days,BSNL Calls 1p/3 Sec + Other Calls 2p/3 Sec -- Talktime in main balance
+6530,48,11,28 days,All BSNL Calls @ 5p/Min (11PM to 6AM) -- Talktime in main balance
+6532,71,50,28 days,All Calls @ 30p/Min -- Talktime in main balance
+6534,95,50,28 days,BSNL Calls @ 10p/Min + Other Calls @ 30p/Min -- Talktime in main balance
+6536,111,90,20 days,4200 sec talk time to BSNL numbers
+6538,177,50,5 days,1 GB 2G/3G Data. Free Data usage is also available in national roaming but in BSNL network only.Data charges beyond free usage is 3paise 10KB.However Data charges while roaming in MTNL area is 3paise KB.
+6539,222,190,40 days,6600sec Talk Time to BSNL Nos
+6542,301,300,28 days,Dedicated Balance Rs.300 -- All Calls in Home LSA and during Roaming 25p/Min
+6545,501,500,28 days,Dedicated Balance Rs.500. -- All BSNL Calls @ 10p/Min and other Calls 25p/Min (in Home LSA and during Roaming)
+6550,77,80,10 days,40 MB 2G/3G Data
+6551,451,80,60 days,2 GB 2G/3G Data
+6554,91,,30 days,120 Min Local/STD and 40 SMS free

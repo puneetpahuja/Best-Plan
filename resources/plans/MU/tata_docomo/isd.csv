@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-8587,21,,28 days,Recharge of Rs. 21 by Docomo,ISD Tariff:Bangladesh Calls @ 5p/ secPakistan Calls @ 11p/ secNepal Calls @ 15p/ secSrilanka Calls @ 15p/ sec
-8588,28,,28 days,Recharge of Rs. 28 by Docomo,Calls to UAE & Yemen @22p/ sec -- Calls to Saudi Arabia/ Bahrain/Kuwait @15p/ sec
-8589,59,,28 days,Recharge of Rs. 59 by Docomo,Calls to USA @ Rs1.9/min -- Calls to Canada @ Rs2.4/min
+id,cost,talktime,validity,comments
+8587,21,,28 days,ISD Tariff:Bangladesh Calls @ 5p/ secPakistan Calls @ 11p/ secNepal Calls @ 15p/ secSrilanka Calls @ 15p/ sec
+8588,28,,28 days,Calls to UAE & Yemen @22p/ sec -- Calls to Saudi Arabia/ Bahrain/Kuwait @15p/ sec
+8589,59,,28 days,Calls to USA @ Rs1.9/min -- Calls to Canada @ Rs2.4/min

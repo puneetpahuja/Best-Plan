@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-15698,13,,180 days,Recharge of Rs. 13 by Indicom,All Local and STD calls @ 1.2p/ sec
-15699,775,,180 days,Recharge of Rs. 775 by Indicom,All Incoming Calls 0 Paisa in Roaming
+id,cost,talktime,validity,comments
+15698,13,,180 days,All Local and STD calls @ 1.2p/ sec
+15699,775,,180 days,All Incoming Calls 0 Paisa in Roaming

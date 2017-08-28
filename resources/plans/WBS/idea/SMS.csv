@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-12293,13,,9 days,Recharge of Rs. 13 by Idea,175 Local/National SMS - 25 Idea to Idea Local/National SMS & 150 Idea to All Local/National SMS.
-12294,18,,14 days,Recharge of Rs. 18 by Idea,250 Local/National SMS - 25 Idea to Idea Local/National SMS & 225 Idea to All Local/National SMS.
-12295,27,,28 days,Recharge of Rs. 27 by Idea,375 Local/National SMS.
-12296,44,,28 days,Recharge of Rs. 44 by Idea,600 Local/National SMS - 25 Idea to Idea Local/National SMS & 575 Idea to All Local/National SMS 
-12297,57,,45 days,Recharge of Rs. 57 by Idea,775 Local/National SMS - 25 Idea to Idea Local/National SMS & 750 Idea to All Local/National SMS
-12298,63,,28 days,Recharge of Rs. 63 by Idea,Unlimited SMS
+id,cost,talktime,validity,comments
+12293,13,,9 days,175 Local/National SMS - 25 Idea to Idea Local/National SMS & 150 Idea to All Local/National SMS.
+12294,18,,14 days,250 Local/National SMS - 25 Idea to Idea Local/National SMS & 225 Idea to All Local/National SMS.
+12295,27,,28 days,375 Local/National SMS.
+12296,44,,28 days,600 Local/National SMS - 25 Idea to Idea Local/National SMS & 575 Idea to All Local/National SMS 
+12297,57,,45 days,775 Local/National SMS - 25 Idea to Idea Local/National SMS & 750 Idea to All Local/National SMS
+12298,63,,28 days,Unlimited SMS

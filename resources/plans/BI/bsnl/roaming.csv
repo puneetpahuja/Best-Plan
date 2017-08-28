@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-5095,13,,1 day,Recharge of Rs. 13 by BSNL,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan
-5096,32,,6 days,Recharge of Rs. 32 by BSNL,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan
-5097,79,,28 days,Recharge of Rs. 79 by BSNL,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan
+id,cost,talktime,validity,comments
+5095,13,,1 day,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan
+5096,32,,6 days,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan
+5097,79,,28 days,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan

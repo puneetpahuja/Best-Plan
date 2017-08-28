@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-2738,297,,28 days,Recharge of Rs. 297 by Airtel,400 Local/STD Mobile mins -- 1 GB 4G/3G Data. 1 GB Happy Hours Night data (3AM to 5AM)
-2739,345,,28 days,Recharge of Rs. 345 by Airtel,Unlimited all Local + STD calls -- 1 GB/day 3G/4G data -- T&C apply.
-2740,549,,28 days,Recharge of Rs. 549 by Airtel,Unlimited all Local + STD calls -- 2 GB/day 3G/4G data -- T&C apply.
-2741,799,,28 days,Recharge of Rs. 799 by Airtel,Unlimited all Local + STD calls -- 3 GB/day 3G/4G data -- T&C apply.
-2742,999,,28 days,Recharge of Rs. 999 by Airtel,Unlimited all Local + STD calls -- 4 GB/day 3G/4G data -- T&C apply.
+id,cost,talktime,validity,comments
+2738,297,,28 days,400 Local/STD Mobile mins -- 1 GB 4G/3G Data. 1 GB Happy Hours Night data (3AM to 5AM)
+2739,345,,28 days,Unlimited all Local + STD calls -- 1 GB/day 3G/4G data -- T&C apply.
+2740,549,,28 days,Unlimited all Local + STD calls -- 2 GB/day 3G/4G data -- T&C apply.
+2741,799,,28 days,Unlimited all Local + STD calls -- 3 GB/day 3G/4G data -- T&C apply.
+2742,999,,28 days,Unlimited all Local + STD calls -- 4 GB/day 3G/4G data -- T&C apply.

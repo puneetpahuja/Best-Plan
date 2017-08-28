@@ -1,28 +1,28 @@
-id,cost,talktime,validity,short description,long description
-3509,2,,84 days,Recharge of Rs. 2 by Airtel,Local and STD mobile call @ 1p/sec
-3510,8,,7 days,Recharge of Rs. 8 by Airtel,Local mobile call @ 30p/min 
-3511,16,,27 days,Recharge of Rs. 16 by Airtel,Local and STD Mobile call @ 1p/sec
-3512,19,,20 days,Recharge of Rs. 19 by Airtel,"Local Mobile Call @ 30p,Val-20 Days"
-3513,22,,27 days,Recharge of Rs. 22 by Airtel,Local Airtel Call @ 20p/min
-3514,24,,27 days,Recharge of Rs. 24 by Airtel,Local Mobile Call @ 30p
-3515,27,,3 days,Recharge of Rs. 27 by Airtel,75 local Airtel minutes.
-3516,28,,3 days,Recharge of Rs. 28 by Airtel,45 Local Mobile Mins
-3517,32,,54 days,Recharge of Rs. 32 by Airtel,Local and STD Mobile call @ 1p/sec 
-3518,37,,27 days,Recharge of Rs. 37 by Airtel,Local A2A Call @10p/minl
-3519,38,,54 days,Recharge of Rs. 38 by Airtel,Local Mobile call @ 30p/min
-3520,44,,81 days,Recharge of Rs. 44 by Airtel,Local Mobile Call @ 40p
-3521,45,,5 days,Recharge of Rs. 45 by Airtel,110 Local Airtel to Airtel minutes 
-3522,46,,27 days,Recharge of Rs. 46 by Airtel,Local and STD Mobile Call @ 50p/min
-3523,78,,28 days,Recharge of Rs. 78 by Airtel,Local mobile calls @35p/min
-3524,95,,28 days,Recharge of Rs. 95 by Airtel,Local mobile call @30p/min
-3525,97,,6 days,Recharge of Rs. 97 by Airtel,400 Local and STD mobile min
-3526,105,,14 days,Recharge of Rs. 105 by Airtel,185 mins Local mobile call 
-3527,128,,13 days,Recharge of Rs. 128 by Airtel,400 Local + STD Mobile Mins 
-3528,129,,13 days,Recharge of Rs. 129 by Airtel,410 Local + STD Mobile Mins 
-3529,159,,7 days,Recharge of Rs. 159 by Airtel,240 All Local and STD (mobile + Landline) mins
-3530,195,,27 days,Recharge of Rs. 195 by Airtel,500 Local and STD mobile min
-3531,196,,2 days,Recharge of Rs. 196 by Airtel,Unlimited Local & STD all calls
-3532,209,,28 days,Recharge of Rs. 209 by Airtel,460 Local mobile mins
-3533,219,,28 days,Recharge of Rs. 219 by Airtel,430 mins Local and STD mobile mins
-3534,247,,14 days,Recharge of Rs. 247 by Airtel,Unlimited Local mobile calls
-3535,269,,10 days,Recharge of Rs. 269 by Airtel,Unlimited Local airtel calls
+id,cost,talktime,validity,comments
+3509,2,,84 days,Local and STD mobile call @ 1p/sec
+3510,8,,7 days,Local mobile call @ 30p/min 
+3511,16,,27 days,Local and STD Mobile call @ 1p/sec
+3512,19,,20 days,"Local Mobile Call @ 30p,Val-20 Days"
+3513,22,,27 days,Local Airtel Call @ 20p/min
+3514,24,,27 days,Local Mobile Call @ 30p
+3515,27,,3 days,75 local Airtel minutes.
+3516,28,,3 days,45 Local Mobile Mins
+3517,32,,54 days,Local and STD Mobile call @ 1p/sec 
+3518,37,,27 days,Local A2A Call @10p/minl
+3519,38,,54 days,Local Mobile call @ 30p/min
+3520,44,,81 days,Local Mobile Call @ 40p
+3521,45,,5 days,110 Local Airtel to Airtel minutes 
+3522,46,,27 days,Local and STD Mobile Call @ 50p/min
+3523,78,,28 days,Local mobile calls @35p/min
+3524,95,,28 days,Local mobile call @30p/min
+3525,97,,6 days,400 Local and STD mobile min
+3526,105,,14 days,185 mins Local mobile call 
+3527,128,,13 days,400 Local + STD Mobile Mins 
+3528,129,,13 days,410 Local + STD Mobile Mins 
+3529,159,,7 days,240 All Local and STD (mobile + Landline) mins
+3530,195,,27 days,500 Local and STD mobile min
+3531,196,,2 days,Unlimited Local & STD all calls
+3532,209,,28 days,460 Local mobile mins
+3533,219,,28 days,430 mins Local and STD mobile mins
+3534,247,,14 days,Unlimited Local mobile calls
+3535,269,,10 days,Unlimited Local airtel calls

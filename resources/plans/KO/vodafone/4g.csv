@@ -1,27 +1,27 @@
-id,cost,talktime,validity,short description,long description
-17441,18,,1 hour,Recharge of Rs. 18 by Vodafone,Unlimited 3G/4G Data
-17442,24,,3 days,Recharge of Rs. 24 by Vodafone,95 MB 4G/3G Data 
-17443,28,,1 Night,Recharge of Rs. 28 by Vodafone,Unlimited 3G/4G Night data (1am to 6am) 
-17444,42,,7 days,Recharge of Rs. 42 by Vodafone,170 MB 4G/3G Data 
-17447,129,,7 days,Recharge of Rs. 129 by Vodafone,1GB 4G/3G 7 nights (12am-6am)
-17449,169,,28 days,Recharge of Rs. 169 by Vodafone,Get 1GB 4G/3G  28 nights (12am-6am)
-17450,179,,28 days,Recharge of Rs. 179 by Vodafone,1 GB 4G/3G Data
-17451,251,,28 days,Recharge of Rs. 251 by Vodafone,"2 GB 4G/3G Data -- Also, you will be credited Additional 2 GB with 4G Handset and 4G SIM"
-17452,347,,28 days,Recharge of Rs. 347 by Vodafone,1GB/Day 4G/3G Data -- Unlimited ALL Mobile & Landline Calls. Limited Period Offer for ALL Handsets
-17453,349,,28 days,Recharge of Rs. 349 by Vodafone,"3 GB 4G/3G Data -- Also, you will be credited Additional 3 GB with 4G Handset and 4G SIM"
-17454,355,,28 days,Recharge of Rs. 355 by Vodafone,2.5GB 4G/3G Data
-17455,449,,28 days,Recharge of Rs. 449 by Vodafone,"4 GB 4G/3G Data -- Also, you will be credited Additional 5 GB with 4G Handset and 4G SIM"
-17456,451,,28 days,Recharge of Rs. 451 by Vodafone,2GB 4G/3G Internet
-17457,455,,28 days,Recharge of Rs. 455 by Vodafone,3.5GB 4G/3G Data
-17458,498,,28 days,Recharge of Rs. 498 by Vodafone,2 GB 4G/3G Data -- 700 Mins Local and STD for 4 weeks
-17459,549,,28 days,Recharge of Rs. 549 by Vodafone,"5 GB 4G/3G Data -- Also, you will be credited Additional 6GB with 4G Handset and 4G SIM"
-17460,649,,28 days,Recharge of Rs. 649 by Vodafone,"6.5 GB 4G/3G Data -- Also, you will be credited Additional 6.5GB with 4G Handset and 4G SIM"
-17462,748,,28 days,Recharge of Rs. 748 by Vodafone,"Get 3 GB 4G/3G Data -- Subsequently, recharge with Rs 97 and get 1 GB 4G/3G(4 weeks) for 6 months"
-17463,849,,28 days,Recharge of Rs. 849 by Vodafone,7GB 4G/3G Data 
-17466,999,,28 days,Recharge of Rs. 999 by Vodafone,"11 GB 4G/3G Data -- Also, you will be credited Additional 11GB with 4G Handset and 4G SIM"
-17467,1199,,28 days,Recharge of Rs. 1199 by Vodafone,"13 GB 4G/3G Data -- Also, you will be credited Additional 13GB with 4G Handset and 4G SIM"
-17469,1499,,28 days,Recharge of Rs. 1499 by Vodafone,15 GB 4G/3G Data 
-17470,1501,,28 days,Recharge of Rs. 1501 by Vodafone,"Get 15 GB 4G/3G Data (28 days) -- Subsequently, recharge with Rs55 for 1 GB (4weeks) or Rs109 for 2 GB (4weeks) or Rs248 for 5 GB (4 weeks) for 12 months"
-17471,1999,,28 days,Recharge of Rs. 1999 by Vodafone,20 GB 4G/3G Data 
-17472,88,,7 days,Recharge of Rs. 88 by Vodafone,"Unlimited local + std V2V + 100 Min V2O local + std calls -- 250 MB 3G/4G Data (4G Handset), 50 MB for Other Handset"
-17473,148,,30 days,Recharge of Rs. 148 by Vodafone,"Unlmtd L+S V2V mobile calls -- 50 MB 3G/4G data. For 4G handset only, get 300 MB data"
+id,cost,talktime,validity,comments
+17441,18,,1 hour,Unlimited 3G/4G Data
+17442,24,,3 days,95 MB 4G/3G Data 
+17443,28,,1 Night,Unlimited 3G/4G Night data (1am to 6am) 
+17444,42,,7 days,170 MB 4G/3G Data 
+17447,129,,7 days,1GB 4G/3G 7 nights (12am-6am)
+17449,169,,28 days,Get 1GB 4G/3G  28 nights (12am-6am)
+17450,179,,28 days,1 GB 4G/3G Data
+17451,251,,28 days,"2 GB 4G/3G Data -- Also, you will be credited Additional 2 GB with 4G Handset and 4G SIM"
+17452,347,,28 days,1GB/Day 4G/3G Data -- Unlimited ALL Mobile & Landline Calls. Limited Period Offer for ALL Handsets
+17453,349,,28 days,"3 GB 4G/3G Data -- Also, you will be credited Additional 3 GB with 4G Handset and 4G SIM"
+17454,355,,28 days,2.5GB 4G/3G Data
+17455,449,,28 days,"4 GB 4G/3G Data -- Also, you will be credited Additional 5 GB with 4G Handset and 4G SIM"
+17456,451,,28 days,2GB 4G/3G Internet
+17457,455,,28 days,3.5GB 4G/3G Data
+17458,498,,28 days,2 GB 4G/3G Data -- 700 Mins Local and STD for 4 weeks
+17459,549,,28 days,"5 GB 4G/3G Data -- Also, you will be credited Additional 6GB with 4G Handset and 4G SIM"
+17460,649,,28 days,"6.5 GB 4G/3G Data -- Also, you will be credited Additional 6.5GB with 4G Handset and 4G SIM"
+17462,748,,28 days,"Get 3 GB 4G/3G Data -- Subsequently, recharge with Rs 97 and get 1 GB 4G/3G(4 weeks) for 6 months"
+17463,849,,28 days,7GB 4G/3G Data 
+17466,999,,28 days,"11 GB 4G/3G Data -- Also, you will be credited Additional 11GB with 4G Handset and 4G SIM"
+17467,1199,,28 days,"13 GB 4G/3G Data -- Also, you will be credited Additional 13GB with 4G Handset and 4G SIM"
+17469,1499,,28 days,15 GB 4G/3G Data 
+17470,1501,,28 days,"Get 15 GB 4G/3G Data (28 days) -- Subsequently, recharge with Rs55 for 1 GB (4weeks) or Rs109 for 2 GB (4weeks) or Rs248 for 5 GB (4 weeks) for 12 months"
+17471,1999,,28 days,20 GB 4G/3G Data 
+17472,88,,7 days,"Unlimited local + std V2V + 100 Min V2O local + std calls -- 250 MB 3G/4G Data (4G Handset), 50 MB for Other Handset"
+17473,148,,30 days,"Unlmtd L+S V2V mobile calls -- 50 MB 3G/4G data. For 4G handset only, get 300 MB data"

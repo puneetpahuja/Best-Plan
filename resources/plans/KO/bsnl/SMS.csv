@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-6072,12,,7 days,Recharge of Rs. 12 by BSNL,Free local/National anynet SMS 130 nos.Free SMS is available upto 100 nos per day
-6073,21,,15 days,Recharge of Rs. 21 by BSNL,Free Local/National anynet SMS 265 nos. Free SMS is available upto 100 nos per day beyond which SMS will be chargeable at base plan rate.
-6074,34,,30 days,Recharge of Rs. 34 by BSNL,Free Local/National anynet SMS 385 nos. Free SMS is available upto 100 nos per day beyond which SMS will be chargeable at base plan rate
-6075,52,,30 days,Recharge of Rs. 52 by BSNL,Free Local/National anynet SMS 860 nos. Free SMS is available upto 100 nos per day beyond which SMS will be chargeable at base plan rate
-6076,54,,30 days,Recharge of Rs. 54 by BSNL,Free onnet SMS 100 nos and Off Net SMS 13p sms.STV features are available for maximum 100 nos of SMS day and in National roaming also but in BSNL network only.Maximum SMS limit is 200 nos. day.
-6079,147,,60 days,Recharge of Rs. 147 by BSNL,3000 nos of free SMS to local or national any network.Free SMS is also available in National Roaming but in BSNL network only
+id,cost,talktime,validity,comments
+6072,12,,7 days,Free local/National anynet SMS 130 nos.Free SMS is available upto 100 nos per day
+6073,21,,15 days,Free Local/National anynet SMS 265 nos. Free SMS is available upto 100 nos per day beyond which SMS will be chargeable at base plan rate.
+6074,34,,30 days,Free Local/National anynet SMS 385 nos. Free SMS is available upto 100 nos per day beyond which SMS will be chargeable at base plan rate
+6075,52,,30 days,Free Local/National anynet SMS 860 nos. Free SMS is available upto 100 nos per day beyond which SMS will be chargeable at base plan rate
+6076,54,,30 days,Free onnet SMS 100 nos and Off Net SMS 13p sms.STV features are available for maximum 100 nos of SMS day and in National roaming also but in BSNL network only.Maximum SMS limit is 200 nos. day.
+6079,147,,60 days,3000 nos of free SMS to local or national any network.Free SMS is also available in National Roaming but in BSNL network only

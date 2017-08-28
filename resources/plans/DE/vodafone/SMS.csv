@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-16695,49,,28 days,Recharge of Rs. 49 by Vodafone,500 Local/National SMS
-16696,62,,28 days,Recharge of Rs. 62 by Vodafone,700 Local/National SMS
-16697,89,,28 days,Recharge of Rs. 89 by Vodafone,1000 Local/National SMS
+id,cost,talktime,validity,comments
+16695,49,,28 days,500 Local/National SMS
+16696,62,,28 days,700 Local/National SMS
+16697,89,,28 days,1000 Local/National SMS

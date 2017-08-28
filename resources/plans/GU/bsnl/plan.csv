@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-5463,36,,180 days,Recharge of Rs. 36 by BSNL,Plan Migration: PER_SEC_36
-5464,37,,180 days,Recharge of Rs. 37 by BSNL,Plan Migration: PerMin_37
-5465,75,,180 days,Recharge of Rs. 75 by BSNL,Plan: Pyari Jodi 
-5466,97,,90 days,Recharge of Rs. 97 by BSNL,STV_FF_97: 60 min anynet voice call for 30 days and Reduced call charges to 5 F and F loc numbers : Onnet @ 20p/Min and Offnet @ 40p/Min : SMS charges: loc SMS @ 10p/SMS and STD SMS @ 50p/sms for 90 days
-5467,102,,30 days,Recharge of Rs. 102 by BSNL,Plan: Jai jawan 102
-5468,108,,180 days,Recharge of Rs. 108 by BSNL,Plan: GJ_CUG_Homeguard_Plan_108
-5469,198,,180 days,Recharge of Rs. 198 by BSNL,Plan: Roam free plan 198 
-5470,666,,180 days,Recharge of Rs. 666 by BSNL,BSNL_SIXER_666_validity-extension
-5471,666,,180 days,Recharge of Rs. 666 by BSNL,"PV-666 BSNL SIXER: Unlimited data (Speed reduced to 80 Kbps after 2GB/day) + Unlimited voice calls for 60 days. -- After 60 days: ALL calls (Local/STD) (On-net/Off-net) @ 50 Paisa/Minute -- SMS (while in Home & National Roaming): Local @25 Paisa/SMS, National @35 Paisa/SMS -- All other charges As per Per Minute plan"
+id,cost,talktime,validity,comments
+5463,36,,180 days,Plan Migration: PER_SEC_36
+5464,37,,180 days,Plan Migration: PerMin_37
+5465,75,,180 days,Plan: Pyari Jodi 
+5466,97,,90 days,STV_FF_97: 60 min anynet voice call for 30 days and Reduced call charges to 5 F and F loc numbers : Onnet @ 20p/Min and Offnet @ 40p/Min : SMS charges: loc SMS @ 10p/SMS and STD SMS @ 50p/sms for 90 days
+5467,102,,30 days,Plan: Jai jawan 102
+5468,108,,180 days,Plan: GJ_CUG_Homeguard_Plan_108
+5469,198,,180 days,Plan: Roam free plan 198 
+5470,666,,180 days,BSNL_SIXER_666_validity-extension
+5471,666,,180 days,"PV-666 BSNL SIXER: Unlimited data (Speed reduced to 80 Kbps after 2GB/day) + Unlimited voice calls for 60 days. -- After 60 days: ALL calls (Local/STD) (On-net/Off-net) @ 50 Paisa/Minute -- SMS (while in Home & National Roaming): Local @25 Paisa/SMS, National @35 Paisa/SMS -- All other charges As per Per Minute plan"

@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-17425,11,,7 days,Recharge of Rs. 11 by Vodafone,110 Local SMS Free (subject to 100 SMS/day capping) 
-17426,14,,28 days,Recharge of Rs. 14 by Vodafone,All Local/ National SMS@10p
-17427,17,,10 days,Recharge of Rs. 17 by Vodafone,Get 200 local SMS
-17428,38,,28 days,Recharge of Rs. 38 by Vodafone,400 local and national SMS
-17429,81,,28 days,Recharge of Rs. 81 by Vodafone,900 Local and National SMS
+id,cost,talktime,validity,comments
+17425,11,,7 days,110 Local SMS Free (subject to 100 SMS/day capping) 
+17426,14,,28 days,All Local/ National SMS@10p
+17427,17,,10 days,Get 200 local SMS
+17428,38,,28 days,400 local and national SMS
+17429,81,,28 days,900 Local and National SMS

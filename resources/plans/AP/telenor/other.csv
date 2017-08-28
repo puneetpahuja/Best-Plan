@@ -1,12 +1,12 @@
-id,cost,talktime,validity,short description,long description
-15707,221,222,6 days,Recharge of Rs. 221 by Uninor,All Local & STD calls @1p/2 seconds (1st 120 seconds of the day @2p/seconds)
-15711,15,11.21,3 days,Recharge of Rs. 15 by Uninor,15 Local Telenor to Telenor SMS
-15713,25,19.19,5 days,Recharge of Rs. 25 by Uninor,25 Local Telenor to Telenor SMS 
-15716,65,52.08,28 days,Recharge of Rs. 65 by Uninor,1500 Local Telenor to Telenor Night seconds( 10 PM to 7 AM) 
-15717,75,60.56,28 days,Recharge of Rs. 75 by Uninor,1500 Local Telenor to Telenor seconds
-15721,111,30,28 days,Recharge of Rs. 111 by Uninor,30000 Local Telenor to Telenor seconds+100 Local Telenor to Telenor SMS per day -- 1 GB data
-15726,95,,28 days,Recharge of Rs. 95 by Uninor,200 Local/STD min -- 200 Local Telenor to telenor SMS
-15727,2,,2 days,Recharge of Rs. 2 by Uninor,50 MB Data (11pm to 7am)
-15739,148,,28 days,Recharge of Rs. 148 by Uninor,375 Local/ STD Mins + 300 MB data
-15740,249,,28 days,Recharge of Rs. 249 by Uninor,Unlimited Local & STD Telenor to Telenor calls + Local & STD Telenor to other calls with 1200 Mins/Week along with 300 Mins/day capping post that 25p/min 7 days * 4 -- Unlimited 2G/4G data(2GB data/day FUP)Hide
-15741,298,,84 days,Recharge of Rs. 298 by Uninor,Unlimited Local & STD calls Telenor To Telenor -- 1 GB 2G/4G Data/Day
+id,cost,talktime,validity,comments
+15707,221,222,6 days,All Local & STD calls @1p/2 seconds (1st 120 seconds of the day @2p/seconds)
+15711,15,11.21,3 days,15 Local Telenor to Telenor SMS
+15713,25,19.19,5 days,25 Local Telenor to Telenor SMS 
+15716,65,52.08,28 days,1500 Local Telenor to Telenor Night seconds( 10 PM to 7 AM) 
+15717,75,60.56,28 days,1500 Local Telenor to Telenor seconds
+15721,111,30,28 days,30000 Local Telenor to Telenor seconds+100 Local Telenor to Telenor SMS per day -- 1 GB data
+15726,95,,28 days,200 Local/STD min -- 200 Local Telenor to telenor SMS
+15727,2,,2 days,50 MB Data (11pm to 7am)
+15739,148,,28 days,375 Local/ STD Mins + 300 MB data
+15740,249,,28 days,Unlimited Local & STD Telenor to Telenor calls + Local & STD Telenor to other calls with 1200 Mins/Week along with 300 Mins/day capping post that 25p/min 7 days * 4 -- Unlimited 2G/4G data(2GB data/day FUP)Hide
+15741,298,,84 days,Unlimited Local & STD calls Telenor To Telenor -- 1 GB 2G/4G Data/Day

@@ -1,12 +1,12 @@
-id,cost,talktime,validity,short description,long description
-2057,9,,1 day,Recharge of Rs. 9 by Airtel,45MB 2G/3G/4G data
-2058,18,,2 days,Recharge of Rs. 18 by Airtel,100MB 2G/3G/4G data
-2059,24,,3 days,Recharge of Rs. 24 by Airtel,135MB 2G/3G/4G data
-2060,29,,30 days,Recharge of Rs. 29 by Airtel,115MB 2G/3G/4G data
-2062,49,,7 days,Recharge of Rs. 49 by Airtel,250MB 2G/3G/4G data
-2064,99,,14 days,Recharge of Rs. 99 by Airtel,550MB 2G/3G/4G data
-2065,148,,28 days,Recharge of Rs. 148 by Airtel,600 MB 2G/3G/4G data + extra 424 MB applicable on 4G handset with 4G SIM
-2066,199,,28 days,Recharge of Rs. 199 by Airtel,1.1GB 2G/3G/4G data
-2067,259,,28 days,Recharge of Rs. 259 by Airtel,2 GB 2G/3G/4G data + extra 2GB applicable on 4G handset with 4G SIM
-2068,359,,28 days,Recharge of Rs. 359 by Airtel,3 GB 2G/3G/4G data + extra 3 GB applicable on 4G handset with 4G SIM
-2070,497,,28 days,Recharge of Rs. 497 by Airtel,5GB 2G/3G/4G data + extra 5GB applicable on 4G handset with 4G SIM
+id,cost,talktime,validity,comments
+2057,9,,1 day,45MB 2G/3G/4G data
+2058,18,,2 days,100MB 2G/3G/4G data
+2059,24,,3 days,135MB 2G/3G/4G data
+2060,29,,30 days,115MB 2G/3G/4G data
+2062,49,,7 days,250MB 2G/3G/4G data
+2064,99,,14 days,550MB 2G/3G/4G data
+2065,148,,28 days,600 MB 2G/3G/4G data + extra 424 MB applicable on 4G handset with 4G SIM
+2066,199,,28 days,1.1GB 2G/3G/4G data
+2067,259,,28 days,2 GB 2G/3G/4G data + extra 2GB applicable on 4G handset with 4G SIM
+2068,359,,28 days,3 GB 2G/3G/4G data + extra 3 GB applicable on 4G handset with 4G SIM
+2070,497,,28 days,5GB 2G/3G/4G data + extra 5GB applicable on 4G handset with 4G SIM

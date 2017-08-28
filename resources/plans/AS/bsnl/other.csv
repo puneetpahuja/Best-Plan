@@ -1,28 +1,28 @@
-id,cost,talktime,validity,short description,long description
-4860,20,20,N.A,Recharge of Rs. 20 by BSNL,Full Talk value offer equal to Rs.20 from 15 to 20 Aug 2017. Other days talktime 14.95
-4861,40,40,N.A,Recharge of Rs. 40 by BSNL,Full Talk value offer equal to Rs.40 from 15 to 20 Aug 2017. Other days talktime 30.9
-4862,60,60,N.A,Recharge of Rs. 60 by BSNL,Full Talk value offer equal to Rs.60 from 15 to 20 Aug 2017. Other days talktime 47.85
-4863,189,220,14 days,Recharge of Rs. 189 by BSNL,Rs.189 in main account.Rs.31 talk value -- 1 GB 2G/3G Data free -- Validity of Rs.31 talk value & 1 GB Data (14 days)
-4864,220,250,N.A,Recharge of Rs. 220 by BSNL,Talk value offer equal to Rs.250 from 15 to 20 Aug 2017. Other days talktime 220
-4865,289,340,28 days,Recharge of Rs. 289 by BSNL,Rs289 in main account + Rs51 in dedicated account -- 1 GB 2G/3G data
-4866,389,460,30 days,Recharge of Rs. 389 by BSNL,Rs389 in main account + Rs71 in dedicated account -- 1 GB 2G/3G data.
-4867,500,500,N.A,Recharge of Rs. 500 by BSNL,Full talk value available for Per Minute: Per Second and Student plans. For other talk value is Rs.420.73
-4869,599,786,30 days,Recharge of Rs. 599 by BSNL,Talktime: Rs.507 in main account + Rs.279 in dedicated) -- 10 on-net local SMS.
-4870,1000,1000,N.A,Recharge of Rs. 1000 by BSNL,Full talk value available for Per Minute Per Second and Student plans. For Others talktime value is Rs.844.46
-4872,1402,1402,30 days,Recharge of Rs. 1402 by BSNL,All local/national voice calls @0.9p/sec -- 250 MB 2G/3G Data -- 250 SMS any network
-4878,111,90,20 days,Recharge of Rs. 111 by BSNL,70 minutes free talk time for local/ STD onnet calls. STV benefit available in home LSA only.
-4879,222,190,40 days,Recharge of Rs. 222 by BSNL,110 minutes free talk time for local STD onnet calls. STV benefit available in home LSA only.
-4880,239,80,14 days,Recharge of Rs. 239 by BSNL,1 GB 2G/3G Data
-4882,381,75,90 days,Recharge of Rs. 381 by BSNL,2.5 GB 2G/3G Data -- All voice call - local/STD in Home LSA @55 paisa/min
-4883,701,150,90 days,Recharge of Rs. 701 by BSNL,5 GB 2G/3G Data -- All voice call - local/STD in Home LSA @45 paisa/min
-4884,1001,300,90 days,Recharge of Rs. 1001 by BSNL,9 GB  2G/3G Data -- All voice call - local/STD in Home LSA @35 paisa/min
-4885,1202,400,90 days,Recharge of Rs. 1202 by BSNL,11 GB 2G/3G Data -- All voice call - local/STD in Home LSA @25 paisa/min
-4886,47,20,21 days,Recharge of Rs. 47 by BSNL,Local Onnet Voice calls at 20p per minute. STV feature available in home LSA only.
-4887,48,11,30 days,Recharge of Rs. 48 by BSNL,Local/STD Onnet voice call at Night(11PM to 6AM) at Rs0.05 per Min. STV feature available in home LSA only.
-4888,71,20,30 days,Recharge of Rs. 71 by BSNL,Local Any net Voice calls @30p min -- STV benefit available in home LSA only.
-4889,81,20,30 days,Recharge of Rs. 81 by BSNL,800 minutes Local/STD Onnet voice call at Night(11PM to 6AM). STV benefit is avilable in home LSA only.
-4890,84,24,60 days,Recharge of Rs. 84 by BSNL,All STD voice calls at 35p per minute. STV benefit is available in home LSA only.
-4891,146,25,30 days,Recharge of Rs. 146 by BSNL,1800 minutes Local/STD Onnet voice call at Night(11PM to 6AM). STV benefit is avilable in home LSA only.
-4892,209,25,90 days,Recharge of Rs. 209 by BSNL,Local Call Anynet at 1 ps/2 sec. STV benefit is avilable in home LSA only.
-4893,451,80,60 days,Recharge of Rs. 451 by BSNL,2 GB 2G/3G Data
-4899,125,,30 days,Recharge of Rs. 125 by BSNL,177 minutes any network voice calls -- 200MB data -- 100 SMS (local/national any network). STV benefit is avilable in home LSA only.
+id,cost,talktime,validity,comments
+4860,20,20,N.A,Full Talk value offer equal to Rs.20 from 15 to 20 Aug 2017. Other days talktime 14.95
+4861,40,40,N.A,Full Talk value offer equal to Rs.40 from 15 to 20 Aug 2017. Other days talktime 30.9
+4862,60,60,N.A,Full Talk value offer equal to Rs.60 from 15 to 20 Aug 2017. Other days talktime 47.85
+4863,189,220,14 days,Rs.189 in main account.Rs.31 talk value -- 1 GB 2G/3G Data free -- Validity of Rs.31 talk value & 1 GB Data (14 days)
+4864,220,250,N.A,Talk value offer equal to Rs.250 from 15 to 20 Aug 2017. Other days talktime 220
+4865,289,340,28 days,Rs289 in main account + Rs51 in dedicated account -- 1 GB 2G/3G data
+4866,389,460,30 days,Rs389 in main account + Rs71 in dedicated account -- 1 GB 2G/3G data.
+4867,500,500,N.A,Full talk value available for Per Minute: Per Second and Student plans. For other talk value is Rs.420.73
+4869,599,786,30 days,Talktime: Rs.507 in main account + Rs.279 in dedicated) -- 10 on-net local SMS.
+4870,1000,1000,N.A,Full talk value available for Per Minute Per Second and Student plans. For Others talktime value is Rs.844.46
+4872,1402,1402,30 days,All local/national voice calls @0.9p/sec -- 250 MB 2G/3G Data -- 250 SMS any network
+4878,111,90,20 days,70 minutes free talk time for local/ STD onnet calls. STV benefit available in home LSA only.
+4879,222,190,40 days,110 minutes free talk time for local STD onnet calls. STV benefit available in home LSA only.
+4880,239,80,14 days,1 GB 2G/3G Data
+4882,381,75,90 days,2.5 GB 2G/3G Data -- All voice call - local/STD in Home LSA @55 paisa/min
+4883,701,150,90 days,5 GB 2G/3G Data -- All voice call - local/STD in Home LSA @45 paisa/min
+4884,1001,300,90 days,9 GB  2G/3G Data -- All voice call - local/STD in Home LSA @35 paisa/min
+4885,1202,400,90 days,11 GB 2G/3G Data -- All voice call - local/STD in Home LSA @25 paisa/min
+4886,47,20,21 days,Local Onnet Voice calls at 20p per minute. STV feature available in home LSA only.
+4887,48,11,30 days,Local/STD Onnet voice call at Night(11PM to 6AM) at Rs0.05 per Min. STV feature available in home LSA only.
+4888,71,20,30 days,Local Any net Voice calls @30p min -- STV benefit available in home LSA only.
+4889,81,20,30 days,800 minutes Local/STD Onnet voice call at Night(11PM to 6AM). STV benefit is avilable in home LSA only.
+4890,84,24,60 days,All STD voice calls at 35p per minute. STV benefit is available in home LSA only.
+4891,146,25,30 days,1800 minutes Local/STD Onnet voice call at Night(11PM to 6AM). STV benefit is avilable in home LSA only.
+4892,209,25,90 days,Local Call Anynet at 1 ps/2 sec. STV benefit is avilable in home LSA only.
+4893,451,80,60 days,2 GB 2G/3G Data
+4899,125,,30 days,177 minutes any network voice calls -- 200MB data -- 100 SMS (local/national any network). STV benefit is avilable in home LSA only.

@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-14059,28,,4 days,Recharge of Rs. 28 by RelianceGSM,70 Local Minutes
-14060,34,,4 days,Recharge of Rs. 34 by RelianceGSM,75 Local and STD Minutes
-14061,38,,28 days,Recharge of Rs. 38 by RelianceGSM,All Local+STD Calls @ 35p/min
-14062,42,,28 days,Recharge of Rs. 42 by RelianceGSM,All Local Calls @ 25p/min
-14063,45,,10 days,Recharge of Rs. 45 by RelianceGSM,135 Local Minutes
-14064,54,,30 days,Recharge of Rs. 54 by RelianceGSM,All calls at 45p/min ( Home = Roam & incoming Free)
-14065,65,,28 days,Recharge of Rs. 65 by RelianceGSM,All Local+STD Calls @ 30p/min
-14066,84,,90 days,Recharge of Rs. 84 by RelianceGSM,Local & STD All Calls @25p/min 
-14067,95,,45 days,Recharge of Rs. 95 by RelianceGSM,All Local+STD Calls @ 30p/min
-14068,128,,28 days,Recharge of Rs. 128 by RelianceGSM,350 Local and STD Minutes
-14069,145,,28 days,Recharge of Rs. 145 by RelianceGSM,450 Local Minutes
-14070,148,,28 days,Recharge of Rs. 148 by RelianceGSM,400 Local mins
-14071,225,,28 days,Recharge of Rs. 225 by RelianceGSM,650 Local and STD Minutes
+id,cost,talktime,validity,comments
+14059,28,,4 days,70 Local Minutes
+14060,34,,4 days,75 Local and STD Minutes
+14061,38,,28 days,All Local+STD Calls @ 35p/min
+14062,42,,28 days,All Local Calls @ 25p/min
+14063,45,,10 days,135 Local Minutes
+14064,54,,30 days,All calls at 45p/min ( Home = Roam & incoming Free)
+14065,65,,28 days,All Local+STD Calls @ 30p/min
+14066,84,,90 days,Local & STD All Calls @25p/min 
+14067,95,,45 days,All Local+STD Calls @ 30p/min
+14068,128,,28 days,350 Local and STD Minutes
+14069,145,,28 days,450 Local Minutes
+14070,148,,28 days,400 Local mins
+14071,225,,28 days,650 Local and STD Minutes

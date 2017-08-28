@@ -1,12 +1,12 @@
-id,cost,talktime,validity,short description,long description
-16483,12,,1 day,Recharge of Rs. 12 by Vodafone,50 MB Data @3G Speed. Post 50MB you will be charged 4p/10kb
-16484,46,,5 days,Recharge of Rs. 46 by Vodafone,185 MB Data @3G Speed. Post 185MB you will be charged 4p/10kb
-16485,99,,10 days,Recharge of Rs. 99 by Vodafone,400 MB Data @3G Speed. Post 400MB you will be charged 4p/10kb
-16486,147,,14 days,Recharge of Rs. 147 by Vodafone,600 MB Data @3G Speed. Post 600MB you will be charged 4p/10kb
-16487,175,,28 days,Recharge of Rs. 175 by Vodafone,1 GB Data @3G speed. Post 1 GB you will be charged 4p/10kb
-16488,251,,28 days,Recharge of Rs. 251 by Vodafone,2 GB Data @3G Speed. Post 2GB you will be charged 4p/10kb
-16489,297,,28 days,Recharge of Rs. 297 by Vodafone,2.25 GB Data @3G Speed. Post 2.25GB you will be charged 4p/10kb
-16490,352,,28 days,Recharge of Rs. 352 by Vodafone,3 GB Data @3G Speed. Post 3GB you will be charged 4p/10kb
-16492,499,,28 days,Recharge of Rs. 499 by Vodafone,700 Local + STD Mins -- 2 GB 3G Data
-16493,647,,28 days,Recharge of Rs. 647 by Vodafone,6.5 GB Data @3G Speed. Post 6.5GB you will be charged 4p/10kb
-16494,1097,,28 days,Recharge of Rs. 1097 by Vodafone,12 GB Data @3G Speed. Post 12GB you will be charged 4p/10kb
+id,cost,talktime,validity,comments
+16483,12,,1 day,50 MB Data @3G Speed. Post 50MB you will be charged 4p/10kb
+16484,46,,5 days,185 MB Data @3G Speed. Post 185MB you will be charged 4p/10kb
+16485,99,,10 days,400 MB Data @3G Speed. Post 400MB you will be charged 4p/10kb
+16486,147,,14 days,600 MB Data @3G Speed. Post 600MB you will be charged 4p/10kb
+16487,175,,28 days,1 GB Data @3G speed. Post 1 GB you will be charged 4p/10kb
+16488,251,,28 days,2 GB Data @3G Speed. Post 2GB you will be charged 4p/10kb
+16489,297,,28 days,2.25 GB Data @3G Speed. Post 2.25GB you will be charged 4p/10kb
+16490,352,,28 days,3 GB Data @3G Speed. Post 3GB you will be charged 4p/10kb
+16492,499,,28 days,700 Local + STD Mins -- 2 GB 3G Data
+16493,647,,28 days,6.5 GB Data @3G Speed. Post 6.5GB you will be charged 4p/10kb
+16494,1097,,28 days,12 GB Data @3G Speed. Post 12GB you will be charged 4p/10kb

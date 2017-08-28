@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-6900,1100,1200,N.A,Recharge of Rs. 1100 by BSNL,Talktime of Rs. 1200 for Rs. 1100 recharge by BSNL
-6902,2200,2200,N.A,Recharge of Rs. 2200 by BSNL,Talktime of Rs. 2200 for Rs. 2200 recharge by BSNL
-6903,2500,2500,N.A,Recharge of Rs. 2500 by BSNL,Talktime of Rs. 2500 for Rs. 2500 recharge by BSNL
-6904,3000,3000,N.A,Recharge of Rs. 3000 by BSNL,Talktime of Rs. 3000 for Rs. 3000 recharge by BSNL
-6905,3300,3500,N.A,Recharge of Rs. 3300 by BSNL,Talktime of Rs. 3500 for Rs. 3300 recharge by BSNL
-6906,5500,6000,N.A,Recharge of Rs. 5500 by BSNL,Talktime of Rs. 6000 for Rs. 5500 recharge by BSNL
+id,cost,talktime,validity,comments
+6900,1100,1200,N.A,Talktime of Rs. 1200 for Rs. 1100 recharge by BSNL
+6902,2200,2200,N.A,Talktime of Rs. 2200 for Rs. 2200 recharge by BSNL
+6903,2500,2500,N.A,Talktime of Rs. 2500 for Rs. 2500 recharge by BSNL
+6904,3000,3000,N.A,Talktime of Rs. 3000 for Rs. 3000 recharge by BSNL
+6905,3300,3500,N.A,Talktime of Rs. 3500 for Rs. 3300 recharge by BSNL
+6906,5500,6000,N.A,Talktime of Rs. 6000 for Rs. 5500 recharge by BSNL

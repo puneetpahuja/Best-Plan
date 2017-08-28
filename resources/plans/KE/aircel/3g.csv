@@ -1,22 +1,22 @@
-id,cost,talktime,validity,short description,long description
-598,15,,7 days,Recharge of Rs. 15 by Aircel,70 MB 2G/3G
-599,24,,N.A,Recharge of Rs. 24 by Aircel,1 GB (Only for 249 Users) -- As per the balance validity of PI 249
-601,35,,14 days,Recharge of Rs. 35 by Aircel,220 MB 2G/3G
-602,38,,28 days,Recharge of Rs. 38 by Aircel,1 GB (Only for 398 Users)
-604,59,,3 days,Recharge of Rs. 59 by Aircel,1 GB Data
-605,65,,30 days,Recharge of Rs. 65 by Aircel,500 MB 2G/3G Data
-606,73,,28 days,Recharge of Rs. 73 by Aircel,2 GB 3G&2G Data (Only for 398 Users)
-610,125,,30 days,Recharge of Rs. 125 by Aircel,1 GB Data
-611,155,,30 days,Recharge of Rs. 155 by Aircel,1 GB Day & Night + 1 GB Night (12am-6am)
-612,175,,30 days,Recharge of Rs. 175 by Aircel,1.5 GB Data
-613,189,,28 days,Recharge of Rs. 189 by Aircel,5 GB Data (Only for 398 Users)
-614,225,,30 days,Recharge of Rs. 225 by Aircel,"225- 2GB, 30 Days"
-615,249,,30 days,Recharge of Rs. 249 by Aircel,5 GB Data (Get every extra 1GB at Rs.24)
-616,289,,28 days,Recharge of Rs. 289 by Aircel,10 GB 3G/2G Data + UL Data at throttle speed
-617,355,,30 days,Recharge of Rs. 355 by Aircel,3 GB Data
-618,398,,180 days,Recharge of Rs. 398 by Aircel,"4GB - 1st 28 Days (Get 38=1GB, 73=2GB & 189=5GB)"
-619,399,,15 days,Recharge of Rs. 399 by Aircel,7.5 GB Unlimited (500 MB FUP/day for 15 days)
-620,498,,60 days,Recharge of Rs. 498 by Aircel,10 GB 3G/2G Data -- Unlimited Local A2A Night Calls(12 am to 5 am)
-621,525,,30 days,Recharge of Rs. 525 by Aircel,5 GB Data
-623,32,,30 days,Recharge of Rs. 32 by Aircel,100 MB Data
-624,74,,5 days,Recharge of Rs. 74 by Aircel,1 GB Data
+id,cost,talktime,validity,comments
+598,15,,7 days,70 MB 2G/3G
+599,24,,N.A,1 GB (Only for 249 Users) -- As per the balance validity of PI 249
+601,35,,14 days,220 MB 2G/3G
+602,38,,28 days,1 GB (Only for 398 Users)
+604,59,,3 days,1 GB Data
+605,65,,30 days,500 MB 2G/3G Data
+606,73,,28 days,2 GB 3G&2G Data (Only for 398 Users)
+610,125,,30 days,1 GB Data
+611,155,,30 days,1 GB Day & Night + 1 GB Night (12am-6am)
+612,175,,30 days,1.5 GB Data
+613,189,,28 days,5 GB Data (Only for 398 Users)
+614,225,,30 days,"225- 2GB, 30 Days"
+615,249,,30 days,5 GB Data (Get every extra 1GB at Rs.24)
+616,289,,28 days,10 GB 3G/2G Data + UL Data at throttle speed
+617,355,,30 days,3 GB Data
+618,398,,180 days,"4GB - 1st 28 Days (Get 38=1GB, 73=2GB & 189=5GB)"
+619,399,,15 days,7.5 GB Unlimited (500 MB FUP/day for 15 days)
+620,498,,60 days,10 GB 3G/2G Data -- Unlimited Local A2A Night Calls(12 am to 5 am)
+621,525,,30 days,5 GB Data
+623,32,,30 days,100 MB Data
+624,74,,5 days,1 GB Data

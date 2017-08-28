@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-129,29,,30 days,Recharge of Rs. 29 by Aircel,"All Local and STD @ 1p/sec,Local SMS @ Rs 1, National SMS @ Rs 1.5, LL 3p/sec"
-134,349,,28 days,Recharge of Rs. 349 by Aircel,Unlimited All Local +STD calling +1GB per day 
-135,49,,7 days,Recharge of Rs. 49 by Aircel,Unlimited Local & STD A-A calling -- 50 MB data
+id,cost,talktime,validity,comments
+129,29,,30 days,"All Local and STD @ 1p/sec,Local SMS @ Rs 1, National SMS @ Rs 1.5, LL 3p/sec"
+134,349,,28 days,Unlimited All Local +STD calling +1GB per day 
+135,49,,7 days,Unlimited Local & STD A-A calling -- 50 MB data

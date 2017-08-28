@@ -1,20 +1,20 @@
-id,cost,talktime,validity,short description,long description
-7850,170,170,N.A,Recharge of Rs. 170 by Docomo,Talktime of Rs. 170 for Rs. 170 recharge by Tata DOCOMO
-7851,180,180,N.A,Recharge of Rs. 180 by Docomo,Talktime of Rs. 180 for Rs. 180 recharge by Tata DOCOMO
-7852,190,190,N.A,Recharge of Rs. 190 by Docomo,Talktime of Rs. 190 for Rs. 190 recharge by Tata DOCOMO
-7853,200,200,N.A,Recharge of Rs. 200 by Docomo,Talktime of Rs. 200 for Rs. 200 recharge by Tata DOCOMO
-7854,250,250,N.A,Recharge of Rs. 250 by Docomo,Talktime of Rs. 250 for Rs. 250 recharge by Tata DOCOMO
-7855,290,290,N.A,Recharge of Rs. 290 by Docomo,Talktime of Rs. 290 for Rs. 290 recharge by Tata DOCOMO
-7857,300,300,N.A,Recharge of Rs. 300 by Docomo,Talktime of Rs. 300 for Rs. 300 recharge by Tata DOCOMO
-7858,350,350,N.A,Recharge of Rs. 350 by Docomo,Talktime of Rs. 350 for Rs. 350 recharge by Tata DOCOMO
-7859,400,400,N.A,Recharge of Rs. 400 by Docomo,Talktime of Rs. 400 for Rs. 400 recharge by Tata DOCOMO
-7860,490,490,N.A,Recharge of Rs. 490 by Docomo,Talktime of Rs. 490 for Rs. 490 recharge by Tata DOCOMO
-7862,500,500,N.A,Recharge of Rs. 500 by Docomo,Talktime of Rs. 500 for Rs. 500 recharge by Tata DOCOMO
-7863,510,510,N.A,Recharge of Rs. 510 by Docomo,Talktime of Rs. 510 for Rs. 510 recharge by Tata DOCOMO
-7864,600,600,N.A,Recharge of Rs. 600 by Docomo,Talktime of Rs. 600 for Rs. 600 recharge by Tata DOCOMO
-7865,700,700,N.A,Recharge of Rs. 700 by Docomo,Talktime of Rs. 700 for Rs. 700 recharge by Tata DOCOMO
-7866,800,800,N.A,Recharge of Rs. 800 by Docomo,Talktime of Rs. 800 for Rs. 800 recharge by Tata DOCOMO
-7867,900,900,N.A,Recharge of Rs. 900 by Docomo,Talktime of Rs. 900 for Rs. 900 recharge by Tata DOCOMO
-7870,1000,1000,N.A,Recharge of Rs. 1000 by Docomo,Talktime of Rs. 1000 for Rs. 1000 recharge by Tata DOCOMO
-7871,1010,1010,N.A,Recharge of Rs. 1010 by Docomo,Talktime of Rs. 1010 for Rs. 1010 recharge by Tata DOCOMO
-7872,2000,2000,N.A,Recharge of Rs. 2000 by Docomo,Talktime of Rs. 2000 for Rs. 2000 recharge by Tata DOCOMO
+id,cost,talktime,validity,comments
+7850,170,170,N.A,Talktime of Rs. 170 for Rs. 170 recharge by Tata DOCOMO
+7851,180,180,N.A,Talktime of Rs. 180 for Rs. 180 recharge by Tata DOCOMO
+7852,190,190,N.A,Talktime of Rs. 190 for Rs. 190 recharge by Tata DOCOMO
+7853,200,200,N.A,Talktime of Rs. 200 for Rs. 200 recharge by Tata DOCOMO
+7854,250,250,N.A,Talktime of Rs. 250 for Rs. 250 recharge by Tata DOCOMO
+7855,290,290,N.A,Talktime of Rs. 290 for Rs. 290 recharge by Tata DOCOMO
+7857,300,300,N.A,Talktime of Rs. 300 for Rs. 300 recharge by Tata DOCOMO
+7858,350,350,N.A,Talktime of Rs. 350 for Rs. 350 recharge by Tata DOCOMO
+7859,400,400,N.A,Talktime of Rs. 400 for Rs. 400 recharge by Tata DOCOMO
+7860,490,490,N.A,Talktime of Rs. 490 for Rs. 490 recharge by Tata DOCOMO
+7862,500,500,N.A,Talktime of Rs. 500 for Rs. 500 recharge by Tata DOCOMO
+7863,510,510,N.A,Talktime of Rs. 510 for Rs. 510 recharge by Tata DOCOMO
+7864,600,600,N.A,Talktime of Rs. 600 for Rs. 600 recharge by Tata DOCOMO
+7865,700,700,N.A,Talktime of Rs. 700 for Rs. 700 recharge by Tata DOCOMO
+7866,800,800,N.A,Talktime of Rs. 800 for Rs. 800 recharge by Tata DOCOMO
+7867,900,900,N.A,Talktime of Rs. 900 for Rs. 900 recharge by Tata DOCOMO
+7870,1000,1000,N.A,Talktime of Rs. 1000 for Rs. 1000 recharge by Tata DOCOMO
+7871,1010,1010,N.A,Talktime of Rs. 1010 for Rs. 1010 recharge by Tata DOCOMO
+7872,2000,2000,N.A,Talktime of Rs. 2000 for Rs. 2000 recharge by Tata DOCOMO

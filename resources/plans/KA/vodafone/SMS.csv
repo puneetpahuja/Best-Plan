@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-17188,23,,30 days,Recharge of Rs. 23 by Vodafone,260 Local+National SMS
-17189,52,,60 days,Recharge of Rs. 52 by Vodafone,580 Local+National SMS
+id,cost,talktime,validity,comments
+17188,23,,30 days,260 Local+National SMS
+17189,52,,60 days,580 Local+National SMS

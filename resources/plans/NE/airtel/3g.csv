@@ -1,21 +1,21 @@
-id,cost,talktime,validity,short description,long description
-3449,29,,30 days,Recharge of Rs. 29 by Airtel,75 MB 2G/3G/4G Data
-3469,26,,3 days,Recharge of Rs. 26 by Airtel,150 MB 3G data
-3470,47,,6 days,Recharge of Rs. 47 by Airtel,250 MB Data
-3473,96,,4 days,Recharge of Rs. 96 by Airtel,1 GB Data
-3474,98,,11 days,Recharge of Rs. 98 by Airtel,550 MB Data 
-3475,101,,11 days,Recharge of Rs. 101 by Airtel,250 MB Data
-3476,124,,28 days,Recharge of Rs. 124 by Airtel,1 GB 3G Night Data(12AM - 6AM)
-3478,147,,7 days,Recharge of Rs. 147 by Airtel,1 GB 3G Data
-3479,153,,28 days,Recharge of Rs. 153 by Airtel,600 MB 3G data
-3480,169,,7 days,Recharge of Rs. 169 by Airtel,512 MB 3G Data
-3481,185,,14 days,Recharge of Rs. 185 by Airtel,750 MB 3G Data
-3484,249,,26 days,Recharge of Rs. 249 by Airtel,1.5 GB 3G data 
-3488,315,,28 days,Recharge of Rs. 315 by Airtel,1.5 GB 3G Data
-3491,415,,28 days,Recharge of Rs. 415 by Airtel,2.5 GB 3G Data
-3494,498,,28 days,Recharge of Rs. 498 by Airtel,1 GB 3G Day + 5 GB 3G Night
-3496,515,,28 days,Recharge of Rs. 515 by Airtel,3.5 GB 3G Data
-3499,655,,26 days,Recharge of Rs. 655 by Airtel,5 GB Unlimited 3G data. 5 GB Happy Hours Night data (3AM to 5AM)
-3500,659,,28 days,Recharge of Rs. 659 by Airtel,5 GB Unlimited 3G Data
-3501,759,,28 days,Recharge of Rs. 759 by Airtel,6GB Unlimited
-3503,992,,365 days,Recharge of Rs. 992 by Airtel,10 GB Data
+id,cost,talktime,validity,comments
+3449,29,,30 days,75 MB 2G/3G/4G Data
+3469,26,,3 days,150 MB 3G data
+3470,47,,6 days,250 MB Data
+3473,96,,4 days,1 GB Data
+3474,98,,11 days,550 MB Data 
+3475,101,,11 days,250 MB Data
+3476,124,,28 days,1 GB 3G Night Data(12AM - 6AM)
+3478,147,,7 days,1 GB 3G Data
+3479,153,,28 days,600 MB 3G data
+3480,169,,7 days,512 MB 3G Data
+3481,185,,14 days,750 MB 3G Data
+3484,249,,26 days,1.5 GB 3G data 
+3488,315,,28 days,1.5 GB 3G Data
+3491,415,,28 days,2.5 GB 3G Data
+3494,498,,28 days,1 GB 3G Day + 5 GB 3G Night
+3496,515,,28 days,3.5 GB 3G Data
+3499,655,,26 days,5 GB Unlimited 3G data. 5 GB Happy Hours Night data (3AM to 5AM)
+3500,659,,28 days,5 GB Unlimited 3G Data
+3501,759,,28 days,6GB Unlimited
+3503,992,,365 days,10 GB Data

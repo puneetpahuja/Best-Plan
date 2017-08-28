@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-5282,36,,180 days,Recharge of Rs. 36 by BSNL,Plan Migration: SEC
-5283,37,,180 days,Recharge of Rs. 37 by BSNL,Plan Migration: MIN
-5284,49,,365 days,Recharge of Rs. 49 by BSNL,Nesam Gold_migration
-5285,75,,180 days,Recharge of Rs. 75 by BSNL,Plan Migration: Anbu Jodi
-5286,97,,90 days,Recharge of Rs. 97 by BSNL,"60 min voice call to anynet calls with validity of 30 days -- Reduced calls to 5 friends and family numbers. -- On-net@ 20p/Min and Off-net @40p/Min -- Reduced SMS charges, Local SMS @ 10 p/SMS and STD SMS @ 50 p/sms ."
-5287,136,,730 days,Recharge of Rs. 136 by BSNL,Freedom_136_migration
-5288,666,,180 days,Recharge of Rs. 666 by BSNL,"PV-666 BSNL SIXER: Unlimited data (Speed reduced to 80 Kbps after 2GB/day) + Unlimited voice calls for 60 days. -- After 60 days: ALL calls (Local/STD) (On-net/Off-net) @ 50 Paisa/Minute -- SMS (while in Home & National Roaming): Local @25 Paisa/SMS, National @35 Paisa/SMS -- All other charges As per Per Minute plan"
+id,cost,talktime,validity,comments
+5282,36,,180 days,Plan Migration: SEC
+5283,37,,180 days,Plan Migration: MIN
+5284,49,,365 days,Nesam Gold_migration
+5285,75,,180 days,Plan Migration: Anbu Jodi
+5286,97,,90 days,"60 min voice call to anynet calls with validity of 30 days -- Reduced calls to 5 friends and family numbers. -- On-net@ 20p/Min and Off-net @40p/Min -- Reduced SMS charges, Local SMS @ 10 p/SMS and STD SMS @ 50 p/sms ."
+5287,136,,730 days,Freedom_136_migration
+5288,666,,180 days,"PV-666 BSNL SIXER: Unlimited data (Speed reduced to 80 Kbps after 2GB/day) + Unlimited voice calls for 60 days. -- After 60 days: ALL calls (Local/STD) (On-net/Off-net) @ 50 Paisa/Minute -- SMS (while in Home & National Roaming): Local @25 Paisa/SMS, National @35 Paisa/SMS -- All other charges As per Per Minute plan"

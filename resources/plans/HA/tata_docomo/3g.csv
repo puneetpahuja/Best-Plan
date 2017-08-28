@@ -1,36 +1,36 @@
-id,cost,talktime,validity,short description,long description
-7906,21,,3 days,Recharge of Rs. 21 by Docomo,85 MB Data -- Applicable for prepay CIMO customers.
-7907,36,,28 days,Recharge of Rs. 36 by Docomo,150 MB 3G data 
-7908,49,,1 Night ,Recharge of Rs. 49 by Docomo,1 GB 3G Data (1 Night -12 AM to 6 AM) -- 
-7909,73,,28 days,Recharge of Rs. 73 by Docomo,200 MB 3G data
-7910,75,,21 days,Recharge of Rs. 75 by Docomo,400 MB Data -- Applicable for prepay CIMO customers.
-7911,89,,10 days,Recharge of Rs. 89 by Docomo,375 MB Data -- Applicable for prepay CIMO customers.
-7912,93,,7 days,Recharge of Rs. 93 by Docomo,2 GB 3G Data -- Applicable for prepay CIMO customers.
-7913,96,,28 days,Recharge of Rs. 96 by Docomo,500 MB (250MB Day + 250MB Night) -- Applicable for prepay CIMO customers.
-7914,108,,28 Nights ,Recharge of Rs. 108 by Docomo,1 GB 3G Data (12 AM to 6 AM). -- 
-7915,115,,10 days,Recharge of Rs. 115 by Docomo,1 GB Data -- Applicable for prepay CIMO customers
-7916,119,,28 days,Recharge of Rs. 119 by Docomo,400 MB 3G data
-7917,126,,21 days,Recharge of Rs. 126 by Docomo,625 MB 3G data
-7918,139,,28 days,Recharge of Rs. 139 by Docomo,450 MB 3G data
-7919,141,,28 days,Recharge of Rs. 141 by Docomo,750 MB Data -- Applicable for prepay CIMO customers.
-7920,154,,14 days,Recharge of Rs. 154 by Docomo,750 MB 3G data
-7921,185,,21 days,Recharge of Rs. 185 by Docomo,750 MB 3G data
-7922,193,,28 days,Recharge of Rs. 193 by Docomo,2 GB 3G Data -- Applicable for prepay CIMO customers.
-7923,225,,28 Nights,Recharge of Rs. 225 by Docomo,1 GB Day + 1 GB Night (12 AM to 6 AM) -- Applicable for prepay CIMO customers.
-7924,239,,28 days,Recharge of Rs. 239 by Docomo,4 GB Data -- Applicable for prepay CIMO customers.
-7925,249,,28 days,Recharge of Rs. 249 by Docomo,28 GB (1GB/day) 
-7926,253,,30 days,Recharge of Rs. 253 by Docomo,1024 MB 3G data
-7927,255,,28 days,Recharge of Rs. 255 by Docomo,1.5 GB 3G Data  -- Applicable for prepay CIMO customers.
-7928,267,,60 days,Recharge of Rs. 267 by Docomo,1024 MB 3G data
-7929,268,,28 days,Recharge of Rs. 268 by Docomo,Unlimited Local & STD Onnet Calls -- 28 GB 3G Data (1 GB per Day)
-7930,269,,28 days,Recharge of Rs. 269 by Docomo,5 GB Data -- Applicable for prepay CIMO customers.
-7931,275,,28 days,Recharge of Rs. 275 by Docomo,2 GB 3G Data
-7932,348,,28 days,Recharge of Rs. 348 by Docomo,"2000 mins of usage for Local & STD calls -- 2 GB 3G Data, post 2000 mins Local & STD calls @ 30p/m"
-7933,351,,28 days,Recharge of Rs. 351 by Docomo,2048 MB 3G data
-7934,365,,28 days,Recharge of Rs. 365 by Docomo,3 GB 3G Data
-7935,449,,28 days,Recharge of Rs. 449 by Docomo,3072 MB 3G data
-7936,451,,28 days,Recharge of Rs. 451 by Docomo,4 GB 3G Data
-7937,502,,365 days,Recharge of Rs. 502 by Docomo,5 GB 3G Data -- Applicable for prepay CIMO customers.
-7938,695,,60 days,Recharge of Rs. 695 by Docomo,5120 MB 3G data
-7939,995,,60 days,Recharge of Rs. 995 by Docomo,8192 MB 3G data
-7940,996,,28 days,Recharge of Rs. 996 by Docomo,10 GB 3G Data
+id,cost,talktime,validity,comments
+7906,21,,3 days,85 MB Data -- Applicable for prepay CIMO customers.
+7907,36,,28 days,150 MB 3G data 
+7908,49,,1 Night ,1 GB 3G Data (1 Night -12 AM to 6 AM) -- 
+7909,73,,28 days,200 MB 3G data
+7910,75,,21 days,400 MB Data -- Applicable for prepay CIMO customers.
+7911,89,,10 days,375 MB Data -- Applicable for prepay CIMO customers.
+7912,93,,7 days,2 GB 3G Data -- Applicable for prepay CIMO customers.
+7913,96,,28 days,500 MB (250MB Day + 250MB Night) -- Applicable for prepay CIMO customers.
+7914,108,,28 Nights ,1 GB 3G Data (12 AM to 6 AM). -- 
+7915,115,,10 days,1 GB Data -- Applicable for prepay CIMO customers
+7916,119,,28 days,400 MB 3G data
+7917,126,,21 days,625 MB 3G data
+7918,139,,28 days,450 MB 3G data
+7919,141,,28 days,750 MB Data -- Applicable for prepay CIMO customers.
+7920,154,,14 days,750 MB 3G data
+7921,185,,21 days,750 MB 3G data
+7922,193,,28 days,2 GB 3G Data -- Applicable for prepay CIMO customers.
+7923,225,,28 Nights,1 GB Day + 1 GB Night (12 AM to 6 AM) -- Applicable for prepay CIMO customers.
+7924,239,,28 days,4 GB Data -- Applicable for prepay CIMO customers.
+7925,249,,28 days,28 GB (1GB/day) 
+7926,253,,30 days,1024 MB 3G data
+7927,255,,28 days,1.5 GB 3G Data  -- Applicable for prepay CIMO customers.
+7928,267,,60 days,1024 MB 3G data
+7929,268,,28 days,Unlimited Local & STD Onnet Calls -- 28 GB 3G Data (1 GB per Day)
+7930,269,,28 days,5 GB Data -- Applicable for prepay CIMO customers.
+7931,275,,28 days,2 GB 3G Data
+7932,348,,28 days,"2000 mins of usage for Local & STD calls -- 2 GB 3G Data, post 2000 mins Local & STD calls @ 30p/m"
+7933,351,,28 days,2048 MB 3G data
+7934,365,,28 days,3 GB 3G Data
+7935,449,,28 days,3072 MB 3G data
+7936,451,,28 days,4 GB 3G Data
+7937,502,,365 days,5 GB 3G Data -- Applicable for prepay CIMO customers.
+7938,695,,60 days,5120 MB 3G data
+7939,995,,60 days,8192 MB 3G data
+7940,996,,28 days,10 GB 3G Data

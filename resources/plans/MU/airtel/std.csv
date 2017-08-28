@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-3365,6,,1 day,Recharge of Rs. 6 by Airtel,STD Mobile Calls @ 40 P/Min
-3366,7,,1 day,Recharge of Rs. 7 by Airtel,25p/min STD Mobile calls 
-3367,19,,7 days,Recharge of Rs. 19 by Airtel,STD mob calls @ 50p/m
-3368,31,,28 days,Recharge of Rs. 31 by Airtel,STD mob calls @50p/min
-3369,36,,28 days,Recharge of Rs. 36 by Airtel,STD mobile calls @35p/min
-3370,49,,28 days,Recharge of Rs. 49 by Airtel,STD mobile calls @30p/min
-3371,52,,28 days,Recharge of Rs. 52 by Airtel,STD mobile calls at 25p/min
+id,cost,talktime,validity,comments
+3365,6,,1 day,STD Mobile Calls @ 40 P/Min
+3366,7,,1 day,25p/min STD Mobile calls 
+3367,19,,7 days,STD mob calls @ 50p/m
+3368,31,,28 days,STD mob calls @50p/min
+3369,36,,28 days,STD mobile calls @35p/min
+3370,49,,28 days,STD mobile calls @30p/min
+3371,52,,28 days,STD mobile calls at 25p/min

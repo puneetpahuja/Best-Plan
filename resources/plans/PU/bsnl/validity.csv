@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-6735,6,,180 days,Recharge of Rs. 6 by BSNL,PB
-6736,37,,180 days,Recharge of Rs. 37 by BSNL,Validity extension: PerMin_37
-6737,75,,180 days,Recharge of Rs. 75 by BSNL,Validity extension: Pyari Jodi 75
-6738,96,,365 days,Recharge of Rs. 96 by BSNL,Validity extension: Data_bundle_96
-6739,99,,30 days,Recharge of Rs. 99 by BSNL,Validity extension: Jai_Jawan_99
-6740,106,,N.A,Recharge of Rs. 106 by BSNL,Validity extension: New_Per_Second
-6741,136,,730 days,Recharge of Rs. 136 by BSNL,Freedom_136_validity-extension
-6742,199,,180 days,Recharge of Rs. 199 by BSNL,Validity extension: Roam_Free_199
-6743,666,,180 days,Recharge of Rs. 666 by BSNL,"PV-666 BSNL SIXER: Unlimited data (Speed reduced to 80 Kbps after 2GB/day) + Unlimited voice calls for 60 days. -- After 60 days: ALL calls (Local/STD) (On-net/Off-net) @ 50 Paisa/Minute -- SMS (while in Home & National Roaming): Local @25 Paisa/SMS, National @35 Paisa/SMS -- All other charges As per Per Minute plan"
+id,cost,talktime,validity,comments
+6735,6,,180 days,PB
+6736,37,,180 days,Validity extension: PerMin_37
+6737,75,,180 days,Validity extension: Pyari Jodi 75
+6738,96,,365 days,Validity extension: Data_bundle_96
+6739,99,,30 days,Validity extension: Jai_Jawan_99
+6740,106,,N.A,Validity extension: New_Per_Second
+6741,136,,730 days,Freedom_136_validity-extension
+6742,199,,180 days,Validity extension: Roam_Free_199
+6743,666,,180 days,"PV-666 BSNL SIXER: Unlimited data (Speed reduced to 80 Kbps after 2GB/day) + Unlimited voice calls for 60 days. -- After 60 days: ALL calls (Local/STD) (On-net/Off-net) @ 50 Paisa/Minute -- SMS (while in Home & National Roaming): Local @25 Paisa/SMS, National @35 Paisa/SMS -- All other charges As per Per Minute plan"

@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-3954,150,150,N.A,Recharge of Rs. 150 by Airtel,Talktime of Rs. 150 for Rs. 150 recharge by Airtel
-3955,200,200,N.A,Recharge of Rs. 200 by Airtel,Talktime of Rs. 200 for Rs. 200 recharge by Airtel
-3956,250,250,N.A,Recharge of Rs. 250 by Airtel,Talktime of Rs. 250 for Rs. 250 recharge by Airtel
-3957,300,300,N.A,Recharge of Rs. 300 by Airtel,Talktime of Rs. 300 for Rs. 300 recharge by Airtel
-3958,350,350,N.A,Recharge of Rs. 350 by Airtel,Talktime of Rs. 350 for Rs. 350 recharge by Airtel
-3959,500,500,N.A,Recharge of Rs. 500 by Airtel,Talktime of Rs. 500 for Rs. 500 recharge by Airtel
-3960,700,700,N.A,Recharge of Rs. 700 by Airtel,Talktime of Rs. 700 for Rs. 700 recharge by Airtel
-3962,1000,1000,N.A,Recharge of Rs. 1000 by Airtel,Talktime of Rs. 1000 for Rs. 1000 recharge by Airtel
-3963,1500,1500,N.A,Recharge of Rs. 1500 by Airtel,Talktime of Rs. 1500 for Rs. 1500 recharge by Airtel
-3964,3000,3000,N.A,Recharge of Rs. 3000 by Airtel,Talktime of Rs. 3000 for Rs. 3000 recharge by Airtel
-3965,5000,5000,N.A,Recharge of Rs. 5000 by Airtel,Talktime of Rs. 5000 for Rs. 5000 recharge by Airtel
-3966,10000,10000,N.A,Recharge of Rs. 10000 by Airtel,Talktime of Rs. 10000 for Rs. 10000 recharge by Airtel
+id,cost,talktime,validity,comments
+3954,150,150,N.A,Talktime of Rs. 150 for Rs. 150 recharge by Airtel
+3955,200,200,N.A,Talktime of Rs. 200 for Rs. 200 recharge by Airtel
+3956,250,250,N.A,Talktime of Rs. 250 for Rs. 250 recharge by Airtel
+3957,300,300,N.A,Talktime of Rs. 300 for Rs. 300 recharge by Airtel
+3958,350,350,N.A,Talktime of Rs. 350 for Rs. 350 recharge by Airtel
+3959,500,500,N.A,Talktime of Rs. 500 for Rs. 500 recharge by Airtel
+3960,700,700,N.A,Talktime of Rs. 700 for Rs. 700 recharge by Airtel
+3962,1000,1000,N.A,Talktime of Rs. 1000 for Rs. 1000 recharge by Airtel
+3963,1500,1500,N.A,Talktime of Rs. 1500 for Rs. 1500 recharge by Airtel
+3964,3000,3000,N.A,Talktime of Rs. 3000 for Rs. 3000 recharge by Airtel
+3965,5000,5000,N.A,Talktime of Rs. 5000 for Rs. 5000 recharge by Airtel
+3966,10000,10000,N.A,Talktime of Rs. 10000 for Rs. 10000 recharge by Airtel

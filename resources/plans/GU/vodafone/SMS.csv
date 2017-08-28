@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-16835,14,,27 days,Recharge of Rs. 14 by Vodafone,Local/National SMS @10p
-16836,34,,21 days,Recharge of Rs. 34 by Vodafone,360 Local SMS
-16837,45,,21 days,Recharge of Rs. 45 by Vodafone,430 Local / National SMS
-16838,54,,28 days,Recharge of Rs. 54 by Vodafone,580 Local / National SMS
-16839,102,,28 days,Recharge of Rs. 102 by Vodafone,1050 Local / National SMS
+id,cost,talktime,validity,comments
+16835,14,,27 days,Local/National SMS @10p
+16836,34,,21 days,360 Local SMS
+16837,45,,21 days,430 Local / National SMS
+16838,54,,28 days,580 Local / National SMS
+16839,102,,28 days,1050 Local / National SMS

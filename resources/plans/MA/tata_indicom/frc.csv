@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-15405,65,25,30 days,Recharge of Rs. 65 by Indicom,"Local/STD Mobile calls @ 25p/ Min -- National SMS (Local/STD SMS): post that, 98 SMS free daily -- Data: 200 MB 3G -- Applicable only for new subscribers as FRC/SRC"
+id,cost,talktime,validity,comments
+15405,65,25,30 days,"Local/STD Mobile calls @ 25p/ Min -- National SMS (Local/STD SMS): post that, 98 SMS free daily -- Data: 200 MB 3G -- Applicable only for new subscribers as FRC/SRC"

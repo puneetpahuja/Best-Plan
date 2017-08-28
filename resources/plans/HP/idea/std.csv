@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-10294,18,,28 days,Recharge of Rs. 18 by Idea,All STD mobile calls @Rs 1/3 Mins
-10295,29,,28 days,Recharge of Rs. 29 by Idea,All STD Mobile Calls @25p/m
-10296,35,,5 days,Recharge of Rs. 35 by Idea,3000 secs national mobile
+id,cost,talktime,validity,comments
+10294,18,,28 days,All STD mobile calls @Rs 1/3 Mins
+10295,29,,28 days,All STD Mobile Calls @25p/m
+10296,35,,5 days,3000 secs national mobile

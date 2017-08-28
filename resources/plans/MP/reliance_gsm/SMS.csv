@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-13635,11,,5 days,Recharge of Rs. 11 by RelianceGSM,Free 100 SMS (Local+National)
-13636,12,,30 days,Recharge of Rs. 12 by RelianceGSM,All Local & National SMS @ 10p/sms
-13637,14,,8 days,Recharge of Rs. 14 by RelianceGSM,Free 130 SMS (Local+National)
-13638,15,,8 days,Recharge of Rs. 15 by RelianceGSM,Free 150 SMS (Local+National)
-13639,25,,15 days,Recharge of Rs. 25 by RelianceGSM,Free 250 SMS (Local+National)
-13640,39,,30 days,Recharge of Rs. 39 by RelianceGSM,Free 500 SMS (Local+National)
-13641,64,,30 days,Recharge of Rs. 64 by RelianceGSM,Free 900 SMS (Local+National)
+id,cost,talktime,validity,comments
+13635,11,,5 days,Free 100 SMS (Local+National)
+13636,12,,30 days,All Local & National SMS @ 10p/sms
+13637,14,,8 days,Free 130 SMS (Local+National)
+13638,15,,8 days,Free 150 SMS (Local+National)
+13639,25,,15 days,Free 250 SMS (Local+National)
+13640,39,,30 days,Free 500 SMS (Local+National)
+13641,64,,30 days,Free 900 SMS (Local+National)

@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-15284,10,7.48,N.A,Recharge of Rs. 10 by Indicom,Talktime of Rs. 7.48 for Rs. 10 recharge by Tata Indicom
-15285,20,14.94,N.A,Recharge of Rs. 20 by Indicom,Talktime of Rs. 14.94 for Rs. 20 recharge by Tata Indicom
-15286,40,33.94,N.A,Recharge of Rs. 40 by Indicom,Talktime of Rs. 33.94 for Rs. 40 recharge by Tata Indicom
-15287,60,52.18,N.A,Recharge of Rs. 60 by Indicom,Talktime of Rs. 52.18 for Rs. 60 recharge by Tata Indicom
+id,cost,talktime,validity,comments
+15284,10,7.48,N.A,Talktime of Rs. 7.48 for Rs. 10 recharge by Tata Indicom
+15285,20,14.94,N.A,Talktime of Rs. 14.94 for Rs. 20 recharge by Tata Indicom
+15286,40,33.94,N.A,Talktime of Rs. 33.94 for Rs. 40 recharge by Tata Indicom
+15287,60,52.18,N.A,Talktime of Rs. 52.18 for Rs. 60 recharge by Tata Indicom

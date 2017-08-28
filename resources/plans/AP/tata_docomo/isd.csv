@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-7656,28,,30 days,Recharge of Rs. 28 by Docomo,"ISD calls to US, Canada, China, Hong Kong @ 2p/sec. ISD calls to Bangladesh, Malaysia, Thailand, Greece, Singapore @ 4p/sec. ISD calls to Iran, Bhutan, Australia, Sri-lanka, Indonesia, Bahrain, Iraq, Kuwait, Saudi Arabia, UAE @ 13p/sec. ISD calls to Nepal @ 15p/sec. ISD calls to UK Mobile @ 24p/ sec. Calls to Qatar @ 17p/ sec. ISD calls to Oman @ 21p/ sec."
-7657,59,,30 days,Recharge of Rs. 59 by Docomo,ISD calls to US & Canada @ 1p/Sec (Max upto 450 Min) -- ISD calls to US & Canada @ 1p/ sec.
+id,cost,talktime,validity,comments
+7656,28,,30 days,"ISD calls to US, Canada, China, Hong Kong @ 2p/sec. ISD calls to Bangladesh, Malaysia, Thailand, Greece, Singapore @ 4p/sec. ISD calls to Iran, Bhutan, Australia, Sri-lanka, Indonesia, Bahrain, Iraq, Kuwait, Saudi Arabia, UAE @ 13p/sec. ISD calls to Nepal @ 15p/sec. ISD calls to UK Mobile @ 24p/ sec. Calls to Qatar @ 17p/ sec. ISD calls to Oman @ 21p/ sec."
+7657,59,,30 days,ISD calls to US & Canada @ 1p/Sec (Max upto 450 Min) -- ISD calls to US & Canada @ 1p/ sec.

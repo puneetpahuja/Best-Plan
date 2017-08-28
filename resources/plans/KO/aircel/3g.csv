@@ -1,18 +1,18 @@
-id,cost,talktime,validity,short description,long description
-659,49,,2 days,Recharge of Rs. 49 by Aircel,"UL A2A (Local + STD) +120 min (Local +STD ) other Mobile call, Post free min Call@30p/min -- 1 GB 3G/2G Data"
-661,255,,28 days,Recharge of Rs. 255 by Aircel,"Unlimited Aircel to Aircel (Local + STD) mobile calls + 60000 seconds others (Local + STD) mobile calls; Post Free seconds mobile calls @30p/min -- 1 GB/Day 3G/2G Data. Post FUP Data limit is over, speed will be throttled to 16/16KBPS"
-662,299,,28 days,Recharge of Rs. 299 by Aircel,"UL all call ( Off-net FUP 300 min/Day and 1200 min/Week) -- Unlimited 1 GB 3G/2G/Day; Post FUP Off-net call @30p/min; Post FUP data limit is over, speed will be throttled to 16/16KBPS"
-663,249,,28 days,Recharge of Rs. 249 by Aircel,"Aircel to Aircel (Local + STD) unlimited mobile calls and 1500 minutes free for Aircel to other local + STD mobile calls, post consumption of 1500 minutes other local + STD mobile calls will be 30 paisa/minute. -- 1 GB 2G/3G data (4G Handset Customers will get additional 1.5 GB 3G/2G data)."
-664,23,,3 days,Recharge of Rs. 23 by Aircel,110 MB 3G Data
-665,36,,3 days,Recharge of Rs. 36 by Aircel,1 GB 3G Data
-666,39,,7 days,Recharge of Rs. 39 by Aircel,250 MB 3G Data
-667,48,,14 days,Recharge of Rs. 48 by Aircel,1 GB 3G Data
-668,65,,5 days,Recharge of Rs. 65 by Aircel,1 GB 3G Data -- Additional 1GB 3G (valid- 1 day) @ Rs 9 can be availed by dialling - *121*69# -- 
-669,67,,5 days,Recharge of Rs. 67 by Aircel,3 GB 3G Data
-670,116,,28 days,Recharge of Rs. 116 by Aircel,1 GB 3G Data 
-671,151,,28 days,Recharge of Rs. 151 by Aircel,2.5 GB 3G Data
-672,155,,1 day,Recharge of Rs. 155 by Aircel,50 MB 3G Data
-673,198,,28 days,Recharge of Rs. 198 by Aircel,5 GB 3G Day + 1 GB 3G Night
-674,205,,28 days,Recharge of Rs. 205 by Aircel,Unlimited 1 GB 3G/day
-675,289,,28 days,Recharge of Rs. 289 by Aircel,10 GB 3G Data + 5 GB 3G Night Data
-676,296,,28 days,Recharge of Rs. 296 by Aircel,Unlimited 2GB 3g/day
+id,cost,talktime,validity,comments
+659,49,,2 days,"UL A2A (Local + STD) +120 min (Local +STD ) other Mobile call, Post free min Call@30p/min -- 1 GB 3G/2G Data"
+661,255,,28 days,"Unlimited Aircel to Aircel (Local + STD) mobile calls + 60000 seconds others (Local + STD) mobile calls; Post Free seconds mobile calls @30p/min -- 1 GB/Day 3G/2G Data. Post FUP Data limit is over, speed will be throttled to 16/16KBPS"
+662,299,,28 days,"UL all call ( Off-net FUP 300 min/Day and 1200 min/Week) -- Unlimited 1 GB 3G/2G/Day; Post FUP Off-net call @30p/min; Post FUP data limit is over, speed will be throttled to 16/16KBPS"
+663,249,,28 days,"Aircel to Aircel (Local + STD) unlimited mobile calls and 1500 minutes free for Aircel to other local + STD mobile calls, post consumption of 1500 minutes other local + STD mobile calls will be 30 paisa/minute. -- 1 GB 2G/3G data (4G Handset Customers will get additional 1.5 GB 3G/2G data)."
+664,23,,3 days,110 MB 3G Data
+665,36,,3 days,1 GB 3G Data
+666,39,,7 days,250 MB 3G Data
+667,48,,14 days,1 GB 3G Data
+668,65,,5 days,1 GB 3G Data -- Additional 1GB 3G (valid- 1 day) @ Rs 9 can be availed by dialling - *121*69# -- 
+669,67,,5 days,3 GB 3G Data
+670,116,,28 days,1 GB 3G Data 
+671,151,,28 days,2.5 GB 3G Data
+672,155,,1 day,50 MB 3G Data
+673,198,,28 days,5 GB 3G Day + 1 GB 3G Night
+674,205,,28 days,Unlimited 1 GB 3G/day
+675,289,,28 days,10 GB 3G Data + 5 GB 3G Night Data
+676,296,,28 days,Unlimited 2GB 3g/day

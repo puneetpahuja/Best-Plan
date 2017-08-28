@@ -1,20 +1,20 @@
-id,cost,talktime,validity,short description,long description
-2308,53,,7 days,Recharge of Rs. 53 by Airtel,Unlimited L+N Onnet calls -- 250 MB (4G H/S) and 50MB (Non 4G)3G/4G DATA. T&C Apply
-2311,97,,11 days,Recharge of Rs. 97 by Airtel,390 MB 3G/4G Data -- Cashback excluded
-2314,158,,27 days,Recharge of Rs. 158 by Airtel,400 MB 3G/4G Data (Cashback excluded)
-2316,203,,28 days,Recharge of Rs. 203 by Airtel,1.25 GB Unlimited @40 Kbps (cashback excluded .3G/4G data accumulation not applicable )
-2317,249,,28 days,Recharge of Rs. 249 by Airtel,FREE Local mobile calls -- 1GB on 4G handset & 50MB on other handsets. T&C apply.
-2319,349,,28 days,Recharge of Rs. 349 by Airtel,Unlimited all Local + STD calls -- 1 GB/day 3G/4G data -- T&C apply.
-2320,399,,28 days,Recharge of Rs. 399 by Airtel,Unlimited All Local & STD Calls -- 1 GB/DAY 4G/3G for 4G HS. 1.25 GB 3G for 3G HS. T&C Apply.
-2322,499,,28 days,Recharge of Rs. 499 by Airtel,Unlimited All Local & STD Calls -- 1.5 GB/Day 4G/3G for 4G HS. 2GB 3G for 3G HS. T&C Apply.
-2324,549,,28 days,Recharge of Rs. 549 by Airtel,Unlimited all Local + STD calls -- 2 GB/day 3G/4G data -- T&C apply.
-2325,599,,28 days,Recharge of Rs. 599 by Airtel,Unlimited All Local & STD Calls -- 1.25 GB/DAY 4G/3G for 4G HS. 3 GB 3G for 3G HS
-2326,648,,28 days,Recharge of Rs. 648 by Airtel,Unlimited All Local & STD Calls -- 2.5GB/Day 4G/3G for 4G HS. 3.5GB 3G for 3G HS. T&C Apply.
-2328,749,,28 days,Recharge of Rs. 749 by Airtel,INSTANT 5 GB 3G/4G Data -- NOW FOR 6 MONTHS GET 1 GB 3G/4G Data (28 Days) @ JUST RS 97 & 2.5 GB 3G/4G Data @RS254 28 Days -- Cashback excluded
-2329,799,,28 days,Recharge of Rs. 799 by Airtel,Unlimited all Local + STD calls -- 3 GB/day 3G/4G data -- T&C apply.
-2330,899,,28 days,Recharge of Rs. 899 by Airtel,Unlimited All Local & STD Calls -- 3.5 GB/DAY 4G/3G for 4G HS. 6GB 3G for 3G HS T&C Apply.
-2331,992,,365 days,Recharge of Rs. 992 by Airtel,10 GB 3G/4G Data
-2333,999,,28 days,Recharge of Rs. 999 by Airtel,Unlimited all Local + STD calls -- 4 GB/day 3G/4G data -- T&C apply.
-2334,1198,,28 days,Recharge of Rs. 1198 by Airtel,Unlimited All Local & STD Calls -- 5 GB/DAY 4G/3G for 4G HS. 9 GB 3G for 3G HS. T&C Apply.
-2335,1499,,12 months,Recharge of Rs. 1499 by Airtel,"10 GB 3G/4G Data (28 days) -- Now for 1 year get 1 GB 3G/4G Data (28 days) @ just Rs56, 2 GB 3G/4G Data @ Rs97, 5 GB 3G/4G Data (28 days) @ Rs254  -- Cashback excluded"
-2336,93,,7 days,Recharge of Rs. 93 by Airtel,Unlimited L+N Onnet +100 Min offnet L+N calls -- 250 MB (4G H/S) and 50MB (Non 4G)3G/4G Data.T&C Apply
+id,cost,talktime,validity,comments
+2308,53,,7 days,Unlimited L+N Onnet calls -- 250 MB (4G H/S) and 50MB (Non 4G)3G/4G DATA. T&C Apply
+2311,97,,11 days,390 MB 3G/4G Data -- Cashback excluded
+2314,158,,27 days,400 MB 3G/4G Data (Cashback excluded)
+2316,203,,28 days,1.25 GB Unlimited @40 Kbps (cashback excluded .3G/4G data accumulation not applicable )
+2317,249,,28 days,FREE Local mobile calls -- 1GB on 4G handset & 50MB on other handsets. T&C apply.
+2319,349,,28 days,Unlimited all Local + STD calls -- 1 GB/day 3G/4G data -- T&C apply.
+2320,399,,28 days,Unlimited All Local & STD Calls -- 1 GB/DAY 4G/3G for 4G HS. 1.25 GB 3G for 3G HS. T&C Apply.
+2322,499,,28 days,Unlimited All Local & STD Calls -- 1.5 GB/Day 4G/3G for 4G HS. 2GB 3G for 3G HS. T&C Apply.
+2324,549,,28 days,Unlimited all Local + STD calls -- 2 GB/day 3G/4G data -- T&C apply.
+2325,599,,28 days,Unlimited All Local & STD Calls -- 1.25 GB/DAY 4G/3G for 4G HS. 3 GB 3G for 3G HS
+2326,648,,28 days,Unlimited All Local & STD Calls -- 2.5GB/Day 4G/3G for 4G HS. 3.5GB 3G for 3G HS. T&C Apply.
+2328,749,,28 days,INSTANT 5 GB 3G/4G Data -- NOW FOR 6 MONTHS GET 1 GB 3G/4G Data (28 Days) @ JUST RS 97 & 2.5 GB 3G/4G Data @RS254 28 Days -- Cashback excluded
+2329,799,,28 days,Unlimited all Local + STD calls -- 3 GB/day 3G/4G data -- T&C apply.
+2330,899,,28 days,Unlimited All Local & STD Calls -- 3.5 GB/DAY 4G/3G for 4G HS. 6GB 3G for 3G HS T&C Apply.
+2331,992,,365 days,10 GB 3G/4G Data
+2333,999,,28 days,Unlimited all Local + STD calls -- 4 GB/day 3G/4G data -- T&C apply.
+2334,1198,,28 days,Unlimited All Local & STD Calls -- 5 GB/DAY 4G/3G for 4G HS. 9 GB 3G for 3G HS. T&C Apply.
+2335,1499,,12 months,"10 GB 3G/4G Data (28 days) -- Now for 1 year get 1 GB 3G/4G Data (28 days) @ just Rs56, 2 GB 3G/4G Data @ Rs97, 5 GB 3G/4G Data (28 days) @ Rs254  -- Cashback excluded"
+2336,93,,7 days,Unlimited L+N Onnet +100 Min offnet L+N calls -- 250 MB (4G H/S) and 50MB (Non 4G)3G/4G Data.T&C Apply

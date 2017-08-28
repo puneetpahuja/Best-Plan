@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-15883,16,,28 days,Recharge of Rs. 16 by Uninor,"Daily 1st 2 SMS charged @ 50p / SMS, then 98 local + national SMS free for the day"
-15884,39,,28 days,Recharge of Rs. 39 by Uninor,First 1000 local and national SMS free
-15885,46,,28 days,Recharge of Rs. 46 by Uninor,2500 Local + National SMS free
+id,cost,talktime,validity,comments
+15883,16,,28 days,"Daily 1st 2 SMS charged @ 50p / SMS, then 98 local + national SMS free for the day"
+15884,39,,28 days,First 1000 local and national SMS free
+15885,46,,28 days,2500 Local + National SMS free

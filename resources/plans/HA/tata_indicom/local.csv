@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-15196,21,,28 days,Recharge of Rs. 21 by Indicom,Local On-Net mobile calls @ 10p/m & STD On-Net mobile calls @ 20p/m
-15197,46,,84 days,Recharge of Rs. 46 by Indicom,Local/STD Mobile calls @ 36p/m 
-15198,49,,14 days,Recharge of Rs. 49 by Indicom,Local + STD Mins 100 Mins
-15199,99,,28 days,Recharge of Rs. 99 by Indicom,"1,20,000 Local On-Net secs. post which calls @ 20p/m"
-15200,105,,14 days,Recharge of Rs. 105 by Indicom,Unlimited Local On-Net mobile calls
-15201,123,,21 days,Recharge of Rs. 123 by Indicom,Unlimited Local On-Net mobile calls from 10-6pm. Local On-Net mobile calls @ 1p/ sec from 6-10pm
-15202,163,,28 days,Recharge of Rs. 163 by Indicom,Unlimited Local On-Net mobile calls @ from 10pm to 6pm. Local On-Net mobile calls @ 1p/ sec. from 6pm to 10pm.
-15203,195,,28 days,Recharge of Rs. 195 by Indicom,Unlimited Local On-Net mobile calls
-15204,299,,28 days,Recharge of Rs. 299 by Indicom,Unlimited Local On-Net mobile calls + 30 Mins Local Off-Net mobile calls
-15205,499,,28 days,Recharge of Rs. 499 by Indicom,Unlimited Local On-Net mobile calls -- STD On-Net mobile calls @ 6000 Min
-15206,666,,28 days,Recharge of Rs. 666 by Indicom,2500 Mins Local + STD Mins
-15207,699,,28 days,Recharge of Rs. 699 by Indicom,Local On-Net mobile calls @ Unlimited -- STD On-Net mobile calls @ 5000 mins
+id,cost,talktime,validity,comments
+15196,21,,28 days,Local On-Net mobile calls @ 10p/m & STD On-Net mobile calls @ 20p/m
+15197,46,,84 days,Local/STD Mobile calls @ 36p/m 
+15198,49,,14 days,Local + STD Mins 100 Mins
+15199,99,,28 days,"1,20,000 Local On-Net secs. post which calls @ 20p/m"
+15200,105,,14 days,Unlimited Local On-Net mobile calls
+15201,123,,21 days,Unlimited Local On-Net mobile calls from 10-6pm. Local On-Net mobile calls @ 1p/ sec from 6-10pm
+15202,163,,28 days,Unlimited Local On-Net mobile calls @ from 10pm to 6pm. Local On-Net mobile calls @ 1p/ sec. from 6pm to 10pm.
+15203,195,,28 days,Unlimited Local On-Net mobile calls
+15204,299,,28 days,Unlimited Local On-Net mobile calls + 30 Mins Local Off-Net mobile calls
+15205,499,,28 days,Unlimited Local On-Net mobile calls -- STD On-Net mobile calls @ 6000 Min
+15206,666,,28 days,2500 Mins Local + STD Mins
+15207,699,,28 days,Local On-Net mobile calls @ Unlimited -- STD On-Net mobile calls @ 5000 mins

@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-16444,10,7.47,N.A,Recharge of Rs. 10 by Vodafone,Talktime of Rs. 7.47 for Rs. 10 recharge by Vodafone
-16445,20,14.95,N.A,Recharge of Rs. 20 by Vodafone,Talktime of Rs. 14.95 for Rs. 20 recharge by Vodafone
-16446,30,22.42,N.A,Recharge of Rs. 30 by Vodafone,Talktime of Rs. 22.42 for Rs. 30 recharge by Vodafone
-16448,40,30.9,N.A,Recharge of Rs. 40 by Vodafone,Talktime of Rs. 30.9 for Rs. 40 recharge by Vodafone
-16449,50,39.37,N.A,Recharge of Rs. 50 by Vodafone,Talktime of Rs. 39.37 for Rs. 50 recharge by Vodafone
-16450,60,55,N.A,Recharge of Rs. 60 by Vodafone,Talktime of Rs. 55 for Rs. 60 recharge by Vodafone
-16451,80,76,N.A,Recharge of Rs. 80 by Vodafone,Talktime of Rs. 76 for Rs. 80 recharge by Vodafone
-16452,90,85,N.A,Recharge of Rs. 90 by Vodafone,Talktime of Rs. 85 for Rs. 90 recharge by Vodafone
-16453,100,95,N.A,Recharge of Rs. 100 by Vodafone,Talktime of Rs. 95 for Rs. 100 recharge by Vodafone
-16455,150,147,N.A,Recharge of Rs. 150 by Vodafone,Talktime of Rs. 147 for Rs. 150 recharge by Vodafone
-16456,180,176,N.A,Recharge of Rs. 180 by Vodafone,Talktime of Rs. 176 for Rs. 180 recharge by Vodafone
-16457,190,186,N.A,Recharge of Rs. 190 by Vodafone,Talktime of Rs. 186 for Rs. 190 recharge by Vodafone
+id,cost,talktime,validity,comments
+16444,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by Vodafone
+16445,20,14.95,N.A,Talktime of Rs. 14.95 for Rs. 20 recharge by Vodafone
+16446,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by Vodafone
+16448,40,30.9,N.A,Talktime of Rs. 30.9 for Rs. 40 recharge by Vodafone
+16449,50,39.37,N.A,Talktime of Rs. 39.37 for Rs. 50 recharge by Vodafone
+16450,60,55,N.A,Talktime of Rs. 55 for Rs. 60 recharge by Vodafone
+16451,80,76,N.A,Talktime of Rs. 76 for Rs. 80 recharge by Vodafone
+16452,90,85,N.A,Talktime of Rs. 85 for Rs. 90 recharge by Vodafone
+16453,100,95,N.A,Talktime of Rs. 95 for Rs. 100 recharge by Vodafone
+16455,150,147,N.A,Talktime of Rs. 147 for Rs. 150 recharge by Vodafone
+16456,180,176,N.A,Talktime of Rs. 176 for Rs. 180 recharge by Vodafone
+16457,190,186,N.A,Talktime of Rs. 186 for Rs. 190 recharge by Vodafone

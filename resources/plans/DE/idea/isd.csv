@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-9760,23,,30 days,Recharge of Rs. 23 by Idea,"Australia,Saudi Arabia,Kuwait,Bhutan,Bahrain,Nepal,Pakistan,Sri Lanka- @ Rs.7.00/minUSA,Canada,UK (landline) @ Rs.2.00/minChina,Singapore,Hong Kong @ Rs.3.00/minThailand,Bangladesh,Malaysia @ Rs.4.00/minUAE, Yamen @ Rs.9.00/minAfghanistan @ Rs.13.00/minNigeria @ Rs.6.00/min -- "
-9761,596,,10 days,Recharge of Rs. 596 by Idea,"International Roaming Pack for UAE** NO Talktime -- Incoming calls at Rs. 30/min & Outgoing calls at Rs. Rs.30/min -- Outgoing SMS at Rs. 25 per SMS, Incoming SMS Free"
-9762,1496,,30 days,Recharge of Rs. 1496 by Idea,"International Roaming Pack for UAE** NO Talktime -- 30 minutes Incoming Free. Post Free minutes Incoming calls at Rs.30/min & Outgoing calls at Rs.30/min -- Outgoing SMS at Rs.25 per SMS, Incoming SMS Free"
+id,cost,talktime,validity,comments
+9760,23,,30 days,"Australia,Saudi Arabia,Kuwait,Bhutan,Bahrain,Nepal,Pakistan,Sri Lanka- @ Rs.7.00/minUSA,Canada,UK (landline) @ Rs.2.00/minChina,Singapore,Hong Kong @ Rs.3.00/minThailand,Bangladesh,Malaysia @ Rs.4.00/minUAE, Yamen @ Rs.9.00/minAfghanistan @ Rs.13.00/minNigeria @ Rs.6.00/min -- "
+9761,596,,10 days,"International Roaming Pack for UAE** NO Talktime -- Incoming calls at Rs. 30/min & Outgoing calls at Rs. Rs.30/min -- Outgoing SMS at Rs. 25 per SMS, Incoming SMS Free"
+9762,1496,,30 days,"International Roaming Pack for UAE** NO Talktime -- 30 minutes Incoming Free. Post Free minutes Incoming calls at Rs.30/min & Outgoing calls at Rs.30/min -- Outgoing SMS at Rs.25 per SMS, Incoming SMS Free"

@@ -1,18 +1,18 @@
-id,cost,talktime,validity,short description,long description
-8507,72,72,10 days,Recharge of Rs. 72 by Docomo,1 Local On net SMS 
-8508,125,125,28 days,Recharge of Rs. 125 by Docomo,1 Local On-Net SMS 
-8510,199,199,28 days,Recharge of Rs. 199 by Docomo,1 GB Data
-8512,251,251,28 days,Recharge of Rs. 251 by Docomo,2 GB Data
-8513,333,340,30 days,Recharge of Rs. 333 by Docomo,Talktime  340 (Core) & 1 Local On net SMS 
-8515,444,455,30 days,Recharge of Rs. 444 by Docomo,Talktime (Rs.): 455 (Core)& 1 Local On net SMS 
-8525,71,41,14 days,Recharge of Rs. 71 by Docomo,250 MB data
-8526,99,83.09,30 days,Recharge of Rs. 99 by Docomo,Talktime Validity Lifetime + 1 Local Tata minute
-8529,128,75,15 days,Recharge of Rs. 128 by Docomo,500 MB data
-8530,149,90,28 days,Recharge of Rs. 149 by Docomo,1 GB Data 
-8532,222,200,10 days,Recharge of Rs. 222 by Docomo,Local On-Net Mins: 20
-8547,76,,14 days,Recharge of Rs. 76 by Docomo,Unlimited Local onnet + STD onnet calls -- 500 MB Data per day 
-8550,103,,28 days,Recharge of Rs. 103 by Docomo,Unlimited Local onnet + STD onnet calls -- 1 GB Data per day
-8553,201,,30 days,Recharge of Rs. 201 by Docomo,All Local On-Net calls @ 0p/ sec. -- 500 MB Data
-8556,298,,28 days,Recharge of Rs. 298 by Docomo,Unlimited All India Calls (Local +STD) & 1 GB 2G Data
-8557,348,,28 days,Recharge of Rs. 348 by Docomo,Unlimited All India Calls (Local +STD)  -- 2 GB 2G Data
-8593,345,,30 days,Recharge of Rs. 345 by Docomo,National SMS (Local/STD SMS): 3000 -- Local Secs: 36000 -- STD Secs: 18000 -- Data: 3 GB
+id,cost,talktime,validity,comments
+8507,72,72,10 days,1 Local On net SMS 
+8508,125,125,28 days,1 Local On-Net SMS 
+8510,199,199,28 days,1 GB Data
+8512,251,251,28 days,2 GB Data
+8513,333,340,30 days,Talktime  340 (Core) & 1 Local On net SMS 
+8515,444,455,30 days,Talktime (Rs.): 455 (Core)& 1 Local On net SMS 
+8525,71,41,14 days,250 MB data
+8526,99,83.09,30 days,Talktime Validity Lifetime + 1 Local Tata minute
+8529,128,75,15 days,500 MB data
+8530,149,90,28 days,1 GB Data 
+8532,222,200,10 days,Local On-Net Mins: 20
+8547,76,,14 days,Unlimited Local onnet + STD onnet calls -- 500 MB Data per day 
+8550,103,,28 days,Unlimited Local onnet + STD onnet calls -- 1 GB Data per day
+8553,201,,30 days,All Local On-Net calls @ 0p/ sec. -- 500 MB Data
+8556,298,,28 days,Unlimited All India Calls (Local +STD) & 1 GB 2G Data
+8557,348,,28 days,Unlimited All India Calls (Local +STD)  -- 2 GB 2G Data
+8593,345,,30 days,National SMS (Local/STD SMS): 3000 -- Local Secs: 36000 -- STD Secs: 18000 -- Data: 3 GB

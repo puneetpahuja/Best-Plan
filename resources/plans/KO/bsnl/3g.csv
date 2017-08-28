@@ -1,48 +1,48 @@
-id,cost,talktime,validity,short description,long description
-6080,3,,1 day,Recharge of Rs. 3 by BSNL,Data chargeable @9paise/1MB from 02:00 hours to 06:00 hours. Voucher benefit is not available in MTNL area.
-6081,4,,1 day,Recharge of Rs. 4 by BSNL,20MB 2G/3G Data
-6082,17,,1 day,Recharge of Rs. 17 by BSNL,110 MB 2G/3G
-6083,25,,2 days,Recharge of Rs. 25 by BSNL,500 MB 2G/3G Night Data
-6084,28,,3 days,Recharge of Rs. 28 by BSNL,150 MB 2G/3G
-6085,39,,5 days,Recharge of Rs. 39 by BSNL,200MB 2G/3G -- Charges after free usage: 3ps/10KB 
-6086,46,,2 days,Recharge of Rs. 46 by BSNL,1 GB 2G/3G night data
-6087,56,,21 days,Recharge of Rs. 56 by BSNL,250 MB 2G/3G Data
-6088,63,,28 days,Recharge of Rs. 63 by BSNL,Data usage from main a/c is chargeable @9paise/1MB from 02:00 hours to 06:00 hours. Voucher benefit is not available in MTNL area.
-6089,68,,1 day,Recharge of Rs. 68 by BSNL,1 GB 2G/3G Data -- If recharged between 28/10/2016 to 05/11/2016 double data benefit i.e. 2GB will be available
-6090,74,,5 days,Recharge of Rs. 74 by BSNL,Unlimited BSNL to BSNL voice call(local/STD) and 74 minutes  BSNL to OTHERS  voice call -- 1 GB free 2G/3G data 
-6091,78,,3 days,Recharge of Rs. 78 by BSNL,2GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB -- Double data offer from 15 to 20 Aug 2017
-6092,82,,12 days,Recharge of Rs. 82 by BSNL,450 MB 2G/3G Data 
-6093,98,,10 days,Recharge of Rs. 98 by BSNL,1300MB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB -- Double data offer from 15 to 20 Aug 2017
-6094,101,,26 days,Recharge of Rs. 101 by BSNL,Unlimited local/STD BSNL to BSNL voice calls -- 1 GB 2G/3G Data.
-6095,103,,5 days,Recharge of Rs. 103 by BSNL,1 GB 2G/3G data and free TV channels
-6096,109,,28 days,Recharge of Rs. 109 by BSNL,650MB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB. -- Double data offer from 15 to 20 Aug 2017
-6097,155,,17 days,Recharge of Rs. 155 by BSNL,1.5GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB -- Double data offer from 15 to 20 Aug 2017
-6098,156,,10 days,Recharge of Rs. 156 by BSNL,2 GB 2G/3G data. Free data is also available in National Roaming. Data charges beyond freebies is 3paise/10KB.
-6099,178,,17 days,Recharge of Rs. 178 by BSNL,1 GB 2G/3G data and free TV channels
-6100,179,,17 days,Recharge of Rs. 179 by BSNL,1 GB 2G/3G data and free TV channels
-6101,198,,25 days,Recharge of Rs. 198 by BSNL,2.2GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB -- Double data offer from 15 to 20 Aug 2017
-6102,211,,15 days,Recharge of Rs. 211 by BSNL,1 GB 2G/3G Data 
-6103,291,,27 days,Recharge of Rs. 291 by BSNL,4GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB -- Double data offer from 15 to 20 Aug 2017
-6104,333,,56 days,Recharge of Rs. 333 by BSNL,"Triple Ace_333: 3 GB/Day 2G/3G Data, Post 3GB/day unlimited internet @ 80kbps."
-6105,339,,26 days,Recharge of Rs. 339 by BSNL,Unlimited local/STD BSNL to BSNL voice calls + 30 Min/day free voice call from BSNL to others network (off-net voice calls will be charged @ 25P/Min after free off-net voice calls) -- Unlimited 2G/3G data (speed restricted to 80 KBPS after 3 GB/day) data.
-6106,349,,26 days,Recharge of Rs. 349 by BSNL,"Dil Khol ke Bol STV_349: Unlimited Local/STD calls to any network in home LSA -- 2.5GB 2G/3G Data, Post 2.5GB unlimited internet @ 80kbps"
-6107,351,,28 days,Recharge of Rs. 351 by BSNL,1.5 GB 2G/3G Data with high speed & beyond that unlimited data with low speed.
-6108,395,,60 days,Recharge of Rs. 395 by BSNL,"Nehle per Dehla STV_395: 3000 minutes onnet Local/STD Voice calls in home LSA. After free minutes call charges as per base plan -- 1800 minutes offnet Local/STD Voice calls in home LSA. After free minutes call charges @20 paise/min from main a/c -- 2GB/Day 2G/3G Data, Post 2GB/day unlimited internet @ 80kbps -- Data freebies is available in National roaming also"
-6109,444,,90 days,Recharge of Rs. 444 by BSNL,"Chaukka_444: 4 GB/Day 2G/3G Data, Post 4GB/day unlimited internet @ 80kbps"
-6110,452,,28 days,Recharge of Rs. 452 by BSNL,2.5 GB 2G/3G Data with high speed and beyond that unlimited data with low speed.
-6111,549,,30 days,Recharge of Rs. 549 by BSNL,6 GB 2G/3G Data
-6112,561,,90 days,Recharge of Rs. 561 by BSNL,8GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB -- Double data offer from 15 to 20 Aug 2017
-6113,597,,180 days,Recharge of Rs. 597 by BSNL,6GB 2G/3G Data
-6114,651,,28 days,Recharge of Rs. 651 by BSNL,5.5 GB 2G/3G Data with high speed and beyond that unlimited data with low speed.
-6115,751,,28 days,Recharge of Rs. 751 by BSNL,7 GB 2G/3G Data with high speed and beyond that unlimited data with low speed.
-6116,821,,120 days,Recharge of Rs. 821 by BSNL,12GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB. -- Double data offer from 15 to 20 Aug 2017
-6117,851,,28 days,Recharge of Rs. 851 by BSNL,8 GB 2G/3G Data with high speed and beyond that unlimited data with low speed.
-6118,951,,28 days,Recharge of Rs. 951 by BSNL,9 GB 2G/3G Data with high speed and beyond that unlimited data with low speed.
-6119,1099,,30 days,Recharge of Rs. 1099 by BSNL,Unlimited 2G/3G data usage.Free data is also available in national roaming.
-6120,1197,,365 days,Recharge of Rs. 1197 by BSNL,14GB 2G/3G Data
-6121,1498,,365 days,Recharge of Rs. 1498 by BSNL,36GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB. -- Double data offer from 15 to 20 Aug 2017
-6122,1949,,270 days,Recharge of Rs. 1949 by BSNL,40GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB -- Double data offer from 15 to 20 Aug 2017
-6123,2798,,365 days,Recharge of Rs. 2798 by BSNL,72GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB. -- Double data offer from 15 to 20 Aug 2017
-6124,3099,,30 days,Recharge of Rs. 3099 by BSNL,15 GB 2G/3G Data -- Unlimited BSNL to BSNL voice call in Local/STD/Roaming scenario.500 minutes BSNL to Others voice call in Local/STD/Roaming scenario.
-6125,3998,,365 days,Recharge of Rs. 3998 by BSNL,110GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB. -- Double data offer from 15 to 20 Aug 2017
-6126,4498,,365 days,Recharge of Rs. 4498 by BSNL,160GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB. -- Double data offer from 15 to 20 Aug 2017
+id,cost,talktime,validity,comments
+6080,3,,1 day,Data chargeable @9paise/1MB from 02:00 hours to 06:00 hours. Voucher benefit is not available in MTNL area.
+6081,4,,1 day,20MB 2G/3G Data
+6082,17,,1 day,110 MB 2G/3G
+6083,25,,2 days,500 MB 2G/3G Night Data
+6084,28,,3 days,150 MB 2G/3G
+6085,39,,5 days,200MB 2G/3G -- Charges after free usage: 3ps/10KB 
+6086,46,,2 days,1 GB 2G/3G night data
+6087,56,,21 days,250 MB 2G/3G Data
+6088,63,,28 days,Data usage from main a/c is chargeable @9paise/1MB from 02:00 hours to 06:00 hours. Voucher benefit is not available in MTNL area.
+6089,68,,1 day,1 GB 2G/3G Data -- If recharged between 28/10/2016 to 05/11/2016 double data benefit i.e. 2GB will be available
+6090,74,,5 days,Unlimited BSNL to BSNL voice call(local/STD) and 74 minutes  BSNL to OTHERS  voice call -- 1 GB free 2G/3G data 
+6091,78,,3 days,2GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB -- Double data offer from 15 to 20 Aug 2017
+6092,82,,12 days,450 MB 2G/3G Data 
+6093,98,,10 days,1300MB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB -- Double data offer from 15 to 20 Aug 2017
+6094,101,,26 days,Unlimited local/STD BSNL to BSNL voice calls -- 1 GB 2G/3G Data.
+6095,103,,5 days,1 GB 2G/3G data and free TV channels
+6096,109,,28 days,650MB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB. -- Double data offer from 15 to 20 Aug 2017
+6097,155,,17 days,1.5GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB -- Double data offer from 15 to 20 Aug 2017
+6098,156,,10 days,2 GB 2G/3G data. Free data is also available in National Roaming. Data charges beyond freebies is 3paise/10KB.
+6099,178,,17 days,1 GB 2G/3G data and free TV channels
+6100,179,,17 days,1 GB 2G/3G data and free TV channels
+6101,198,,25 days,2.2GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB -- Double data offer from 15 to 20 Aug 2017
+6102,211,,15 days,1 GB 2G/3G Data 
+6103,291,,27 days,4GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB -- Double data offer from 15 to 20 Aug 2017
+6104,333,,56 days,"Triple Ace_333: 3 GB/Day 2G/3G Data, Post 3GB/day unlimited internet @ 80kbps."
+6105,339,,26 days,Unlimited local/STD BSNL to BSNL voice calls + 30 Min/day free voice call from BSNL to others network (off-net voice calls will be charged @ 25P/Min after free off-net voice calls) -- Unlimited 2G/3G data (speed restricted to 80 KBPS after 3 GB/day) data.
+6106,349,,26 days,"Dil Khol ke Bol STV_349: Unlimited Local/STD calls to any network in home LSA -- 2.5GB 2G/3G Data, Post 2.5GB unlimited internet @ 80kbps"
+6107,351,,28 days,1.5 GB 2G/3G Data with high speed & beyond that unlimited data with low speed.
+6108,395,,60 days,"Nehle per Dehla STV_395: 3000 minutes onnet Local/STD Voice calls in home LSA. After free minutes call charges as per base plan -- 1800 minutes offnet Local/STD Voice calls in home LSA. After free minutes call charges @20 paise/min from main a/c -- 2GB/Day 2G/3G Data, Post 2GB/day unlimited internet @ 80kbps -- Data freebies is available in National roaming also"
+6109,444,,90 days,"Chaukka_444: 4 GB/Day 2G/3G Data, Post 4GB/day unlimited internet @ 80kbps"
+6110,452,,28 days,2.5 GB 2G/3G Data with high speed and beyond that unlimited data with low speed.
+6111,549,,30 days,6 GB 2G/3G Data
+6112,561,,90 days,8GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB -- Double data offer from 15 to 20 Aug 2017
+6113,597,,180 days,6GB 2G/3G Data
+6114,651,,28 days,5.5 GB 2G/3G Data with high speed and beyond that unlimited data with low speed.
+6115,751,,28 days,7 GB 2G/3G Data with high speed and beyond that unlimited data with low speed.
+6116,821,,120 days,12GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB. -- Double data offer from 15 to 20 Aug 2017
+6117,851,,28 days,8 GB 2G/3G Data with high speed and beyond that unlimited data with low speed.
+6118,951,,28 days,9 GB 2G/3G Data with high speed and beyond that unlimited data with low speed.
+6119,1099,,30 days,Unlimited 2G/3G data usage.Free data is also available in national roaming.
+6120,1197,,365 days,14GB 2G/3G Data
+6121,1498,,365 days,36GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB. -- Double data offer from 15 to 20 Aug 2017
+6122,1949,,270 days,40GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB -- Double data offer from 15 to 20 Aug 2017
+6123,2798,,365 days,72GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB. -- Double data offer from 15 to 20 Aug 2017
+6124,3099,,30 days,15 GB 2G/3G Data -- Unlimited BSNL to BSNL voice call in Local/STD/Roaming scenario.500 minutes BSNL to Others voice call in Local/STD/Roaming scenario.
+6125,3998,,365 days,110GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB. -- Double data offer from 15 to 20 Aug 2017
+6126,4498,,365 days,160GB 2G/3G data available both in home LSA and National Roaming. Data charge beyond freebies is 3paise/10KB. -- Double data offer from 15 to 20 Aug 2017

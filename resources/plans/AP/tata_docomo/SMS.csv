@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-7598,8,,21 days,Recharge of Rs. 8 by Docomo,80 National SMS (Local/STD SMS) 
-7599,44,,30 days,Recharge of Rs. 44 by Docomo,550 National SMS (Local/STD SMS) 
-7600,77,,28 days,Recharge of Rs. 77 by Docomo,1100 National SMS (Local/STD SMS) 
+id,cost,talktime,validity,comments
+7598,8,,21 days,80 National SMS (Local/STD SMS) 
+7599,44,,30 days,550 National SMS (Local/STD SMS) 
+7600,77,,28 days,1100 National SMS (Local/STD SMS) 

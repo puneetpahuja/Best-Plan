@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-521,4,,1 day,Recharge of Rs. 4 by Aircel,100 Local/National SMS
-522,16,,21 days,Recharge of Rs. 16 by Aircel,2100 Local/National A-A SMS
-523,23,,28 days,Recharge of Rs. 23 by Aircel,SMS pack with 300 L/N SMS
-524,73,,30 days,Recharge of Rs. 73 by Aircel,1250 L+N SMS
+id,cost,talktime,validity,comments
+521,4,,1 day,100 Local/National SMS
+522,16,,21 days,2100 Local/National A-A SMS
+523,23,,28 days,SMS pack with 300 L/N SMS
+524,73,,30 days,1250 L+N SMS

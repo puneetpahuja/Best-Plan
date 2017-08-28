@@ -1,16 +1,16 @@
-id,cost,talktime,validity,short description,long description
-2977,18,,3 days,Recharge of Rs. 18 by Airtel,100 MB 2G/3G/4G Data
-2978,23,,30 days,Recharge of Rs. 23 by Airtel,90 MB 4G/3G/2G Data
-2979,24,,3 days,Recharge of Rs. 24 by Airtel,130 MB 4G/3G/2G Data
-2983,42,,30 days,Recharge of Rs. 42 by Airtel,170 MB 4G/3G/2G Data
-2984,44,,5 days,Recharge of Rs. 44 by Airtel,250 MB 4G/3G/2G Data
-2986,59,,8 days,Recharge of Rs. 59 by Airtel,335 MB 4G/3G/2G Data
-2988,77,,30 days,Recharge of Rs. 77 by Airtel,300 MB 4G/3G/2G data
-2997,349,,28 days,Recharge of Rs. 349 by Airtel,Unlimited all Local + STD calls -- 1 GB/day 3G/4G data -- T&C apply.
-2998,397,,28 days,Recharge of Rs. 397 by Airtel,"3 GB 3G/4G DATA, 3 GB 2G/3G/4G NIGHT DATA, 3 GB WIFI DATA "
-3000,499,,28 days,Recharge of Rs. 499 by Airtel,Unlimited Local+STD all calls + 1.5 GB/DAY 4G/3G/2G DATA FOR ALL HANDSET. T&C Apply
-3001,648,,28 days,Recharge of Rs. 648 by Airtel,Unlimited Local+STD all calls + 2.5 GB/DAY 4G/3G/2G DATA FOR ALL HANDSET. T&C Apply
-3002,899,,28 days,Recharge of Rs. 899 by Airtel,Unlimited Local+STD all calls + 3.5 GB/DAY 4G/3G/2G DATA FOR ALL HANDSET. T&C Apply
-3003,1198,,28 days,Recharge of Rs. 1198 by Airtel,Unlimited Local+STD all calls + 5 GB/DAY 4G/3G/2G DATA FOR ALL HANDSET . T&C Apply
-3007,194,,28 days,Recharge of Rs. 194 by Airtel,Unlimited Local + STD Airtel mobile calls -- 200 MB 2G/3G/4G data -- T&C Apply
-3008,248,,28 days,Recharge of Rs. 248 by Airtel,Unlimited All Local calls -- 50 MB 4G/3G/2G (1 GB for 4G handset) -- T&C apply
+id,cost,talktime,validity,comments
+2977,18,,3 days,100 MB 2G/3G/4G Data
+2978,23,,30 days,90 MB 4G/3G/2G Data
+2979,24,,3 days,130 MB 4G/3G/2G Data
+2983,42,,30 days,170 MB 4G/3G/2G Data
+2984,44,,5 days,250 MB 4G/3G/2G Data
+2986,59,,8 days,335 MB 4G/3G/2G Data
+2988,77,,30 days,300 MB 4G/3G/2G data
+2997,349,,28 days,Unlimited all Local + STD calls -- 1 GB/day 3G/4G data -- T&C apply.
+2998,397,,28 days,"3 GB 3G/4G DATA, 3 GB 2G/3G/4G NIGHT DATA, 3 GB WIFI DATA "
+3000,499,,28 days,Unlimited Local+STD all calls + 1.5 GB/DAY 4G/3G/2G DATA FOR ALL HANDSET. T&C Apply
+3001,648,,28 days,Unlimited Local+STD all calls + 2.5 GB/DAY 4G/3G/2G DATA FOR ALL HANDSET. T&C Apply
+3002,899,,28 days,Unlimited Local+STD all calls + 3.5 GB/DAY 4G/3G/2G DATA FOR ALL HANDSET. T&C Apply
+3003,1198,,28 days,Unlimited Local+STD all calls + 5 GB/DAY 4G/3G/2G DATA FOR ALL HANDSET . T&C Apply
+3007,194,,28 days,Unlimited Local + STD Airtel mobile calls -- 200 MB 2G/3G/4G data -- T&C Apply
+3008,248,,28 days,Unlimited All Local calls -- 50 MB 4G/3G/2G (1 GB for 4G handset) -- T&C apply

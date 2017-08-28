@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-7840,21,,30 days,Recharge of Rs. 21 by Docomo,"ISD calls to US, Canada & UK @ 2p/ sec, Nepal @ 15p/ sec, Bangladesh @ 5p/ sec, Singapore @ 4p/ sec"
+id,cost,talktime,validity,comments
+7840,21,,30 days,"ISD calls to US, Canada & UK @ 2p/ sec, Nepal @ 15p/ sec, Bangladesh @ 5p/ sec, Singapore @ 4p/ sec"

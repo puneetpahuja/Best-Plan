@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-8042,200,200,N.A,Recharge of Rs. 200 by Docomo,Talktime of Rs. 200 for Rs. 200 recharge by Tata DOCOMO
-8043,250,250,N.A,Recharge of Rs. 250 by Docomo,Talktime of Rs. 250 for Rs. 250 recharge by Tata DOCOMO
-8044,300,300,N.A,Recharge of Rs. 300 by Docomo,Talktime of Rs. 300 for Rs. 300 recharge by Tata DOCOMO
-8046,500,500,N.A,Recharge of Rs. 500 by Docomo,Talktime of Rs. 500 for Rs. 500 recharge by Tata DOCOMO
+id,cost,talktime,validity,comments
+8042,200,200,N.A,Talktime of Rs. 200 for Rs. 200 recharge by Tata DOCOMO
+8043,250,250,N.A,Talktime of Rs. 250 for Rs. 250 recharge by Tata DOCOMO
+8044,300,300,N.A,Talktime of Rs. 300 for Rs. 300 recharge by Tata DOCOMO
+8046,500,500,N.A,Talktime of Rs. 500 for Rs. 500 recharge by Tata DOCOMO

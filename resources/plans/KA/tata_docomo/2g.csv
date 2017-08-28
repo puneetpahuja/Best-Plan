@@ -1,11 +1,11 @@
-id,cost,talktime,validity,short description,long description
-8065,5,,Till Midnight,Recharge of Rs. 5 by Docomo,30 MB 2G Data
-8066,8,,Till Midnight,Recharge of Rs. 8 by Docomo,35 MB 3G/2G
-8067,15,,2 days,Recharge of Rs. 15 by Docomo,90 MB 2G Data
-8069,26,,3 days,Recharge of Rs. 26 by Docomo,150 MB 2G Data
-8070,31,,5 days,Recharge of Rs. 31 by Docomo,175 MB 2G Data
-8072,52,,28 days,Recharge of Rs. 52 by Docomo,200 MB 2G Data
-8076,95,,28 days,Recharge of Rs. 95 by Docomo,1 GB 2G Data 
-8079,126,,28 days,Recharge of Rs. 126 by Docomo,1.5 GB 2G Data 
-8082,136,,60 days,Recharge of Rs. 136 by Docomo,500 MB 2G Data
-8084,149,,28 days,Recharge of Rs. 149 by Docomo,2 GB 2G Data 
+id,cost,talktime,validity,comments
+8065,5,,Till Midnight,30 MB 2G Data
+8066,8,,Till Midnight,35 MB 3G/2G
+8067,15,,2 days,90 MB 2G Data
+8069,26,,3 days,150 MB 2G Data
+8070,31,,5 days,175 MB 2G Data
+8072,52,,28 days,200 MB 2G Data
+8076,95,,28 days,1 GB 2G Data 
+8079,126,,28 days,1.5 GB 2G Data 
+8082,136,,60 days,500 MB 2G Data
+8084,149,,28 days,2 GB 2G Data 

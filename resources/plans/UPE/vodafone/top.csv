@@ -1,16 +1,16 @@
-id,cost,talktime,validity,short description,long description
-18543,10,7.47,N.A,Recharge of Rs. 10 by Vodafone,Talktime of Rs. 7.47 for Rs. 10 recharge by Vodafone
-18544,20,14.95,N.A,Recharge of Rs. 20 by Vodafone,Talktime of Rs. 14.95 for Rs. 20 recharge by Vodafone
-18545,30,22.42,N.A,Recharge of Rs. 30 by Vodafone,Talktime of Rs. 22.42 for Rs. 30 recharge by Vodafone
-18546,40,30.9,N.A,Recharge of Rs. 40 by Vodafone,Talktime of Rs. 30.9 for Rs. 40 recharge by Vodafone
-18548,50,39.37,N.A,Recharge of Rs. 50 by Vodafone,Talktime of Rs. 39.37 for Rs. 50 recharge by Vodafone
-18549,60,47.85,N.A,Recharge of Rs. 60 by Vodafone,Talktime of Rs. 47.85 for Rs. 60 recharge by Vodafone
-18550,70,56.32,N.A,Recharge of Rs. 70 by Vodafone,Talktime of Rs. 56.32 for Rs. 70 recharge by Vodafone
-18551,80,64.8,N.A,Recharge of Rs. 80 by Vodafone,Talktime of Rs. 64.8 for Rs. 80 recharge by Vodafone
-18552,90,73.27,N.A,Recharge of Rs. 90 by Vodafone,Talktime of Rs. 73.27 for Rs. 90 recharge by Vodafone
-18553,100,81.75,N.A,Recharge of Rs. 100 by Vodafone,Talktime of Rs. 81.75 for Rs. 100 recharge by Vodafone
-18554,120,98.69,N.A,Recharge of Rs. 120 by Vodafone,Talktime of Rs. 98.69 for Rs. 120 recharge by Vodafone
-18555,130,107.17,N.A,Recharge of Rs. 130 by Vodafone,Talktime of Rs. 107.17 for Rs. 130 recharge by Vodafone
-18556,140,115.64,N.A,Recharge of Rs. 140 by Vodafone,Talktime of Rs. 115.64 for Rs. 140 recharge by Vodafone
-18557,150,140,N.A,Recharge of Rs. 150 by Vodafone,Talktime of Rs. 140 for Rs. 150 recharge by Vodafone
-18558,200,190,N.A,Recharge of Rs. 200 by Vodafone,Talktime of Rs. 190 for Rs. 200 recharge by Vodafone
+id,cost,talktime,validity,comments
+18543,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by Vodafone
+18544,20,14.95,N.A,Talktime of Rs. 14.95 for Rs. 20 recharge by Vodafone
+18545,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by Vodafone
+18546,40,30.9,N.A,Talktime of Rs. 30.9 for Rs. 40 recharge by Vodafone
+18548,50,39.37,N.A,Talktime of Rs. 39.37 for Rs. 50 recharge by Vodafone
+18549,60,47.85,N.A,Talktime of Rs. 47.85 for Rs. 60 recharge by Vodafone
+18550,70,56.32,N.A,Talktime of Rs. 56.32 for Rs. 70 recharge by Vodafone
+18551,80,64.8,N.A,Talktime of Rs. 64.8 for Rs. 80 recharge by Vodafone
+18552,90,73.27,N.A,Talktime of Rs. 73.27 for Rs. 90 recharge by Vodafone
+18553,100,81.75,N.A,Talktime of Rs. 81.75 for Rs. 100 recharge by Vodafone
+18554,120,98.69,N.A,Talktime of Rs. 98.69 for Rs. 120 recharge by Vodafone
+18555,130,107.17,N.A,Talktime of Rs. 107.17 for Rs. 130 recharge by Vodafone
+18556,140,115.64,N.A,Talktime of Rs. 115.64 for Rs. 140 recharge by Vodafone
+18557,150,140,N.A,Talktime of Rs. 140 for Rs. 150 recharge by Vodafone
+18558,200,190,N.A,Talktime of Rs. 190 for Rs. 200 recharge by Vodafone

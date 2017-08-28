@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-6332,36,,180 days,Recharge of Rs. 36 by BSNL,Plan Migration: PER_SEC_36
-6333,37,,180 days,Recharge of Rs. 37 by BSNL,Plan Migration: PerMin_37
-6334,75,,180 days,Recharge of Rs. 75 by BSNL,Plan: Pyari Jodi 
-6335,97,,90 days,Recharge of Rs. 97 by BSNL,STV_FF_97: 60 min anynet voice call for 30 days and Reduced call charges to 5 F and F loc numbers : Onnet @ 20p/Min and Offnet @ 40p/Min.SMS charges: loc SMS @ 10p/SMS and STD SMS @ 50p/sms for 90 days
-6336,102,,30 days,Recharge of Rs. 102 by BSNL,Plan: Jai jawan 102
-6337,198,,180 days,Recharge of Rs. 198 by BSNL,Plan: Roam free plan 198 
-6338,666,,180 days,Recharge of Rs. 666 by BSNL,BSNL_SIXER_666_validity-extension
+id,cost,talktime,validity,comments
+6332,36,,180 days,Plan Migration: PER_SEC_36
+6333,37,,180 days,Plan Migration: PerMin_37
+6334,75,,180 days,Plan: Pyari Jodi 
+6335,97,,90 days,STV_FF_97: 60 min anynet voice call for 30 days and Reduced call charges to 5 F and F loc numbers : Onnet @ 20p/Min and Offnet @ 40p/Min.SMS charges: loc SMS @ 10p/SMS and STD SMS @ 50p/sms for 90 days
+6336,102,,30 days,Plan: Jai jawan 102
+6337,198,,180 days,Plan: Roam free plan 198 
+6338,666,,180 days,BSNL_SIXER_666_validity-extension

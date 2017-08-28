@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-15651,6,,3 days,Recharge of Rs. 6 by Indicom,All Local/National SMS @10p/sms 
-15652,8,,3 days,Recharge of Rs. 8 by Indicom,100 Local/National SMS
-15653,43,,28 days,Recharge of Rs. 43 by Indicom,600 Local/National SMS
-15654,49,,28 days,Recharge of Rs. 49 by Indicom,1000 Local/National SMS 
+id,cost,talktime,validity,comments
+15651,6,,3 days,All Local/National SMS @10p/sms 
+15652,8,,3 days,100 Local/National SMS
+15653,43,,28 days,600 Local/National SMS
+15654,49,,28 days,1000 Local/National SMS 

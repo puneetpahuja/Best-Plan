@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-3299,9,,5 days,Recharge of Rs. 9 by Airtel,70 Local + National SMS
-3300,24,,10 days,Recharge of Rs. 24 by Airtel,240 Local + National SMS
-3301,37,,21 days,Recharge of Rs. 37 by Airtel,370 Local + National SMS
-3302,55,,28 days,Recharge of Rs. 55 by Airtel,600 Local + National SMS
-3303,75,,56 days,Recharge of Rs. 75 by Airtel,800 Local + National SMS
+id,cost,talktime,validity,comments
+3299,9,,5 days,70 Local + National SMS
+3300,24,,10 days,240 Local + National SMS
+3301,37,,21 days,370 Local + National SMS
+3302,55,,28 days,600 Local + National SMS
+3303,75,,56 days,800 Local + National SMS

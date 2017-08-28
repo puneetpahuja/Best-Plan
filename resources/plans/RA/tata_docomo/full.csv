@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-8814,210,230,N.A,Recharge of Rs. 210 by Docomo,Talktime of Rs. 230 for Rs. 210 recharge by Tata DOCOMO
-8815,310,330,N.A,Recharge of Rs. 310 by Docomo,Talktime of Rs. 330 for Rs. 310 recharge by Tata DOCOMO
-8816,410,430,N.A,Recharge of Rs. 410 by Docomo,Talktime of Rs. 430 for Rs. 410 recharge by Tata DOCOMO
-8817,510,530,N.A,Recharge of Rs. 510 by Docomo,Talktime of Rs. 530 for Rs. 510 recharge by Tata DOCOMO
+id,cost,talktime,validity,comments
+8814,210,230,N.A,Talktime of Rs. 230 for Rs. 210 recharge by Tata DOCOMO
+8815,310,330,N.A,Talktime of Rs. 330 for Rs. 310 recharge by Tata DOCOMO
+8816,410,430,N.A,Talktime of Rs. 430 for Rs. 410 recharge by Tata DOCOMO
+8817,510,530,N.A,Talktime of Rs. 530 for Rs. 510 recharge by Tata DOCOMO

@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-17191,5,,1 hour,Recharge of Rs. 5 by Vodafone,Unlimited 2G Data - Pack Validity 1 Hour -- 
-17192,9,,1 day,Recharge of Rs. 9 by Vodafone,35 MB @ 2G speed. Post 35 MB you will be charged at 4p/10kb
-17194,16,,2 days,Recharge of Rs. 16 by Vodafone,90 MB @ 2G speed. Post 90 MB you will be charged at 4p/10kb
-17195,28,,4 days,Recharge of Rs. 28 by Vodafone,160 MB @ 2G speed. Post 160 MB you will be charged at 4p/10kb
-17196,54,,7 days,Recharge of Rs. 54 by Vodafone,300 MB @ 2G speed. Post 300 MB you will be charged at 4p/10kb
-17197,57,,28 days,Recharge of Rs. 57 by Vodafone,190 MB @ 2G speed. Post 190 MB you will be charged at 4p/10kb
-17198,95,,14 days,Recharge of Rs. 95 by Vodafone,550 MB Data @ 2G speed. Post 550 MB you will be charged at 4p/10kb
-17199,98,,28 days,Recharge of Rs. 98 by Vodafone,300 MB @ 2G speed. Post 300 MB you will be charged at 4p/10kb
-17200,155,,21 days,Recharge of Rs. 155 by Vodafone,850 MB @ 2G Speed. Post 850 MB you will be charged at 4p/10kb
-17202,198,,28 days,Recharge of Rs. 198 by Vodafone,Get assured benefit of 1.25GB and upto 3GB 2G Data
-17203,199,,28 days,Recharge of Rs. 199 by Vodafone,2 GB Data @ 2G speed. Post 2GB your speed will be reduced up to 40kbps
-17204,249,,28 days,Recharge of Rs. 249 by Vodafone,3 GB Data @ 2G speed. Post 3GB your speed will be reduced up to 40kbps
+id,cost,talktime,validity,comments
+17191,5,,1 hour,Unlimited 2G Data - Pack Validity 1 Hour -- 
+17192,9,,1 day,35 MB @ 2G speed. Post 35 MB you will be charged at 4p/10kb
+17194,16,,2 days,90 MB @ 2G speed. Post 90 MB you will be charged at 4p/10kb
+17195,28,,4 days,160 MB @ 2G speed. Post 160 MB you will be charged at 4p/10kb
+17196,54,,7 days,300 MB @ 2G speed. Post 300 MB you will be charged at 4p/10kb
+17197,57,,28 days,190 MB @ 2G speed. Post 190 MB you will be charged at 4p/10kb
+17198,95,,14 days,550 MB Data @ 2G speed. Post 550 MB you will be charged at 4p/10kb
+17199,98,,28 days,300 MB @ 2G speed. Post 300 MB you will be charged at 4p/10kb
+17200,155,,21 days,850 MB @ 2G Speed. Post 850 MB you will be charged at 4p/10kb
+17202,198,,28 days,Get assured benefit of 1.25GB and upto 3GB 2G Data
+17203,199,,28 days,2 GB Data @ 2G speed. Post 2GB your speed will be reduced up to 40kbps
+17204,249,,28 days,3 GB Data @ 2G speed. Post 3GB your speed will be reduced up to 40kbps

@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-18750,12,,28 days,Recharge of Rs. 12 by Vodafone,STD calls @ Rs1.2 per 3 Minutes 
-18751,42,,28 days,Recharge of Rs. 42 by Vodafone,STD mobile calls @ 25p/Min
+id,cost,talktime,validity,comments
+18750,12,,28 days,STD calls @ Rs1.2 per 3 Minutes 
+18751,42,,28 days,STD mobile calls @ 25p/Min

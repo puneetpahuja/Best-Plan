@@ -1,11 +1,11 @@
-id,cost,talktime,validity,short description,long description
-2656,11,,90 days,Recharge of Rs. 11 by Airtel,"Local Airtel to Airtel mobile calls @10p/min, Local Airtel to Mobile calls @1p/sec -- STD mobile calls @1p/sec -- First 3 Local + National SMS(Re 1) -- 97 SMS free -- Applicable only for new subscribers as FRC/SRC"
-2657,48,,84 days,Recharge of Rs. 48 by Airtel,Unlimited calls on roaming -- 100 SMS/Day -- T&C apply. -- Applicable only for new subscribers as FRC/SRC
-2658,51,26,84 days,Recharge of Rs. 51 by Airtel,"All L + N mobile calls @1.5p/s, First 3 SMS (L+N) @ Rs 1, rest 97 free per day -- 50 MB 2G Data (30 days) -- Applicable only for new subscribers as FRC/SRC"
-2659,81,50,84 days,Recharge of Rs. 81 by Airtel,"50 MB 2G Data (30 days) -- All L + N mobile calls @ 1.5p/s, First 3 SMS (L+N) @ Rs 1, rest 97 free per day  -- Applicable only for new subscribers as FRC/SRC"
-2660,82,30,84 days,Recharge of Rs. 82 by Airtel,"250 MB 3G/4G Data every month for 3 months -- All L + N mobile calls @1.5p/s ,First 3 SMS (L+N) @ Rs 1, rest 97 free per day  -- Applicable only for new subscribers as FRC/SRC"
-2661,143,,28 days,Recharge of Rs. 143 by Airtel,Unlimited Local & STD Airtel calls -- 2 GB data on 4G Handset with 4G SIM and 1 GB for others -- T&C apply -- Applicable only for new subscribers as FRC/SRC
-2662,202,,28 days,Recharge of Rs. 202 by Airtel,Welcome to Airtel! Enjoy Unlimited A to A Calls + 150 Min Off Net Calls + 2 GB(4G H/S)/ 1 GB(3G H/S) Data  -- Applicable only for new subscribers as FRC/SRC
-2663,293,,84 days,Recharge of Rs. 293 by Airtel,"4G handset with 4G SIM: Unlimited Local+STD Airtel mobile, 1 GB/day Data (84 days)Other handset: Unlimited Local + STD -- 2 GB Data (35 days) Datacard: 1 GB/day Data (180 days) -- T&C apply -- Applicable only for new subscribers as FRC/SRC"
-2664,343,,28 days,Recharge of Rs. 343 by Airtel,All HS: Unlimited Local + Unlimited STD Calls -- 1 GB/day data -- T&C apply. -- Applicable only for new subscribers as FRC/SRC
-2665,449,,84 days,Recharge of Rs. 449 by Airtel,"4G handset with 4G SIM: Unlimited Local+STD Airtel mobile, 1 GB/day Data (84 days)Other handset: Unlimited Local + STD -- 2 GB Data (35 days) Datacard: 1 GB/day Data (180 days) -- T&C apply -- Applicable only for new subscribers as FRC/SRC"
+id,cost,talktime,validity,comments
+2656,11,,90 days,"Local Airtel to Airtel mobile calls @10p/min, Local Airtel to Mobile calls @1p/sec -- STD mobile calls @1p/sec -- First 3 Local + National SMS(Re 1) -- 97 SMS free -- Applicable only for new subscribers as FRC/SRC"
+2657,48,,84 days,Unlimited calls on roaming -- 100 SMS/Day -- T&C apply. -- Applicable only for new subscribers as FRC/SRC
+2658,51,26,84 days,"All L + N mobile calls @1.5p/s, First 3 SMS (L+N) @ Rs 1, rest 97 free per day -- 50 MB 2G Data (30 days) -- Applicable only for new subscribers as FRC/SRC"
+2659,81,50,84 days,"50 MB 2G Data (30 days) -- All L + N mobile calls @ 1.5p/s, First 3 SMS (L+N) @ Rs 1, rest 97 free per day  -- Applicable only for new subscribers as FRC/SRC"
+2660,82,30,84 days,"250 MB 3G/4G Data every month for 3 months -- All L + N mobile calls @1.5p/s ,First 3 SMS (L+N) @ Rs 1, rest 97 free per day  -- Applicable only for new subscribers as FRC/SRC"
+2661,143,,28 days,Unlimited Local & STD Airtel calls -- 2 GB data on 4G Handset with 4G SIM and 1 GB for others -- T&C apply -- Applicable only for new subscribers as FRC/SRC
+2662,202,,28 days,Welcome to Airtel! Enjoy Unlimited A to A Calls + 150 Min Off Net Calls + 2 GB(4G H/S)/ 1 GB(3G H/S) Data  -- Applicable only for new subscribers as FRC/SRC
+2663,293,,84 days,"4G handset with 4G SIM: Unlimited Local+STD Airtel mobile, 1 GB/day Data (84 days)Other handset: Unlimited Local + STD -- 2 GB Data (35 days) Datacard: 1 GB/day Data (180 days) -- T&C apply -- Applicable only for new subscribers as FRC/SRC"
+2664,343,,28 days,All HS: Unlimited Local + Unlimited STD Calls -- 1 GB/day data -- T&C apply. -- Applicable only for new subscribers as FRC/SRC
+2665,449,,84 days,"4G handset with 4G SIM: Unlimited Local+STD Airtel mobile, 1 GB/day Data (84 days)Other handset: Unlimited Local + STD -- 2 GB Data (35 days) Datacard: 1 GB/day Data (180 days) -- T&C apply -- Applicable only for new subscribers as FRC/SRC"

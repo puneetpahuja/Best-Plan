@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-5889,36,,180 days,Recharge of Rs. 36 by BSNL,Plan: PerSecond_36
-5890,37,,180 days,Recharge of Rs. 37 by BSNL,Plan: PerMin_37
-5891,75,,90 days,Recharge of Rs. 75 by BSNL,Plan: Pyari Jodi 
-5892,77,,365 days,Recharge of Rs. 77 by BSNL,Ullasa_77_migration_KA
-5893,85,,180 days,Recharge of Rs. 85 by BSNL,ANANYA_migration
-5894,87,,180 days,Recharge of Rs. 87 by BSNL,Nimagagi_87_migration_KA
-5895,97,,90 days,Recharge of Rs. 97 by BSNL,Reduced call charges to 5 FF local numbers in Home LSA: On net at 20ps/MinOff net at 40ps/Min -- Local SMS at 10ps/SMS and National at 50ps/SMS -- Change in FF is Rs5 per change. -- 60 Minutes free voice calls to any net to be used within 30 days
-5896,199,,180 days,Recharge of Rs. 199 by BSNL,Plan: RTP_FR_199
-5897,666,,180 days,Recharge of Rs. 666 by BSNL,"PV-666 BSNL SIXER: Unlimited data (Speed reduced to 80 Kbps after 2GB/day) + Unlimited voice calls for 60 days. -- After 60 days: ALL calls (Local/STD) (On-net/Off-net) @ 50 Paisa/Minute -- SMS (while in Home & National Roaming): Local @25 Paisa/SMS, National @35 Paisa/SMS -- All other charges As per Per Minute plan"
+id,cost,talktime,validity,comments
+5889,36,,180 days,Plan: PerSecond_36
+5890,37,,180 days,Plan: PerMin_37
+5891,75,,90 days,Plan: Pyari Jodi 
+5892,77,,365 days,Ullasa_77_migration_KA
+5893,85,,180 days,ANANYA_migration
+5894,87,,180 days,Nimagagi_87_migration_KA
+5895,97,,90 days,Reduced call charges to 5 FF local numbers in Home LSA: On net at 20ps/MinOff net at 40ps/Min -- Local SMS at 10ps/SMS and National at 50ps/SMS -- Change in FF is Rs5 per change. -- 60 Minutes free voice calls to any net to be used within 30 days
+5896,199,,180 days,Plan: RTP_FR_199
+5897,666,,180 days,"PV-666 BSNL SIXER: Unlimited data (Speed reduced to 80 Kbps after 2GB/day) + Unlimited voice calls for 60 days. -- After 60 days: ALL calls (Local/STD) (On-net/Off-net) @ 50 Paisa/Minute -- SMS (while in Home & National Roaming): Local @25 Paisa/SMS, National @35 Paisa/SMS -- All other charges As per Per Minute plan"

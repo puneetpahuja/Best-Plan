@@ -1,31 +1,31 @@
-id,cost,talktime,validity,short description,long description
-2337,7,,27 days,Recharge of Rs. 7 by Airtel,All Local+ STD 30p/min (1st 90sec of day @2p/sec)
-2338,8,,27 days,Recharge of Rs. 8 by Airtel,Local A2A Calls @ 10p/min (1st 90sec of day @ 2p/sec)
-2339,15,,1 day,Recharge of Rs. 15 by Airtel,85 Min Local A2A
-2340,17,,2 days,Recharge of Rs. 17 by Airtel,130 Local A2A minutes
-2341,21,,27 days,Recharge of Rs. 21 by Airtel,Local Mobile 30p/min
-2342,24,,27 days,Recharge of Rs. 24 by Airtel,Local A2A calling @10p/min
-2343,25,,3 days,Recharge of Rs. 25 by Airtel,37 All Local+National Mins
-2344,28,,27 days,Recharge of Rs. 28 by Airtel,All Local and STD calls @30p/m
-2345,32,,3 days,Recharge of Rs. 32 by Airtel,250 Local A2A minutes
-2346,35,,27 days,Recharge of Rs. 35 by Airtel,Local Mobile Calls @25p/m
-2347,37,,27 days,Recharge of Rs. 37 by Airtel,A2A L+N (1st 120s @ 2p/sec) @10p/min
-2348,46,,7 days,Recharge of Rs. 46 by Airtel,180 MINS LOCAL+ STD All Calls
-2349,56,,56 days,Recharge of Rs. 56 by Airtel,600 NIGHT LOCAL A2A MINS
-2350,75,,14 days,Recharge of Rs. 75 by Airtel,300 MINS LOCAL+ STD All Calls
-2351,78,,27 days,Recharge of Rs. 78 by Airtel,Local A2A+STD A2A @10p/min
-2352,96,,27 days,Recharge of Rs. 96 by Airtel,20000 SEC LOCAL+ STD All Calls
-2353,113,,180 days,Recharge of Rs. 113 by Airtel,"All mobile @ 1.8p/sec, LL @ 2.5p/sec"
-2354,114,,180 days,Recharge of Rs. 114 by Airtel,"All mobile @ 1.9p/sec, LL @ 2.5p/sec"
-2355,135,,27 days,Recharge of Rs. 135 by Airtel,450 All Local + STD Mins
-2356,149,,28 days,Recharge of Rs. 149 by Airtel,"Free Local +STD Airtel to Airtel mobile calls -- 50 MB 3G/4G data for 28 days(T&C apply). For 4G handset only, get 300MB data."
-2357,159,,7 days,Recharge of Rs. 159 by Airtel,"Benefits: Local & STD outgoing calls on National Roaming @60p/min + 13,500 secs OG for Home & Roam. (L+N+R)"
-2358,189,,2 days,Recharge of Rs. 189 by Airtel,Unlimited All Local and STD calls -- T & C Apply
-2359,198,,2 days,Recharge of Rs. 198 by Airtel,Unlimited Mobile Local Calls -- T&C apply
-2360,199,,27 days,Recharge of Rs. 199 by Airtel,40000 SEC LOCAL+ STD All Calls
-2361,295,,56 days,Recharge of Rs. 295 by Airtel,Unlimited Local + STD A2A Calls. T&C Apply.
-2362,298,,3 days,Recharge of Rs. 298 by Airtel,Unlimited All Local & STD calls
-2363,347,,60 days,Recharge of Rs. 347 by Airtel,Unlimited Local + STD A2A Calls. T&C Apply.
-2364,395,,75 days,Recharge of Rs. 395 by Airtel,Unlimited Local + STD A2A Calls. T&C Apply.
-2365,494,,27 days,Recharge of Rs. 494 by Airtel,800 All Local+STD Min 
-2366,545,,90 days,Recharge of Rs. 545 by Airtel,Unlimited Local + STD A2A Calls. T&C Apply.
+id,cost,talktime,validity,comments
+2337,7,,27 days,All Local+ STD 30p/min (1st 90sec of day @2p/sec)
+2338,8,,27 days,Local A2A Calls @ 10p/min (1st 90sec of day @ 2p/sec)
+2339,15,,1 day,85 Min Local A2A
+2340,17,,2 days,130 Local A2A minutes
+2341,21,,27 days,Local Mobile 30p/min
+2342,24,,27 days,Local A2A calling @10p/min
+2343,25,,3 days,37 All Local+National Mins
+2344,28,,27 days,All Local and STD calls @30p/m
+2345,32,,3 days,250 Local A2A minutes
+2346,35,,27 days,Local Mobile Calls @25p/m
+2347,37,,27 days,A2A L+N (1st 120s @ 2p/sec) @10p/min
+2348,46,,7 days,180 MINS LOCAL+ STD All Calls
+2349,56,,56 days,600 NIGHT LOCAL A2A MINS
+2350,75,,14 days,300 MINS LOCAL+ STD All Calls
+2351,78,,27 days,Local A2A+STD A2A @10p/min
+2352,96,,27 days,20000 SEC LOCAL+ STD All Calls
+2353,113,,180 days,"All mobile @ 1.8p/sec, LL @ 2.5p/sec"
+2354,114,,180 days,"All mobile @ 1.9p/sec, LL @ 2.5p/sec"
+2355,135,,27 days,450 All Local + STD Mins
+2356,149,,28 days,"Free Local +STD Airtel to Airtel mobile calls -- 50 MB 3G/4G data for 28 days(T&C apply). For 4G handset only, get 300MB data."
+2357,159,,7 days,"Benefits: Local & STD outgoing calls on National Roaming @60p/min + 13,500 secs OG for Home & Roam. (L+N+R)"
+2358,189,,2 days,Unlimited All Local and STD calls -- T & C Apply
+2359,198,,2 days,Unlimited Mobile Local Calls -- T&C apply
+2360,199,,27 days,40000 SEC LOCAL+ STD All Calls
+2361,295,,56 days,Unlimited Local + STD A2A Calls. T&C Apply.
+2362,298,,3 days,Unlimited All Local & STD calls
+2363,347,,60 days,Unlimited Local + STD A2A Calls. T&C Apply.
+2364,395,,75 days,Unlimited Local + STD A2A Calls. T&C Apply.
+2365,494,,27 days,800 All Local+STD Min 
+2366,545,,90 days,Unlimited Local + STD A2A Calls. T&C Apply.

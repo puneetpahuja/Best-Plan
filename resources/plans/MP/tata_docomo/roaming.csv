@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-8391,32,,30 days,Recharge of Rs. 32 by Docomo,"Unlimited Incoming on On-Net Roaming, All Incoming calls @ 45p/ min. on Off-Net Roaming, All Local Outgoing calls @ 80p/ min. on On-Net Roaming, All STD Outgoing calls @ Rs.1.15/ min. on On-Net Roaming -- All Local SMS @ 25p while on On-Net & Off-Net Roaming, All STD SMS @ 38p while on On-Net & Off-Net Roaming"
-8392,44,,7 days,Recharge of Rs. 44 by Docomo,"Unlimited FREE Incoming on On-Net Roaming, All Outgoing Calls @ 30p/min"
-8393,62,,7 days,Recharge of Rs. 62 by Docomo,"Unlimited FREE Incoming on Any Network Roaming, All Outgoing Calls @ 50p/min"
+id,cost,talktime,validity,comments
+8391,32,,30 days,"Unlimited Incoming on On-Net Roaming, All Incoming calls @ 45p/ min. on Off-Net Roaming, All Local Outgoing calls @ 80p/ min. on On-Net Roaming, All STD Outgoing calls @ Rs.1.15/ min. on On-Net Roaming -- All Local SMS @ 25p while on On-Net & Off-Net Roaming, All STD SMS @ 38p while on On-Net & Off-Net Roaming"
+8392,44,,7 days,"Unlimited FREE Incoming on On-Net Roaming, All Outgoing Calls @ 30p/min"
+8393,62,,7 days,"Unlimited FREE Incoming on Any Network Roaming, All Outgoing Calls @ 50p/min"

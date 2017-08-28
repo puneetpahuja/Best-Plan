@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-18235,24,24,3 days,Recharge of Rs. 24 by Vodafone,Talktime of Rs. 24 for Rs. 24 recharge by Vodafone
-18236,53,53,7 days,Recharge of Rs. 53 by Vodafone,Talktime of Rs. 53 for Rs. 53 recharge by Vodafone
-18237,99,99,7 days,Recharge of Rs. 99 by Vodafone,Talktime of Rs. 99 for Rs. 99 recharge by Vodafone
-18238,275,275,N.A,Recharge of Rs. 275 by Vodafone,Talktime of Rs. 275 for Rs. 275 recharge by Vodafone
-18239,310,310,N.A,Recharge of Rs. 310 by Vodafone,Talktime of Rs. 310 for Rs. 310 recharge by Vodafone
-18242,500,500,N.A,Recharge of Rs. 500 by Vodafone,Talktime of Rs. 500 for Rs. 500 recharge by Vodafone
-18244,550,575,N.A,Recharge of Rs. 550 by Vodafone,Talktime of Rs. 575 for Rs. 550 recharge by Vodafone
-18245,750,750,N.A,Recharge of Rs. 750 by Vodafone,Talktime of Rs. 750 for Rs. 750 recharge by Vodafone
-18247,1000,1100,N.A,Recharge of Rs. 1000 by Vodafone,Talktime of Rs. 1100 for Rs. 1000 recharge by Vodafone
-18249,1050,1050,N.A,Recharge of Rs. 1050 by Vodafone,Talktime of Rs. 1050 for Rs. 1050 recharge by Vodafone
-18250,2000,2200,N.A,Recharge of Rs. 2000 by Vodafone,Talktime of Rs. 2200 for Rs. 2000 recharge by Vodafone
-18251,3000,3300,N.A,Recharge of Rs. 3000 by Vodafone,Talktime of Rs. 3300 for Rs. 3000 recharge by Vodafone
+id,cost,talktime,validity,comments
+18235,24,24,3 days,Talktime of Rs. 24 for Rs. 24 recharge by Vodafone
+18236,53,53,7 days,Talktime of Rs. 53 for Rs. 53 recharge by Vodafone
+18237,99,99,7 days,Talktime of Rs. 99 for Rs. 99 recharge by Vodafone
+18238,275,275,N.A,Talktime of Rs. 275 for Rs. 275 recharge by Vodafone
+18239,310,310,N.A,Talktime of Rs. 310 for Rs. 310 recharge by Vodafone
+18242,500,500,N.A,Talktime of Rs. 500 for Rs. 500 recharge by Vodafone
+18244,550,575,N.A,Talktime of Rs. 575 for Rs. 550 recharge by Vodafone
+18245,750,750,N.A,Talktime of Rs. 750 for Rs. 750 recharge by Vodafone
+18247,1000,1100,N.A,Talktime of Rs. 1100 for Rs. 1000 recharge by Vodafone
+18249,1050,1050,N.A,Talktime of Rs. 1050 for Rs. 1050 recharge by Vodafone
+18250,2000,2200,N.A,Talktime of Rs. 2200 for Rs. 2000 recharge by Vodafone
+18251,3000,3300,N.A,Talktime of Rs. 3300 for Rs. 3000 recharge by Vodafone

@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-9301,5,,5 days,Recharge of Rs. 5 by Idea,Saudi/Kuwait @7.49UAE @8.49USA @0.99/min -- 
-9302,27,,30 days,Recharge of Rs. 27 by Idea,"USA, Canada, UK Fixed  - 2p/secChina - 3p/secUAE, Yemen, Saudi Arabia - 15p/secQatar - 17p/secJapan, Australia - 10p/secAfganistan, Oman - 24p/secMalaysia, Bangladesh, Hong Kong, Thailand, Singapore - 6p/secSriLanka, Bhutan, Pakistan, Indonesia, Bahrain, Kuwait  - 13p/secNepal-13p/secPhilipines - 16p/secGermany - 27p/secUK Mobile - 28p/secUganda - 29p/secBelgium  - 37p/secFrance - 39p/secSpain - 55p/secTurkey - 45p/secMaldives - 77p/secSwitzerland - 17p/sec"
-9303,596,,10 days,Recharge of Rs. 596 by Idea,"International Roaming Pack for UAE** NO Talktime -- Incoming calls at Rs. 30/min & Outgoing calls at Rs. Rs.30/min -- Outgoing SMS at Rs. 25 per SMS, Incoming SMS Free"
-9304,1496,,30 days,Recharge of Rs. 1496 by Idea,"International Roaming Pack for UAE** NO Talktime -- 30 minutes Incoming Free. Post Free minutes Incoming calls at Rs.30/min & Outgoing calls at Rs.30/min -- Outgoing SMS at Rs.25 per SMS, Incoming SMS Free"
+id,cost,talktime,validity,comments
+9301,5,,5 days,Saudi/Kuwait @7.49UAE @8.49USA @0.99/min -- 
+9302,27,,30 days,"USA, Canada, UK Fixed  - 2p/secChina - 3p/secUAE, Yemen, Saudi Arabia - 15p/secQatar - 17p/secJapan, Australia - 10p/secAfganistan, Oman - 24p/secMalaysia, Bangladesh, Hong Kong, Thailand, Singapore - 6p/secSriLanka, Bhutan, Pakistan, Indonesia, Bahrain, Kuwait  - 13p/secNepal-13p/secPhilipines - 16p/secGermany - 27p/secUK Mobile - 28p/secUganda - 29p/secBelgium  - 37p/secFrance - 39p/secSpain - 55p/secTurkey - 45p/secMaldives - 77p/secSwitzerland - 17p/sec"
+9303,596,,10 days,"International Roaming Pack for UAE** NO Talktime -- Incoming calls at Rs. 30/min & Outgoing calls at Rs. Rs.30/min -- Outgoing SMS at Rs. 25 per SMS, Incoming SMS Free"
+9304,1496,,30 days,"International Roaming Pack for UAE** NO Talktime -- 30 minutes Incoming Free. Post Free minutes Incoming calls at Rs.30/min & Outgoing calls at Rs.30/min -- Outgoing SMS at Rs.25 per SMS, Incoming SMS Free"

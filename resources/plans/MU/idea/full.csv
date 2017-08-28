@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-10940,190,190,N.A,Recharge of Rs. 190 by Idea,Talktime of Rs. 190 for Rs. 190 recharge by Idea
-10942,220,220,N.A,Recharge of Rs. 220 by Idea,Talktime of Rs. 220 for Rs. 220 recharge by Idea
-10944,330,330,N.A,Recharge of Rs. 330 by Idea,Talktime of Rs. 330 for Rs. 330 recharge by Idea
-10945,350,350,N.A,Recharge of Rs. 350 by Idea,Talktime of Rs. 350 for Rs. 350 recharge by Idea
-10947,2500,2500,N.A,Recharge of Rs. 2500 by Idea,Talktime of Rs. 2500 for Rs. 2500 recharge by Idea
+id,cost,talktime,validity,comments
+10940,190,190,N.A,Talktime of Rs. 190 for Rs. 190 recharge by Idea
+10942,220,220,N.A,Talktime of Rs. 220 for Rs. 220 recharge by Idea
+10944,330,330,N.A,Talktime of Rs. 330 for Rs. 330 recharge by Idea
+10945,350,350,N.A,Talktime of Rs. 350 for Rs. 350 recharge by Idea
+10947,2500,2500,N.A,Talktime of Rs. 2500 for Rs. 2500 recharge by Idea

@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-17917,13,10,N.A,Recharge of Rs. 13 by Vodafone,5 night Vodafone minutes
-17920,35,27.43,N.A,Recharge of Rs. 35 by Vodafone,5 night Vodafone minutes
-17924,76,63.09,N.A,Recharge of Rs. 76 by Vodafone,1 night Vodafone
-17929,178,20,28 days,Recharge of Rs. 178 by Vodafone,300 MB data + 300 MB night data (12am-6am) -- Call 1 local Vodafone buddies @20p/min -- Option of 60MB data loan. T&C Apply
-17930,296,20,28 days,Recharge of Rs. 296 by Vodafone,1024MB data + 500MB night data (12am-6am) -- Call 1 local Vodafone buddies @20p/min; -- Option of 60MB data loan -- T&C Apply
+id,cost,talktime,validity,comments
+17917,13,10,N.A,5 night Vodafone minutes
+17920,35,27.43,N.A,5 night Vodafone minutes
+17924,76,63.09,N.A,1 night Vodafone
+17929,178,20,28 days,300 MB data + 300 MB night data (12am-6am) -- Call 1 local Vodafone buddies @20p/min -- Option of 60MB data loan. T&C Apply
+17930,296,20,28 days,1024MB data + 500MB night data (12am-6am) -- Call 1 local Vodafone buddies @20p/min; -- Option of 60MB data loan -- T&C Apply

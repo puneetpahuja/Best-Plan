@@ -1,21 +1,21 @@
-id,cost,talktime,validity,short description,long description
-9200,7,,1 day,Recharge of Rs. 7 by Idea,30 MB Data -- Overage: 4p/10KB -- 
-9201,12,,2 days,Recharge of Rs. 12 by Idea,40 MB Data -- Overage: 4p/10kb -- 
-9219,113,,28 days,Recharge of Rs. 113 by Idea,325 Normal + 325 MB Day/Night (00:00:00 hours to 05:59:59) -- Overage: 4p/10KB
-9223,131,,1 Weekend,Recharge of Rs. 131 by Idea,1 GB over 1 weekend -- Validity: 1 weekend (1 Saturday and 1 Sunday within the span of 7 days); Starts from 00:00:00 hours on Saturday and ends on 23:59:59 hours on Sunday) -- Overage: 4p/10KB
-9229,174,,28 days,Recharge of Rs. 174 by Idea,500 MB -- Overage: 4p/10 KB
-9231,186,,28 days,Recharge of Rs. 186 by Idea,400MB Day/Night + 400MB Night* -- Overage: 4p/10KB
-9232,197,,28 days,Recharge of Rs. 197 by Idea,"Unlimited 1.25GB FUP -- FUP limit: First 180MB @ 3G SPEED 21.1MBPS, from 180MB to till 1.25GB @ 2G SPEEDAFTER 1.25GB to TILL 2.25GB @ 40kbps 2.25GB ONWARDS @ 10kbps"
-9244,431,,4 Weekends,Recharge of Rs. 431 by Idea,4 GB over 4 weekends -- Validity: 4 weekends (4 Saturdays & 4 Sundays within the span of 28 days); Starts from 00:00:00 hours on Saturday and ends on 23:59:59 hours on Sunday) -- Overage: 4p/10KB
-9248,546,,28 days,Recharge of Rs. 546 by Idea,2GB Day/Night + 2GB Night* -- Overage: 4p/10KB
-9256,796,,28 days,Recharge of Rs. 796 by Idea,3GB Day/Night + 3GB Night* -- Overage: 4p/10KB
-9261,995,,28 days,Recharge of Rs. 995 by Idea,"Unlimited Local/STD Idea Calls+3000 Local/STD Min -- 5 GB 3G Dat -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.10P/Min will be applicable -- Get 5% of MRP as TT on recharges through My Idea App and Idea Website -- This STV should not be used for any commercial activity."
-9263,1096,,28 days,Recharge of Rs. 1096 by Idea,5GB Day/Night+ 5GB Night* -- Overage: 4p/10KB
-9264,1246,,28 days,Recharge of Rs. 1246 by Idea,6GB Day/Night + 6GB Night* -- Overage: 4p/10KB
-9267,1846,,28 days,Recharge of Rs. 1846 by Idea,10GB Day/Night +10GB Night* -- Overage: 4p/10KB
-9268,2501,,90 days,Recharge of Rs. 2501 by Idea,12 GB -- Overage: 4p/10KB
-9269,3346,,28 days,Recharge of Rs. 3346 by Idea,20GB Day/Night +20GB Night* -- Overage: 4p/10KB
-9271,244,,28 days,Recharge of Rs. 244 by Idea,"Unlimited Local/STD Idea Calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff  Rs. 0.10P/Min -- 0.5GB 3G Data -- Get 5% of MRP as TT on recharges through My Idea App and Idea Website -- This STV should not be used for any commercial activity."
-9273,395,,28 days,Recharge of Rs. 395 by Idea,"Unlimited Local/STD Idea Calls + 3000 Local/STD Min -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.10P/Min will be applicable -- 0.5 GB 3G Data -- Get 5% of MRP as TT on recharges through My Idea App and Idea Website -- This STV should not be used for any commercial activity. "
-9274,495,,28 days,Recharge of Rs. 495 by Idea,"Unlimited Local/STD Idea Calls + 3000 Local/STD Min -- 1 GB 3G Data -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.10P/Min will be applicable -- Get 5% of MRP as TT on recharges through My Idea App and Idea Website -- This STV should not be used for any commercial activity. "
-9275,795,,28 days,Recharge of Rs. 795 by Idea,"Unlimited Local/STD Idea Calls+3000 Local/STD Min -- 3 GB 3G Data -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.10P/Min will be applicable -- Get 5% of MRP as TT on recharges through My Idea App and Idea Website -- This STV should not be used for any commercial activity."
+id,cost,talktime,validity,comments
+9200,7,,1 day,30 MB Data -- Overage: 4p/10KB -- 
+9201,12,,2 days,40 MB Data -- Overage: 4p/10kb -- 
+9219,113,,28 days,325 Normal + 325 MB Day/Night (00:00:00 hours to 05:59:59) -- Overage: 4p/10KB
+9223,131,,1 Weekend,1 GB over 1 weekend -- Validity: 1 weekend (1 Saturday and 1 Sunday within the span of 7 days); Starts from 00:00:00 hours on Saturday and ends on 23:59:59 hours on Sunday) -- Overage: 4p/10KB
+9229,174,,28 days,500 MB -- Overage: 4p/10 KB
+9231,186,,28 days,400MB Day/Night + 400MB Night* -- Overage: 4p/10KB
+9232,197,,28 days,"Unlimited 1.25GB FUP -- FUP limit: First 180MB @ 3G SPEED 21.1MBPS, from 180MB to till 1.25GB @ 2G SPEEDAFTER 1.25GB to TILL 2.25GB @ 40kbps 2.25GB ONWARDS @ 10kbps"
+9244,431,,4 Weekends,4 GB over 4 weekends -- Validity: 4 weekends (4 Saturdays & 4 Sundays within the span of 28 days); Starts from 00:00:00 hours on Saturday and ends on 23:59:59 hours on Sunday) -- Overage: 4p/10KB
+9248,546,,28 days,2GB Day/Night + 2GB Night* -- Overage: 4p/10KB
+9256,796,,28 days,3GB Day/Night + 3GB Night* -- Overage: 4p/10KB
+9261,995,,28 days,"Unlimited Local/STD Idea Calls+3000 Local/STD Min -- 5 GB 3G Dat -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.10P/Min will be applicable -- Get 5% of MRP as TT on recharges through My Idea App and Idea Website -- This STV should not be used for any commercial activity."
+9263,1096,,28 days,5GB Day/Night+ 5GB Night* -- Overage: 4p/10KB
+9264,1246,,28 days,6GB Day/Night + 6GB Night* -- Overage: 4p/10KB
+9267,1846,,28 days,10GB Day/Night +10GB Night* -- Overage: 4p/10KB
+9268,2501,,90 days,12 GB -- Overage: 4p/10KB
+9269,3346,,28 days,20GB Day/Night +20GB Night* -- Overage: 4p/10KB
+9271,244,,28 days,"Unlimited Local/STD Idea Calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff  Rs. 0.10P/Min -- 0.5GB 3G Data -- Get 5% of MRP as TT on recharges through My Idea App and Idea Website -- This STV should not be used for any commercial activity."
+9273,395,,28 days,"Unlimited Local/STD Idea Calls + 3000 Local/STD Min -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.10P/Min will be applicable -- 0.5 GB 3G Data -- Get 5% of MRP as TT on recharges through My Idea App and Idea Website -- This STV should not be used for any commercial activity. "
+9274,495,,28 days,"Unlimited Local/STD Idea Calls + 3000 Local/STD Min -- 1 GB 3G Data -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.10P/Min will be applicable -- Get 5% of MRP as TT on recharges through My Idea App and Idea Website -- This STV should not be used for any commercial activity. "
+9275,795,,28 days,"Unlimited Local/STD Idea Calls+3000 Local/STD Min -- 3 GB 3G Data -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.10P/Min will be applicable -- Get 5% of MRP as TT on recharges through My Idea App and Idea Website -- This STV should not be used for any commercial activity."

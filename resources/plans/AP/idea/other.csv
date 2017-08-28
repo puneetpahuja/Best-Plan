@@ -1,18 +1,18 @@
-id,cost,talktime,validity,short description,long description
-9137,35,35,N.A,Recharge of Rs. 35 by Idea,5 Local Idea Night Minutes (11pm to 6am) -- Talktime Validity (Days): 5 -- Tariff Validity (Days): 5
-9138,79,79,N.A,Recharge of Rs. 79 by Idea,10 Local Idea Night Minutes (11pm to 6am) -- Talktime Validity (Days): 10 -- Tariff Validity (Days): 10
-9153,34,25.81,N.A,Recharge of Rs. 34 by Idea,5 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 3
-9154,39,30.05,N.A,Recharge of Rs. 39 by Idea,5 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 3
-9155,44,34.29,N.A,Recharge of Rs. 44 by Idea,1 Local Idea Night Minute (11pm to 6am) -- Tariff Validity (Days): 1
-9157,55,43.61,N.A,Recharge of Rs. 55 by Idea,5 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 3
-9158,59,47,N.A,Recharge of Rs. 59 by Idea,5 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 3
-9160,78,63.1,N.A,Recharge of Rs. 78 by Idea,5 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 3
-9162,99,95,28 days,Recharge of Rs. 99 by Idea,Local/STD Mobile Calls @1.2ps/sec 
-9172,21,5,28 days,Recharge of Rs. 21 by Idea,Idea to Idea SMS( Local/ National) @ 5p SMS Others to any network @ 10p.  -- 
-9173,57,15,28 days,Recharge of Rs. 57 by Idea,STD Mobile calls @25ps/min
-9174,68,25,28 days,Recharge of Rs. 68 by Idea,Local Idea calls @10p/min -- Talktime Validity: Unrestricted
-9182,357,,28 days,Recharge of Rs. 357 by Idea,"Unlimited Local/STD Calls -- Daily 1 GB 4G/3G/2G Data -- 10 Local/National SMS -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable -- This STV should not be used for any commercial activity"
-9183,897,,84 days,Recharge of Rs. 897 by Idea,Unlimited Local/STD/Roaming (local+National) outgoing calls -- Daily 2 GB 3G/4G on 4G handsets (15 GB for other handsets) -- Daily 100 SMS -- Get 10% of MRP as TT on recharges through My Idea App and Idea Website
-9184,1197,,84 days,Recharge of Rs. 1197 by Idea,Unlimited Local/STD/Roaming (local+National) outgoing calls -- Daily 2.5GB 3G/4G on 4G handsets (30GB for other handsets) -- Daily 100 SMS -- Get 10% of MRP as TT on recharges through My Idea App and Idea Website
-9187,7,,1 Night,Recharge of Rs. 7 by Idea,"Unlimited 2G  Night Data (00:00-06:00hrs), Post 1GB benefit upto 40Kbps and 10Kbps thereafter -- Overage: 4p/10KB -- "
-9193,123,,28 days,Recharge of Rs. 123 by Idea,1GB (00.00.00 hours to 05.59.59 hours) 2G -- Overage: 4p/10KB
+id,cost,talktime,validity,comments
+9137,35,35,N.A,5 Local Idea Night Minutes (11pm to 6am) -- Talktime Validity (Days): 5 -- Tariff Validity (Days): 5
+9138,79,79,N.A,10 Local Idea Night Minutes (11pm to 6am) -- Talktime Validity (Days): 10 -- Tariff Validity (Days): 10
+9153,34,25.81,N.A,5 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 3
+9154,39,30.05,N.A,5 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 3
+9155,44,34.29,N.A,1 Local Idea Night Minute (11pm to 6am) -- Tariff Validity (Days): 1
+9157,55,43.61,N.A,5 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 3
+9158,59,47,N.A,5 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 3
+9160,78,63.1,N.A,5 Local Idea Night Minutes (11pm to 6am) -- Tariff Validity (Days): 3
+9162,99,95,28 days,Local/STD Mobile Calls @1.2ps/sec 
+9172,21,5,28 days,Idea to Idea SMS( Local/ National) @ 5p SMS Others to any network @ 10p.  -- 
+9173,57,15,28 days,STD Mobile calls @25ps/min
+9174,68,25,28 days,Local Idea calls @10p/min -- Talktime Validity: Unrestricted
+9182,357,,28 days,"Unlimited Local/STD Calls -- Daily 1 GB 4G/3G/2G Data -- 10 Local/National SMS -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable -- This STV should not be used for any commercial activity"
+9183,897,,84 days,Unlimited Local/STD/Roaming (local+National) outgoing calls -- Daily 2 GB 3G/4G on 4G handsets (15 GB for other handsets) -- Daily 100 SMS -- Get 10% of MRP as TT on recharges through My Idea App and Idea Website
+9184,1197,,84 days,Unlimited Local/STD/Roaming (local+National) outgoing calls -- Daily 2.5GB 3G/4G on 4G handsets (30GB for other handsets) -- Daily 100 SMS -- Get 10% of MRP as TT on recharges through My Idea App and Idea Website
+9187,7,,1 Night,"Unlimited 2G  Night Data (00:00-06:00hrs), Post 1GB benefit upto 40Kbps and 10Kbps thereafter -- Overage: 4p/10KB -- "
+9193,123,,28 days,1GB (00.00.00 hours to 05.59.59 hours) 2G -- Overage: 4p/10KB

@@ -1,21 +1,21 @@
-id,cost,talktime,validity,short description,long description
-18713,9,,1 day,Recharge of Rs. 9 by Vodafone,35 MB 3G/4G Data
-18714,19,,1 hour,Recharge of Rs. 19 by Vodafone,Unlimited 3G/4G Data
-18715,24,,3 days,Recharge of Rs. 24 by Vodafone,95 MB 3G/4G Data
-18716,48,,1 day,Recharge of Rs. 48 by Vodafone,1 GB 4G/3G data
-18717,49,,5 days,Recharge of Rs. 49 by Vodafone,150 MB 3G/4G Data
-18718,96,,28 days,Recharge of Rs. 96 by Vodafone,275 MB 3G/4G DATA
-18719,102,,5 days,Recharge of Rs. 102 by Vodafone,1 GB 4G/3G data
-18720,255,,28 days,Recharge of Rs. 255 by Vodafone,Vodafone SuperNet Offer 4GB for 4G Handset & 4G SIM users only. For 3G/2G users 1.5GB @3G speed.
-18721,347,,28 days,Recharge of Rs. 347 by Vodafone,1 GB/Day 4G/3G Data -- Unlimited ALL Mobile & Landline Calls. Limited Period Offer for ALL Handsets
-18722,349,,28 days,Recharge of Rs. 349 by Vodafone,2GB 3G/4G Data
-18723,355,,28 days,Recharge of Rs. 355 by Vodafone,Vodafone SuperNet Offer 6GB for 4G Handset & 4G SIM users only. For 3G/2G users 2.5GB @3G speed.
-18724,449,,28 days,Recharge of Rs. 449 by Vodafone,3GB 3G/4G Data
-18725,455,,28 days,Recharge of Rs. 455 by Vodafone,Vodafone SuperNet Offer 9GB for 4G Handset & 4G SIM users only. For 3G/2G users 3.5GB @3G speed.
-18726,649,,28 days,Recharge of Rs. 649 by Vodafone,Vodafone SuperNet Offer 13GB UL for 4G Handset & 4G SIM users only. For 3G/2G users 5GB UL @3G speed. 64Kbps after data quota.
-18727,849,,28 days,Recharge of Rs. 849 by Vodafone,Vodafone SuperNet Offer 14GB for 4G Handset & 4G SIM users only. For 3G/2G users 7GB @3G speed.
-18728,1499,,28 days,Recharge of Rs. 1499 by Vodafone,Vodafone SuperNet Offer 35GB UL for 4G Handset & 4G SIM users only. For 3G/2G users 15GB UL @3G speed. 64Kbps after data quota.
-18729,1999,,60 days,Recharge of Rs. 1999 by Vodafone,15GB 3G/4G Data
-18730,23,,1 day,Recharge of Rs. 23 by Vodafone,"Unlimited local + std V2V calls -- 100 MB 3G/4G Data (4G Handset), 50 MB for Other Handset"
-18731,47,,7 days,Recharge of Rs. 47 by Vodafone,"Unlimited local + std V2V calls -- 250MB 3G/4G Data (4G Handset), 50 MB for Other Handset"
-18732,147,,28 days,Recharge of Rs. 147 by Vodafone,Unlimited vodafone calling+ 2GB 4G /3G DATA (if 4G HS and 4G SIM)Or 300 MB 3G/4G DATA (if 4G Handset) Or (other Handset) 50 MB 2G DATA 
+id,cost,talktime,validity,comments
+18713,9,,1 day,35 MB 3G/4G Data
+18714,19,,1 hour,Unlimited 3G/4G Data
+18715,24,,3 days,95 MB 3G/4G Data
+18716,48,,1 day,1 GB 4G/3G data
+18717,49,,5 days,150 MB 3G/4G Data
+18718,96,,28 days,275 MB 3G/4G DATA
+18719,102,,5 days,1 GB 4G/3G data
+18720,255,,28 days,Vodafone SuperNet Offer 4GB for 4G Handset & 4G SIM users only. For 3G/2G users 1.5GB @3G speed.
+18721,347,,28 days,1 GB/Day 4G/3G Data -- Unlimited ALL Mobile & Landline Calls. Limited Period Offer for ALL Handsets
+18722,349,,28 days,2GB 3G/4G Data
+18723,355,,28 days,Vodafone SuperNet Offer 6GB for 4G Handset & 4G SIM users only. For 3G/2G users 2.5GB @3G speed.
+18724,449,,28 days,3GB 3G/4G Data
+18725,455,,28 days,Vodafone SuperNet Offer 9GB for 4G Handset & 4G SIM users only. For 3G/2G users 3.5GB @3G speed.
+18726,649,,28 days,Vodafone SuperNet Offer 13GB UL for 4G Handset & 4G SIM users only. For 3G/2G users 5GB UL @3G speed. 64Kbps after data quota.
+18727,849,,28 days,Vodafone SuperNet Offer 14GB for 4G Handset & 4G SIM users only. For 3G/2G users 7GB @3G speed.
+18728,1499,,28 days,Vodafone SuperNet Offer 35GB UL for 4G Handset & 4G SIM users only. For 3G/2G users 15GB UL @3G speed. 64Kbps after data quota.
+18729,1999,,60 days,15GB 3G/4G Data
+18730,23,,1 day,"Unlimited local + std V2V calls -- 100 MB 3G/4G Data (4G Handset), 50 MB for Other Handset"
+18731,47,,7 days,"Unlimited local + std V2V calls -- 250MB 3G/4G Data (4G Handset), 50 MB for Other Handset"
+18732,147,,28 days,Unlimited vodafone calling+ 2GB 4G /3G DATA (if 4G HS and 4G SIM)Or 300 MB 3G/4G DATA (if 4G Handset) Or (other Handset) 50 MB 2G DATA 

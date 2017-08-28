@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-7040,36,,180 days,Recharge of Rs. 36 by BSNL,Validity Extension: second
-7041,37,,180 days,Recharge of Rs. 37 by BSNL,Validity-extension: Minute
-7042,49,,365 days,Recharge of Rs. 49 by BSNL,Nesam Gold_validity-extension
-7043,75,,180 days,Recharge of Rs. 75 by BSNL,Validity-extension: Anbu Jodi
-7044,94,,365 days,Recharge of Rs. 94 by BSNL,DATA_94: 0.5 GB
-7045,98,,30 days,Recharge of Rs. 98 by BSNL,JaiJawan
-7046,136,,730 days,Recharge of Rs. 136 by BSNL,Freedom_136: Validity-extension
-7047,199,,180 days,Recharge of Rs. 199 by BSNL,Validity-extension_RTP_FR_199
-7048,666,,180 days,Recharge of Rs. 666 by BSNL,BSNL_SIXER_666_validity-extension
+id,cost,talktime,validity,comments
+7040,36,,180 days,Validity Extension: second
+7041,37,,180 days,Validity-extension: Minute
+7042,49,,365 days,Nesam Gold_validity-extension
+7043,75,,180 days,Validity-extension: Anbu Jodi
+7044,94,,365 days,DATA_94: 0.5 GB
+7045,98,,30 days,JaiJawan
+7046,136,,730 days,Freedom_136: Validity-extension
+7047,199,,180 days,Validity-extension_RTP_FR_199
+7048,666,,180 days,BSNL_SIXER_666_validity-extension

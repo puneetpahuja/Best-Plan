@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-4837,20,,180 days,Recharge of Rs. 20 by BSNL,Validity Extension: SWAGATHAM
-4838,36,,180 days,Recharge of Rs. 36 by BSNL,Validity extension: Per_Second_plan
-4839,37,,180 days,Recharge of Rs. 37 by BSNL,Validity extension: Per_Minute_plan
-4840,49,,180 days,Recharge of Rs. 49 by BSNL,Pratibha_49_validity-extension
-4841,61,,180 days,Recharge of Rs. 61 by BSNL,AMULYA_61_validity-extension
-4842,75,,180 days,Recharge of Rs. 75 by BSNL,Validity extension: Pyari_Jodi
-4843,96,,365 days,Recharge of Rs. 96 by BSNL,Validity extension: Data_Plan_96
-4844,101,,30 days,Recharge of Rs. 101 by BSNL,Jai_Jawan_validity-extension
-4845,136,,730 days,Recharge of Rs. 136 by BSNL,Freedom_136_validity-extension
-4846,199,,180 days,Recharge of Rs. 199 by BSNL,Validity extension: RTP_FR_199
-4847,299,,180 days,Recharge of Rs. 299 by BSNL,Validity extension: Akarsh
-4848,666,,180 days,Recharge of Rs. 666 by BSNL,BSNL_SIXER_666_validity-extension
+id,cost,talktime,validity,comments
+4837,20,,180 days,Validity Extension: SWAGATHAM
+4838,36,,180 days,Validity extension: Per_Second_plan
+4839,37,,180 days,Validity extension: Per_Minute_plan
+4840,49,,180 days,Pratibha_49_validity-extension
+4841,61,,180 days,AMULYA_61_validity-extension
+4842,75,,180 days,Validity extension: Pyari_Jodi
+4843,96,,365 days,Validity extension: Data_Plan_96
+4844,101,,30 days,Jai_Jawan_validity-extension
+4845,136,,730 days,Freedom_136_validity-extension
+4846,199,,180 days,Validity extension: RTP_FR_199
+4847,299,,180 days,Validity extension: Akarsh
+4848,666,,180 days,BSNL_SIXER_666_validity-extension

@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-15939,21,,15 days,Recharge of Rs. 21 by Uninor,50 STD min Free
-15940,53,,28 days,Recharge of Rs. 53 by Uninor,125  STD min free
-15941,64,,28 days,Recharge of Rs. 64 by Uninor,150 STD min free
-15942,98,,28 days,Recharge of Rs. 98 by Uninor,275 STD min free
-15943,194,,28 days,Recharge of Rs. 194 by Uninor,650 STD min free 
+id,cost,talktime,validity,comments
+15939,21,,15 days,50 STD min Free
+15940,53,,28 days,125  STD min free
+15941,64,,28 days,150 STD min free
+15942,98,,28 days,275 STD min free
+15943,194,,28 days,650 STD min free 

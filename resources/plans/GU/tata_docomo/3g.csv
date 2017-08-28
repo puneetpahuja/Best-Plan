@@ -1,23 +1,23 @@
-id,cost,talktime,validity,short description,long description
-7794,8,,1 day,Recharge of Rs. 8 by Docomo,100 MB 3G data -- 
-7795,19,,2 days,Recharge of Rs. 19 by Docomo,75 MB 3G data -- 
-7796,39,,5 days,Recharge of Rs. 39 by Docomo,300 MB 3G data -- 
-7797,56,,28 days,Recharge of Rs. 56 by Docomo,250 MB 3G data
-7798,62,,7 days,Recharge of Rs. 62 by Docomo,300 MB 3G data -- 
-7799,98,,28 days,Recharge of Rs. 98 by Docomo,1 GB 3G data
-7800,99,,7 days,Recharge of Rs. 99 by Docomo,1 GB 3G data (3G Power Pack) -- 
-7801,114,,28 days,Recharge of Rs. 114 by Docomo,300 MB 3G data + 300 MB Night Data -- 
-7802,135,,28 days,Recharge of Rs. 135 by Docomo,Unlimited local Tata to Tata calls free -- 1 GB 3G data (recharge applicable in home network only) 
-7803,138,,28 days,Recharge of Rs. 138 by Docomo,500 MB 3G data
-7804,154,,28 days,Recharge of Rs. 154 by Docomo,500 MB 3G data + 500 MB Night Data -- 
-7805,189,,28 days,Recharge of Rs. 189 by Docomo,2 GB 3G data -- 
-7806,208,,28 days,Recharge of Rs. 208 by Docomo,1.1 GB to 10 GB 3G Data -- 
-7807,219,,28 days,Recharge of Rs. 219 by Docomo,1.2 GB 3G data -- 
-7808,225,,28 days,Recharge of Rs. 225 by Docomo,1 GB 3G data + 1 GB Night Data  -- 
-7809,249,,28 days,Recharge of Rs. 249 by Docomo,28 GB 3G Data (1GB 3G Data Daily)
-7810,255,,28 days,Recharge of Rs. 255 by Docomo,2 GB 3G data -- 
-7811,348,,28 days,Recharge of Rs. 348 by Docomo,2 GB 3G Data -- 1500 Local STD Mobile mins. Post 1500 mins calls will be charged @ 30p/min
-7812,365,,28 days,Recharge of Rs. 365 by Docomo,3 GB 3G Data -- 
-7813,501,,365 days,Recharge of Rs. 501 by Docomo,5 GB 3G data
-7814,695,,60 days,Recharge of Rs. 695 by Docomo,5 GB 3G data
-7815,995,,28 days,Recharge of Rs. 995 by Docomo,10 GB 3G Data -- 
+id,cost,talktime,validity,comments
+7794,8,,1 day,100 MB 3G data -- 
+7795,19,,2 days,75 MB 3G data -- 
+7796,39,,5 days,300 MB 3G data -- 
+7797,56,,28 days,250 MB 3G data
+7798,62,,7 days,300 MB 3G data -- 
+7799,98,,28 days,1 GB 3G data
+7800,99,,7 days,1 GB 3G data (3G Power Pack) -- 
+7801,114,,28 days,300 MB 3G data + 300 MB Night Data -- 
+7802,135,,28 days,Unlimited local Tata to Tata calls free -- 1 GB 3G data (recharge applicable in home network only) 
+7803,138,,28 days,500 MB 3G data
+7804,154,,28 days,500 MB 3G data + 500 MB Night Data -- 
+7805,189,,28 days,2 GB 3G data -- 
+7806,208,,28 days,1.1 GB to 10 GB 3G Data -- 
+7807,219,,28 days,1.2 GB 3G data -- 
+7808,225,,28 days,1 GB 3G data + 1 GB Night Data  -- 
+7809,249,,28 days,28 GB 3G Data (1GB 3G Data Daily)
+7810,255,,28 days,2 GB 3G data -- 
+7811,348,,28 days,2 GB 3G Data -- 1500 Local STD Mobile mins. Post 1500 mins calls will be charged @ 30p/min
+7812,365,,28 days,3 GB 3G Data -- 
+7813,501,,365 days,5 GB 3G data
+7814,695,,60 days,5 GB 3G data
+7815,995,,28 days,10 GB 3G Data -- 

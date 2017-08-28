@@ -1,15 +1,15 @@
-id,cost,talktime,validity,short description,long description
-2299,23,,1 day,Recharge of Rs. 23 by Airtel,Unlimited L+N Onnet -- 100 MB (4G H/S) and 50MB (Non 4G)3G/4G Data
-2301,43,,5 days,Recharge of Rs. 43 by Airtel,175 MB 2G/3G/4G Data -- Cashback excluded
-2305,695,,90 days,Recharge of Rs. 695 by Airtel,Unlimited Local + STD A2A Calls -- 500 MB 2G/3G/4G Data. T&C Apply.
-2306,794,,90 days,Recharge of Rs. 794 by Airtel,Unlimited Local + STD A2A Calls -- 1 GB 2G/3G/4G Data. T&C Apply.
-2309,54,,1 day,Recharge of Rs. 54 by Airtel,1 GB 3G Data (Cashback excluded)
-2310,94,,5 days,Recharge of Rs. 94 by Airtel,1 GB 3G Data -- Cashback excluded
-2312,123,,14 days,Recharge of Rs. 123 by Airtel,380 MB 3G Data
-2313,148,,3 days,Recharge of Rs. 148 by Airtel,1 GB 3G Data -- Cashback excluded
-2315,179,,27 days,Recharge of Rs. 179 by Airtel,1 GB 3G Data (Cashback excluded)
-2318,254,,27 days,Recharge of Rs. 254 by Airtel,1.5 GB 3G Data (Cashback excluded)
-2321,448,,27 days,Recharge of Rs. 448 by Airtel,3.5 GB 3G Data (Cashback excluded)
-2323,548,,27 days,Recharge of Rs. 548 by Airtel,4.5 GB 3G Data (Cashback excluded)
-2327,748,,27 days,Recharge of Rs. 748 by Airtel,6.5 GB 3G Unlimited@40 Kbps (Cashback excluded)
-2332,998,,27 days,Recharge of Rs. 998 by Airtel,10 GB 3G data . 10 GB Happy Hours Night data(3AM to 5AM)
+id,cost,talktime,validity,comments
+2299,23,,1 day,Unlimited L+N Onnet -- 100 MB (4G H/S) and 50MB (Non 4G)3G/4G Data
+2301,43,,5 days,175 MB 2G/3G/4G Data -- Cashback excluded
+2305,695,,90 days,Unlimited Local + STD A2A Calls -- 500 MB 2G/3G/4G Data. T&C Apply.
+2306,794,,90 days,Unlimited Local + STD A2A Calls -- 1 GB 2G/3G/4G Data. T&C Apply.
+2309,54,,1 day,1 GB 3G Data (Cashback excluded)
+2310,94,,5 days,1 GB 3G Data -- Cashback excluded
+2312,123,,14 days,380 MB 3G Data
+2313,148,,3 days,1 GB 3G Data -- Cashback excluded
+2315,179,,27 days,1 GB 3G Data (Cashback excluded)
+2318,254,,27 days,1.5 GB 3G Data (Cashback excluded)
+2321,448,,27 days,3.5 GB 3G Data (Cashback excluded)
+2323,548,,27 days,4.5 GB 3G Data (Cashback excluded)
+2327,748,,27 days,6.5 GB 3G Unlimited@40 Kbps (Cashback excluded)
+2332,998,,27 days,10 GB 3G data . 10 GB Happy Hours Night data(3AM to 5AM)

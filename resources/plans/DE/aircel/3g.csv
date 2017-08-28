@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-396,42,,28 days,Recharge of Rs. 42 by Aircel,125 MB 3G Data
-397,44,,7 days,Recharge of Rs. 44 by Aircel,200 MB 3G Data
-398,76,,7 days,Recharge of Rs. 76 by Aircel,1.5 GB 3G Data
-399,78,,14 days,Recharge of Rs. 78 by Aircel,400 MB 3G Data
-400,122,,30 days,Recharge of Rs. 122 by Aircel,500 MB 3G Data
-401,147,,28 days,Recharge of Rs. 147 by Aircel,1 GB 3G data for Home and national roaming (on Aircel and Vodafone network)
-402,169,,30 days,Recharge of Rs. 169 by Aircel,1.2GB 3G data for Home and national roaming(on Aircel and Vodafone network)
-403,298,,28 days,Recharge of Rs. 298 by Aircel,2 GB 3G Data
-404,399,,30 days,Recharge of Rs. 399 by Aircel,2 GB 3G Data
-405,599,,30 days,Recharge of Rs. 599 by Aircel,3 GB 3G Data
-406,799,,30 days,Recharge of Rs. 799 by Aircel,4 GB 3G Data
-407,1399,,30 days,Recharge of Rs. 1399 by Aircel,7 GB 3G Data
-408,1849,,30 days,Recharge of Rs. 1849 by Aircel,10 GB 3G Data
+id,cost,talktime,validity,comments
+396,42,,28 days,125 MB 3G Data
+397,44,,7 days,200 MB 3G Data
+398,76,,7 days,1.5 GB 3G Data
+399,78,,14 days,400 MB 3G Data
+400,122,,30 days,500 MB 3G Data
+401,147,,28 days,1 GB 3G data for Home and national roaming (on Aircel and Vodafone network)
+402,169,,30 days,1.2GB 3G data for Home and national roaming(on Aircel and Vodafone network)
+403,298,,28 days,2 GB 3G Data
+404,399,,30 days,2 GB 3G Data
+405,599,,30 days,3 GB 3G Data
+406,799,,30 days,4 GB 3G Data
+407,1399,,30 days,7 GB 3G Data
+408,1849,,30 days,10 GB 3G Data

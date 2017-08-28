@@ -1,16 +1,16 @@
-id,cost,talktime,validity,short description,long description
-12718,72,47,32 days,Recharge of Rs. 72 by RelianceGSM,100 Local/National SMS (2 days)
-12719,76,63.67,N.A,Recharge of Rs. 76 by RelianceGSM,5 Local and National SMS Valid for 1 day (same day)
-12730,34,,2 days,Recharge of Rs. 34 by RelianceGSM,1 GB Data -- 1 Hour All Calls to any N/W
-12744,151,,28 days,Recharge of Rs. 151 by RelianceGSM,Unltd Local & STD R-R Calls -- 3 GB 2G Data -- All R -Others calls @1p/sec -- Free Incoming Roaming
-12745,153,,14 days,Recharge of Rs. 153 by RelianceGSM,1 GB 2G Data -- 60 mins calls to any network / Day
-12748,193,,28 days,Recharge of Rs. 193 by RelianceGSM,30 Mins All Calls -- 1 GB/ Day Data 
-12750,196,,28 days,Recharge of Rs. 196 by RelianceGSM,1 GB Data -- Unlimited Local and STD Reliance to Reliance calls+1250 Local and STD minutes to other network -- Free Incoming roaming.Post 1250 Local & STD minutes all calls @20p/min
-12753,299,,28 days,Recharge of Rs. 299 by RelianceGSM,2 GB Data -- Unlimited Local and STD Reliance to Reliance calls + 1900 Local and STD minutes to other network -- Free Incoming roaming.Post 1900 Local & STD minutes all calls @20p/min
-12754,303,,28 days,Recharge of Rs. 303 by RelianceGSM,1 GB 2G Data -- 60 mins calls to any network/Day
-12758,499,,28 days,Recharge of Rs. 499 by RelianceGSM,4 GB Data -- Unlimited Local and STD Reliance to Reliance calls + 3300 Local and STD minutes to other network -- Free Incoming roaming.Post 3300 Local & STD minutes all calls @20p/min
-12759,501,,90 days,Recharge of Rs. 501 by RelianceGSM,1 GB Data -- Unlimited Local and STD Reliance to Reliance calls + 3300 Local and STD minutes to other network -- Free Incoming roaming.Post 3300 Local & STD minutes all calls @20p/min
-12760,555,,90 days,Recharge of Rs. 555 by RelianceGSM,1GB 2G Data + 60 mins calls to any network / Day
-12762,297,,28 days,Recharge of Rs. 297 by RelianceGSM,ALL Unlimited ONNET Local calls + 750 mins Local OFFNET calls --  297 MB data
-12763,397,,28 days,Recharge of Rs. 397 by RelianceGSM,ALL Unlimited ONNET Local / STD calls + 1000 mins Local / STD OFFNET calls -- 397 MB data
-12798,16,,30 days,Recharge of Rs. 16 by RelianceGSM,"Full talktime on topup 10, 20 and 30"
+id,cost,talktime,validity,comments
+12718,72,47,32 days,100 Local/National SMS (2 days)
+12719,76,63.67,N.A,5 Local and National SMS Valid for 1 day (same day)
+12730,34,,2 days,1 GB Data -- 1 Hour All Calls to any N/W
+12744,151,,28 days,Unltd Local & STD R-R Calls -- 3 GB 2G Data -- All R -Others calls @1p/sec -- Free Incoming Roaming
+12745,153,,14 days,1 GB 2G Data -- 60 mins calls to any network / Day
+12748,193,,28 days,30 Mins All Calls -- 1 GB/ Day Data 
+12750,196,,28 days,1 GB Data -- Unlimited Local and STD Reliance to Reliance calls+1250 Local and STD minutes to other network -- Free Incoming roaming.Post 1250 Local & STD minutes all calls @20p/min
+12753,299,,28 days,2 GB Data -- Unlimited Local and STD Reliance to Reliance calls + 1900 Local and STD minutes to other network -- Free Incoming roaming.Post 1900 Local & STD minutes all calls @20p/min
+12754,303,,28 days,1 GB 2G Data -- 60 mins calls to any network/Day
+12758,499,,28 days,4 GB Data -- Unlimited Local and STD Reliance to Reliance calls + 3300 Local and STD minutes to other network -- Free Incoming roaming.Post 3300 Local & STD minutes all calls @20p/min
+12759,501,,90 days,1 GB Data -- Unlimited Local and STD Reliance to Reliance calls + 3300 Local and STD minutes to other network -- Free Incoming roaming.Post 3300 Local & STD minutes all calls @20p/min
+12760,555,,90 days,1GB 2G Data + 60 mins calls to any network / Day
+12762,297,,28 days,ALL Unlimited ONNET Local calls + 750 mins Local OFFNET calls --  297 MB data
+12763,397,,28 days,ALL Unlimited ONNET Local / STD calls + 1000 mins Local / STD OFFNET calls -- 397 MB data
+12798,16,,30 days,"Full talktime on topup 10, 20 and 30"

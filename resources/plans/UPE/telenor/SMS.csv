@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-16059,13,,7 days,Recharge of Rs. 13 by Uninor,80 Local SMS/day & 20 Local/STD SMS/Day
-16060,18,,28 days,Recharge of Rs. 18 by Uninor,100 Local Telenor to Telenor SMS/day
-16061,23,,28 days,Recharge of Rs. 23 by Uninor,400 Local SMS & 100 Local/STD SMS
-16062,44,,28 days,Recharge of Rs. 44 by Uninor,Free 80 Local SMS per day and 20 Local + National SMS per day 
+id,cost,talktime,validity,comments
+16059,13,,7 days,80 Local SMS/day & 20 Local/STD SMS/Day
+16060,18,,28 days,100 Local Telenor to Telenor SMS/day
+16061,23,,28 days,400 Local SMS & 100 Local/STD SMS
+16062,44,,28 days,Free 80 Local SMS per day and 20 Local + National SMS per day 

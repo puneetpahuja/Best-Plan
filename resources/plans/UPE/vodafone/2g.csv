@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-18568,8,,1 day,Recharge of Rs. 8 by Vodafone,40 MB 2G Data
-18569,11,,1 day,Recharge of Rs. 11 by Vodafone,65 MB 2G Data
-18570,24,,3 days,Recharge of Rs. 24 by Vodafone,135 MB 2G Data
-18571,42,,28 days,Recharge of Rs. 42 by Vodafone,140 MB 2G Data
-18572,52,,7 days,Recharge of Rs. 52 by Vodafone,300 MB 2G Data
-18573,72,,28 days,Recharge of Rs. 72 by Vodafone,250 MB 2G Data
-18574,97,,14 days,Recharge of Rs. 97 by Vodafone,550 MB 2G Data
-18575,135,,18 days,Recharge of Rs. 135 by Vodafone,750 MB 2G Data
-18576,155,,21 days,Recharge of Rs. 155 by Vodafone,850 MB 2G Data
-18577,199,,28 days,Recharge of Rs. 199 by Vodafone,1.25 GB 2G Unlimited Data. Post Quota Enjoy Unlimited Internet @40kbps Speed.
-18578,201,,28 days,Recharge of Rs. 201 by Vodafone,1.25 GB to 3 GB 2G Data
-18579,206,,28 days,Recharge of Rs. 206 by Vodafone,1GB 2G + 1GB 2G Night Data (12am 6am)
-18580,247,,28 days,Recharge of Rs. 247 by Vodafone,2 GB 2G Unlimited Data. Post Quota Enjoy Unlimited Internet @40kbps Speed.
+id,cost,talktime,validity,comments
+18568,8,,1 day,40 MB 2G Data
+18569,11,,1 day,65 MB 2G Data
+18570,24,,3 days,135 MB 2G Data
+18571,42,,28 days,140 MB 2G Data
+18572,52,,7 days,300 MB 2G Data
+18573,72,,28 days,250 MB 2G Data
+18574,97,,14 days,550 MB 2G Data
+18575,135,,18 days,750 MB 2G Data
+18576,155,,21 days,850 MB 2G Data
+18577,199,,28 days,1.25 GB 2G Unlimited Data. Post Quota Enjoy Unlimited Internet @40kbps Speed.
+18578,201,,28 days,1.25 GB to 3 GB 2G Data
+18579,206,,28 days,1GB 2G + 1GB 2G Night Data (12am 6am)
+18580,247,,28 days,2 GB 2G Unlimited Data. Post Quota Enjoy Unlimited Internet @40kbps Speed.

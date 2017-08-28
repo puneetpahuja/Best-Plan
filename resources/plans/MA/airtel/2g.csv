@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-3146,5,,1 day,Recharge of Rs. 5 by Airtel,20 MB 2G Data -- This recharge does not carry forward existing 3G balance
-3156,93,,28 days,Recharge of Rs. 93 by Airtel,300 MB 2G data
-3157,98,,12 days,Recharge of Rs. 98 by Airtel,550 MB 2G data
-3158,125,,16 days,Recharge of Rs. 125 by Airtel,700 MB 2G data
+id,cost,talktime,validity,comments
+3146,5,,1 day,20 MB 2G Data -- This recharge does not carry forward existing 3G balance
+3156,93,,28 days,300 MB 2G data
+3157,98,,12 days,550 MB 2G data
+3158,125,,16 days,700 MB 2G data

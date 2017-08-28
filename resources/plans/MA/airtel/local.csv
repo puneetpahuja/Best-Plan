@@ -1,22 +1,22 @@
-id,cost,talktime,validity,short description,long description
-3201,6,,28 days,Recharge of Rs. 6 by Airtel,Local mobile calls@30p/m. Daily 1st 60 local mobile sec @2p/s
-3202,15,,28 days,Recharge of Rs. 15 by Airtel,Local + STD A2A mobile calls @15p/m. Daily First 120 L+S A2A sec @1.8p/s
-3203,17,,3 days,Recharge of Rs. 17 by Airtel,1500 Local+STD mobile sec
-3204,18,,28 days,Recharge of Rs. 18 by Airtel,Local mobile calls @30p/m
-3205,21,,56 days,Recharge of Rs. 21 by Airtel,Local Mobile calls @1p/sec
-3206,27,,28 days,Recharge of Rs. 27 by Airtel,Local mobile calls @25p/m
-3207,28,,28 days,Recharge of Rs. 28 by Airtel,Local A2A calls @10p/m
-3208,31,,56 days,Recharge of Rs. 31 by Airtel,Local + STD Mobile calls @1p/sec
-3209,34,,28 days,Recharge of Rs. 34 by Airtel,Local + Std mobile calls @30p/m
-3210,36,,3 days,Recharge of Rs. 36 by Airtel,2800 Loc+STD mobile secs
-3211,55,,2 days,Recharge of Rs. 55 by Airtel,5000 Local+STD mob secs
-3212,65,,2 days,Recharge of Rs. 65 by Airtel,5900 Local+STD mob secs
-3213,77,,2 days,Recharge of Rs. 77 by Airtel,6800 Local+STD mob secs
-3214,95,,2 days,Recharge of Rs. 95 by Airtel,7600 (Local+STD Mob Sec)
-3215,99,,28 days,Recharge of Rs. 99 by Airtel,250 Local+STD mobile minutes
-3216,103,,15 days,Recharge of Rs. 103 by Airtel,10000 Local mobile seconds
-3217,105,,28 days,Recharge of Rs. 105 by Airtel,13000 Local+STD mob sec
-3218,135,,2 days,Recharge of Rs. 135 by Airtel,12000 (Loc+STD Mob Sec)
-3219,204,,28 days,Recharge of Rs. 204 by Airtel,25500 Local mobile seconds
-3220,225,,28 days,Recharge of Rs. 225 by Airtel,30000 Local+STD mob sec
-3221,301,,4 days,Recharge of Rs. 301 by Airtel,Unlimited mobile + LL calls local + STD in home and roam nerwork
+id,cost,talktime,validity,comments
+3201,6,,28 days,Local mobile calls@30p/m. Daily 1st 60 local mobile sec @2p/s
+3202,15,,28 days,Local + STD A2A mobile calls @15p/m. Daily First 120 L+S A2A sec @1.8p/s
+3203,17,,3 days,1500 Local+STD mobile sec
+3204,18,,28 days,Local mobile calls @30p/m
+3205,21,,56 days,Local Mobile calls @1p/sec
+3206,27,,28 days,Local mobile calls @25p/m
+3207,28,,28 days,Local A2A calls @10p/m
+3208,31,,56 days,Local + STD Mobile calls @1p/sec
+3209,34,,28 days,Local + Std mobile calls @30p/m
+3210,36,,3 days,2800 Loc+STD mobile secs
+3211,55,,2 days,5000 Local+STD mob secs
+3212,65,,2 days,5900 Local+STD mob secs
+3213,77,,2 days,6800 Local+STD mob secs
+3214,95,,2 days,7600 (Local+STD Mob Sec)
+3215,99,,28 days,250 Local+STD mobile minutes
+3216,103,,15 days,10000 Local mobile seconds
+3217,105,,28 days,13000 Local+STD mob sec
+3218,135,,2 days,12000 (Loc+STD Mob Sec)
+3219,204,,28 days,25500 Local mobile seconds
+3220,225,,28 days,30000 Local+STD mob sec
+3221,301,,4 days,Unlimited mobile + LL calls local + STD in home and roam nerwork

@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-1106,8,,3 days,Recharge of Rs. 8 by Aircel,"Roaming On Aircel: IC Free 150 min daily, OG Local :0.80 , STD 1.5p/sec, SMS Local :0.25p, STD :0.38p ,On other n/w: IC: 0.45 , OG Local : 0.80, STD :1.15, SMS Local : 0.25p, STD : 0.38p"
-1107,34,,28 days,Recharge of Rs. 34 by Aircel,"On Aircel network: Free Incoming roaming, Outgoing Local @80p/min, STD @1.5p/sec"
+id,cost,talktime,validity,comments
+1106,8,,3 days,"Roaming On Aircel: IC Free 150 min daily, OG Local :0.80 , STD 1.5p/sec, SMS Local :0.25p, STD :0.38p ,On other n/w: IC: 0.45 , OG Local : 0.80, STD :1.15, SMS Local : 0.25p, STD : 0.38p"
+1107,34,,28 days,"On Aircel network: Free Incoming roaming, Outgoing Local @80p/min, STD @1.5p/sec"

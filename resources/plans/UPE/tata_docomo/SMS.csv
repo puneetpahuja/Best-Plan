@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-9004,27,,14 days,Recharge of Rs. 27 by Docomo,500 National SMS (Local/STD SMS)
-9005,43,,28 days,Recharge of Rs. 43 by Docomo,600 National SMS (Local/STD SMS)
-9006,49,,28 days,Recharge of Rs. 49 by Docomo,1000 National SMS (Local/STD SMS)
-9007,89,,28 days,Recharge of Rs. 89 by Docomo,2000 National SMS (Local/STD SMS)
+id,cost,talktime,validity,comments
+9004,27,,14 days,500 National SMS (Local/STD SMS)
+9005,43,,28 days,600 National SMS (Local/STD SMS)
+9006,49,,28 days,1000 National SMS (Local/STD SMS)
+9007,89,,28 days,2000 National SMS (Local/STD SMS)

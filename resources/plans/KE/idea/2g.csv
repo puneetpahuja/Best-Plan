@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-10473,9,,1 day,Recharge of Rs. 9 by Idea,50 MB Data -- Overage: 4ps/10KB -- 
-10474,179,,28 days,Recharge of Rs. 179 by Idea,1 GB -- Overage: 4ps/10KB -- 
-10475,257,,28 days,Recharge of Rs. 257 by Idea,Unlimited -- FUP limit: Speed post 2 GB - 40 kbps
+id,cost,talktime,validity,comments
+10473,9,,1 day,50 MB Data -- Overage: 4ps/10KB -- 
+10474,179,,28 days,1 GB -- Overage: 4ps/10KB -- 
+10475,257,,28 days,Unlimited -- FUP limit: Speed post 2 GB - 40 kbps

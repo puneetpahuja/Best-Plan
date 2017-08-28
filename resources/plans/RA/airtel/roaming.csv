@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-3935,31,,81 days,Recharge of Rs. 31 by Airtel,All roaming outgoing @ 60p/min
-3936,48,,28 days,Recharge of Rs. 48 by Airtel,Roam like home (Home Tariff applicable on Roaming)
-3937,67,,27 days,Recharge of Rs. 67 by Airtel,All roaming outgoing @ 1p/s
+id,cost,talktime,validity,comments
+3935,31,,81 days,All roaming outgoing @ 60p/min
+3936,48,,28 days,Roam like home (Home Tariff applicable on Roaming)
+3937,67,,27 days,All roaming outgoing @ 1p/s

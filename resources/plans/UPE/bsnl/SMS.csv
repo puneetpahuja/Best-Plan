@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-7094,11,,7 days,Recharge of Rs. 11 by BSNL,130 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
-7095,20,,15 days,Recharge of Rs. 20 by BSNL,265 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher 
-7096,30,,30 days,Recharge of Rs. 30 by BSNL,Local and National SMS 385
-7098,52,,30 days,Recharge of Rs. 52 by BSNL,860 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
-7100,83,,30 days,Recharge of Rs. 83 by BSNL,1650 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
-7102,147,,60 days,Recharge of Rs. 147 by BSNL,3000 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
+id,cost,talktime,validity,comments
+7094,11,,7 days,130 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
+7095,20,,15 days,265 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher 
+7096,30,,30 days,Local and National SMS 385
+7098,52,,30 days,860 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
+7100,83,,30 days,1650 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
+7102,147,,60 days,3000 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.

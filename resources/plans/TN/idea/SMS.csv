@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-11759,3,,1 day,Recharge of Rs. 3 by Idea,100 Local/National SMS Free  -- 
-11760,4,,30 days,Recharge of Rs. 4 by Idea,100 Local/National SMS Free 1st 2 SMS charged everyday -- 
-11762,12,,5 days,Recharge of Rs. 12 by Idea,250 Local/National SMS Free
-11763,15,,7 days,Recharge of Rs. 15 by Idea,100 Local/National SMS Free everyday -- 
-11764,18,,14 days,Recharge of Rs. 18 by Idea,50 Local SMS Free everyday
-11765,21,,28 days,Recharge of Rs. 21 by Idea,50 Local SMS Free everyday first SMS @ 50p
-11766,37,,28 days,Recharge of Rs. 37 by Idea,100 Local/National SMS Free everyday first SMS @ 50p
-11767,49,,28 days,Recharge of Rs. 49 by Idea,100 Local/National SMS Free everyday
-11768,61,,45 days,Recharge of Rs. 61 by Idea,50 Local/National SMS Free everyday
+id,cost,talktime,validity,comments
+11759,3,,1 day,100 Local/National SMS Free  -- 
+11760,4,,30 days,100 Local/National SMS Free 1st 2 SMS charged everyday -- 
+11762,12,,5 days,250 Local/National SMS Free
+11763,15,,7 days,100 Local/National SMS Free everyday -- 
+11764,18,,14 days,50 Local SMS Free everyday
+11765,21,,28 days,50 Local SMS Free everyday first SMS @ 50p
+11766,37,,28 days,100 Local/National SMS Free everyday first SMS @ 50p
+11767,49,,28 days,100 Local/National SMS Free everyday
+11768,61,,45 days,50 Local/National SMS Free everyday

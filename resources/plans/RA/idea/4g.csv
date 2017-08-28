@@ -1,34 +1,34 @@
-id,cost,talktime,validity,short description,long description
-11672,8,,1 day,Recharge of Rs. 8 by Idea,20 MB 3G/4G Data -- Overage: 4p/10KB  -- 
-11673,14,,2 days,Recharge of Rs. 14 by Idea,50 MB 3G/4G Data -- Overage: 4p/10KB -- 
-11674,15,,2 days,Recharge of Rs. 15 by Idea,50 MB 3G/4G Data -- Overage: 4p/10KB -- 
-11675,21,,2 days,Recharge of Rs. 21 by Idea,85 MB 3G/4G Data -- Overage: 4p/10KB -- 
-11676,26,,3 days,Recharge of Rs. 26 by Idea,105 MB 3G/4G Data -- Overage: 4p/10KB  -- 
-11677,54,,6 days,Recharge of Rs. 54 by Idea,215 MB 3G/4G Data -- Overage: 4p/10KB  -- 
-11678,62,,7 days,Recharge of Rs. 62 by Idea,250 MB 3G/4G Data -- Overage: 4p/10KB -- 
-11679,72,,8 days,Recharge of Rs. 72 by Idea,300 MB 3G/4G Data -- Overage: 4p/10KB -- 
-11680,92,,10 days,Recharge of Rs. 92 by Idea,380 MB 3G/4G Data -- Overage: 4p/10KB
-11681,105,,12 days,Recharge of Rs. 105 by Idea,400 MB 3G/4G Data -- Overage: 4p/10KB -- 
-11682,113,,28 days,Recharge of Rs. 113 by Idea,325 MB + 325 MB Night 3G/4G Data -- Overage: 4p/10KB  -- 
-11683,141,,14 days,Recharge of Rs. 141 by Idea,560 MB 3G/4G Data -- Overage: 4p/10KB -- 
-11684,145,,16 days,Recharge of Rs. 145 by Idea,580 MB 3G/4G Data -- Overage: 4p/10KB  -- 
-11686,151,,19 days,Recharge of Rs. 151 by Idea,850 MB 3G/4G Data -- Overage: 4p/10KB
-11687,175,,28 days,Recharge of Rs. 175 by Idea,1 GB 3G/4G Data -- Overage: 4p/10KB
-11688,179,,28 days,Recharge of Rs. 179 by Idea,1 GB 3G/4G Data -- 5 Idea to Idea night SMS (1 Day) -- Overage: 4p/10KB
-11689,249,,28 days,Recharge of Rs. 249 by Idea,1.5 GB 3G/4G Data -- Overage: 4p/10KB -- 
-11691,299,,28 days,Recharge of Rs. 299 by Idea,2 GB 3G/4G Data -- Overage: 4p/10KB
-11692,349,,28 days,Recharge of Rs. 349 by Idea,2.5 GB 3G/4G Data -- Overage: 4p/10KB
-11693,399,,28 days,Recharge of Rs. 399 by Idea,3 GB 3G/4G Data -- Overage: 4p/10KB
-11694,449,,28 days,Recharge of Rs. 449 by Idea,3.5 GB 3G/4G Data -- Overage: 4p/10KB
-11695,499,,28 days,Recharge of Rs. 499 by Idea,4 GB 3G/4G Data -- Overage: 4p/10KB
-11696,545,,28 days,Recharge of Rs. 545 by Idea,2 GB + 2 GB Night 3G/4G Data -- Overage: 4p/10KB
-11697,565,,56 days,Recharge of Rs. 565 by Idea,2 GB 3G/4G Data -- Overage: 4p/10KB
-11698,649,,28 days,Recharge of Rs. 649 by Idea,Unlimited 3G/4G Data -- FUP limit: Speed Upto 40kbps post 5 GB usage
-11699,695,,28 days,Recharge of Rs. 695 by Idea,Unlimited 3G/4G Data -- FUP limit: Speed Upto 40kbps post 6GB usage
-11700,795,,28 days,Recharge of Rs. 795 by Idea,Unlimited 3G/4G Data -- FUP limit: Speed Upto 40kbps post 7GB usage
-11701,797,,28 days,Recharge of Rs. 797 by Idea,3 GB Data + 3 GB Night 3G/4G Data -- Overage: 4p/10KB
-11702,895,,28 days,Recharge of Rs. 895 by Idea,Unlimited 3G/4G Data -- FUP limit: Speed Upto 40kbps post 8GB usage
-11703,999,,28 days,Recharge of Rs. 999 by Idea,10 GB 3G/4G -- Overage: 4p/10KB
-11704,1249,,28 days,Recharge of Rs. 1249 by Idea,6 GB + 6 GB Night 3G/4G Data -- Overage: 4p/10KB
-11705,1852,,28 days,Recharge of Rs. 1852 by Idea,10 GB + 10 GB Night 3G/4G Data -- Overage: 4p/10KB
-11706,3345,,28 days,Recharge of Rs. 3345 by Idea,20 GB + 20 GB Night 3G/4G Data -- Overage: 4p/10KB
+id,cost,talktime,validity,comments
+11672,8,,1 day,20 MB 3G/4G Data -- Overage: 4p/10KB  -- 
+11673,14,,2 days,50 MB 3G/4G Data -- Overage: 4p/10KB -- 
+11674,15,,2 days,50 MB 3G/4G Data -- Overage: 4p/10KB -- 
+11675,21,,2 days,85 MB 3G/4G Data -- Overage: 4p/10KB -- 
+11676,26,,3 days,105 MB 3G/4G Data -- Overage: 4p/10KB  -- 
+11677,54,,6 days,215 MB 3G/4G Data -- Overage: 4p/10KB  -- 
+11678,62,,7 days,250 MB 3G/4G Data -- Overage: 4p/10KB -- 
+11679,72,,8 days,300 MB 3G/4G Data -- Overage: 4p/10KB -- 
+11680,92,,10 days,380 MB 3G/4G Data -- Overage: 4p/10KB
+11681,105,,12 days,400 MB 3G/4G Data -- Overage: 4p/10KB -- 
+11682,113,,28 days,325 MB + 325 MB Night 3G/4G Data -- Overage: 4p/10KB  -- 
+11683,141,,14 days,560 MB 3G/4G Data -- Overage: 4p/10KB -- 
+11684,145,,16 days,580 MB 3G/4G Data -- Overage: 4p/10KB  -- 
+11686,151,,19 days,850 MB 3G/4G Data -- Overage: 4p/10KB
+11687,175,,28 days,1 GB 3G/4G Data -- Overage: 4p/10KB
+11688,179,,28 days,1 GB 3G/4G Data -- 5 Idea to Idea night SMS (1 Day) -- Overage: 4p/10KB
+11689,249,,28 days,1.5 GB 3G/4G Data -- Overage: 4p/10KB -- 
+11691,299,,28 days,2 GB 3G/4G Data -- Overage: 4p/10KB
+11692,349,,28 days,2.5 GB 3G/4G Data -- Overage: 4p/10KB
+11693,399,,28 days,3 GB 3G/4G Data -- Overage: 4p/10KB
+11694,449,,28 days,3.5 GB 3G/4G Data -- Overage: 4p/10KB
+11695,499,,28 days,4 GB 3G/4G Data -- Overage: 4p/10KB
+11696,545,,28 days,2 GB + 2 GB Night 3G/4G Data -- Overage: 4p/10KB
+11697,565,,56 days,2 GB 3G/4G Data -- Overage: 4p/10KB
+11698,649,,28 days,Unlimited 3G/4G Data -- FUP limit: Speed Upto 40kbps post 5 GB usage
+11699,695,,28 days,Unlimited 3G/4G Data -- FUP limit: Speed Upto 40kbps post 6GB usage
+11700,795,,28 days,Unlimited 3G/4G Data -- FUP limit: Speed Upto 40kbps post 7GB usage
+11701,797,,28 days,3 GB Data + 3 GB Night 3G/4G Data -- Overage: 4p/10KB
+11702,895,,28 days,Unlimited 3G/4G Data -- FUP limit: Speed Upto 40kbps post 8GB usage
+11703,999,,28 days,10 GB 3G/4G -- Overage: 4p/10KB
+11704,1249,,28 days,6 GB + 6 GB Night 3G/4G Data -- Overage: 4p/10KB
+11705,1852,,28 days,10 GB + 10 GB Night 3G/4G Data -- Overage: 4p/10KB
+11706,3345,,28 days,20 GB + 20 GB Night 3G/4G Data -- Overage: 4p/10KB

@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-8389,13,,28 days,Recharge of Rs. 13 by Docomo,"Nepal @15p/secBanglaDesh @3p/secPakistan @10p/secSrilanka @16p/secUAE @22p/secSaudi Arabia @15p/secBahrain @15p/sec (excluding Bahrain Special – Fixed)Kuwait @15p/secQatar @20p/secOman @15p/sec (Oredo, Omantel, Nawras and Fixed to be charged at base rate)"
-8390,37,,30 days,Recharge of Rs. 37 by Docomo,USA @4p/sec (Excluding Directory assistance & Alaska)UK @4p/sec (Excluding United Kingdom Spl NTS and Mobile PNS)
+id,cost,talktime,validity,comments
+8389,13,,28 days,"Nepal @15p/secBanglaDesh @3p/secPakistan @10p/secSrilanka @16p/secUAE @22p/secSaudi Arabia @15p/secBahrain @15p/sec (excluding Bahrain Special – Fixed)Kuwait @15p/secQatar @20p/secOman @15p/sec (Oredo, Omantel, Nawras and Fixed to be charged at base rate)"
+8390,37,,30 days,USA @4p/sec (Excluding Directory assistance & Alaska)UK @4p/sec (Excluding United Kingdom Spl NTS and Mobile PNS)

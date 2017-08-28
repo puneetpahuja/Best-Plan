@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-594,97,25,30 days,Recharge of Rs. 97 by Aircel,Unlimited Local A2A Calls
-595,98,15,30 days,Recharge of Rs. 98 by Aircel,Unlimited Onnet Calls (STD + Local)
-622,348,,28 days,Recharge of Rs. 348 by Aircel,UL Freecalls -- 1 GB/Day Data
+id,cost,talktime,validity,comments
+594,97,25,30 days,Unlimited Local A2A Calls
+595,98,15,30 days,Unlimited Onnet Calls (STD + Local)
+622,348,,28 days,UL Freecalls -- 1 GB/Day Data

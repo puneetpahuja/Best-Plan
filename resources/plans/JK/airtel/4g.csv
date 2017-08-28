@@ -1,25 +1,25 @@
-id,cost,talktime,validity,short description,long description
-4625,23,,1 day,Recharge of Rs. 23 by Airtel,Unlimited Local STD A2A -- 100 MB data (4G HS) and 50 MB 3G HS
-4626,54,,1 Night,Recharge of Rs. 54 by Airtel,1 GB 3G/4G Night Data (Datashare/cashback excluded)
-4634,258,,28 days,Recharge of Rs. 258 by Airtel,200 MB 3G/4G Data -- Datashare/cashback excluded)
-4635,259,,28 days,Recharge of Rs. 259 by Airtel,1 GB 3G/4G Data -- Wynk Plus FREE for 28 Days (Datashare/cashback excluded)
-4636,346,,28 days,Recharge of Rs. 346 by Airtel,"2 GB 3G/4G DATA, 1 GB/DAY FOR 4G HANDSET -- LOCAL STD ALL CALL FREE "
-4637,347,,28 days,Recharge of Rs. 347 by Airtel,Unlimited all Local + STD calls -- 1 GB/day 3G/4G data -- T&C apply.
-4638,447,,28 days,Recharge of Rs. 447 by Airtel,"2 GB 3G/4G DATA, 2 GB NIGHT DATA (12AM - 6AM)"
-4639,455,,27 days,Recharge of Rs. 455 by Airtel,3.5 GB 2G/3G/4G DATA 
-4640,498,,28 days,Recharge of Rs. 498 by Airtel,UL A2A Local and STD -- 2 GB 3G/4G Data 
-4641,549,,28 days,Recharge of Rs. 549 by Airtel,Unlimited all Local + STD calls -- 2 GB/day 3G/4G data -- T&C apply.
-4642,555,,28 days,Recharge of Rs. 555 by Airtel,"4.5 GB 3G/4G DATA, 4.5 GB NIGHT DATA (3AM - 5AM) "
-4643,597,,28 days,Recharge of Rs. 597 by Airtel,"3 GB 3G/4G DATA, 3 GB NIGHT DATA (12AM - 6AM) "
-4644,599,,28 days,Recharge of Rs. 599 by Airtel,UL ALL Local and STD -- 3 GB 3G/4G Data 
-4645,649,,28 days,Recharge of Rs. 649 by Airtel,UL A2A Local and STD -- 3 GB 3G/4G Data 
-4647,747,,28 days,Recharge of Rs. 747 by Airtel,"4 GB 3G/4G DATA, 4 GB NIGHT DATA (12AM - 6AM) "
-4648,755,,28 days,Recharge of Rs. 755 by Airtel,6.5 GB 3G/4G Data (Datashare/cashback excluded)
-4649,798,,28 days,Recharge of Rs. 798 by Airtel,UL A2A Local and STD -- 5 GB 3G/4G Data
-4650,799,,28 days,Recharge of Rs. 799 by Airtel,Unlimited all Local + STD calls -- 3 GB/day 3G/4G data -- T&C apply.
-4652,897,,28 days,Recharge of Rs. 897 by Airtel,"5 GB 3G/4G DATA, 5 GB NIGHT DATA (12AM - 6AM)"
-4653,992,,365 days,Recharge of Rs. 992 by Airtel,10 GB 3G/4G Data (All Handsets) 
-4654,999,,28 days,Recharge of Rs. 999 by Airtel,Unlimited all Local + STD calls -- 4 GB/day 3G/4G data -- T&C apply.
-4655,1797,,28 days,Recharge of Rs. 1797 by Airtel,"12 GB 3G/4G DATA, 12 GB NIGHT DATA (12AM - 6AM) "
-4657,53,,7 days,Recharge of Rs. 53 by Airtel,Unlimited Local STD A2A -- 250 MB data (4G HS) and 50 MB 3G HS
-4658,149,,28 days,Recharge of Rs. 149 by Airtel,"Free Local +STD Airtel to Airtel mobile calls -- 50 MB 3G/4G data (T&C apply). For 4G handset only, get 300MB data"
+id,cost,talktime,validity,comments
+4625,23,,1 day,Unlimited Local STD A2A -- 100 MB data (4G HS) and 50 MB 3G HS
+4626,54,,1 Night,1 GB 3G/4G Night Data (Datashare/cashback excluded)
+4634,258,,28 days,200 MB 3G/4G Data -- Datashare/cashback excluded)
+4635,259,,28 days,1 GB 3G/4G Data -- Wynk Plus FREE for 28 Days (Datashare/cashback excluded)
+4636,346,,28 days,"2 GB 3G/4G DATA, 1 GB/DAY FOR 4G HANDSET -- LOCAL STD ALL CALL FREE "
+4637,347,,28 days,Unlimited all Local + STD calls -- 1 GB/day 3G/4G data -- T&C apply.
+4638,447,,28 days,"2 GB 3G/4G DATA, 2 GB NIGHT DATA (12AM - 6AM)"
+4639,455,,27 days,3.5 GB 2G/3G/4G DATA 
+4640,498,,28 days,UL A2A Local and STD -- 2 GB 3G/4G Data 
+4641,549,,28 days,Unlimited all Local + STD calls -- 2 GB/day 3G/4G data -- T&C apply.
+4642,555,,28 days,"4.5 GB 3G/4G DATA, 4.5 GB NIGHT DATA (3AM - 5AM) "
+4643,597,,28 days,"3 GB 3G/4G DATA, 3 GB NIGHT DATA (12AM - 6AM) "
+4644,599,,28 days,UL ALL Local and STD -- 3 GB 3G/4G Data 
+4645,649,,28 days,UL A2A Local and STD -- 3 GB 3G/4G Data 
+4647,747,,28 days,"4 GB 3G/4G DATA, 4 GB NIGHT DATA (12AM - 6AM) "
+4648,755,,28 days,6.5 GB 3G/4G Data (Datashare/cashback excluded)
+4649,798,,28 days,UL A2A Local and STD -- 5 GB 3G/4G Data
+4650,799,,28 days,Unlimited all Local + STD calls -- 3 GB/day 3G/4G data -- T&C apply.
+4652,897,,28 days,"5 GB 3G/4G DATA, 5 GB NIGHT DATA (12AM - 6AM)"
+4653,992,,365 days,10 GB 3G/4G Data (All Handsets) 
+4654,999,,28 days,Unlimited all Local + STD calls -- 4 GB/day 3G/4G data -- T&C apply.
+4655,1797,,28 days,"12 GB 3G/4G DATA, 12 GB NIGHT DATA (12AM - 6AM) "
+4657,53,,7 days,Unlimited Local STD A2A -- 250 MB data (4G HS) and 50 MB 3G HS
+4658,149,,28 days,"Free Local +STD Airtel to Airtel mobile calls -- 50 MB 3G/4G data (T&C apply). For 4G handset only, get 300MB data"

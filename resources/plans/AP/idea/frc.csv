@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-9311,11,,90 days,Recharge of Rs. 11 by Idea,local I2I mobile calls @10p/min  & other local mobile calls @1p/sec -- Applicable only for new subscribers as FRC/SRC
+id,cost,talktime,validity,comments
+9311,11,,90 days,local I2I mobile calls @10p/min  & other local mobile calls @1p/sec -- Applicable only for new subscribers as FRC/SRC

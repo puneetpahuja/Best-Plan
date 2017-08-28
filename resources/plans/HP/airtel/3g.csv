@@ -1,12 +1,12 @@
-id,cost,talktime,validity,short description,long description
-2420,98,,14 days,Recharge of Rs. 98 by Airtel,560 MB 2G (Datashare/cashback excluded) 3G/4G data accumulation not applicable
-2421,147,,3 days,Recharge of Rs. 147 by Airtel,"1 GB 3G/4G DATA, EXTRA 2 GB 2G/3G/4G DATA FOR 4G HANDSET "
-2424,349,,28 days,Recharge of Rs. 349 by Airtel,"Unlimited Local + STD Call -- 1 GB 3G/4G DATA, 1 GB 2G/3G/4G NIGHT DATA (EXTRA 1 GB/DAY FOR 4G HANDSET)"
-2425,399,,28 days,Recharge of Rs. 399 by Airtel,"Unlimited Local+STD Call -- 1.25 GB 3G/4G DATA, 1.25 GB 2G/3G/4G NIGHT DATA(EXTRA 1GB/DAY FOR 4G HANDSET)"
-2426,794,,90 days,Recharge of Rs. 794 by Airtel,Unlimited Local + STD A2A Calls -- 1 GB 2G/3G/4G Data. T&C Apply.
-2428,695,,90 days,Recharge of Rs. 695 by Airtel,Unlimited Local + STD A2A Calls  -- 500 MB 2G/3G/4G Data.T&C Apply.
-2432,52,,1 day,Recharge of Rs. 52 by Airtel,1 GB 3G Data -- Cashback excluded
-2433,54,,1 Night,Recharge of Rs. 54 by Airtel,1.2GB Night 3G
-2435,92,,5 days,Recharge of Rs. 92 by Airtel,1 GB 3G (Cashback excluded).
-2437,123,,14 days,Recharge of Rs. 123 by Airtel,380 MB 3G Data
-2462,243,,27 days,Recharge of Rs. 243 by Airtel,400 Min Loc & STD -- 200 MB data
+id,cost,talktime,validity,comments
+2420,98,,14 days,560 MB 2G (Datashare/cashback excluded) 3G/4G data accumulation not applicable
+2421,147,,3 days,"1 GB 3G/4G DATA, EXTRA 2 GB 2G/3G/4G DATA FOR 4G HANDSET "
+2424,349,,28 days,"Unlimited Local + STD Call -- 1 GB 3G/4G DATA, 1 GB 2G/3G/4G NIGHT DATA (EXTRA 1 GB/DAY FOR 4G HANDSET)"
+2425,399,,28 days,"Unlimited Local+STD Call -- 1.25 GB 3G/4G DATA, 1.25 GB 2G/3G/4G NIGHT DATA(EXTRA 1GB/DAY FOR 4G HANDSET)"
+2426,794,,90 days,Unlimited Local + STD A2A Calls -- 1 GB 2G/3G/4G Data. T&C Apply.
+2428,695,,90 days,Unlimited Local + STD A2A Calls  -- 500 MB 2G/3G/4G Data.T&C Apply.
+2432,52,,1 day,1 GB 3G Data -- Cashback excluded
+2433,54,,1 Night,1.2GB Night 3G
+2435,92,,5 days,1 GB 3G (Cashback excluded).
+2437,123,,14 days,380 MB 3G Data
+2462,243,,27 days,400 Min Loc & STD -- 200 MB data

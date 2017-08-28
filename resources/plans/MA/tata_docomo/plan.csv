@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-8502,18,,180 days,Recharge of Rs. 18 by Docomo,All Local mobile calls @ 25p/min for 28 Days; Post 28 days Local & STD mobile calls @ 1.8p/sec.
-8503,54,,28 days,Recharge of Rs. 54 by Docomo,All Local+STD Mobile calls 25p@/min
-8504,775,,180 days,Recharge of Rs. 775 by Docomo,"Outgoing @ Rs0.8/Min, Incoming Free; STD Mob @ Rs 1.15/Min"
+id,cost,talktime,validity,comments
+8502,18,,180 days,All Local mobile calls @ 25p/min for 28 Days; Post 28 days Local & STD mobile calls @ 1.8p/sec.
+8503,54,,28 days,All Local+STD Mobile calls 25p@/min
+8504,775,,180 days,"Outgoing @ Rs0.8/Min, Incoming Free; STD Mob @ Rs 1.15/Min"

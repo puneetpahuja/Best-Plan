@@ -1,18 +1,18 @@
-id,cost,talktime,validity,short description,long description
-3588,14,,27 days,Recharge of Rs. 14 by Airtel,50 MB 4G/3G/2G Data
-3591,27,,3 days,Recharge of Rs. 27 by Airtel,150 MB 4G/3G/2G Data
-3592,33,,27 days,Recharge of Rs. 33 by Airtel,125 MB 4G/3G/2G DATA
-3594,46,,27 days,Recharge of Rs. 46 by Airtel,185 MB 4G/3G/2G DATA
-3595,49,,7 days,Recharge of Rs. 49 by Airtel,275 MB 4G/3G/2G Data
-3599,148,,28 days,Recharge of Rs. 148 by Airtel,1 GB 4G/3G/2G Data (600 MB on all handset & 424 MB on 4G HS & 4G SIM)
-3600,176,,28 days,Recharge of Rs. 176 by Airtel,1 GB 4G/3G/2G Data
-3603,248,,28 days,Recharge of Rs. 248 by Airtel,4 GB 4G/3G/2G Data (1.5 GB on all handset & 2.5 GB on 4G HS & 4G SIM)
-3604,249,,28 days,Recharge of Rs. 249 by Airtel,2 GB 4G/3G/2G Data
-3605,345,,28 days,Recharge of Rs. 345 by Airtel,3 GB 4G/3G/2G Data
-3608,496,,28 days,Recharge of Rs. 496 by Airtel,10 GB 4G/3G/2G Data (4 GB on all handset & 6 GB on 4G HS & 4G SIM)
-3613,992,,365 days,Recharge of Rs. 992 by Airtel,10 GB 4G/3G/2G Data
-3614,995,,28 days,Recharge of Rs. 995 by Airtel,11 GB 4G/3G/2G Data. 11 GB Happy Hours Night data (3AM to 5AM)
-3615,999,,28 days,Recharge of Rs. 999 by Airtel,22 GB 4G/3G/2G Data (11GB on all handset & 11 GB on 4G HS & 4G SIM)
-3617,23,,1 day,Recharge of Rs. 23 by Airtel,Unlimited Local & STD Airtel calls -- 100 MB 4G/3G for 4G handset & 50 MB 4G/3G/2G for rest handset.
-3618,53,,7 days,Recharge of Rs. 53 by Airtel,Unlimited Local & STD Airtel calls -- 250 MB 4G/3G for 4G handset & 50 MB 4G/3G/2G for rest handset.
-3619,93,,7 days,Recharge of Rs. 93 by Airtel,Unlimited Local & STD Airtel calls & 100 mins Local & STD other mobile -- 250 MB 4G/3G for 4G handset & 50 MB 4G/3G/2G for rest handset.
+id,cost,talktime,validity,comments
+3588,14,,27 days,50 MB 4G/3G/2G Data
+3591,27,,3 days,150 MB 4G/3G/2G Data
+3592,33,,27 days,125 MB 4G/3G/2G DATA
+3594,46,,27 days,185 MB 4G/3G/2G DATA
+3595,49,,7 days,275 MB 4G/3G/2G Data
+3599,148,,28 days,1 GB 4G/3G/2G Data (600 MB on all handset & 424 MB on 4G HS & 4G SIM)
+3600,176,,28 days,1 GB 4G/3G/2G Data
+3603,248,,28 days,4 GB 4G/3G/2G Data (1.5 GB on all handset & 2.5 GB on 4G HS & 4G SIM)
+3604,249,,28 days,2 GB 4G/3G/2G Data
+3605,345,,28 days,3 GB 4G/3G/2G Data
+3608,496,,28 days,10 GB 4G/3G/2G Data (4 GB on all handset & 6 GB on 4G HS & 4G SIM)
+3613,992,,365 days,10 GB 4G/3G/2G Data
+3614,995,,28 days,11 GB 4G/3G/2G Data. 11 GB Happy Hours Night data (3AM to 5AM)
+3615,999,,28 days,22 GB 4G/3G/2G Data (11GB on all handset & 11 GB on 4G HS & 4G SIM)
+3617,23,,1 day,Unlimited Local & STD Airtel calls -- 100 MB 4G/3G for 4G handset & 50 MB 4G/3G/2G for rest handset.
+3618,53,,7 days,Unlimited Local & STD Airtel calls -- 250 MB 4G/3G for 4G handset & 50 MB 4G/3G/2G for rest handset.
+3619,93,,7 days,Unlimited Local & STD Airtel calls & 100 mins Local & STD other mobile -- 250 MB 4G/3G for 4G handset & 50 MB 4G/3G/2G for rest handset.

@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-15245,222,222,28 days,Recharge of Rs. 222 by Indicom,Local/STD Mobile calls @ 1.5p/2secs -- Landline Local/STD @ 2p/secs
+id,cost,talktime,validity,comments
+15245,222,222,28 days,Local/STD Mobile calls @ 1.5p/2secs -- Landline Local/STD @ 2p/secs

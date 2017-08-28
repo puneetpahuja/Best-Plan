@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-14948,10,7.47,N.A,Recharge of Rs. 10 by Indicom,Talktime of Rs. 7.47 for Rs. 10 recharge by Tata Indicom
-14949,20,14.95,N.A,Recharge of Rs. 20 by Indicom,Talktime of Rs. 14.95 for Rs. 20 recharge by Tata Indicom
-14950,30,22.42,N.A,Recharge of Rs. 30 by Indicom,Talktime of Rs. 22.42 for Rs. 30 recharge by Tata Indicom
-14951,50,39.37,N.A,Recharge of Rs. 50 by Indicom,Talktime of Rs. 39.37 for Rs. 50 recharge by Tata Indicom
-14952,51,45,N.A,Recharge of Rs. 51 by Indicom,Talktime of Rs. 45 for Rs. 51 recharge by Tata Indicom
-14953,80,70,N.A,Recharge of Rs. 80 by Indicom,Talktime of Rs. 70 for Rs. 80 recharge by Tata Indicom
-14954,100,84.75,N.A,Recharge of Rs. 100 by Indicom,Talktime of Rs. 84.75 for Rs. 100 recharge by Tata Indicom
+id,cost,talktime,validity,comments
+14948,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by Tata Indicom
+14949,20,14.95,N.A,Talktime of Rs. 14.95 for Rs. 20 recharge by Tata Indicom
+14950,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by Tata Indicom
+14951,50,39.37,N.A,Talktime of Rs. 39.37 for Rs. 50 recharge by Tata Indicom
+14952,51,45,N.A,Talktime of Rs. 45 for Rs. 51 recharge by Tata Indicom
+14953,80,70,N.A,Talktime of Rs. 70 for Rs. 80 recharge by Tata Indicom
+14954,100,84.75,N.A,Talktime of Rs. 84.75 for Rs. 100 recharge by Tata Indicom

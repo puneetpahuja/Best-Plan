@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-15886,9,,1 day,Recharge of Rs. 9 by Uninor,50 MB Data
-15887,15,,3 days,Recharge of Rs. 15 by Uninor,150 MB Data
-15888,27,,7 days,Recharge of Rs. 27 by Uninor,250 MB Data
-15890,42,,14 days,Recharge of Rs. 42 by Uninor,350 MB Data
-15892,97,,28 days,Recharge of Rs. 97 by Uninor,1 GB 2G data per day
-15895,151,,40 days,Recharge of Rs. 151 by Uninor,1 GB 2G data per day
+id,cost,talktime,validity,comments
+15886,9,,1 day,50 MB Data
+15887,15,,3 days,150 MB Data
+15888,27,,7 days,250 MB Data
+15890,42,,14 days,350 MB Data
+15892,97,,28 days,1 GB 2G data per day
+15895,151,,40 days,1 GB 2G data per day

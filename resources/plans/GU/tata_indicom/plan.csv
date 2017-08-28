@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-15155,99,,180 days,Recharge of Rs. 99 by Indicom,"Local On-Net Mobile Calls @ 1p/6sec, All Other mobile calls @ 1.2p/sec"
+id,cost,talktime,validity,comments
+15155,99,,180 days,"Local On-Net Mobile Calls @ 1p/6sec, All Other mobile calls @ 1.2p/sec"

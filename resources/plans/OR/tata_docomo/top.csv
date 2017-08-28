@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-8614,10,7.7,N.A,Recharge of Rs. 10 by Docomo,Talktime of Rs. 7.7 for Rs. 10 recharge by Tata DOCOMO
-8615,20,15.39,N.A,Recharge of Rs. 20 by Docomo,Talktime of Rs. 15.39 for Rs. 20 recharge by Tata DOCOMO
-8617,30,23.09,N.A,Recharge of Rs. 30 by Docomo,Talktime of Rs. 23.09 for Rs. 30 recharge by Tata DOCOMO
+id,cost,talktime,validity,comments
+8614,10,7.7,N.A,Talktime of Rs. 7.7 for Rs. 10 recharge by Tata DOCOMO
+8615,20,15.39,N.A,Talktime of Rs. 15.39 for Rs. 20 recharge by Tata DOCOMO
+8617,30,23.09,N.A,Talktime of Rs. 23.09 for Rs. 30 recharge by Tata DOCOMO

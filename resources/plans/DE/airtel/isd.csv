@@ -1,19 +1,19 @@
-id,cost,talktime,validity,short description,long description
-2115,22,,28 days,Recharge of Rs. 22 by Airtel,ISD calls to Nepal @Rs6/min
-2116,37,,28 days,Recharge of Rs. 37 by Airtel,Discounted ISD tariff to 30 countries.
-2117,54,,10 days,Recharge of Rs. 54 by Airtel,10mins to Nepal (NTC network)
-2118,68,,10 days,Recharge of Rs. 68 by Airtel,10 ISD minutes calling to Nepal
-2119,498,,1 day,Recharge of Rs. 498 by Airtel,"Unlimited incoming, 100min Local/call to India -- 500 MB data -- 100SMS/day -- Till 12:00 midnight"
-2120,646,,1 day,Recharge of Rs. 646 by Airtel,Free benefits: Unlimited incoming -- 500 MB data -- 100sms/Day -- 100 min loc/call to India
-2121,647,,1 day,Recharge of Rs. 647 by Airtel,"100min incoming,100min Local/call to India -- 500 MB data -- 100 SMS/day"
-2122,994,,1 day,Recharge of Rs. 994 by Airtel,Free benefits: Unlimited incoming -- 500 MB data -- 100sms/Day -- 100min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
-2123,997,,30 days,Recharge of Rs. 997 by Airtel,"IR Pack30mins Free incoming. Thereafter charged Incoming @Rs19/min, Outgoing @Rs39/min Data @39p/10KB Rs15/SMS"
-2124,998,,30 days,Recharge of Rs. 998 by Airtel,"IR Pack:30 MB data Free. Thereafter charged @39p/10kb -- Outgoing@Rs39/min, Incoming@Rs19/min -- Rs15/SMS"
-2125,1197,,10 days,Recharge of Rs. 1197 by Airtel,Unlimited incoming -- 3 GB Data -- 100 SMS/Day -- 250Min Loc/Call to India
-2126,2498,,30 days,Recharge of Rs. 2498 by Airtel,Free benefits: unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-2127,2997,,10 days,Recharge of Rs. 2997 by Airtel,Free benefits: 250 min incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
-2128,2998,,10 days,Recharge of Rs. 2998 by Airtel,Free benefits: Unlimited incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
-2129,3995,,10 days,Recharge of Rs. 3995 by Airtel,Free benefits: 250 min incoming -- 3 GB data -- 100 sms/Day -- 250 min local/call to India
-2130,3998,,30 days,Recharge of Rs. 3998 by Airtel,Free benefits: unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-2131,3999,,30 days,Recharge of Rs. 3999 by Airtel,Free benefits: unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-2132,6999,,30 days,Recharge of Rs. 6999 by Airtel,Free benefits: unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+id,cost,talktime,validity,comments
+2115,22,,28 days,ISD calls to Nepal @Rs6/min
+2116,37,,28 days,Discounted ISD tariff to 30 countries.
+2117,54,,10 days,10mins to Nepal (NTC network)
+2118,68,,10 days,10 ISD minutes calling to Nepal
+2119,498,,1 day,"Unlimited incoming, 100min Local/call to India -- 500 MB data -- 100SMS/day -- Till 12:00 midnight"
+2120,646,,1 day,Free benefits: Unlimited incoming -- 500 MB data -- 100sms/Day -- 100 min loc/call to India
+2121,647,,1 day,"100min incoming,100min Local/call to India -- 500 MB data -- 100 SMS/day"
+2122,994,,1 day,Free benefits: Unlimited incoming -- 500 MB data -- 100sms/Day -- 100min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
+2123,997,,30 days,"IR Pack30mins Free incoming. Thereafter charged Incoming @Rs19/min, Outgoing @Rs39/min Data @39p/10KB Rs15/SMS"
+2124,998,,30 days,"IR Pack:30 MB data Free. Thereafter charged @39p/10kb -- Outgoing@Rs39/min, Incoming@Rs19/min -- Rs15/SMS"
+2125,1197,,10 days,Unlimited incoming -- 3 GB Data -- 100 SMS/Day -- 250Min Loc/Call to India
+2126,2498,,30 days,Free benefits: unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+2127,2997,,10 days,Free benefits: 250 min incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
+2128,2998,,10 days,Free benefits: Unlimited incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
+2129,3995,,10 days,Free benefits: 250 min incoming -- 3 GB data -- 100 sms/Day -- 250 min local/call to India
+2130,3998,,30 days,Free benefits: unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+2131,3999,,30 days,Free benefits: unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+2132,6999,,30 days,Free benefits: unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India

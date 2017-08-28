@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-12368,12,,7 days,Recharge of Rs. 12 by Idea,80 Local/National SMS
-12369,27,,21 days,Recharge of Rs. 27 by Idea,180 Local/National SMS
-12370,45,,28 days,Recharge of Rs. 45 by Idea,300 Local/National SMS
-12371,63,,28 days,Recharge of Rs. 63 by Idea,100 SMS/Day
-12372,74,,28 days,Recharge of Rs. 74 by Idea,500 Local/National SMS
+id,cost,talktime,validity,comments
+12368,12,,7 days,80 Local/National SMS
+12369,27,,21 days,180 Local/National SMS
+12370,45,,28 days,300 Local/National SMS
+12371,63,,28 days,100 SMS/Day
+12372,74,,28 days,500 Local/National SMS

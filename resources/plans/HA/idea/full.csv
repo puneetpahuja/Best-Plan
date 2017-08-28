@@ -1,16 +1,16 @@
-id,cost,talktime,validity,short description,long description
-9972,230,230,N.A,Recharge of Rs. 230 by Idea,Talktime of Rs. 230 for Rs. 230 recharge by Idea
-9973,250,250,N.A,Recharge of Rs. 250 by Idea,Talktime of Rs. 250 for Rs. 250 recharge by Idea
-9974,300,300,N.A,Recharge of Rs. 300 by Idea,Talktime of Rs. 300 for Rs. 300 recharge by Idea
-9975,350,350,N.A,Recharge of Rs. 350 by Idea,Talktime of Rs. 350 for Rs. 350 recharge by Idea
-9976,400,400,N.A,Recharge of Rs. 400 by Idea,Talktime of Rs. 400 for Rs. 400 recharge by Idea
-9977,500,500,N.A,Recharge of Rs. 500 by Idea,Talktime of Rs. 500 for Rs. 500 recharge by Idea
-9978,550,550,N.A,Recharge of Rs. 550 by Idea,Talktime of Rs. 550 for Rs. 550 recharge by Idea
-9979,600,600,N.A,Recharge of Rs. 600 by Idea,Talktime of Rs. 600 for Rs. 600 recharge by Idea
-9980,750,750,N.A,Recharge of Rs. 750 by Idea,Talktime of Rs. 750 for Rs. 750 recharge by Idea
-9981,1000,1000,N.A,Recharge of Rs. 1000 by Idea,Talktime of Rs. 1000 for Rs. 1000 recharge by Idea
-9982,1100,1100,N.A,Recharge of Rs. 1100 by Idea,Talktime of Rs. 1100 for Rs. 1100 recharge by Idea
-9983,1500,1500,N.A,Recharge of Rs. 1500 by Idea,Talktime of Rs. 1500 for Rs. 1500 recharge by Idea
-9984,2000,2000,N.A,Recharge of Rs. 2000 by Idea,Talktime of Rs. 2000 for Rs. 2000 recharge by Idea
-9985,2500,2500,N.A,Recharge of Rs. 2500 by Idea,Talktime of Rs. 2500 for Rs. 2500 recharge by Idea
-9986,3000,3000,N.A,Recharge of Rs. 3000 by Idea,Talktime of Rs. 3000 for Rs. 3000 recharge by Idea
+id,cost,talktime,validity,comments
+9972,230,230,N.A,Talktime of Rs. 230 for Rs. 230 recharge by Idea
+9973,250,250,N.A,Talktime of Rs. 250 for Rs. 250 recharge by Idea
+9974,300,300,N.A,Talktime of Rs. 300 for Rs. 300 recharge by Idea
+9975,350,350,N.A,Talktime of Rs. 350 for Rs. 350 recharge by Idea
+9976,400,400,N.A,Talktime of Rs. 400 for Rs. 400 recharge by Idea
+9977,500,500,N.A,Talktime of Rs. 500 for Rs. 500 recharge by Idea
+9978,550,550,N.A,Talktime of Rs. 550 for Rs. 550 recharge by Idea
+9979,600,600,N.A,Talktime of Rs. 600 for Rs. 600 recharge by Idea
+9980,750,750,N.A,Talktime of Rs. 750 for Rs. 750 recharge by Idea
+9981,1000,1000,N.A,Talktime of Rs. 1000 for Rs. 1000 recharge by Idea
+9982,1100,1100,N.A,Talktime of Rs. 1100 for Rs. 1100 recharge by Idea
+9983,1500,1500,N.A,Talktime of Rs. 1500 for Rs. 1500 recharge by Idea
+9984,2000,2000,N.A,Talktime of Rs. 2000 for Rs. 2000 recharge by Idea
+9985,2500,2500,N.A,Talktime of Rs. 2500 for Rs. 2500 recharge by Idea
+9986,3000,3000,N.A,Talktime of Rs. 3000 for Rs. 3000 recharge by Idea

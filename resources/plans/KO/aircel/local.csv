@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-677,11,,27 days,Recharge of Rs. 11 by Aircel,Local A2A mobile call @10p/min
-678,12,,2 days,Recharge of Rs. 12 by Aircel,25 Mins Local and STD
-679,15,,1 day,Recharge of Rs. 15 by Aircel,"Unlimited A2A (Local+STD) and Other Local+STD 120 Minutes ,Post consumption of 120 Minutes Other mobile local+STD call 30p/min"
-680,17,,27 days,Recharge of Rs. 17 by Aircel,All Local + STD mobile Call @1.2p/2sec
-681,21,,27 days,Recharge of Rs. 21 by Aircel,All call @25p
-682,29,,90 days,Recharge of Rs. 29 by Aircel,Local A2A mobile call @10p/min
-683,31,,27 days,Recharge of Rs. 31 by Aircel,All Local + STD mobile Call @20p/min
-684,61,,60 days,Recharge of Rs. 61 by Aircel,Local A2A @10p/min and Other Local + STD mobile call @30p/min
-685,97,,21 days,Recharge of Rs. 97 by Aircel,"350 local A2A Mins,150 L A20 mins"
+id,cost,talktime,validity,comments
+677,11,,27 days,Local A2A mobile call @10p/min
+678,12,,2 days,25 Mins Local and STD
+679,15,,1 day,"Unlimited A2A (Local+STD) and Other Local+STD 120 Minutes ,Post consumption of 120 Minutes Other mobile local+STD call 30p/min"
+680,17,,27 days,All Local + STD mobile Call @1.2p/2sec
+681,21,,27 days,All call @25p
+682,29,,90 days,Local A2A mobile call @10p/min
+683,31,,27 days,All Local + STD mobile Call @20p/min
+684,61,,60 days,Local A2A @10p/min and Other Local + STD mobile call @30p/min
+685,97,,21 days,"350 local A2A Mins,150 L A20 mins"

@@ -1,21 +1,21 @@
-id,cost,talktime,validity,short description,long description
-18493,7,,1 hour,Recharge of Rs. 7 by Vodafone,Unlimited V2V Local for 1 hour
-18494,15,,28 days,Recharge of Rs. 15 by Vodafone,100 mins to Vodafone(10pm-8am)
-18495,21,,1 day,Recharge of Rs. 21 by Vodafone,Unlimited local + std V2V calls and 100MB 3G/4G Data (4G Handset) 50MB for Other Handset 
-18496,26,,28 days,Recharge of Rs. 26 by Vodafone,260 mins to Vodafone mobile(10pm to 8am)
-18497,29,,28 days,Recharge of Rs. 29 by Vodafone,Local calls to vodafone mobile@40P/Min
-18498,42,,28 days,Recharge of Rs. 42 by Vodafone,Local calls to Mobile @ 40p/min
-18499,43,,28 days,Recharge of Rs. 43 by Vodafone,All local calls at 30P/Min for 28 days
-18500,55,,28 days,Recharge of Rs. 55 by Vodafone,Local Vodafone to Vodafone calls at 10P/Min 
-18501,59,,28 days,Recharge of Rs. 59 by Vodafone,Local calls to vodafone mobile @ 30p/min
-18502,69,,28 days,Recharge of Rs. 69 by Vodafone,Local calls to Mobile @ 35P/Min
-18503,74,,28 days,Recharge of Rs. 74 by Vodafone,Local calls to Vodafone mobile @10P/Min & other mobile @30P/Min for 28 days
-18504,76,,60 days,Recharge of Rs. 76 by Vodafone,All local calls mobile at 30P/Min 
-18505,82,,28 days,Recharge of Rs. 82 by Vodafone,Local calls to vodafone mobile @ 20p/min
-18506,86,,90 days,Recharge of Rs. 86 by Vodafone,All local calls at 30P/Min 
-18507,88,,28 days,Recharge of Rs. 88 by Vodafone,Local/STD calls to mobile @ 35p/min
-18508,125,,90 days,Recharge of Rs. 125 by Vodafone,Local Vodafone to Vodafone calls at 10P/Min
-18509,133,,28 days,Recharge of Rs. 133 by Vodafone,Local calls to vodafone @15P/Min & mobile @ 35P/Min.
-18510,134,,60 days,Recharge of Rs. 134 by Vodafone,Local calls to Vodafone mobile @10P/Min & other mobile @30P/Min 
-18511,169,,84 days,Recharge of Rs. 169 by Vodafone,Local calls to Mobile @ 35P/Min
-18512,184,,90 days,Recharge of Rs. 184 by Vodafone,Local calls to Vodafone mobile @10P/Min & other mobile @30P/Min 
+id,cost,talktime,validity,comments
+18493,7,,1 hour,Unlimited V2V Local for 1 hour
+18494,15,,28 days,100 mins to Vodafone(10pm-8am)
+18495,21,,1 day,Unlimited local + std V2V calls and 100MB 3G/4G Data (4G Handset) 50MB for Other Handset 
+18496,26,,28 days,260 mins to Vodafone mobile(10pm to 8am)
+18497,29,,28 days,Local calls to vodafone mobile@40P/Min
+18498,42,,28 days,Local calls to Mobile @ 40p/min
+18499,43,,28 days,All local calls at 30P/Min for 28 days
+18500,55,,28 days,Local Vodafone to Vodafone calls at 10P/Min 
+18501,59,,28 days,Local calls to vodafone mobile @ 30p/min
+18502,69,,28 days,Local calls to Mobile @ 35P/Min
+18503,74,,28 days,Local calls to Vodafone mobile @10P/Min & other mobile @30P/Min for 28 days
+18504,76,,60 days,All local calls mobile at 30P/Min 
+18505,82,,28 days,Local calls to vodafone mobile @ 20p/min
+18506,86,,90 days,All local calls at 30P/Min 
+18507,88,,28 days,Local/STD calls to mobile @ 35p/min
+18508,125,,90 days,Local Vodafone to Vodafone calls at 10P/Min
+18509,133,,28 days,Local calls to vodafone @15P/Min & mobile @ 35P/Min.
+18510,134,,60 days,Local calls to Vodafone mobile @10P/Min & other mobile @30P/Min 
+18511,169,,84 days,Local calls to Mobile @ 35P/Min
+18512,184,,90 days,Local calls to Vodafone mobile @10P/Min & other mobile @30P/Min 

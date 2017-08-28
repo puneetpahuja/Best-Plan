@@ -1,17 +1,17 @@
-id,cost,talktime,validity,short description,long description
-14781,9,,3 days,Recharge of Rs. 9 by RelianceGSM,Local and STD Mobile Calls at 1.2p/2sec. (Tariff applicable in Home Circle and Roaming into Kolkata Circle).
-14782,15,,7 days,Recharge of Rs. 15 by RelianceGSM,"All Local & STD Calls at 1.5p/2sec, Home & Roam. National Roaming Incoming FREE"
-14783,17,,180 days,Recharge of Rs. 17 by RelianceGSM,Local and STD Mobile Calls at 1.3p/sec (Tariff applicable in Home Circle and Roaming into Kolkata Circle)
-14784,19,,30 days,Recharge of Rs. 19 by RelianceGSM,All Local & STD Calls at 1.2p/2sec (Tariff applicable in Home Circle and Roaming into Kolkata) + Free Incoming Calls in National Roaming
-14785,25,,7 days,Recharge of Rs. 25 by RelianceGSM,50mins All Local Calls
-14786,28,,30 days,Recharge of Rs. 28 by RelianceGSM,Local Mobile Calls at 1.5p/2sec and STD Mobile Calls at 1.6p/sec (Tariff applicable in Home Circle and Roaming into Kolkata Circle)
-14787,34,,28 days,Recharge of Rs. 34 by RelianceGSM,"Local Reliance to Reliance Mobile Calls 20p/min, Other Local Mobile and STD Mobile Calls at 40p/min. (Tariff applicable in Home Circle and Roaming into Kolkata Circle)"
-14788,38,,90 days,Recharge of Rs. 38 by RelianceGSM,All Local & STD Calls@1.2p/2sec + Free IC in National Roaming 
-14789,46,,30 days,Recharge of Rs. 46 by RelianceGSM,"All Local & STD Calls at 1.5p/2sec, Home & Roam. National Roaming Incoming FREE"
-14790,48,,21 days,Recharge of Rs. 48 by RelianceGSM,150 mins R2R Local Calls free 
-14791,52,,90 days,Recharge of Rs. 52 by RelianceGSM,All Local & STD Calls at 1.2p/2sec (Tariff applicable in Home Circle and Roaming into Kolkata) + Free Incoming Calls in National Roaming
-14792,53,,60 days,Recharge of Rs. 53 by RelianceGSM,1p/sec All Local & STD Mobile Calls.(Tariff applicable in Home Circle and Roaming into Kolkata Circle)
-14793,81,,56 days,Recharge of Rs. 81 by RelianceGSM,Local Mobile Calls at 1.2p/2sec and STD Mobile Calls at 1.6p/sec (Tariff applicable in Home Circle and Roaming into Kolkata Circle)
-14794,99,,90 days,Recharge of Rs. 99 by RelianceGSM,"All Local & STD Calls at 1.5p/2sec, Home & Roam. National Roaming Incoming FREE"
-14795,125,,30 days,Recharge of Rs. 125 by RelianceGSM,275 Local & STD Mins
-14796,201,,30 days,Recharge of Rs. 201 by RelianceGSM,375 Mins Local Calling
+id,cost,talktime,validity,comments
+14781,9,,3 days,Local and STD Mobile Calls at 1.2p/2sec. (Tariff applicable in Home Circle and Roaming into Kolkata Circle).
+14782,15,,7 days,"All Local & STD Calls at 1.5p/2sec, Home & Roam. National Roaming Incoming FREE"
+14783,17,,180 days,Local and STD Mobile Calls at 1.3p/sec (Tariff applicable in Home Circle and Roaming into Kolkata Circle)
+14784,19,,30 days,All Local & STD Calls at 1.2p/2sec (Tariff applicable in Home Circle and Roaming into Kolkata) + Free Incoming Calls in National Roaming
+14785,25,,7 days,50mins All Local Calls
+14786,28,,30 days,Local Mobile Calls at 1.5p/2sec and STD Mobile Calls at 1.6p/sec (Tariff applicable in Home Circle and Roaming into Kolkata Circle)
+14787,34,,28 days,"Local Reliance to Reliance Mobile Calls 20p/min, Other Local Mobile and STD Mobile Calls at 40p/min. (Tariff applicable in Home Circle and Roaming into Kolkata Circle)"
+14788,38,,90 days,All Local & STD Calls@1.2p/2sec + Free IC in National Roaming 
+14789,46,,30 days,"All Local & STD Calls at 1.5p/2sec, Home & Roam. National Roaming Incoming FREE"
+14790,48,,21 days,150 mins R2R Local Calls free 
+14791,52,,90 days,All Local & STD Calls at 1.2p/2sec (Tariff applicable in Home Circle and Roaming into Kolkata) + Free Incoming Calls in National Roaming
+14792,53,,60 days,1p/sec All Local & STD Mobile Calls.(Tariff applicable in Home Circle and Roaming into Kolkata Circle)
+14793,81,,56 days,Local Mobile Calls at 1.2p/2sec and STD Mobile Calls at 1.6p/sec (Tariff applicable in Home Circle and Roaming into Kolkata Circle)
+14794,99,,90 days,"All Local & STD Calls at 1.5p/2sec, Home & Roam. National Roaming Incoming FREE"
+14795,125,,30 days,275 Local & STD Mins
+14796,201,,30 days,375 Mins Local Calling

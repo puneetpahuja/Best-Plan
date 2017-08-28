@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-6059,10,7.47,N.A,Recharge of Rs. 10 by BSNL,Talktime of Rs. 7.47 for Rs. 10 recharge by BSNL
+id,cost,talktime,validity,comments
+6059,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by BSNL

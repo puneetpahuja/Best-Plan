@@ -1,28 +1,28 @@
-id,cost,talktime,validity,short description,long description
-3147,7,,1 day,Recharge of Rs. 7 by Airtel,40 MB 2G/3G Data
-3148,14,,2 days,Recharge of Rs. 14 by Airtel,80 MB 2G/3G Data
-3149,23,,3 days,Recharge of Rs. 23 by Airtel,130 MB 2G/3G Data
-3150,25,,4 days,Recharge of Rs. 25 by Airtel,140 MB 2G/3G Data
-3151,29,,30 days,Recharge of Rs. 29 by Airtel,115 MB 2G/3G Data
-3152,43,,1 day,Recharge of Rs. 43 by Airtel,1 GB 3G/4G Data
-3153,45,,28 days,Recharge of Rs. 45 by Airtel,180 MB 2G/3G Data
-3154,46,,7 days,Recharge of Rs. 46 by Airtel,260 MB 2G/3G Data
-3155,53,,8 days,Recharge of Rs. 53 by Airtel,300 MB 2G/3G Data
-3159,142,,28 days,Recharge of Rs. 142 by Airtel,360 MB 4G/3G/2G Data on all HS.
-3160,149,,28 days,Recharge of Rs. 149 by Airtel,"Unlimited L+S airtel mobile calls -- 50 MB 3G data (2G/3G HS) & 300 MB 3G/4G data (4G HS), T&C Apply"
-3161,152,,28 days,Recharge of Rs. 152 by Airtel,1 GB 4G/3G/2G Data on 4G HS; 600 MB Data on Other HS
-3164,255,,28 days,Recharge of Rs. 255 by Airtel,"4 GB 4G/3G/2G Data on 4G HS, 1,5 GB Data on Other HS"
-3167,496,,28 days,Recharge of Rs. 496 by Airtel,"10 GB 4G/3G/2G Data on 4G HS, 4 GB Data on Other HS"
-3169,999,,28 days,Recharge of Rs. 999 by Airtel,"22 GB 4G/3G/2G Data on 4G HS,10 GB Data on Other HS"
-3170,22,,1 day,Recharge of Rs. 22 by Airtel,Unlimited Airtel mobile local + STD calls -- 50 MB 2G/3G/4G on Non 4G HS and 100 MB 2G/3G/4G on 4G HS
-3171,92,,7 days,Recharge of Rs. 92 by Airtel,Unlimited Airtel mobile local + STD calls -- 100 Airtel to other network Loc + STD mob & LL mins -- 50 MB 2G/3G/4G on Non 4G HS and 250 MB 2G/3G/4G on 4G HS
-3176,146,,28 days,Recharge of Rs. 146 by Airtel,585 MB 3G Data
-3177,148,,28 days,Recharge of Rs. 148 by Airtel,590 MB 3G Data
-3179,175,,28 days,Recharge of Rs. 175 by Airtel,"1 GB 3G Data + additional 2 GB 3G on Wifi,TnC Apply"
-3180,197,,28 days,Recharge of Rs. 197 by Airtel,1 GB (3G) +1 GB 3G (night) SR only For greater than 90 days - 500 MB 3G
-3181,252,,28 days,Recharge of Rs. 252 by Airtel,1.5 GB 3G Data + additional 3GB 3G on Wifi
-3184,347,,28 days,Recharge of Rs. 347 by Airtel,2.5 GB 3G Data + additional 5GB 3G on Wifi
-3186,449,,28 days,Recharge of Rs. 449 by Airtel,3.5 GB 3G Data + additional 7 GB 3G on Wifi
-3187,498,,28 days,Recharge of Rs. 498 by Airtel,2 GB 3G Data
-3191,655,,28 days,Recharge of Rs. 655 by Airtel,"5.5GB 3G Unlimited+additional 11 GB 3G on Wifi,TnC Apply"
-3192,749,,28 days,Recharge of Rs. 749 by Airtel,6.5 GB 3G Data
+id,cost,talktime,validity,comments
+3147,7,,1 day,40 MB 2G/3G Data
+3148,14,,2 days,80 MB 2G/3G Data
+3149,23,,3 days,130 MB 2G/3G Data
+3150,25,,4 days,140 MB 2G/3G Data
+3151,29,,30 days,115 MB 2G/3G Data
+3152,43,,1 day,1 GB 3G/4G Data
+3153,45,,28 days,180 MB 2G/3G Data
+3154,46,,7 days,260 MB 2G/3G Data
+3155,53,,8 days,300 MB 2G/3G Data
+3159,142,,28 days,360 MB 4G/3G/2G Data on all HS.
+3160,149,,28 days,"Unlimited L+S airtel mobile calls -- 50 MB 3G data (2G/3G HS) & 300 MB 3G/4G data (4G HS), T&C Apply"
+3161,152,,28 days,1 GB 4G/3G/2G Data on 4G HS; 600 MB Data on Other HS
+3164,255,,28 days,"4 GB 4G/3G/2G Data on 4G HS, 1,5 GB Data on Other HS"
+3167,496,,28 days,"10 GB 4G/3G/2G Data on 4G HS, 4 GB Data on Other HS"
+3169,999,,28 days,"22 GB 4G/3G/2G Data on 4G HS,10 GB Data on Other HS"
+3170,22,,1 day,Unlimited Airtel mobile local + STD calls -- 50 MB 2G/3G/4G on Non 4G HS and 100 MB 2G/3G/4G on 4G HS
+3171,92,,7 days,Unlimited Airtel mobile local + STD calls -- 100 Airtel to other network Loc + STD mob & LL mins -- 50 MB 2G/3G/4G on Non 4G HS and 250 MB 2G/3G/4G on 4G HS
+3176,146,,28 days,585 MB 3G Data
+3177,148,,28 days,590 MB 3G Data
+3179,175,,28 days,"1 GB 3G Data + additional 2 GB 3G on Wifi,TnC Apply"
+3180,197,,28 days,1 GB (3G) +1 GB 3G (night) SR only For greater than 90 days - 500 MB 3G
+3181,252,,28 days,1.5 GB 3G Data + additional 3GB 3G on Wifi
+3184,347,,28 days,2.5 GB 3G Data + additional 5GB 3G on Wifi
+3186,449,,28 days,3.5 GB 3G Data + additional 7 GB 3G on Wifi
+3187,498,,28 days,2 GB 3G Data
+3191,655,,28 days,"5.5GB 3G Unlimited+additional 11 GB 3G on Wifi,TnC Apply"
+3192,749,,28 days,6.5 GB 3G Data

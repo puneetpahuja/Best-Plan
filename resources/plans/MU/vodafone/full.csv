@@ -1,9 +1,9 @@
-id,cost,talktime,validity,short description,long description
-17772,350,350,N.A,Recharge of Rs. 350 by Vodafone,Talktime of Rs. 350 for Rs. 350 recharge by Vodafone
-17774,500,500,N.A,Recharge of Rs. 500 by Vodafone,Talktime of Rs. 500 for Rs. 500 recharge by Vodafone
-17776,700,700,N.A,Recharge of Rs. 700 by Vodafone,Talktime of Rs. 700 for Rs. 700 recharge by Vodafone
-17777,750,750,N.A,Recharge of Rs. 750 by Vodafone,Talktime of Rs. 750 for Rs. 750 recharge by Vodafone
-17780,1000,1000,N.A,Recharge of Rs. 1000 by Vodafone,Talktime of Rs. 1000 for Rs. 1000 recharge by Vodafone
-17782,1150,1150,N.A,Recharge of Rs. 1150 by Vodafone,Talktime of Rs. 1150 for Rs. 1150 recharge by Vodafone
-17783,3600,3600,N.A,Recharge of Rs. 3600 by Vodafone,Talktime of Rs. 3600 for Rs. 3600 recharge by Vodafone
-17784,5900,5900,N.A,Recharge of Rs. 5900 by Vodafone,Talktime of Rs. 5900 for Rs. 5900 recharge by Vodafone
+id,cost,talktime,validity,comments
+17772,350,350,N.A,Talktime of Rs. 350 for Rs. 350 recharge by Vodafone
+17774,500,500,N.A,Talktime of Rs. 500 for Rs. 500 recharge by Vodafone
+17776,700,700,N.A,Talktime of Rs. 700 for Rs. 700 recharge by Vodafone
+17777,750,750,N.A,Talktime of Rs. 750 for Rs. 750 recharge by Vodafone
+17780,1000,1000,N.A,Talktime of Rs. 1000 for Rs. 1000 recharge by Vodafone
+17782,1150,1150,N.A,Talktime of Rs. 1150 for Rs. 1150 recharge by Vodafone
+17783,3600,3600,N.A,Talktime of Rs. 3600 for Rs. 3600 recharge by Vodafone
+17784,5900,5900,N.A,Talktime of Rs. 5900 for Rs. 5900 recharge by Vodafone

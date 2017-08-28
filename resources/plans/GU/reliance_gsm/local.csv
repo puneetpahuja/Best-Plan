@@ -1,28 +1,28 @@
-id,cost,talktime,validity,short description,long description
-13007,7,,2 days,Recharge of Rs. 7 by RelianceGSM,Local Reliance Voice calls @10p/min and other Local and STD voice calls @25p/min
-13008,13,,28 days,Recharge of Rs. 13 by RelianceGSM,Local Reliance @ 10p/Min
-13009,15,,30 days,Recharge of Rs. 15 by RelianceGSM,All Local and STD @ 33p/Min
-13010,16,,14 days,Recharge of Rs. 16 by RelianceGSM,All Local and STD @ 29p/Min
-13011,19,,14 days,Recharge of Rs. 19 by RelianceGSM,All Local and STD @ 20p/Min
-13012,23,,10 days,Recharge of Rs. 23 by RelianceGSM,All Local and STD @ 25p/Min
-13013,25,,60 days,Recharge of Rs. 25 by RelianceGSM,All Local and STD @ 33p/Min
-13014,26,,2 days,Recharge of Rs. 26 by RelianceGSM,All Local and STD reliance calls at 5p/min
-13015,29,,29 days,Recharge of Rs. 29 by RelianceGSM,All Local and STD @ 29p/Min
-13016,36,,28 days,Recharge of Rs. 36 by RelianceGSM,All Local and STD @ 20p/Min
-13017,45,,28 days,Recharge of Rs. 45 by RelianceGSM,All Local and STD @ 25p/Min
-13018,54,,75 days,Recharge of Rs. 54 by RelianceGSM,All Local and STD @ 29p/Min
-13019,56,,28 days,Recharge of Rs. 56 by RelianceGSM,All Local and STD @ 20p/Min
-13020,58,,28 days,Recharge of Rs. 58 by RelianceGSM,All Local and STD @ 25p/Min
-13021,71,,90 days,Recharge of Rs. 71 by RelianceGSM,All Local & STD Calls @20p/min
-13022,89,,7 days,Recharge of Rs. 89 by RelianceGSM,All Local and STD reliance calls at 5p/min
-13023,97,,28 days,Recharge of Rs. 97 by RelianceGSM,2500 Local & STD Onnet Calls + Other Local and STD @ 50p/Min
-13024,98,,60 days,Recharge of Rs. 98 by RelianceGSM,200 Min All Local & STD FREE
-13025,115,,90 days,Recharge of Rs. 115 by RelianceGSM,All Local and STD @ 25p/Min
-13026,139,,28 days,Recharge of Rs. 139 by RelianceGSM,700 Local Minutes Free ( 350 Local Reliance + 350 Other Local )
-13027,148,,60 days,Recharge of Rs. 148 by RelianceGSM,300 Min All Local & STD FREE
-13028,197,,28 days,Recharge of Rs. 197 by RelianceGSM,2500 Local & STD Onnet Calls + 300 Min Other Local and STD free. Post that @ 50p/Min
-13029,198,,60 days,Recharge of Rs. 198 by RelianceGSM,450 Min All Local & STD FREE
-13030,229,,28 days,Recharge of Rs. 229 by RelianceGSM,1500 Local Minutes Free ( 750 Local Reliance + 750 Other Local )
-13031,248,,60 days,Recharge of Rs. 248 by RelianceGSM,600 Min All Local & STD FREE
-13032,298,,60 days,Recharge of Rs. 298 by RelianceGSM,750 Min All Local & STD FREE
-13033,399,,60 days,Recharge of Rs. 399 by RelianceGSM,1200 Min All Local & STD FREE
+id,cost,talktime,validity,comments
+13007,7,,2 days,Local Reliance Voice calls @10p/min and other Local and STD voice calls @25p/min
+13008,13,,28 days,Local Reliance @ 10p/Min
+13009,15,,30 days,All Local and STD @ 33p/Min
+13010,16,,14 days,All Local and STD @ 29p/Min
+13011,19,,14 days,All Local and STD @ 20p/Min
+13012,23,,10 days,All Local and STD @ 25p/Min
+13013,25,,60 days,All Local and STD @ 33p/Min
+13014,26,,2 days,All Local and STD reliance calls at 5p/min
+13015,29,,29 days,All Local and STD @ 29p/Min
+13016,36,,28 days,All Local and STD @ 20p/Min
+13017,45,,28 days,All Local and STD @ 25p/Min
+13018,54,,75 days,All Local and STD @ 29p/Min
+13019,56,,28 days,All Local and STD @ 20p/Min
+13020,58,,28 days,All Local and STD @ 25p/Min
+13021,71,,90 days,All Local & STD Calls @20p/min
+13022,89,,7 days,All Local and STD reliance calls at 5p/min
+13023,97,,28 days,2500 Local & STD Onnet Calls + Other Local and STD @ 50p/Min
+13024,98,,60 days,200 Min All Local & STD FREE
+13025,115,,90 days,All Local and STD @ 25p/Min
+13026,139,,28 days,700 Local Minutes Free ( 350 Local Reliance + 350 Other Local )
+13027,148,,60 days,300 Min All Local & STD FREE
+13028,197,,28 days,2500 Local & STD Onnet Calls + 300 Min Other Local and STD free. Post that @ 50p/Min
+13029,198,,60 days,450 Min All Local & STD FREE
+13030,229,,28 days,1500 Local Minutes Free ( 750 Local Reliance + 750 Other Local )
+13031,248,,60 days,600 Min All Local & STD FREE
+13032,298,,60 days,750 Min All Local & STD FREE
+13033,399,,60 days,1200 Min All Local & STD FREE

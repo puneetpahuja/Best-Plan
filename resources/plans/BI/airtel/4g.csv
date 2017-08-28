@@ -1,18 +1,18 @@
-id,cost,talktime,validity,short description,long description
-1798,54,,1 day,Recharge of Rs. 54 by Airtel,1 GB 3G/4G data -- 3G/4G accumulation & Data share / cashback not applicable
-1799,96,,5 days,Recharge of Rs. 96 by Airtel,1 GB 3G/4G Data -- 3G/4G accumulation & Data share/cashback not applicable
-1800,102,,21 days,Recharge of Rs. 102 by Airtel,250 MB 3G/4G Data -- 3G/4G accumulation & Data share/cashback not applicable
-1801,121,,28 days,Recharge of Rs. 121 by Airtel,1 GB 3G/4G Data -- 3G/4G accumulation & Data share / cashback not applicable -- Applicable only after recharge with Rs.499
-1802,156,,28 days,Recharge of Rs. 156 by Airtel,200 MB 3G/4G Data -- 3G/4G accumulation & Data share/cashback not applicable
-1803,165,,28 days,Recharge of Rs. 165 by Airtel,400 MB 3G/4G Data -- 3G/4G accumulation & Data share/cashback not applicable
-1804,251,,28 days,Recharge of Rs. 251 by Airtel,650 MB 3G/4G Data -- 3G/4G accumulation & Data share / cashback not applicable
-1805,346,,28 days,Recharge of Rs. 346 by Airtel,Unlimited all Local + STD calls -- 1 GB/day 3G/4G data -- T&C apply.
-1806,549,,28 days,Recharge of Rs. 549 by Airtel,Unlimited all Local + STD calls -- 2 GB/day 3G/4G data -- T&C apply.
-1807,749,,28 days,Recharge of Rs. 749 by Airtel,Instant 5 GB 3G/4G Data -- Now for next 6 months get 1 GB 3G/4G Data @ Rs97 & 2.5 3G/4G Data @Rs.251 -- 3G/4G accumulation & Data share/cashback not applicable
-1808,799,,28 days,Recharge of Rs. 799 by Airtel,Unlimited all Local + STD calls -- 3 GB/day 3G/4G data -- T&C apply.
-1809,995,,28 days,Recharge of Rs. 995 by Airtel,10 GB data -- 3G/4G accumulation & data share / cashback not applicable. 10GB Happy Hours Night data (3AM to 5AM)
-1810,999,,28 days,Recharge of Rs. 999 by Airtel,Unlimited all Local + STD calls -- 4 GB/day 3G/4G data -- T&C apply.
-1811,1499,,12 months,Recharge of Rs. 1499 by Airtel,"10 GB 3G/4G Data. Now for 1 year get 1GB 3G @ Rs51 ,2GB 3G @Rs97 , 5GB 3G @Rs251"
-1812,148,,28 days,Recharge of Rs. 148 by Airtel,"Free Local +STD Airtel to Airtel mobile calls --  50 MB 3G/4G Data. For 4G handset only, get 300MB"
-1813,397,,28 days,Recharge of Rs. 397 by Airtel,Free Local + STD on all mobile & landline calls --  350 MB high speed 3G/4G data
-1814,497,,28 days,Recharge of Rs. 497 by Airtel,Free Local + STD on all mobile & landline calls -- 1 GB high speed 3G/4G data
+id,cost,talktime,validity,comments
+1798,54,,1 day,1 GB 3G/4G data -- 3G/4G accumulation & Data share / cashback not applicable
+1799,96,,5 days,1 GB 3G/4G Data -- 3G/4G accumulation & Data share/cashback not applicable
+1800,102,,21 days,250 MB 3G/4G Data -- 3G/4G accumulation & Data share/cashback not applicable
+1801,121,,28 days,1 GB 3G/4G Data -- 3G/4G accumulation & Data share / cashback not applicable -- Applicable only after recharge with Rs.499
+1802,156,,28 days,200 MB 3G/4G Data -- 3G/4G accumulation & Data share/cashback not applicable
+1803,165,,28 days,400 MB 3G/4G Data -- 3G/4G accumulation & Data share/cashback not applicable
+1804,251,,28 days,650 MB 3G/4G Data -- 3G/4G accumulation & Data share / cashback not applicable
+1805,346,,28 days,Unlimited all Local + STD calls -- 1 GB/day 3G/4G data -- T&C apply.
+1806,549,,28 days,Unlimited all Local + STD calls -- 2 GB/day 3G/4G data -- T&C apply.
+1807,749,,28 days,Instant 5 GB 3G/4G Data -- Now for next 6 months get 1 GB 3G/4G Data @ Rs97 & 2.5 3G/4G Data @Rs.251 -- 3G/4G accumulation & Data share/cashback not applicable
+1808,799,,28 days,Unlimited all Local + STD calls -- 3 GB/day 3G/4G data -- T&C apply.
+1809,995,,28 days,10 GB data -- 3G/4G accumulation & data share / cashback not applicable. 10GB Happy Hours Night data (3AM to 5AM)
+1810,999,,28 days,Unlimited all Local + STD calls -- 4 GB/day 3G/4G data -- T&C apply.
+1811,1499,,12 months,"10 GB 3G/4G Data. Now for 1 year get 1GB 3G @ Rs51 ,2GB 3G @Rs97 , 5GB 3G @Rs251"
+1812,148,,28 days,"Free Local +STD Airtel to Airtel mobile calls --  50 MB 3G/4G Data. For 4G handset only, get 300MB"
+1813,397,,28 days,Free Local + STD on all mobile & landline calls --  350 MB high speed 3G/4G data
+1814,497,,28 days,Free Local + STD on all mobile & landline calls -- 1 GB high speed 3G/4G data

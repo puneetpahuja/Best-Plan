@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-8869,65,70,7 days,Recharge of Rs. 65 by Docomo,Talktime of Rs. 70 for Rs. 65 recharge by Tata DOCOMO
-8870,110,110,N.A,Recharge of Rs. 110 by Docomo,Talktime of Rs. 110 for Rs. 110 recharge by Tata DOCOMO
-8871,130,130,N.A,Recharge of Rs. 130 by Docomo,Talktime of Rs. 130 for Rs. 130 recharge by Tata DOCOMO
-8872,150,155,N.A,Recharge of Rs. 150 by Docomo,Talktime of Rs. 155 for Rs. 150 recharge by Tata DOCOMO
-8874,200,210,N.A,Recharge of Rs. 200 by Docomo,Talktime of Rs. 210 for Rs. 200 recharge by Tata DOCOMO
-8877,300,320,N.A,Recharge of Rs. 300 by Docomo,Talktime of Rs. 320 for Rs. 300 recharge by Tata DOCOMO
-8878,400,430,N.A,Recharge of Rs. 400 by Docomo,Talktime of Rs. 430 for Rs. 400 recharge by Tata DOCOMO
-8880,500,550,N.A,Recharge of Rs. 500 by Docomo,Talktime of Rs. 550 for Rs. 500 recharge by Tata DOCOMO
-8881,600,660,N.A,Recharge of Rs. 600 by Docomo,Talktime of Rs. 660 for Rs. 600 recharge by Tata DOCOMO
-8882,1000,1200,N.A,Recharge of Rs. 1000 by Docomo,Talktime of Rs. 1200 for Rs. 1000 recharge by Tata DOCOMO
-8883,2000,2500,N.A,Recharge of Rs. 2000 by Docomo,Talktime of Rs. 2500 for Rs. 2000 recharge by Tata DOCOMO
-8884,5000,5000,N.A,Recharge of Rs. 5000 by Docomo,Talktime of Rs. 5000 for Rs. 5000 recharge by Tata DOCOMO
+id,cost,talktime,validity,comments
+8869,65,70,7 days,Talktime of Rs. 70 for Rs. 65 recharge by Tata DOCOMO
+8870,110,110,N.A,Talktime of Rs. 110 for Rs. 110 recharge by Tata DOCOMO
+8871,130,130,N.A,Talktime of Rs. 130 for Rs. 130 recharge by Tata DOCOMO
+8872,150,155,N.A,Talktime of Rs. 155 for Rs. 150 recharge by Tata DOCOMO
+8874,200,210,N.A,Talktime of Rs. 210 for Rs. 200 recharge by Tata DOCOMO
+8877,300,320,N.A,Talktime of Rs. 320 for Rs. 300 recharge by Tata DOCOMO
+8878,400,430,N.A,Talktime of Rs. 430 for Rs. 400 recharge by Tata DOCOMO
+8880,500,550,N.A,Talktime of Rs. 550 for Rs. 500 recharge by Tata DOCOMO
+8881,600,660,N.A,Talktime of Rs. 660 for Rs. 600 recharge by Tata DOCOMO
+8882,1000,1200,N.A,Talktime of Rs. 1200 for Rs. 1000 recharge by Tata DOCOMO
+8883,2000,2500,N.A,Talktime of Rs. 2500 for Rs. 2000 recharge by Tata DOCOMO
+8884,5000,5000,N.A,Talktime of Rs. 5000 for Rs. 5000 recharge by Tata DOCOMO

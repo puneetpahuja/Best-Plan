@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-324,14,,27 days,Recharge of Rs. 14 by Aircel,All mobile calls @1p/sec
-325,23,,2 days,Recharge of Rs. 23 by Aircel,Unlimited local / STD Aircel calls
-326,39,,27 days,Recharge of Rs. 39 by Aircel,LA2A 20Ps/Min + L A2M 40ps/Min
-327,46,,27 days,Recharge of Rs. 46 by Aircel,All Local Mobile @30p/Min
-328,53,,27 days,Recharge of Rs. 53 by Aircel,L A2A 10ps/Min
-329,54,,27 days,Recharge of Rs. 54 by Aircel,All Local/STD calls @ 25p/m
-330,74,,54 days,Recharge of Rs. 74 by Aircel,All Local Mobile 30p
-331,94,,81 days,Recharge of Rs. 94 by Aircel,All Local Mobile @30p/Min
-332,95,,28 days,Recharge of Rs. 95 by Aircel,"FREE Local Aircel Calls + Other Local/STD mobile calls@30p/m -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 200 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1000 mins in a week"
-333,116,,81 days,Recharge of Rs. 116 by Aircel,LA2A 20Ps/Min L A2M 40ps/min
-334,121,,81 days,Recharge of Rs. 121 by Aircel,L A2A 10ps/Min
-335,134,,54 days,Recharge of Rs. 134 by Aircel,Local A2A @ 10p/m & Local A2M @ 30p/m
-336,184,,81 days,Recharge of Rs. 184 by Aircel,Local A2A @ 10p/m & Local A2M @ 30p/m
+id,cost,talktime,validity,comments
+324,14,,27 days,All mobile calls @1p/sec
+325,23,,2 days,Unlimited local / STD Aircel calls
+326,39,,27 days,LA2A 20Ps/Min + L A2M 40ps/Min
+327,46,,27 days,All Local Mobile @30p/Min
+328,53,,27 days,L A2A 10ps/Min
+329,54,,27 days,All Local/STD calls @ 25p/m
+330,74,,54 days,All Local Mobile 30p
+331,94,,81 days,All Local Mobile @30p/Min
+332,95,,28 days,"FREE Local Aircel Calls + Other Local/STD mobile calls@30p/m -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 200 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1000 mins in a week"
+333,116,,81 days,LA2A 20Ps/Min L A2M 40ps/min
+334,121,,81 days,L A2A 10ps/Min
+335,134,,54 days,Local A2A @ 10p/m & Local A2M @ 30p/m
+336,184,,81 days,Local A2A @ 10p/m & Local A2M @ 30p/m

@@ -1,11 +1,11 @@
-id,cost,talktime,validity,short description,long description
-3890,54,,7 days,Recharge of Rs. 54 by Airtel,220 MB 3G/4G Data -- Data Sharing is not applicable
-3892,91,,5 days,Recharge of Rs. 91 by Airtel,1 GB 3G/4G data -- Data Sharing is not applicable
-3893,121,,13 days,Recharge of Rs. 121 by Airtel,475 MB 3G/4G Data -- Now for 6 months get 1 GB 3G Data (applicable only after recharge with Rs.498) -- Data Sharing is not applicable
-3895,265,,28 days,Recharge of Rs. 265 by Airtel,1 GB 3G/4G Data -- 1.5 GB 3G/4G Data (Exclusive offer on My Airtel App and Airtel.in)
-3897,348,,28 days,Recharge of Rs. 348 by Airtel,Unlimited all Local + STD calls -- 1 GB/day 3G/4G data -- T&C apply.
-3898,355,,28 days,Recharge of Rs. 355 by Airtel,2.5 GB 3G/4G Data -- 3G/4G Data accumulation is applicable
-3899,548,,28 days,Recharge of Rs. 548 by Airtel,Unlimited all Local + STD calls -- 2 GB/day 3G/4G data -- T&C apply.
-3900,799,,28 days,Recharge of Rs. 799 by Airtel,Unlimited all Local + STD calls -- 3 GB/day 3G/4G data -- T&C apply.
-3901,999,,28 days,Recharge of Rs. 999 by Airtel,Unlimited all Local + STD calls -- 4 GB/day 3G/4G data -- T&C apply.
-3902,148,,28 days,Recharge of Rs. 148 by Airtel,Free Local + STD Airtel to Airtel mobile calls -- 50 MB 3G/4G Data. 300 MB Data only for 4G Handsets. T&C apply
+id,cost,talktime,validity,comments
+3890,54,,7 days,220 MB 3G/4G Data -- Data Sharing is not applicable
+3892,91,,5 days,1 GB 3G/4G data -- Data Sharing is not applicable
+3893,121,,13 days,475 MB 3G/4G Data -- Now for 6 months get 1 GB 3G Data (applicable only after recharge with Rs.498) -- Data Sharing is not applicable
+3895,265,,28 days,1 GB 3G/4G Data -- 1.5 GB 3G/4G Data (Exclusive offer on My Airtel App and Airtel.in)
+3897,348,,28 days,Unlimited all Local + STD calls -- 1 GB/day 3G/4G data -- T&C apply.
+3898,355,,28 days,2.5 GB 3G/4G Data -- 3G/4G Data accumulation is applicable
+3899,548,,28 days,Unlimited all Local + STD calls -- 2 GB/day 3G/4G data -- T&C apply.
+3900,799,,28 days,Unlimited all Local + STD calls -- 3 GB/day 3G/4G data -- T&C apply.
+3901,999,,28 days,Unlimited all Local + STD calls -- 4 GB/day 3G/4G data -- T&C apply.
+3902,148,,28 days,Free Local + STD Airtel to Airtel mobile calls -- 50 MB 3G/4G Data. 300 MB Data only for 4G Handsets. T&C apply

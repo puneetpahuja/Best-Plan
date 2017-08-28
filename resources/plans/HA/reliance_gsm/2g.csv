@@ -1,31 +1,31 @@
-id,cost,talktime,validity,short description,long description
-13081,19,,3 days,Recharge of Rs. 19 by RelianceGSM,110 MB
-13082,23,,1 day,Recharge of Rs. 23 by RelianceGSM,1 GB 2G Data (Same day)
-13083,31,,5 days,Recharge of Rs. 31 by RelianceGSM,175 MB
-13085,43,,28 days,Recharge of Rs. 43 by RelianceGSM,110 MB
-13086,44,,7 days,Recharge of Rs. 44 by RelianceGSM,250 MB
-13087,48,,5 days,Recharge of Rs. 48 by RelianceGSM,350 MB 2G Data. Unused data quota will be forfeited.
-13088,51,,7 days,Recharge of Rs. 51 by RelianceGSM,290 MB
-13089,63,,60 days,Recharge of Rs. 63 by RelianceGSM,Local/STD calls in Home and National Roaming location at 35p/min and Incoming Free while National Roaming
-13090,65,,9 days,Recharge of Rs. 65 by RelianceGSM,375 MB
-13091,77,,7 days,Recharge of Rs. 77 by RelianceGSM,400 MB
-13092,88,,12 days,Recharge of Rs. 88 by RelianceGSM,500 MB
-13093,92,,7 days,Recharge of Rs. 92 by RelianceGSM,500 MB
-13094,99,,14 days,Recharge of Rs. 99 by RelianceGSM,560 MB
-13095,112,,14 days,Recharge of Rs. 112 by RelianceGSM,500 MB
-13096,124,,21 days,Recharge of Rs. 124 by RelianceGSM,700 MB
-13097,131,,14 days,Recharge of Rs. 131 by RelianceGSM,600 MB
-13098,146,,21 days,Recharge of Rs. 146 by RelianceGSM,850 GB
-13099,147,,28 days,Recharge of Rs. 147 by RelianceGSM,1 GB/ Day 2G Data
-13100,151,,21 days,Recharge of Rs. 151 by RelianceGSM,600 MB
-13103,175,,28 days,Recharge of Rs. 175 by RelianceGSM,1 GB
-13106,219,,28 days,Recharge of Rs. 219 by RelianceGSM,1.5 GB
-13107,223,,28 days,Recharge of Rs. 223 by RelianceGSM,4 GB 2G Data. Unused data quota will be forfeited.
-13108,242,,28 days,Recharge of Rs. 242 by RelianceGSM,5 GB 2G Data. Unused data quota will be forfeited.
-13109,249,,28 days,Recharge of Rs. 249 by RelianceGSM,2 GB
-13110,282,,28 days,Recharge of Rs. 282 by RelianceGSM,3 GB
-13114,365,,370 days,Recharge of Rs. 365 by RelianceGSM,1GB 2G Data Per Day
-13115,398,,28 days,Recharge of Rs. 398 by RelianceGSM,5 GB
-13116,489,,28 days,Recharge of Rs. 489 by RelianceGSM,7 GB 2G Data. Unused data quota will be forfeited.
-13120,599,,28 days,Recharge of Rs. 599 by RelianceGSM,10 GB 2G Data. Unused data quota will be forfeited.
-13121,786,,180 days,Recharge of Rs. 786 by RelianceGSM,1 GB/ DAY 2G Data
+id,cost,talktime,validity,comments
+13081,19,,3 days,110 MB
+13082,23,,1 day,1 GB 2G Data (Same day)
+13083,31,,5 days,175 MB
+13085,43,,28 days,110 MB
+13086,44,,7 days,250 MB
+13087,48,,5 days,350 MB 2G Data. Unused data quota will be forfeited.
+13088,51,,7 days,290 MB
+13089,63,,60 days,Local/STD calls in Home and National Roaming location at 35p/min and Incoming Free while National Roaming
+13090,65,,9 days,375 MB
+13091,77,,7 days,400 MB
+13092,88,,12 days,500 MB
+13093,92,,7 days,500 MB
+13094,99,,14 days,560 MB
+13095,112,,14 days,500 MB
+13096,124,,21 days,700 MB
+13097,131,,14 days,600 MB
+13098,146,,21 days,850 GB
+13099,147,,28 days,1 GB/ Day 2G Data
+13100,151,,21 days,600 MB
+13103,175,,28 days,1 GB
+13106,219,,28 days,1.5 GB
+13107,223,,28 days,4 GB 2G Data. Unused data quota will be forfeited.
+13108,242,,28 days,5 GB 2G Data. Unused data quota will be forfeited.
+13109,249,,28 days,2 GB
+13110,282,,28 days,3 GB
+13114,365,,370 days,1GB 2G Data Per Day
+13115,398,,28 days,5 GB
+13116,489,,28 days,7 GB 2G Data. Unused data quota will be forfeited.
+13120,599,,28 days,10 GB 2G Data. Unused data quota will be forfeited.
+13121,786,,180 days,1 GB/ DAY 2G Data

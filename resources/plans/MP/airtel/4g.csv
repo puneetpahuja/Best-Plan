@@ -1,27 +1,27 @@
-id,cost,talktime,validity,short description,long description
-3009,49,,1 day,Recharge of Rs. 49 by Airtel,1 GB 3G/4G Data (till midnight)
-3010,54,,6 days,Recharge of Rs. 54 by Airtel,215 MB 3G/4G Data
-3011,68,,15 days,Recharge of Rs. 68 by Airtel,JACKPOT RECHARGE: 250 MB TO 1 GB 3G/4G DATA 
-3012,91,,10 days,Recharge of Rs. 91 by Airtel,360 MB 3G/4G Data
-3013,96,,10 days,Recharge of Rs. 96 by Airtel,400 MB 4G/3G Data 
-3014,101,,5 days,Recharge of Rs. 101 by Airtel,1 GB 3G/4G Data
-3015,102,,30 days,Recharge of Rs. 102 by Airtel,350 MB 3G/4G Data
-3016,121,,10 days,Recharge of Rs. 121 by Airtel,480 MB 3G/4G Data
-3017,143,,7 days,Recharge of Rs. 143 by Airtel,2 GB 3G/4G data
-3018,147,,15 days,Recharge of Rs. 147 by Airtel,590 MB 3G/4G Data
-3019,159,,28 days,Recharge of Rs. 159 by Airtel,"1 GB 4G/3G data for 4G HS, 400 MB 3G/4G DATA FOR OTHER Handset. "
-3020,177,,28 days,Recharge of Rs. 177 by Airtel,1 GB 4G/3G Data
-3021,199,,28 days,Recharge of Rs. 199 by Airtel,1.2 GB 4G/3G data. 1.2 GB Happy Hours Night data (3AM to 5AM)
-3022,249,,28 days,Recharge of Rs. 249 by Airtel,"4 GB 4G/3G data for 4G HS, 1.5 GB 3G/4G Data"
-3023,295,,28 days,Recharge of Rs. 295 by Airtel,2 GB 4G/3G Data. 2 GB Happy Hours Night data (3AM to 5AM)
-3024,298,,28 days,Recharge of Rs. 298 by Airtel,JACKPOT RECHARGE: 1.75 GB TO 10 GB 3G/4G DATA
-3025,348,,28 days,Recharge of Rs. 348 by Airtel,"2.5 GB 3G/4G DATA, EXTRA 2.5 GB WIFI DATA "
-3026,493,,28 days,Recharge of Rs. 493 by Airtel,2 GB 3G/4G DATA -- 40000 LOCAL STD MOBILE SEC
-3027,497,,28 days,Recharge of Rs. 497 by Airtel,"4 GB 3G/4G DATA, 4 GB NIGHT DATA(3AM-5AM), EXTRA 6 GB DATA ON 4G HANDSETS, 4 GB DATA ON WI-FI "
-3028,549,,28 days,Recharge of Rs. 549 by Airtel,Unlimited all Local + STD calls -- 2 GB/day 3G/4G data -- T&C apply.
-3029,649,,28 days,Recharge of Rs. 649 by Airtel,11 GB Data (5.5 GB 3G/4G + 5.5 GB 4G)
-3030,799,,28 days,Recharge of Rs. 799 by Airtel,Unlimited all Local + STD calls -- 3 GB/day 3G/4G data -- T&C apply.
-3031,989,,28 days,Recharge of Rs. 989 by Airtel,"10 GB 3G/4G DATA, 10 GB NIGHT DATA (3AM-5AM),10 GB DATA ON 4G HANDSETS, 10 GB 4G DATA"
-3032,992,,365 days,Recharge of Rs. 992 by Airtel,10 GB 3G/4G Data
-3033,999,,28 days,Recharge of Rs. 999 by Airtel,Unlimited all Local + STD calls -- 4 GB/day 3G/4G data -- T&C apply.
-3034,148,,28 days,Recharge of Rs. 148 by Airtel,Free Local + STD Airtel to Airtel mobile calls + 50MB 3G/4G. Get 300MB data; Only for 4G Handsets. 
+id,cost,talktime,validity,comments
+3009,49,,1 day,1 GB 3G/4G Data (till midnight)
+3010,54,,6 days,215 MB 3G/4G Data
+3011,68,,15 days,JACKPOT RECHARGE: 250 MB TO 1 GB 3G/4G DATA 
+3012,91,,10 days,360 MB 3G/4G Data
+3013,96,,10 days,400 MB 4G/3G Data 
+3014,101,,5 days,1 GB 3G/4G Data
+3015,102,,30 days,350 MB 3G/4G Data
+3016,121,,10 days,480 MB 3G/4G Data
+3017,143,,7 days,2 GB 3G/4G data
+3018,147,,15 days,590 MB 3G/4G Data
+3019,159,,28 days,"1 GB 4G/3G data for 4G HS, 400 MB 3G/4G DATA FOR OTHER Handset. "
+3020,177,,28 days,1 GB 4G/3G Data
+3021,199,,28 days,1.2 GB 4G/3G data. 1.2 GB Happy Hours Night data (3AM to 5AM)
+3022,249,,28 days,"4 GB 4G/3G data for 4G HS, 1.5 GB 3G/4G Data"
+3023,295,,28 days,2 GB 4G/3G Data. 2 GB Happy Hours Night data (3AM to 5AM)
+3024,298,,28 days,JACKPOT RECHARGE: 1.75 GB TO 10 GB 3G/4G DATA
+3025,348,,28 days,"2.5 GB 3G/4G DATA, EXTRA 2.5 GB WIFI DATA "
+3026,493,,28 days,2 GB 3G/4G DATA -- 40000 LOCAL STD MOBILE SEC
+3027,497,,28 days,"4 GB 3G/4G DATA, 4 GB NIGHT DATA(3AM-5AM), EXTRA 6 GB DATA ON 4G HANDSETS, 4 GB DATA ON WI-FI "
+3028,549,,28 days,Unlimited all Local + STD calls -- 2 GB/day 3G/4G data -- T&C apply.
+3029,649,,28 days,11 GB Data (5.5 GB 3G/4G + 5.5 GB 4G)
+3030,799,,28 days,Unlimited all Local + STD calls -- 3 GB/day 3G/4G data -- T&C apply.
+3031,989,,28 days,"10 GB 3G/4G DATA, 10 GB NIGHT DATA (3AM-5AM),10 GB DATA ON 4G HANDSETS, 10 GB 4G DATA"
+3032,992,,365 days,10 GB 3G/4G Data
+3033,999,,28 days,Unlimited all Local + STD calls -- 4 GB/day 3G/4G data -- T&C apply.
+3034,148,,28 days,Free Local + STD Airtel to Airtel mobile calls + 50MB 3G/4G. Get 300MB data; Only for 4G Handsets. 

@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-14528,150,150,N.A,Recharge of Rs. 150 by RelianceGSM,Talktime of Rs. 150 for Rs. 150 recharge by Reliance GSM
-14529,200,200,N.A,Recharge of Rs. 200 by RelianceGSM,Talktime of Rs. 200 for Rs. 200 recharge by Reliance GSM
-14530,300,300,N.A,Recharge of Rs. 300 by RelianceGSM,Talktime of Rs. 300 for Rs. 300 recharge by Reliance GSM
-14531,500,500,N.A,Recharge of Rs. 500 by RelianceGSM,Talktime of Rs. 500 for Rs. 500 recharge by Reliance GSM
+id,cost,talktime,validity,comments
+14528,150,150,N.A,Talktime of Rs. 150 for Rs. 150 recharge by Reliance GSM
+14529,200,200,N.A,Talktime of Rs. 200 for Rs. 200 recharge by Reliance GSM
+14530,300,300,N.A,Talktime of Rs. 300 for Rs. 300 recharge by Reliance GSM
+14531,500,500,N.A,Talktime of Rs. 500 for Rs. 500 recharge by Reliance GSM

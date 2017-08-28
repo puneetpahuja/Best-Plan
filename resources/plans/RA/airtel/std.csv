@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-3913,6,,7 days,Recharge of Rs. 6 by Airtel,STD Mobile @1p/s
-3914,17,,7 days,Recharge of Rs. 17 by Airtel,STD Mobile calls @30p/min
-3915,37,,27 days,Recharge of Rs. 37 by Airtel,STD Mobile calls @ 30p/min
-3916,57,,27 days,Recharge of Rs. 57 by Airtel,STD Mobile calls @ 25p/min
+id,cost,talktime,validity,comments
+3913,6,,7 days,STD Mobile @1p/s
+3914,17,,7 days,STD Mobile calls @30p/min
+3915,37,,27 days,STD Mobile calls @ 30p/min
+3916,57,,27 days,STD Mobile calls @ 25p/min

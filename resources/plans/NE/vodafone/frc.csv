@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-18007,105,22,90 days,Recharge of Rs. 105 by Vodafone,All Call @1.6p/S -- 250 MB 3G/4G Data -- Applicable only for new subscribers as FRC/SRC
+id,cost,talktime,validity,comments
+18007,105,22,90 days,All Call @1.6p/S -- 250 MB 3G/4G Data -- Applicable only for new subscribers as FRC/SRC

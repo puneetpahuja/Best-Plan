@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-1103,16,,10 days,Recharge of Rs. 16 by Aircel,All STD calls @ 30p/min
-1104,37,,28 days,Recharge of Rs. 37 by Aircel,All STD calls @ 25p/min
-1105,38,,56 days,Recharge of Rs. 38 by Aircel,All STD Mobile calls @ 30p/min
+id,cost,talktime,validity,comments
+1103,16,,10 days,All STD calls @ 30p/min
+1104,37,,28 days,All STD calls @ 25p/min
+1105,38,,56 days,All STD Mobile calls @ 30p/min

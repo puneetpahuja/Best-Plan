@@ -1,20 +1,20 @@
-id,cost,talktime,validity,short description,long description
-3372,15,,30 days,Recharge of Rs. 15 by Airtel,Benifit: Calling to Nepal calls @ 12p/sBangladesh calls @ 5p/sIran/Israel/Netherland/NewZealand/SouthKorea/Turkey calls @10p/sBelgium/Egypt/France/Germany/Indonesia/Italy/Japan/Kenya/Mozambique/Philippines/SoutAfrica/Spain/Lanka/Zambia calls @15p/s
-3373,35,,30 days,Recharge of Rs. 35 by Airtel,ISD Pack-Saudi Arabia/ Bahrain/Kuwait-12p/secUAE/Australia/Nigeria/ UK - 15p/secSingapore/ Malaysia/ Hongkong/Thailand-8p/secYemen-14p/secQatar-17p/secOman-24p/secIraq-21p/secChina-2p/sec
-3374,59,,30 days,Recharge of Rs. 59 by Airtel,Call to USA and Canada @ 1.5p/sec
-3375,78,,3 weeks,Recharge of Rs. 78 by Airtel,12 Mins of ISD Calls to Nepal and Pakistan
-3376,155,,2 weeks,Recharge of Rs. 155 by Airtel,60 minutes of ISD calls across 30 countries 
-3377,495,,1 day,Recharge of Rs. 495 by Airtel,"Unlimited incoming, 100min Local/call to India -- 500 MB data -- 100 SMS/day -- Till 12:00 midnight"
-3378,647,,1 day,Recharge of Rs. 647 by Airtel,Free benefits : 100Min incoming -- 500 MB Data -- 100 SMS/Day -- 100Min Loc/Call to India
-3379,649,,1 day,Recharge of Rs. 649 by Airtel,"100min incoming,100min Local/call to India -- 500 MB data -- 100 SMS/day"
-3380,996,,1 day,Recharge of Rs. 996 by Airtel,"100min incoming, 100min Local/call to India -- 500 MB data -- 100SMS/day -- Till 12:00 midnight. "
-3381,997,,30 days,Recharge of Rs. 997 by Airtel,"IR Pack30 mins Free incoming calls thereafter Incoming @Rs19/min, Outgoing @Rs39/min Data @39p/10KB, Rs15/SMS"
-3382,998,,30 days,Recharge of Rs. 998 by Airtel,"IR Pack30 MB data Free thereafter charges of @39p/10kb apply, Incoming calls @Rs19/min, Outgoing@Rs39/min, Rs15/SMS"
-3383,1199,,10 days,Recharge of Rs. 1199 by Airtel,Free benefits: unlimited incoming -- 3 GB data -- 100 sms/Day -- 250min loc/call to India
-3384,2498,,30 days,Recharge of Rs. 2498 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-3385,2998,,10 days,Recharge of Rs. 2998 by Airtel,Free benefits: unlimited incoming -- 3 GB data -- 100 sms/Day -- 250min loc/call to India
-3386,2999,,10 days,Recharge of Rs. 2999 by Airtel,Free benefits: Unlimited incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
-3387,3995,,10 days,Recharge of Rs. 3995 by Airtel,Free benefits: unlimited incoming -- 3 GB data -- 100 sms/Day -- 250min loc/call to India
-3388,3998,,30 days,Recharge of Rs. 3998 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-3389,3999,,30 days,Recharge of Rs. 3999 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-3390,6999,,30 days,Recharge of Rs. 6999 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+id,cost,talktime,validity,comments
+3372,15,,30 days,Benifit: Calling to Nepal calls @ 12p/sBangladesh calls @ 5p/sIran/Israel/Netherland/NewZealand/SouthKorea/Turkey calls @10p/sBelgium/Egypt/France/Germany/Indonesia/Italy/Japan/Kenya/Mozambique/Philippines/SoutAfrica/Spain/Lanka/Zambia calls @15p/s
+3373,35,,30 days,ISD Pack-Saudi Arabia/ Bahrain/Kuwait-12p/secUAE/Australia/Nigeria/ UK - 15p/secSingapore/ Malaysia/ Hongkong/Thailand-8p/secYemen-14p/secQatar-17p/secOman-24p/secIraq-21p/secChina-2p/sec
+3374,59,,30 days,Call to USA and Canada @ 1.5p/sec
+3375,78,,3 weeks,12 Mins of ISD Calls to Nepal and Pakistan
+3376,155,,2 weeks,60 minutes of ISD calls across 30 countries 
+3377,495,,1 day,"Unlimited incoming, 100min Local/call to India -- 500 MB data -- 100 SMS/day -- Till 12:00 midnight"
+3378,647,,1 day,Free benefits : 100Min incoming -- 500 MB Data -- 100 SMS/Day -- 100Min Loc/Call to India
+3379,649,,1 day,"100min incoming,100min Local/call to India -- 500 MB data -- 100 SMS/day"
+3380,996,,1 day,"100min incoming, 100min Local/call to India -- 500 MB data -- 100SMS/day -- Till 12:00 midnight. "
+3381,997,,30 days,"IR Pack30 mins Free incoming calls thereafter Incoming @Rs19/min, Outgoing @Rs39/min Data @39p/10KB, Rs15/SMS"
+3382,998,,30 days,"IR Pack30 MB data Free thereafter charges of @39p/10kb apply, Incoming calls @Rs19/min, Outgoing@Rs39/min, Rs15/SMS"
+3383,1199,,10 days,Free benefits: unlimited incoming -- 3 GB data -- 100 sms/Day -- 250min loc/call to India
+3384,2498,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+3385,2998,,10 days,Free benefits: unlimited incoming -- 3 GB data -- 100 sms/Day -- 250min loc/call to India
+3386,2999,,10 days,Free benefits: Unlimited incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
+3387,3995,,10 days,Free benefits: unlimited incoming -- 3 GB data -- 100 sms/Day -- 250min loc/call to India
+3388,3998,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+3389,3999,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+3390,6999,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India

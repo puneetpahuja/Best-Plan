@@ -1,25 +1,25 @@
-id,cost,talktime,validity,short description,long description
-13802,9,,N.A,Recharge of Rs. 9 by RelianceGSM,50 MB 2G data -- Validity: Midnight till 23:59 hrs of day of recharge -- 
-13803,19,,2 days,Recharge of Rs. 19 by RelianceGSM,110 MB Data -- 
-13804,23,,1 Day,Recharge of Rs. 23 by RelianceGSM,1 GB 2G Data (Same Day)
-13806,36,,5 days,Recharge of Rs. 36 by RelianceGSM,200 MB Data All Day +200 MB Data All Night (Night defined as 12 midnight to 6am)  -- 
-13807,41,,28 days,Recharge of Rs. 41 by RelianceGSM,200 MB Data -- 
-13808,54,,5 days,Recharge of Rs. 54 by RelianceGSM,500 MB 2G Data -- 
-13809,57,,7 days,Recharge of Rs. 57 by RelianceGSM,300 MB
-13810,79,,10 days,Recharge of Rs. 79 by RelianceGSM,450 MB -- 
-13811,93,,7 days,Recharge of Rs. 93 by RelianceGSM,500 MB
-13812,98,,14 days,Recharge of Rs. 98 by RelianceGSM,700 MB  -- 
-13813,112,,14 days,Recharge of Rs. 112 by RelianceGSM,500 MB
-13814,131,,14 days,Recharge of Rs. 131 by RelianceGSM,600 MB
-13815,147,,28 days,Recharge of Rs. 147 by RelianceGSM,1 GB/ Day 2G Data
-13816,148,,28 days,Recharge of Rs. 148 by RelianceGSM,750 MB  -- 
-13817,151,,21 days,Recharge of Rs. 151 by RelianceGSM,600 MB
-13820,175,,28 days,Recharge of Rs. 175 by RelianceGSM,1GB  -- 
-13823,223,,28 days,Recharge of Rs. 223 by RelianceGSM,4 GB 2G Data. Unused data quota will be forfeited.
-13824,242,,28 days,Recharge of Rs. 242 by RelianceGSM,5 GB 2G Data. Unused data quota will be forfeited.
-13825,248,,28 days,Recharge of Rs. 248 by RelianceGSM,2 GB  -- 
-13829,365,,374 days,Recharge of Rs. 365 by RelianceGSM,1GB 2G Data Per Day
-13830,398,,28 days,Recharge of Rs. 398 by RelianceGSM,5 GB
-13832,489,,28 days,Recharge of Rs. 489 by RelianceGSM,7 GB 2G Data. Unused data quota will be forfeited.
-13836,599,,28 days,Recharge of Rs. 599 by RelianceGSM,10 GB 2G Data. Unused data quota will be forfeited.
-13837,786,,180 days,Recharge of Rs. 786 by RelianceGSM,Get 1GB/ DAY 2G Data 
+id,cost,talktime,validity,comments
+13802,9,,N.A,50 MB 2G data -- Validity: Midnight till 23:59 hrs of day of recharge -- 
+13803,19,,2 days,110 MB Data -- 
+13804,23,,1 Day,1 GB 2G Data (Same Day)
+13806,36,,5 days,200 MB Data All Day +200 MB Data All Night (Night defined as 12 midnight to 6am)  -- 
+13807,41,,28 days,200 MB Data -- 
+13808,54,,5 days,500 MB 2G Data -- 
+13809,57,,7 days,300 MB
+13810,79,,10 days,450 MB -- 
+13811,93,,7 days,500 MB
+13812,98,,14 days,700 MB  -- 
+13813,112,,14 days,500 MB
+13814,131,,14 days,600 MB
+13815,147,,28 days,1 GB/ Day 2G Data
+13816,148,,28 days,750 MB  -- 
+13817,151,,21 days,600 MB
+13820,175,,28 days,1GB  -- 
+13823,223,,28 days,4 GB 2G Data. Unused data quota will be forfeited.
+13824,242,,28 days,5 GB 2G Data. Unused data quota will be forfeited.
+13825,248,,28 days,2 GB  -- 
+13829,365,,374 days,1GB 2G Data Per Day
+13830,398,,28 days,5 GB
+13832,489,,28 days,7 GB 2G Data. Unused data quota will be forfeited.
+13836,599,,28 days,10 GB 2G Data. Unused data quota will be forfeited.
+13837,786,,180 days,Get 1GB/ DAY 2G Data 

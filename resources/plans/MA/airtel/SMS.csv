@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-3141,9,,7 days,Recharge of Rs. 9 by Airtel,70 Local + STD SMS
-3142,13,,13 days,Recharge of Rs. 13 by Airtel,130 Local and National SMS
-3143,24,,15 days,Recharge of Rs. 24 by Airtel,250 Local /STD SMS
-3144,47,,28 days,Recharge of Rs. 47 by Airtel,500 Local and National SMS
-3145,67,,28 days,Recharge of Rs. 67 by Airtel,750 Local and National SMS
+id,cost,talktime,validity,comments
+3141,9,,7 days,70 Local + STD SMS
+3142,13,,13 days,130 Local and National SMS
+3143,24,,15 days,250 Local /STD SMS
+3144,47,,28 days,500 Local and National SMS
+3145,67,,28 days,750 Local and National SMS

@@ -1,21 +1,21 @@
-id,cost,talktime,validity,short description,long description
-16657,85,85,7 days,Recharge of Rs. 85 by Vodafone,5 night local Vodafone minutes
-16658,295,295,N.A,Recharge of Rs. 295 by Vodafone,Full Talktime and 1 Night Local Vodafone minute valid for 7 days
-16660,305,305,N.A,Recharge of Rs. 305 by Vodafone,Full Talktime and 1 Night Local Vodafone minute valid for 7 days
-16662,351,351,N.A,Recharge of Rs. 351 by Vodafone,Full Talktime with 1 night local Vodafone minute
-16663,375,375,N.A,Recharge of Rs. 375 by Vodafone,1 Night Local Vodafone minute (7 days)
-16668,501,501,N.A,Recharge of Rs. 501 by Vodafone,Full Talktime with 1 night local Vodafone minute
-16669,555,555,N.A,Recharge of Rs. 555 by Vodafone,Full Talktime and 1 Night Local Vodafone minute valid for 7 days
-16673,1001,1001,N.A,Recharge of Rs. 1001 by Vodafone,Full Talktime with 1 night local Vodafone minute
-16678,23,18,N.A,Recharge of Rs. 23 by Vodafone,1 Local Vodafone Night minute for 7 days
-16687,165,136.83,N.A,Recharge of Rs. 165 by Vodafone,1 Local Vodafone Night minute for 7 days
-16689,245,207.63,N.A,Recharge of Rs. 245 by Vodafone,1 Local Vodafone Night minute for 7 days
-16691,102,20,90 days,Recharge of Rs. 102 by Vodafone,All local Vodafone to Vodafone mobile calls @10p/min. Landline Calls(Local+STD) at 2.5p/sec.
-16692,106,25,28 days,Recharge of Rs. 106 by Vodafone,"250 MB data  -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60MB data loan -- T&C Apply"
-16693,179,30,28 days,Recharge of Rs. 179 by Vodafone,"500 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60 MB data loan -- T&C Apply"
-16694,301,50,28 days,Recharge of Rs. 301 by Vodafone,1536 MB data -- Special features included: call 1 local Vodafone buddy @10p/min -- option of 60 MB data loan -- T&C Apply
-16698,148,,28 days,Recharge of Rs. 148 by Vodafone,Unlimited Vodafone to Vodafone Local & STD Calls -- Vodafone to Other operator call at 1 paisa/second --  2GB 4G Data (4G Handset+ 4G Sim)/300MB Data* (4G Handset)/50MB others -- All Local and National SMS at 25p/SMS for 28 Days.
-16715,499,,28 days,Recharge of Rs. 499 by Vodafone,2 GB Data -- 700 Local + STD Mins
-16716,699,,28 days,Recharge of Rs. 699 by Vodafone,4 GB Data -- 1000 Local + STD Mins 
-16815,129,,30 days,Recharge of Rs. 129 by Vodafone,Unlimited BBM 
-16816,399,,30 days,Recharge of Rs. 399 by Vodafone,Unlimited Blackberry Internet Services
+id,cost,talktime,validity,comments
+16657,85,85,7 days,5 night local Vodafone minutes
+16658,295,295,N.A,Full Talktime and 1 Night Local Vodafone minute valid for 7 days
+16660,305,305,N.A,Full Talktime and 1 Night Local Vodafone minute valid for 7 days
+16662,351,351,N.A,Full Talktime with 1 night local Vodafone minute
+16663,375,375,N.A,1 Night Local Vodafone minute (7 days)
+16668,501,501,N.A,Full Talktime with 1 night local Vodafone minute
+16669,555,555,N.A,Full Talktime and 1 Night Local Vodafone minute valid for 7 days
+16673,1001,1001,N.A,Full Talktime with 1 night local Vodafone minute
+16678,23,18,N.A,1 Local Vodafone Night minute for 7 days
+16687,165,136.83,N.A,1 Local Vodafone Night minute for 7 days
+16689,245,207.63,N.A,1 Local Vodafone Night minute for 7 days
+16691,102,20,90 days,All local Vodafone to Vodafone mobile calls @10p/min. Landline Calls(Local+STD) at 2.5p/sec.
+16692,106,25,28 days,"250 MB data  -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60MB data loan -- T&C Apply"
+16693,179,30,28 days,"500 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60 MB data loan -- T&C Apply"
+16694,301,50,28 days,1536 MB data -- Special features included: call 1 local Vodafone buddy @10p/min -- option of 60 MB data loan -- T&C Apply
+16698,148,,28 days,Unlimited Vodafone to Vodafone Local & STD Calls -- Vodafone to Other operator call at 1 paisa/second --  2GB 4G Data (4G Handset+ 4G Sim)/300MB Data* (4G Handset)/50MB others -- All Local and National SMS at 25p/SMS for 28 Days.
+16715,499,,28 days,2 GB Data -- 700 Local + STD Mins
+16716,699,,28 days,4 GB Data -- 1000 Local + STD Mins 
+16815,129,,30 days,Unlimited BBM 
+16816,399,,30 days,Unlimited Blackberry Internet Services

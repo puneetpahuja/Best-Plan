@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-12263,5,,60 days,Recharge of Rs. 5 by Idea,Home STV Benefit while in UPE (in case of call back to UPW only)Roaming tariff will be applicable on IDEA Network only -- 
-12264,6,,1 day,Recharge of Rs. 6 by Idea,"All outgoing Local and STD calls @60p/min in National Roaming , Roaming tariff will be applicable on IDEA Network only.  -- "
-12265,41,,28 days,Recharge of Rs. 41 by Idea,"All outgoing Local and STD calls @50p/min in National Roaming , validity 28 day. Mentioned Roaming tariff will be applicable on IDEA Network only."
+id,cost,talktime,validity,comments
+12263,5,,60 days,Home STV Benefit while in UPE (in case of call back to UPW only)Roaming tariff will be applicable on IDEA Network only -- 
+12264,6,,1 day,"All outgoing Local and STD calls @60p/min in National Roaming , Roaming tariff will be applicable on IDEA Network only.  -- "
+12265,41,,28 days,"All outgoing Local and STD calls @50p/min in National Roaming , validity 28 day. Mentioned Roaming tariff will be applicable on IDEA Network only."

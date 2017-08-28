@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-13797,14,,14 days,Recharge of Rs. 14 by RelianceGSM,130 Local national SMS -- De-
-13798,25,,21 days,Recharge of Rs. 25 by RelianceGSM,250Local national SMS -- De-
-13799,39,,21 days,Recharge of Rs. 39 by RelianceGSM,450Local national SMS -- De-
-13800,48,,28 days,Recharge of Rs. 48 by RelianceGSM,900Local national SMS -- De-
-13801,64,,28 days,Recharge of Rs. 64 by RelianceGSM,1000Local national SMS -- De-
+id,cost,talktime,validity,comments
+13797,14,,14 days,130 Local national SMS -- De-
+13798,25,,21 days,250Local national SMS -- De-
+13799,39,,21 days,450Local national SMS -- De-
+13800,48,,28 days,900Local national SMS -- De-
+13801,64,,28 days,1000Local national SMS -- De-

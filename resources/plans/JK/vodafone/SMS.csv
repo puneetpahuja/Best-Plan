@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-18938,12,,7 days,Recharge of Rs. 12 by Vodafone,70 Local & National sms for 7 days
-18939,74,,28 days,Recharge of Rs. 74 by Vodafone,500 Local & National sms
-18940,91,,28 days,Recharge of Rs. 91 by Vodafone,1000 Local+ National SMS
+id,cost,talktime,validity,comments
+18938,12,,7 days,70 Local & National sms for 7 days
+18939,74,,28 days,500 Local & National sms
+18940,91,,28 days,1000 Local+ National SMS

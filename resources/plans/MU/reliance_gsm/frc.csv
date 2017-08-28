@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-14007,6,,90 days,Recharge of Rs. 6 by RelianceGSM,R2R mobile calls @ FREE. All other mobile calls @ 30p/min (First 60 sec of the day @ Rs1/min) -- Applicable only for new subscribers as FRC/SRC
-14008,7,,90 days,Recharge of Rs. 7 by RelianceGSM,All mobile calls @ 25p/min (First 60 sec of the day @ Rs1/min) -- Applicable only for new subscribers as FRC/SRC
-14009,88,,10 days,Recharge of Rs. 88 by RelianceGSM,500MB 2G Data.  -- Applicable only for new subscribers as FRC/SRC
-14010,123,,10 days,Recharge of Rs. 123 by RelianceGSM,500MB 3G Data. -- Applicable only for new subscribers as FRC/SRC
+id,cost,talktime,validity,comments
+14007,6,,90 days,R2R mobile calls @ FREE. All other mobile calls @ 30p/min (First 60 sec of the day @ Rs1/min) -- Applicable only for new subscribers as FRC/SRC
+14008,7,,90 days,All mobile calls @ 25p/min (First 60 sec of the day @ Rs1/min) -- Applicable only for new subscribers as FRC/SRC
+14009,88,,10 days,500MB 2G Data.  -- Applicable only for new subscribers as FRC/SRC
+14010,123,,10 days,500MB 3G Data. -- Applicable only for new subscribers as FRC/SRC

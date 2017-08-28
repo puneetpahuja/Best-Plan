@@ -1,12 +1,12 @@
-id,cost,talktime,validity,short description,long description
-15594,110,110,N.A,Recharge of Rs. 110 by Indicom,Talktime of Rs. 110 for Rs. 110 recharge by Tata Indicom
-15595,130,130,N.A,Recharge of Rs. 130 by Indicom,Talktime of Rs. 130 for Rs. 130 recharge by Tata Indicom
-15596,150,155,N.A,Recharge of Rs. 150 by Indicom,Talktime of Rs. 155 for Rs. 150 recharge by Tata Indicom
-15597,200,210,N.A,Recharge of Rs. 200 by Indicom,Talktime of Rs. 210 for Rs. 200 recharge by Tata Indicom
-15598,300,320,N.A,Recharge of Rs. 300 by Indicom,Talktime of Rs. 320 for Rs. 300 recharge by Tata Indicom
-15599,400,430,N.A,Recharge of Rs. 400 by Indicom,Talktime of Rs. 430 for Rs. 400 recharge by Tata Indicom
-15600,500,550,N.A,Recharge of Rs. 500 by Indicom,Talktime of Rs. 550 for Rs. 500 recharge by Tata Indicom
-15601,600,660,N.A,Recharge of Rs. 600 by Indicom,Talktime of Rs. 660 for Rs. 600 recharge by Tata Indicom
-15602,1000,1200,N.A,Recharge of Rs. 1000 by Indicom,Talktime of Rs. 1200 for Rs. 1000 recharge by Tata Indicom
-15603,2000,2500,N.A,Recharge of Rs. 2000 by Indicom,Talktime of Rs. 2500 for Rs. 2000 recharge by Tata Indicom
-15604,5000,5000,N.A,Recharge of Rs. 5000 by Indicom,Talktime of Rs. 5000 for Rs. 5000 recharge by Tata Indicom
+id,cost,talktime,validity,comments
+15594,110,110,N.A,Talktime of Rs. 110 for Rs. 110 recharge by Tata Indicom
+15595,130,130,N.A,Talktime of Rs. 130 for Rs. 130 recharge by Tata Indicom
+15596,150,155,N.A,Talktime of Rs. 155 for Rs. 150 recharge by Tata Indicom
+15597,200,210,N.A,Talktime of Rs. 210 for Rs. 200 recharge by Tata Indicom
+15598,300,320,N.A,Talktime of Rs. 320 for Rs. 300 recharge by Tata Indicom
+15599,400,430,N.A,Talktime of Rs. 430 for Rs. 400 recharge by Tata Indicom
+15600,500,550,N.A,Talktime of Rs. 550 for Rs. 500 recharge by Tata Indicom
+15601,600,660,N.A,Talktime of Rs. 660 for Rs. 600 recharge by Tata Indicom
+15602,1000,1200,N.A,Talktime of Rs. 1200 for Rs. 1000 recharge by Tata Indicom
+15603,2000,2500,N.A,Talktime of Rs. 2500 for Rs. 2000 recharge by Tata Indicom
+15604,5000,5000,N.A,Talktime of Rs. 5000 for Rs. 5000 recharge by Tata Indicom

@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-15239,32,,84 days,Recharge of Rs. 32 by Indicom,Local On-Net calls @ 1p/ 6secs 
-15240,54,,28 days,Recharge of Rs. 54 by Indicom,All Local & STD Calls @ 1.5p/sec 
-15241,105,,28 days,Recharge of Rs. 105 by Indicom,Unlimited Local On-Net mobile calls Free 2000 STD On-Net mins. to Punjab/ Haryana
+id,cost,talktime,validity,comments
+15239,32,,84 days,Local On-Net calls @ 1p/ 6secs 
+15240,54,,28 days,All Local & STD Calls @ 1.5p/sec 
+15241,105,,28 days,Unlimited Local On-Net mobile calls Free 2000 STD On-Net mins. to Punjab/ Haryana

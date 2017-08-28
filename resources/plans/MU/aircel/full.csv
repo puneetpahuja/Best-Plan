@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-736,85,85,15 days,Recharge of Rs. 85 by Aircel,Talktime of Rs. 85 for Rs. 85 recharge by Aircel
-737,110,110,N.A,Recharge of Rs. 110 by Aircel,Talktime of Rs. 110 for Rs. 110 recharge by Aircel
-738,111,111,21 days,Recharge of Rs. 111 by Aircel,Talktime of Rs. 111 for Rs. 111 recharge by Aircel
-740,150,150,N.A,Recharge of Rs. 150 by Aircel,Talktime of Rs. 150 for Rs. 150 recharge by Aircel
-741,500,550,N.A,Recharge of Rs. 500 by Aircel,Talktime of Rs. 550 for Rs. 500 recharge by Aircel
-742,800,900,N.A,Recharge of Rs. 800 by Aircel,Talktime of Rs. 900 for Rs. 800 recharge by Aircel
-743,1000,1125,N.A,Recharge of Rs. 1000 by Aircel,Talktime of Rs. 1125 for Rs. 1000 recharge by Aircel
+id,cost,talktime,validity,comments
+736,85,85,15 days,Talktime of Rs. 85 for Rs. 85 recharge by Aircel
+737,110,110,N.A,Talktime of Rs. 110 for Rs. 110 recharge by Aircel
+738,111,111,21 days,Talktime of Rs. 111 for Rs. 111 recharge by Aircel
+740,150,150,N.A,Talktime of Rs. 150 for Rs. 150 recharge by Aircel
+741,500,550,N.A,Talktime of Rs. 550 for Rs. 500 recharge by Aircel
+742,800,900,N.A,Talktime of Rs. 900 for Rs. 800 recharge by Aircel
+743,1000,1125,N.A,Talktime of Rs. 1125 for Rs. 1000 recharge by Aircel

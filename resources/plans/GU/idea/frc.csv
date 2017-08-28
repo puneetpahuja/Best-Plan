@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-9967,4,,90 days,Recharge of Rs. 4 by Idea,STD Mob: 25P/min -- Applicable to all new prepaid acquisitions within 15 days of activation -- Applicable only for new subscribers as FRC/SRC
-9968,153,,30 days,Recharge of Rs. 153 by Idea,1 GB 2G -- Overage: 4p/10kb -- Applicable only for new subscribers as FRC/SRC
+id,cost,talktime,validity,comments
+9967,4,,90 days,STD Mob: 25P/min -- Applicable to all new prepaid acquisitions within 15 days of activation -- Applicable only for new subscribers as FRC/SRC
+9968,153,,30 days,1 GB 2G -- Overage: 4p/10kb -- Applicable only for new subscribers as FRC/SRC

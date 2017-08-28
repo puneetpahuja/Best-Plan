@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-15820,9,,2 days,Recharge of Rs. 9 by Uninor,60 MB Data & 20p/20Kb (Free night 2G data between 12 Am to 6 Am for 2 day)
-15821,14,,3 days,Recharge of Rs. 14 by Uninor,200 MB Data & 20p/20Kb (Free night 2G data between 12 Am to 6 Am for 3 day)
-15822,16,,14 days,Recharge of Rs. 16 by Uninor,100 MB Data & 20p/20Kb (Free night 2G data between 12 Am to 6 Am)
-15823,23,,7 days,Recharge of Rs. 23 by Uninor,350 MB Data & 20p/20Kb (Free night 2G data between 12 Am to 6 Am)
-15824,26,,28 days,Recharge of Rs. 26 by Uninor,150 MB data & 20p/20Kb (Free night 2G data between 12 Am to 6 Am)
-15825,39,,28 days,Recharge of Rs. 39 by Uninor,300 MB Data & 20p/20Kb (Free night 2G data between 12 Am to 6 Am)
-15826,47,,21 days,Recharge of Rs. 47 by Uninor,500 MB data & 20p/20Kb (Free night 2G data between 12 Am to 6 Am)
-15827,89,,28 days,Recharge of Rs. 89 by Uninor,1 GB Data & Free night 2G data between 12 Am to 6 Am 
-15828,98,,28 days,Recharge of Rs. 98 by Uninor,1.5 GB Data & Free night 2G data between 12 Am to 6 Am 
+id,cost,talktime,validity,comments
+15820,9,,2 days,60 MB Data & 20p/20Kb (Free night 2G data between 12 Am to 6 Am for 2 day)
+15821,14,,3 days,200 MB Data & 20p/20Kb (Free night 2G data between 12 Am to 6 Am for 3 day)
+15822,16,,14 days,100 MB Data & 20p/20Kb (Free night 2G data between 12 Am to 6 Am)
+15823,23,,7 days,350 MB Data & 20p/20Kb (Free night 2G data between 12 Am to 6 Am)
+15824,26,,28 days,150 MB data & 20p/20Kb (Free night 2G data between 12 Am to 6 Am)
+15825,39,,28 days,300 MB Data & 20p/20Kb (Free night 2G data between 12 Am to 6 Am)
+15826,47,,21 days,500 MB data & 20p/20Kb (Free night 2G data between 12 Am to 6 Am)
+15827,89,,28 days,1 GB Data & Free night 2G data between 12 Am to 6 Am 
+15828,98,,28 days,1.5 GB Data & Free night 2G data between 12 Am to 6 Am 

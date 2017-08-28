@@ -1,15 +1,15 @@
-id,cost,talktime,validity,short description,long description
-12320,5,,7 days,Recharge of Rs. 5 by Idea,All Call @1 P/sec
-12321,7,,10 days,Recharge of Rs. 7 by Idea,All Call @1 P/sec
-12322,15,,5 days,Recharge of Rs. 15 by Idea,Local Idea to Idea Mobile Calls @ 10p/min
-12323,17,,28 days,Recharge of Rs. 17 by Idea,All Call 1 P/sec
-12324,23,,28 days,Recharge of Rs. 23 by Idea,Local Mobile Calls @ 30p/min
-12325,29,,28 days,Recharge of Rs. 29 by Idea,Local Idea to Idea Mobile Calls @10p/min
-12326,32,,28 days,Recharge of Rs. 32 by Idea,Local Mobile Calls @ 25p/min
-12327,38,,28 days,Recharge of Rs. 38 by Idea,Local and STD Mobile Calls @ 30p/min
-12328,39,,28 days,Recharge of Rs. 39 by Idea,Local I2I @10p/min & Local Mobile Others @ 30p/min
-12329,78,,28 days,Recharge of Rs. 78 by Idea,Unlimited Local Idea to Idea Night Calls (11 pm to 6 am)
-12330,96,,14 days,Recharge of Rs. 96 by Idea,"Unlimited Local + National Idea to Idea Calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable -- This STV should not be used for any commercial activity. "
-12331,97,,28 days,Recharge of Rs. 97 by Idea,400 Local & STD Mobile Minutes
-12332,197,,15 days,Recharge of Rs. 197 by Idea,"Unlimited Local Calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable -- Get 5% Additional Talktime of MRP on recharges done exclusively on My Idea App and Idea Website -- This STV should not be used for any commercial activity."
-12333,198,,7 days,Recharge of Rs. 198 by Idea,"Unlimited Local and STD Calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable.  -- This STV should not be used for any commercial activity."
+id,cost,talktime,validity,comments
+12320,5,,7 days,All Call @1 P/sec
+12321,7,,10 days,All Call @1 P/sec
+12322,15,,5 days,Local Idea to Idea Mobile Calls @ 10p/min
+12323,17,,28 days,All Call 1 P/sec
+12324,23,,28 days,Local Mobile Calls @ 30p/min
+12325,29,,28 days,Local Idea to Idea Mobile Calls @10p/min
+12326,32,,28 days,Local Mobile Calls @ 25p/min
+12327,38,,28 days,Local and STD Mobile Calls @ 30p/min
+12328,39,,28 days,Local I2I @10p/min & Local Mobile Others @ 30p/min
+12329,78,,28 days,Unlimited Local Idea to Idea Night Calls (11 pm to 6 am)
+12330,96,,14 days,"Unlimited Local + National Idea to Idea Calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable -- This STV should not be used for any commercial activity. "
+12331,97,,28 days,400 Local & STD Mobile Minutes
+12332,197,,15 days,"Unlimited Local Calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable -- Get 5% Additional Talktime of MRP on recharges done exclusively on My Idea App and Idea Website -- This STV should not be used for any commercial activity."
+12333,198,,7 days,"Unlimited Local and STD Calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable.  -- This STV should not be used for any commercial activity."

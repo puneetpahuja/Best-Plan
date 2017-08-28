@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-14550,14,,7 days,Recharge of Rs. 14 by RelianceGSM,150 Local/National SMS
-14551,39,,30 days,Recharge of Rs. 39 by RelianceGSM,500 Local/National SMS
+id,cost,talktime,validity,comments
+14550,14,,7 days,150 Local/National SMS
+14551,39,,30 days,500 Local/National SMS

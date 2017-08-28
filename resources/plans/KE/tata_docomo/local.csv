@@ -1,22 +1,22 @@
-id,cost,talktime,validity,short description,long description
-8190,14,,21 days,Recharge of Rs. 14 by Docomo,Local On-Net mobile calls @ 10p/min
-8191,19,,28 days,Recharge of Rs. 19 by Docomo,Local mobile calls @ 30p/ min
-8192,24,,45 days,Recharge of Rs. 24 by Docomo,Local On-Net mobile calls @ 20p/ min -- Local Off-Net mobile calls @ 35p/ min
-8193,32,,28 days,Recharge of Rs. 32 by Docomo,Local On-Net mobile calls @ 10p/ min -- Local Off-Net mobile calls @ 30p/ min
-8194,34,,70 days,Recharge of Rs. 34 by Docomo,Local mobile calls @ 30p/ min
-8195,36,,28 days,Recharge of Rs. 36 by Docomo,Local/STD Mobile calls @ 30ps/min
-8196,44,,28 days,Recharge of Rs. 44 by Docomo,All Local On-Net & Off-Net calls @25ps/min
-8197,53,,14 days,Recharge of Rs. 53 by Docomo,60000 Local On-Net Secs
-8198,55,,14 days,Recharge of Rs. 55 by Docomo,100 Local + STD Mins
-8199,56,,28 days,Recharge of Rs. 56 by Docomo,All Local and STD On-Net & Off-Net calls @ 1p/2 sec
-8200,66,,28 days,Recharge of Rs. 66 by Docomo,Local/STD Mobile calls @ 25ps/min
-8201,71,,60 days,Recharge of Rs. 71 by Docomo,Local/STD Mobile calls @30p/min
-8202,88,,30 days,Recharge of Rs. 88 by Docomo,100000 Local On-Net Secs
-8203,92,,60 days,Recharge of Rs. 92 by Docomo,All Local and STD calls @ 1p/2 sec
-8204,123,,28 days,Recharge of Rs. 123 by Docomo,Unlimited Local On-Net mobile calls free (6-10pm @ 1p/sec)
-8205,148,,14 days,Recharge of Rs. 148 by Docomo,600 mins of usage in Local and STD calls 
-8206,155,,25 days,Recharge of Rs. 155 by Docomo,380 Local/STD Minutes
-8207,183,,30 days,Recharge of Rs. 183 by Docomo,600 Local On-Net Mins; 400 Local mins
-8208,190,,30 days,Recharge of Rs. 190 by Docomo,550 Local Mins
-8209,198,,30 days,Recharge of Rs. 198 by Docomo,490 Local/STD minutes
-8210,246,,28 days,Recharge of Rs. 246 by Docomo,1000 mins of usage in Local and STD calls
+id,cost,talktime,validity,comments
+8190,14,,21 days,Local On-Net mobile calls @ 10p/min
+8191,19,,28 days,Local mobile calls @ 30p/ min
+8192,24,,45 days,Local On-Net mobile calls @ 20p/ min -- Local Off-Net mobile calls @ 35p/ min
+8193,32,,28 days,Local On-Net mobile calls @ 10p/ min -- Local Off-Net mobile calls @ 30p/ min
+8194,34,,70 days,Local mobile calls @ 30p/ min
+8195,36,,28 days,Local/STD Mobile calls @ 30ps/min
+8196,44,,28 days,All Local On-Net & Off-Net calls @25ps/min
+8197,53,,14 days,60000 Local On-Net Secs
+8198,55,,14 days,100 Local + STD Mins
+8199,56,,28 days,All Local and STD On-Net & Off-Net calls @ 1p/2 sec
+8200,66,,28 days,Local/STD Mobile calls @ 25ps/min
+8201,71,,60 days,Local/STD Mobile calls @30p/min
+8202,88,,30 days,100000 Local On-Net Secs
+8203,92,,60 days,All Local and STD calls @ 1p/2 sec
+8204,123,,28 days,Unlimited Local On-Net mobile calls free (6-10pm @ 1p/sec)
+8205,148,,14 days,600 mins of usage in Local and STD calls 
+8206,155,,25 days,380 Local/STD Minutes
+8207,183,,30 days,600 Local On-Net Mins; 400 Local mins
+8208,190,,30 days,550 Local Mins
+8209,198,,30 days,490 Local/STD minutes
+8210,246,,28 days,1000 mins of usage in Local and STD calls

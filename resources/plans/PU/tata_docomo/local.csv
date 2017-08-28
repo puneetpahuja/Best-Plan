@@ -1,37 +1,37 @@
-id,cost,talktime,validity,short description,long description
-8751,9,,1 day,Recharge of Rs. 9 by Docomo,Unlimited Local On-net mobile calls  -- 
-8752,14,,28 days,Recharge of Rs. 14 by Docomo,Local & STD On-net Mobile calls@15p/min -- Not Applicable in Amritsar & Ludhiana & Other ICR Locations.
-8753,16,,5 days,Recharge of Rs. 16 by Docomo,Local On-Net mobile calls @ 10p/min
-8754,25,,15 days,Recharge of Rs. 25 by Docomo,All Local & STD mobile calls @ 25p/min
-8755,27,,28 days,Recharge of Rs. 27 by Docomo,Local On-net & Off-Net Mobile calls@36p/min
-8756,29,,28 days,Recharge of Rs. 29 by Docomo,Local On-Net mobile calls @ 1.7p/ sec. -- Local Off-Net mobile calls @ 1.7p/ sec. -- STD On-Net mobile calls @ 30p/ min. -- STD Off-Net mobile calls @ 30p/ min.
-8757,31,,28 days,Recharge of Rs. 31 by Docomo,All Local & STD Mobile calls @ 30p/ min. -- Local/STD Mobile calls @ 30p/ min.
-8758,32,,56 days,Recharge of Rs. 32 by Docomo,Local On-Net mobile calls @ 30p/ min. -- Local Off-Net mobile calls @ 30p/ min. -- STD On-Net mobile calls @ 1.7p/ sec. -- STD Off-Net mobile calls @ 1.7p/ sec.
-8759,35,,28 days,Recharge of Rs. 35 by Docomo,Local On-net Mobile calls@10p/min
-8760,44,,7 days,Recharge of Rs. 44 by Docomo,Unlimited Local & STD Onnet Calls -- Local On-Net mobile calls @ Unlimited -- STD On-Net mobile calls @ Unlimited
-8761,45,,28 days,Recharge of Rs. 45 by Docomo,All Local & STD mobile calls @ 25p/min
-8762,55,,56 days,Recharge of Rs. 55 by Docomo,All Local & STD mobile calls @ 30p/min
-8763,59,,28 days,Recharge of Rs. 59 by Docomo,ISD calls to: ISD USA/Canada @ 4p/sec (Upto 450 Mins) All Local & STD calls @ 1.2p/ sec
-8764,61,,84 days,Recharge of Rs. 61 by Docomo,Local On-net & Off-Net Mobile calls@36p/min -- Tariff for all STD mobile calls (On-Net & Off-Net) @ 1.6p/ sec. & all Local/ STD Landline calls (On-Net & Off-Net) @ 2p/ sec
-8765,64,,28 days,Recharge of Rs. 64 by Docomo,"24,000 secs. (400 mins.) Local On-Net calling"
-8766,66,,28 days,Recharge of Rs. 66 by Docomo,"Local On-net Mobile calls@10p/min Local Off-net Mobile calls, STD On-Net & Off-Net calls @30p/min  -- Not Applicable in Amritsar & Ludhiana & Other ICR Locations."
-8767,68,,21 days,Recharge of Rs. 68 by Docomo,150 Local & STD Mins
-8768,81,,84 days,Recharge of Rs. 81 by Docomo,All Local & STD Mobile calls @36p/min
-8769,82,,28 days,Recharge of Rs. 82 by Docomo,650 Local On-Net call minutes
-8770,85,,28 days,Recharge of Rs. 85 by Docomo,Unlimited free Local On-Net mobile calls from 11pm to 5pm -- All Local Off-Net mobile calls @ 30p/ min -- STD On-Net mobile calls @ 15p/ min. -- STD Off-Net mobile calls @ 30p/ min -- Not Applicable in Amritsar & Ludhiana & Other ICR Locations.
-8771,92,,90 days,Recharge of Rs. 92 by Docomo,Local On-Net mobile calls @ 10p/ min. & Local Off-Net mobile calls @ 30p/ min. -- Not Applicable in Amritsar & Ludhiana & Other ICR Locations.
-8772,96,,28 days,Recharge of Rs. 96 by Docomo,240 Local & STD Mins
-8773,97,,21 days,Recharge of Rs. 97 by Docomo,200 mins. valid for Local calls
-8774,103,,28 days,Recharge of Rs. 103 by Docomo,3000 Local & STD On-Net Mins
-8775,108,,10 days,Recharge of Rs. 108 by Docomo,Unlimited Local On-net mobile calls
-8776,123,,28 days,Recharge of Rs. 123 by Docomo,Unlimited Local & STD Onnet Calls
-8777,149,,15 days,Recharge of Rs. 149 by Docomo,Unlimited Local On-net mobile calls 
-8778,157,,28 days,Recharge of Rs. 157 by Docomo,360 Local & STD Mins
-8779,163,,28 days,Recharge of Rs. 163 by Docomo,Unlimited Local On-net mobile calls -- Local On-Net mobile calls @ Unlimited Local On-net mobile calls
-8780,195,,28 days,Recharge of Rs. 195 by Docomo,500 Local mins
-8781,197,,28 days,Recharge of Rs. 197 by Docomo,2200 Local On-Net mins -- Not Applicable in Amritsar & Ludhiana & Other ICR Locations.
-8782,199,,28 days,Recharge of Rs. 199 by Docomo,580 Local & STD Mins
-8783,246,,28 days,Recharge of Rs. 246 by Docomo,"1000 mins of usage for Local & STD calls, post 1000 mins Local & STD calls @ 30p/m "
-8784,248,,28 days,Recharge of Rs. 248 by Docomo,Unlimited Local On-net mobile calls STD On-Net calls @ 10p/ min
-8785,298,,28 days,Recharge of Rs. 298 by Docomo,"1500 mins of usage for Local & STD calls, post 1500 mins Local & STD calls @ 30p/m "
-8786,666,,28 days,Recharge of Rs. 666 by Docomo,2500 Local mins
+id,cost,talktime,validity,comments
+8751,9,,1 day,Unlimited Local On-net mobile calls  -- 
+8752,14,,28 days,Local & STD On-net Mobile calls@15p/min -- Not Applicable in Amritsar & Ludhiana & Other ICR Locations.
+8753,16,,5 days,Local On-Net mobile calls @ 10p/min
+8754,25,,15 days,All Local & STD mobile calls @ 25p/min
+8755,27,,28 days,Local On-net & Off-Net Mobile calls@36p/min
+8756,29,,28 days,Local On-Net mobile calls @ 1.7p/ sec. -- Local Off-Net mobile calls @ 1.7p/ sec. -- STD On-Net mobile calls @ 30p/ min. -- STD Off-Net mobile calls @ 30p/ min.
+8757,31,,28 days,All Local & STD Mobile calls @ 30p/ min. -- Local/STD Mobile calls @ 30p/ min.
+8758,32,,56 days,Local On-Net mobile calls @ 30p/ min. -- Local Off-Net mobile calls @ 30p/ min. -- STD On-Net mobile calls @ 1.7p/ sec. -- STD Off-Net mobile calls @ 1.7p/ sec.
+8759,35,,28 days,Local On-net Mobile calls@10p/min
+8760,44,,7 days,Unlimited Local & STD Onnet Calls -- Local On-Net mobile calls @ Unlimited -- STD On-Net mobile calls @ Unlimited
+8761,45,,28 days,All Local & STD mobile calls @ 25p/min
+8762,55,,56 days,All Local & STD mobile calls @ 30p/min
+8763,59,,28 days,ISD calls to: ISD USA/Canada @ 4p/sec (Upto 450 Mins) All Local & STD calls @ 1.2p/ sec
+8764,61,,84 days,Local On-net & Off-Net Mobile calls@36p/min -- Tariff for all STD mobile calls (On-Net & Off-Net) @ 1.6p/ sec. & all Local/ STD Landline calls (On-Net & Off-Net) @ 2p/ sec
+8765,64,,28 days,"24,000 secs. (400 mins.) Local On-Net calling"
+8766,66,,28 days,"Local On-net Mobile calls@10p/min Local Off-net Mobile calls, STD On-Net & Off-Net calls @30p/min  -- Not Applicable in Amritsar & Ludhiana & Other ICR Locations."
+8767,68,,21 days,150 Local & STD Mins
+8768,81,,84 days,All Local & STD Mobile calls @36p/min
+8769,82,,28 days,650 Local On-Net call minutes
+8770,85,,28 days,Unlimited free Local On-Net mobile calls from 11pm to 5pm -- All Local Off-Net mobile calls @ 30p/ min -- STD On-Net mobile calls @ 15p/ min. -- STD Off-Net mobile calls @ 30p/ min -- Not Applicable in Amritsar & Ludhiana & Other ICR Locations.
+8771,92,,90 days,Local On-Net mobile calls @ 10p/ min. & Local Off-Net mobile calls @ 30p/ min. -- Not Applicable in Amritsar & Ludhiana & Other ICR Locations.
+8772,96,,28 days,240 Local & STD Mins
+8773,97,,21 days,200 mins. valid for Local calls
+8774,103,,28 days,3000 Local & STD On-Net Mins
+8775,108,,10 days,Unlimited Local On-net mobile calls
+8776,123,,28 days,Unlimited Local & STD Onnet Calls
+8777,149,,15 days,Unlimited Local On-net mobile calls 
+8778,157,,28 days,360 Local & STD Mins
+8779,163,,28 days,Unlimited Local On-net mobile calls -- Local On-Net mobile calls @ Unlimited Local On-net mobile calls
+8780,195,,28 days,500 Local mins
+8781,197,,28 days,2200 Local On-Net mins -- Not Applicable in Amritsar & Ludhiana & Other ICR Locations.
+8782,199,,28 days,580 Local & STD Mins
+8783,246,,28 days,"1000 mins of usage for Local & STD calls, post 1000 mins Local & STD calls @ 30p/m "
+8784,248,,28 days,Unlimited Local On-net mobile calls STD On-Net calls @ 10p/ min
+8785,298,,28 days,"1500 mins of usage for Local & STD calls, post 1500 mins Local & STD calls @ 30p/m "
+8786,666,,28 days,2500 Local mins

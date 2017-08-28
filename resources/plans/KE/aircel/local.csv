@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-625,19,,30 days,Recharge of Rs. 19 by Aircel,All Local+ STD mobile @ 1ps/sec
-626,39,,30 days,Recharge of Rs. 39 by Aircel,All Local+ STD mobile 30ps/min
-627,41,,30 days,Recharge of Rs. 41 by Aircel,Unlimited Onnet Calls (STD + Local)
-628,49,,30 days,Recharge of Rs. 49 by Aircel,"Local A2A @ 10p/Min, Local Off net @ 30ps/min"
-629,52,,90 days,Recharge of Rs. 52 by Aircel,All Local+ STD mobile @ 1ps/sec
-630,132,,90 days,Recharge of Rs. 132 by Aircel,"Local A2A @ 10p/Min, Local Off net @ 30ps/min"
+id,cost,talktime,validity,comments
+625,19,,30 days,All Local+ STD mobile @ 1ps/sec
+626,39,,30 days,All Local+ STD mobile 30ps/min
+627,41,,30 days,Unlimited Onnet Calls (STD + Local)
+628,49,,30 days,"Local A2A @ 10p/Min, Local Off net @ 30ps/min"
+629,52,,90 days,All Local+ STD mobile @ 1ps/sec
+630,132,,90 days,"Local A2A @ 10p/Min, Local Off net @ 30ps/min"

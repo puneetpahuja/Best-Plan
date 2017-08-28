@@ -1,28 +1,28 @@
-id,cost,talktime,validity,short description,long description
-13155,10,7.7,N.A,Recharge of Rs. 10 by RelianceGSM,Talktime of Rs. 7.7 for Rs. 10 recharge by Reliance GSM
-13157,20,15.39,N.A,Recharge of Rs. 20 by RelianceGSM,Talktime of Rs. 15.39 for Rs. 20 recharge by Reliance GSM
-13158,30,23.09,N.A,Recharge of Rs. 30 by RelianceGSM,Talktime of Rs. 23.09 for Rs. 30 recharge by Reliance GSM
-13160,50,40.48,N.A,Recharge of Rs. 50 by RelianceGSM,Talktime of Rs. 40.48 for Rs. 50 recharge by Reliance GSM
-13163,60,49.17,N.A,Recharge of Rs. 60 by RelianceGSM,Talktime of Rs. 49.17 for Rs. 60 recharge by Reliance GSM
-13165,70,57.87,N.A,Recharge of Rs. 70 by RelianceGSM,Talktime of Rs. 57.87 for Rs. 70 recharge by Reliance GSM
-13166,90,75.26,N.A,Recharge of Rs. 90 by RelianceGSM,Talktime of Rs. 75.26 for Rs. 90 recharge by Reliance GSM
-13167,100,83.96,N.A,Recharge of Rs. 100 by RelianceGSM,Talktime of Rs. 83.96 for Rs. 100 recharge by Reliance GSM
-13168,150,127.43,N.A,Recharge of Rs. 150 by RelianceGSM,Talktime of Rs. 127.43 for Rs. 150 recharge by Reliance GSM
-13169,200,170.91,N.A,Recharge of Rs. 200 by RelianceGSM,Talktime of Rs. 170.91 for Rs. 200 recharge by Reliance GSM
-13170,210,179.61,N.A,Recharge of Rs. 210 by RelianceGSM,Talktime of Rs. 179.61 for Rs. 210 recharge by Reliance GSM
-13171,220,188.3,N.A,Recharge of Rs. 220 by RelianceGSM,Talktime of Rs. 188.3 for Rs. 220 recharge by Reliance GSM
-13173,250,214.39,N.A,Recharge of Rs. 250 by RelianceGSM,Talktime of Rs. 214.39 for Rs. 250 recharge by Reliance GSM
-13174,300,257.87,N.A,Recharge of Rs. 300 by RelianceGSM,Talktime of Rs. 257.87 for Rs. 300 recharge by Reliance GSM
-13175,330,283.96,N.A,Recharge of Rs. 330 by RelianceGSM,Talktime of Rs. 283.96 for Rs. 330 recharge by Reliance GSM
-13176,350,301.35,N.A,Recharge of Rs. 350 by RelianceGSM,Talktime of Rs. 301.35 for Rs. 350 recharge by Reliance GSM
-13179,550,475.26,N.A,Recharge of Rs. 550 by RelianceGSM,Talktime of Rs. 475.26 for Rs. 550 recharge by Reliance GSM
-13180,750,649.17,N.A,Recharge of Rs. 750 by RelianceGSM,Talktime of Rs. 649.17 for Rs. 750 recharge by Reliance GSM
-13181,770,666.57,N.A,Recharge of Rs. 770 by RelianceGSM,Talktime of Rs. 666.57 for Rs. 770 recharge by Reliance GSM
-13182,1000,866.57,N.A,Recharge of Rs. 1000 by RelianceGSM,Talktime of Rs. 866.57 for Rs. 1000 recharge by Reliance GSM
-13183,1050,910.04,N.A,Recharge of Rs. 1050 by RelianceGSM,Talktime of Rs. 910.04 for Rs. 1050 recharge by Reliance GSM
-13184,1100,953.52,N.A,Recharge of Rs. 1100 by RelianceGSM,Talktime of Rs. 953.52 for Rs. 1100 recharge by Reliance GSM
-13185,1200,1040.48,N.A,Recharge of Rs. 1200 by RelianceGSM,Talktime of Rs. 1040.48 for Rs. 1200 recharge by Reliance GSM
-13186,4200,3649.17,N.A,Recharge of Rs. 4200 by RelianceGSM,Talktime of Rs. 3649.17 for Rs. 4200 recharge by Reliance GSM
-13187,4500,3910.04,N.A,Recharge of Rs. 4500 by RelianceGSM,Talktime of Rs. 3910.04 for Rs. 4500 recharge by Reliance GSM
-13188,5500,4779.61,N.A,Recharge of Rs. 5500 by RelianceGSM,Talktime of Rs. 4779.61 for Rs. 5500 recharge by Reliance GSM
-13189,7000,6083.96,N.A,Recharge of Rs. 7000 by RelianceGSM,Talktime of Rs. 6083.96 for Rs. 7000 recharge by Reliance GSM
+id,cost,talktime,validity,comments
+13155,10,7.7,N.A,Talktime of Rs. 7.7 for Rs. 10 recharge by Reliance GSM
+13157,20,15.39,N.A,Talktime of Rs. 15.39 for Rs. 20 recharge by Reliance GSM
+13158,30,23.09,N.A,Talktime of Rs. 23.09 for Rs. 30 recharge by Reliance GSM
+13160,50,40.48,N.A,Talktime of Rs. 40.48 for Rs. 50 recharge by Reliance GSM
+13163,60,49.17,N.A,Talktime of Rs. 49.17 for Rs. 60 recharge by Reliance GSM
+13165,70,57.87,N.A,Talktime of Rs. 57.87 for Rs. 70 recharge by Reliance GSM
+13166,90,75.26,N.A,Talktime of Rs. 75.26 for Rs. 90 recharge by Reliance GSM
+13167,100,83.96,N.A,Talktime of Rs. 83.96 for Rs. 100 recharge by Reliance GSM
+13168,150,127.43,N.A,Talktime of Rs. 127.43 for Rs. 150 recharge by Reliance GSM
+13169,200,170.91,N.A,Talktime of Rs. 170.91 for Rs. 200 recharge by Reliance GSM
+13170,210,179.61,N.A,Talktime of Rs. 179.61 for Rs. 210 recharge by Reliance GSM
+13171,220,188.3,N.A,Talktime of Rs. 188.3 for Rs. 220 recharge by Reliance GSM
+13173,250,214.39,N.A,Talktime of Rs. 214.39 for Rs. 250 recharge by Reliance GSM
+13174,300,257.87,N.A,Talktime of Rs. 257.87 for Rs. 300 recharge by Reliance GSM
+13175,330,283.96,N.A,Talktime of Rs. 283.96 for Rs. 330 recharge by Reliance GSM
+13176,350,301.35,N.A,Talktime of Rs. 301.35 for Rs. 350 recharge by Reliance GSM
+13179,550,475.26,N.A,Talktime of Rs. 475.26 for Rs. 550 recharge by Reliance GSM
+13180,750,649.17,N.A,Talktime of Rs. 649.17 for Rs. 750 recharge by Reliance GSM
+13181,770,666.57,N.A,Talktime of Rs. 666.57 for Rs. 770 recharge by Reliance GSM
+13182,1000,866.57,N.A,Talktime of Rs. 866.57 for Rs. 1000 recharge by Reliance GSM
+13183,1050,910.04,N.A,Talktime of Rs. 910.04 for Rs. 1050 recharge by Reliance GSM
+13184,1100,953.52,N.A,Talktime of Rs. 953.52 for Rs. 1100 recharge by Reliance GSM
+13185,1200,1040.48,N.A,Talktime of Rs. 1040.48 for Rs. 1200 recharge by Reliance GSM
+13186,4200,3649.17,N.A,Talktime of Rs. 3649.17 for Rs. 4200 recharge by Reliance GSM
+13187,4500,3910.04,N.A,Talktime of Rs. 3910.04 for Rs. 4500 recharge by Reliance GSM
+13188,5500,4779.61,N.A,Talktime of Rs. 4779.61 for Rs. 5500 recharge by Reliance GSM
+13189,7000,6083.96,N.A,Talktime of Rs. 6083.96 for Rs. 7000 recharge by Reliance GSM

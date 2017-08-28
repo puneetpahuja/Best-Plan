@@ -1,17 +1,17 @@
-id,cost,talktime,validity,short description,long description
-16885,25,,14 days,Recharge of Rs. 25 by Vodafone,220 Local Vodafone mobile min(11PM-8AM)
-16886,36,,28 days,Recharge of Rs. 36 by Vodafone,Local Vodafone to Vodafone @ 30p/ min
-16887,41,,7 days,Recharge of Rs. 41 by Vodafone,Local Vodafone to Vodafone @ 15p/ min
-16888,42,,28 days,Recharge of Rs. 42 by Vodafone,All Local & STD outgoing calls in Gujarat and National Roaming @ 1paise/second -- FREE Incoming calls while on National roaming. SMS & ISD as per standard rates
-16889,43,,28 days,Recharge of Rs. 43 by Vodafone,Local Vodafone to Vodafone @ 20p/ min
-16890,44,,50 days,Recharge of Rs. 44 by Vodafone,Local Mobile calls @ 30p/min
-16891,53,,28 days,Recharge of Rs. 53 by Vodafone,Local Vodafone to Vodafone @ 10p/ min
-16892,64,,45 days,Recharge of Rs. 64 by Vodafone,Local Vodafone to Vodafone @ 20p/ min
-16893,65,,35 days,Recharge of Rs. 65 by Vodafone,Local Vodafone to Vodafone @ 10p/ min
-16894,79,,95 days,Recharge of Rs. 79 by Vodafone,All Local mobile calls @30p/min
-16895,85,,28 days,Recharge of Rs. 85 by Vodafone,Vodafone to Vodafone@ 10p/min and Local Mobile Call@ 30p/min
-16896,94,,115 days,Recharge of Rs. 94 by Vodafone,All Local mobile calls @30p/min
-16897,109,,28 days,Recharge of Rs. 109 by Vodafone,200 Local Mobile Minute
-16898,126,,30 days,Recharge of Rs. 126 by Vodafone,275 Local+STD Mobile Minute
-16899,139,,75 days,Recharge of Rs. 139 by Vodafone,Local Vodafone to Vodafone @ 10p/ min
-16900,224,,28 days,Recharge of Rs. 224 by Vodafone,535 Local Mobile Minute
+id,cost,talktime,validity,comments
+16885,25,,14 days,220 Local Vodafone mobile min(11PM-8AM)
+16886,36,,28 days,Local Vodafone to Vodafone @ 30p/ min
+16887,41,,7 days,Local Vodafone to Vodafone @ 15p/ min
+16888,42,,28 days,All Local & STD outgoing calls in Gujarat and National Roaming @ 1paise/second -- FREE Incoming calls while on National roaming. SMS & ISD as per standard rates
+16889,43,,28 days,Local Vodafone to Vodafone @ 20p/ min
+16890,44,,50 days,Local Mobile calls @ 30p/min
+16891,53,,28 days,Local Vodafone to Vodafone @ 10p/ min
+16892,64,,45 days,Local Vodafone to Vodafone @ 20p/ min
+16893,65,,35 days,Local Vodafone to Vodafone @ 10p/ min
+16894,79,,95 days,All Local mobile calls @30p/min
+16895,85,,28 days,Vodafone to Vodafone@ 10p/min and Local Mobile Call@ 30p/min
+16896,94,,115 days,All Local mobile calls @30p/min
+16897,109,,28 days,200 Local Mobile Minute
+16898,126,,30 days,275 Local+STD Mobile Minute
+16899,139,,75 days,Local Vodafone to Vodafone @ 10p/ min
+16900,224,,28 days,535 Local Mobile Minute

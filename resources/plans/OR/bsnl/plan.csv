@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-6602,35,,180 days,Recharge of Rs. 35 by BSNL,Plan Migration: MNP_35
-6603,36,,180 days,Recharge of Rs. 36 by BSNL,Plan Migration: PerSec
-6604,37,,180 days,Recharge of Rs. 37 by BSNL,Plan: PerMin
-6605,49,,180 days,Recharge of Rs. 49 by BSNL,Plan: PV_49
-6606,75,,180 days,Recharge of Rs. 75 by BSNL,Plan: Pyari Jodi 75
-6607,99,,30 days,Recharge of Rs. 99 by BSNL,Plan: Jai_Jawan_99
-6608,666,,180 days,Recharge of Rs. 666 by BSNL,"PV-666 BSNL SIXER: Unlimited data (Speed reduced to 80 Kbps after 2GB/day) + Unlimited voice calls for 60 days. -- After 60 days: ALL calls (Local/STD) (On-net/Off-net) @ 50 Paisa/Minute -- SMS (while in Home & National Roaming): Local @25 Paisa/SMS, National @35 Paisa/SMS -- All other charges As per Per Minute plan"
+id,cost,talktime,validity,comments
+6602,35,,180 days,Plan Migration: MNP_35
+6603,36,,180 days,Plan Migration: PerSec
+6604,37,,180 days,Plan: PerMin
+6605,49,,180 days,Plan: PV_49
+6606,75,,180 days,Plan: Pyari Jodi 75
+6607,99,,30 days,Plan: Jai_Jawan_99
+6608,666,,180 days,"PV-666 BSNL SIXER: Unlimited data (Speed reduced to 80 Kbps after 2GB/day) + Unlimited voice calls for 60 days. -- After 60 days: ALL calls (Local/STD) (On-net/Off-net) @ 50 Paisa/Minute -- SMS (while in Home & National Roaming): Local @25 Paisa/SMS, National @35 Paisa/SMS -- All other charges As per Per Minute plan"

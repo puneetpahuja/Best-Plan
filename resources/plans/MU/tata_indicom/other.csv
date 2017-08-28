@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-15407,72,72,10 days,Recharge of Rs. 72 by Indicom,60 secs for Local On-Net calls.
-15433,298,,28 days,Recharge of Rs. 298 by Indicom,Unlimited All India Calls (Local +STD) -- 1 GB 2G Data
-15434,348,,28 days,Recharge of Rs. 348 by Indicom,Unlimited All India Calls (Local +STD) -- 2 GB 2G Data
+id,cost,talktime,validity,comments
+15407,72,72,10 days,60 secs for Local On-Net calls.
+15433,298,,28 days,Unlimited All India Calls (Local +STD) -- 1 GB 2G Data
+15434,348,,28 days,Unlimited All India Calls (Local +STD) -- 2 GB 2G Data

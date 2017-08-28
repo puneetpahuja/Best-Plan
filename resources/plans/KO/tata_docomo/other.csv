@@ -1,11 +1,11 @@
-id,cost,talktime,validity,short description,long description
-8216,21,21,N.A,Recharge of Rs. 21 by Docomo,20 Tata to Tata SMS
-8217,68,90,N.A,Recharge of Rs. 68 by Docomo,20 Tata to Tata SMS
-8220,222,222,28 days,Recharge of Rs. 222 by Docomo,Local On-Net mobile calls @ 35p/min -- Local Off-Net mobile calls @ 35p/min -- STD On-Net mobile calls @ 35p/min -- STD Off-Net mobile calls @ 35p/min
-8222,333,333,28 days,Recharge of Rs. 333 by Docomo,Local On-Net mobile calls @ 30p/min -- Local Off-Net mobile calls @ 30p/min -- STD On-Net mobile calls @ 30p/min -- STD Off-Net mobile calls @ 30p/min
-8230,71,51,15 days,Recharge of Rs. 71 by Docomo,Data: 250 MB
-8241,149,,28 days,Recharge of Rs. 149 by Docomo,"Unlimited Local & STD Tata to Tata mobile calls & 1 GB/Day (post 1GB/Day, VBC rate 10p/1MB will be applicable"
-8245,348,,28 days,Recharge of Rs. 348 by Docomo,Unltd (Loc+STD) calls --  2GB 2G Data -- Local On-Net mobile calls @ 30p/min -- Local Off-Net mobile calls @ 30p/min -- STD On-Net mobile calls @ 30p/min -- STD Off-Net mobile calls @ 30p/min
-8246,349,,28 days,Recharge of Rs. 349 by Docomo,24hrs Unlimited Local Tata Mobile calls + 50 other local mobile min -- 200 MB 2G Data
-8247,398,,28 days,Recharge of Rs. 398 by Docomo,24hrs Unlimited Local Tata Mobile calls + 300 other local mobile min --  500 MB 2G Data
-8249,299,,28 days,Recharge of Rs. 299 by Docomo,20hrs Unlimited Local On-Net Mobile calls daily (6pm to 10pm@1p/sec) -- 100 MB 2G data
+id,cost,talktime,validity,comments
+8216,21,21,N.A,20 Tata to Tata SMS
+8217,68,90,N.A,20 Tata to Tata SMS
+8220,222,222,28 days,Local On-Net mobile calls @ 35p/min -- Local Off-Net mobile calls @ 35p/min -- STD On-Net mobile calls @ 35p/min -- STD Off-Net mobile calls @ 35p/min
+8222,333,333,28 days,Local On-Net mobile calls @ 30p/min -- Local Off-Net mobile calls @ 30p/min -- STD On-Net mobile calls @ 30p/min -- STD Off-Net mobile calls @ 30p/min
+8230,71,51,15 days,Data: 250 MB
+8241,149,,28 days,"Unlimited Local & STD Tata to Tata mobile calls & 1 GB/Day (post 1GB/Day, VBC rate 10p/1MB will be applicable"
+8245,348,,28 days,Unltd (Loc+STD) calls --  2GB 2G Data -- Local On-Net mobile calls @ 30p/min -- Local Off-Net mobile calls @ 30p/min -- STD On-Net mobile calls @ 30p/min -- STD Off-Net mobile calls @ 30p/min
+8246,349,,28 days,24hrs Unlimited Local Tata Mobile calls + 50 other local mobile min -- 200 MB 2G Data
+8247,398,,28 days,24hrs Unlimited Local Tata Mobile calls + 300 other local mobile min --  500 MB 2G Data
+8249,299,,28 days,20hrs Unlimited Local On-Net Mobile calls daily (6pm to 10pm@1p/sec) -- 100 MB 2G data

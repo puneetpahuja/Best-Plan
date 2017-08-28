@@ -1,9 +1,9 @@
-id,cost,talktime,validity,short description,long description
-769,13,,1 day,Recharge of Rs. 13 by Aircel,55 MB Data -- Local/STD mobile calls@ 1p/s
-770,26,,3 days,Recharge of Rs. 26 by Aircel,120 MB Data -- Local/STD mobile calls@ 1p/s
-771,44,,7 days,Recharge of Rs. 44 by Aircel,200 MB Data -- Local/STD mobile calls@ 1p/s
-772,76,,14 days,Recharge of Rs. 76 by Aircel,400 MB Data -- Local/STD mobile calls@ 40p/min
-773,122,,30 days,Recharge of Rs. 122 by Aircel,500 MB Data -- Local/STD mobile calls@ 1p/s
-774,151,,28 days,Recharge of Rs. 151 by Aircel,Unlimited (reduced speed after 1 GB) + Local/STD mobile calls@ 1p/s
-775,155,,28 days,Recharge of Rs. 155 by Aircel,1 GB 3G Data -- Local/STD mobile calls @ 40p/min
-776,196,,30 days,Recharge of Rs. 196 by Aircel,1.3 GB Data -- Local/STD mobile calls@ 1p/s
+id,cost,talktime,validity,comments
+769,13,,1 day,55 MB Data -- Local/STD mobile calls@ 1p/s
+770,26,,3 days,120 MB Data -- Local/STD mobile calls@ 1p/s
+771,44,,7 days,200 MB Data -- Local/STD mobile calls@ 1p/s
+772,76,,14 days,400 MB Data -- Local/STD mobile calls@ 40p/min
+773,122,,30 days,500 MB Data -- Local/STD mobile calls@ 1p/s
+774,151,,28 days,Unlimited (reduced speed after 1 GB) + Local/STD mobile calls@ 1p/s
+775,155,,28 days,1 GB 3G Data -- Local/STD mobile calls @ 40p/min
+776,196,,30 days,1.3 GB Data -- Local/STD mobile calls@ 1p/s

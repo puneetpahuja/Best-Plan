@@ -1,9 +1,9 @@
-id,cost,talktime,validity,short description,long description
-8395,61,50,180 days,Recharge of Rs. 61 by Docomo,Local/STD Mobile calls @ 1p/2sec -- 350 MB 3G/2G data/month for 3 months (30 days) -- Applicable only for new subscribers as FRC/SRC
-8396,81,60,180 days,Recharge of Rs. 81 by Docomo,Local/STD Mobile calls @ 1p/2sec -- 350 MB 3G/2G data/month for 3 months (30 days) -- Applicable only for new subscribers as FRC/SRC
-8397,129,100,180 days,Recharge of Rs. 129 by Docomo,Local/STD Mobile calls @ 1p/2sec -- 350 MB 3G/2G data/month for 3 months (30 days) -- Applicable only for new subscribers as FRC/SRC
-8398,133,,30 days,Recharge of Rs. 133 by Docomo,"1050 MB 3G/2G Data in 3 months, 350 MB 3G Data on recharge day + 350 MB 3G data on 31st day + 350 MB 3G data on 61st day -- Applicable only for new subscribers as FRC/SRC"
-8399,155,,28 days,Recharge of Rs. 155 by Docomo,Data: 1.5GB -- Applicable only for new subscribers as FRC/SRC
-8400,201,,180 days,Recharge of Rs. 201 by Docomo,"5 Loc/STD mobile mins for 30 days,All Local/STD mobile calls @ 1p/2sec, 250MB 3G for 6 months, Data validity-30 days -- Local On-Net mobile calls @ 1p/2sec -- Local Off-Net mobile calls @ 1p/2sec -- STD On-Net mobile calls @ 1p/2sec -- STD Off-Net mobile calls @ 1p/2sec -- Local + STD Mins: 5 -- 250 MB 3G/2G data/month for 6 months,validity-30 days -- Applicable only for new subscribers as FRC/SRC"
-8401,248,,36 days,Recharge of Rs. 248 by Docomo,Unlimited Local Tata to Tata Mobile Calls -- Applicable only for new subscribers as FRC/SRC
-8402,249,40,28 days,Recharge of Rs. 249 by Docomo,"Local/STD Mobile calls @ 30p/min -- Data: 28 GB, 1GB/Day for 28 Days -- Applicable only for new subscribers as FRC/SRC"
+id,cost,talktime,validity,comments
+8395,61,50,180 days,Local/STD Mobile calls @ 1p/2sec -- 350 MB 3G/2G data/month for 3 months (30 days) -- Applicable only for new subscribers as FRC/SRC
+8396,81,60,180 days,Local/STD Mobile calls @ 1p/2sec -- 350 MB 3G/2G data/month for 3 months (30 days) -- Applicable only for new subscribers as FRC/SRC
+8397,129,100,180 days,Local/STD Mobile calls @ 1p/2sec -- 350 MB 3G/2G data/month for 3 months (30 days) -- Applicable only for new subscribers as FRC/SRC
+8398,133,,30 days,"1050 MB 3G/2G Data in 3 months, 350 MB 3G Data on recharge day + 350 MB 3G data on 31st day + 350 MB 3G data on 61st day -- Applicable only for new subscribers as FRC/SRC"
+8399,155,,28 days,Data: 1.5GB -- Applicable only for new subscribers as FRC/SRC
+8400,201,,180 days,"5 Loc/STD mobile mins for 30 days,All Local/STD mobile calls @ 1p/2sec, 250MB 3G for 6 months, Data validity-30 days -- Local On-Net mobile calls @ 1p/2sec -- Local Off-Net mobile calls @ 1p/2sec -- STD On-Net mobile calls @ 1p/2sec -- STD Off-Net mobile calls @ 1p/2sec -- Local + STD Mins: 5 -- 250 MB 3G/2G data/month for 6 months,validity-30 days -- Applicable only for new subscribers as FRC/SRC"
+8401,248,,36 days,Unlimited Local Tata to Tata Mobile Calls -- Applicable only for new subscribers as FRC/SRC
+8402,249,40,28 days,"Local/STD Mobile calls @ 30p/min -- Data: 28 GB, 1GB/Day for 28 Days -- Applicable only for new subscribers as FRC/SRC"

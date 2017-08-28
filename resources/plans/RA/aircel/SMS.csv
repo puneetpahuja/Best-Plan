@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-1047,19,,28 days,Recharge of Rs. 19 by Aircel,250 Local/National SMS
-1048,28,,28 days,Recharge of Rs. 28 by Aircel,400 Local/National SMS
-1049,43,,28 days,Recharge of Rs. 43 by Aircel,600 Local/National SMS
-1050,63,,28 days,Recharge of Rs. 63 by Aircel,1200 Local/National SMS
+id,cost,talktime,validity,comments
+1047,19,,28 days,250 Local/National SMS
+1048,28,,28 days,400 Local/National SMS
+1049,43,,28 days,600 Local/National SMS
+1050,63,,28 days,1200 Local/National SMS

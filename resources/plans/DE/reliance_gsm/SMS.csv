@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-12829,18,,28 days,Recharge of Rs. 18 by RelianceGSM,180 Local + National SMS
-12830,34,,28 days,Recharge of Rs. 34 by RelianceGSM,400 Local + National SMS
-12831,56,,28 days,Recharge of Rs. 56 by RelianceGSM,700 Local + National SMS
+id,cost,talktime,validity,comments
+12829,18,,28 days,180 Local + National SMS
+12830,34,,28 days,400 Local + National SMS
+12831,56,,28 days,700 Local + National SMS

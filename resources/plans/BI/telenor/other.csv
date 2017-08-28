@@ -1,17 +1,17 @@
-id,cost,talktime,validity,short description,long description
-15785,75,77,7 days,Recharge of Rs. 75 by Uninor,10 Telenor to Telenor Local Night Minutes 
-15788,222,240,7 days,Recharge of Rs. 222 by Uninor,50 Telenor to Telenor Local Night Minutes
-15794,25,19.19,7 days,Recharge of Rs. 25 by Uninor,5 Telenor to Telenor Local Night Minutes 
-15800,118,30,28 days,Recharge of Rs. 118 by Uninor,Unlimited Local Telenor to Telenor Calls
-15802,144,45,28 days,Recharge of Rs. 144 by Uninor,Unlimited Local Telenor to Telenor Calls
-15807,319,50,90 days,Recharge of Rs. 319 by Uninor,Unlimited Local Telenor to Telenor Calling every month for 3 months
-15809,32,12,28 days,Recharge of Rs. 32 by Uninor,All local calls @25p/min
-15810,46,26,28 days,Recharge of Rs. 46 by Uninor,"Canada (Excluding Premium & Spl.), Malaysia (Fixed), France (Fixed), Hungary (Fixed), Italy (Fixed), Sweden (Fixed), Ireland (Fixed), Romania (Fixed) calls @1p/secUSA calls @2p/secBangladesh calls @3p/secSaudi Arabia (Fixed) calls @12p/secSingapore, Uk (Fixed) calls @1.5p/secChina calls @2.2p/secPakistan, Kuwait, Nepal All calls @10p/secUAE calls @15p/sec"
-15811,148,50,28 days,Recharge of Rs. 148 by Uninor,3 GB 4G Data + Free night data (between 12 Am to 6 Am)
-15812,248,55,45 days,Recharge of Rs. 248 by Uninor,5 GB 4G Data + Free night data (between 12 Am to 6 Am)
-15819,2,,2 days,Recharge of Rs. 2 by Uninor,100 MB Data (11pm to 7am) 
-15829,229,,28 days,Recharge of Rs. 229 by Uninor,Unlimited Local Telenor to Telenor & 700 Min Local Telenor to others calls free & 1 GB Data
-15830,289,,28 days,Recharge of Rs. 289 by Uninor,Unlimited Local/STD calls -- 2 GB 2G/4G data
-15831,599,,90 days,Recharge of Rs. 599 by Uninor,"120,000 sec Local Telenor to Telenor & 42,000 sec Local Telenor to others --  500 MB data per month -- All Local & STD calls @1.2p/sec"
-15832,786,,90 days,Recharge of Rs. 786 by Uninor,"60,000 local & STD seconds --  400 MB data per month --  All Local & STD calls @1.2p/sec"
-15833,11,,1 day,Recharge of Rs. 11 by Uninor,100 MB 4G Data + Free night 2G data (between 12 Am to 6 Am for 2 day)
+id,cost,talktime,validity,comments
+15785,75,77,7 days,10 Telenor to Telenor Local Night Minutes 
+15788,222,240,7 days,50 Telenor to Telenor Local Night Minutes
+15794,25,19.19,7 days,5 Telenor to Telenor Local Night Minutes 
+15800,118,30,28 days,Unlimited Local Telenor to Telenor Calls
+15802,144,45,28 days,Unlimited Local Telenor to Telenor Calls
+15807,319,50,90 days,Unlimited Local Telenor to Telenor Calling every month for 3 months
+15809,32,12,28 days,All local calls @25p/min
+15810,46,26,28 days,"Canada (Excluding Premium & Spl.), Malaysia (Fixed), France (Fixed), Hungary (Fixed), Italy (Fixed), Sweden (Fixed), Ireland (Fixed), Romania (Fixed) calls @1p/secUSA calls @2p/secBangladesh calls @3p/secSaudi Arabia (Fixed) calls @12p/secSingapore, Uk (Fixed) calls @1.5p/secChina calls @2.2p/secPakistan, Kuwait, Nepal All calls @10p/secUAE calls @15p/sec"
+15811,148,50,28 days,3 GB 4G Data + Free night data (between 12 Am to 6 Am)
+15812,248,55,45 days,5 GB 4G Data + Free night data (between 12 Am to 6 Am)
+15819,2,,2 days,100 MB Data (11pm to 7am) 
+15829,229,,28 days,Unlimited Local Telenor to Telenor & 700 Min Local Telenor to others calls free & 1 GB Data
+15830,289,,28 days,Unlimited Local/STD calls -- 2 GB 2G/4G data
+15831,599,,90 days,"120,000 sec Local Telenor to Telenor & 42,000 sec Local Telenor to others --  500 MB data per month -- All Local & STD calls @1.2p/sec"
+15832,786,,90 days,"60,000 local & STD seconds --  400 MB data per month --  All Local & STD calls @1.2p/sec"
+15833,11,,1 day,100 MB 4G Data + Free night 2G data (between 12 Am to 6 Am for 2 day)

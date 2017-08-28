@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-15242,22,,28 days,Recharge of Rs. 22 by Indicom,STD On-Net mobile calls @ 10p/min -- STV Pack not available for Pay Per Call Customers or Double talktime profile customers.
+id,cost,talktime,validity,comments
+15242,22,,28 days,STD On-Net mobile calls @ 10p/min -- STV Pack not available for Pay Per Call Customers or Double talktime profile customers.

@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-16128,10,7.47,N.A,Recharge of Rs. 10 by Uninor,Talktime of Rs. 7.47 for Rs. 10 recharge by Telenor
-16130,20,14.95,N.A,Recharge of Rs. 20 by Uninor,Talktime of Rs. 14.95 for Rs. 20 recharge by Telenor
-16132,30,22.42,N.A,Recharge of Rs. 30 by Uninor,Talktime of Rs. 22.42 for Rs. 30 recharge by Telenor
-16133,40,30.9,N.A,Recharge of Rs. 40 by Uninor,Talktime of Rs. 30.9 for Rs. 40 recharge by Telenor
-16136,50,39.37,N.A,Recharge of Rs. 50 by Uninor,Talktime of Rs. 39.37 for Rs. 50 recharge by Telenor
-16137,70,56.32,N.A,Recharge of Rs. 70 by Uninor,Talktime of Rs. 56.32 for Rs. 70 recharge by Telenor
-16138,90,73.27,N.A,Recharge of Rs. 90 by Uninor,Talktime of Rs. 73.27 for Rs. 90 recharge by Telenor
-16139,100,95,N.A,Recharge of Rs. 100 by Uninor,Talktime of Rs. 95 for Rs. 100 recharge by Telenor
-16140,130,110.54,N.A,Recharge of Rs. 130 by Uninor,Talktime of Rs. 110.54 for Rs. 130 recharge by Telenor
-16141,250,217.39,N.A,Recharge of Rs. 250 by Uninor,Talktime of Rs. 217.39 for Rs. 250 recharge by Telenor
-16142,260,228.07,N.A,Recharge of Rs. 260 by Uninor,Talktime of Rs. 228.07 for Rs. 260 recharge by Telenor
-16143,1000,869.57,N.A,Recharge of Rs. 1000 by Uninor,Talktime of Rs. 869.57 for Rs. 1000 recharge by Telenor
+id,cost,talktime,validity,comments
+16128,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by Telenor
+16130,20,14.95,N.A,Talktime of Rs. 14.95 for Rs. 20 recharge by Telenor
+16132,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by Telenor
+16133,40,30.9,N.A,Talktime of Rs. 30.9 for Rs. 40 recharge by Telenor
+16136,50,39.37,N.A,Talktime of Rs. 39.37 for Rs. 50 recharge by Telenor
+16137,70,56.32,N.A,Talktime of Rs. 56.32 for Rs. 70 recharge by Telenor
+16138,90,73.27,N.A,Talktime of Rs. 73.27 for Rs. 90 recharge by Telenor
+16139,100,95,N.A,Talktime of Rs. 95 for Rs. 100 recharge by Telenor
+16140,130,110.54,N.A,Talktime of Rs. 110.54 for Rs. 130 recharge by Telenor
+16141,250,217.39,N.A,Talktime of Rs. 217.39 for Rs. 250 recharge by Telenor
+16142,260,228.07,N.A,Talktime of Rs. 228.07 for Rs. 260 recharge by Telenor
+16143,1000,869.57,N.A,Talktime of Rs. 869.57 for Rs. 1000 recharge by Telenor

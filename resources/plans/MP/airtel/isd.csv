@@ -1,18 +1,18 @@
-id,cost,talktime,validity,short description,long description
-3071,7,,28 days,Recharge of Rs. 7 by Airtel,CALL TO NEPAL @14P/SECKUWAIT @13P/SEC 
-3072,509,,1 day,Recharge of Rs. 509 by Airtel,"100min incoming,100min Local/call to India -- 500 MB data -- 100 SMS/day"
-3073,645,,1 day,Recharge of Rs. 645 by Airtel,"100min incoming,100min Local/call to India -- 500 MB data -- 100 SMS/day"
-3074,646,,1 day,Recharge of Rs. 646 by Airtel,"100min incoming,100min Local/call to India -- 500 MB data -- 100 SMS/day"
-3075,996,,1 day,Recharge of Rs. 996 by Airtel,"100min incoming, 100min Local/call to India -- 500 MB data -- 100SMS/day -- Till 12:00 midnight. "
-3076,997,,30 days,Recharge of Rs. 997 by Airtel,"30 MIN I/C AND O/G FREE , IC @19RS/MIN, OG @39RS/MIN -- SMS @15RS/SMS"
-3077,998,,30 days,Recharge of Rs. 998 by Airtel,"IR Pack: 30 MB data Free. Thereafter charged @39p/10kb -- Outgoing @Rs39/min, Incoming @Rs19/min -- @Rs15/SMS"
-3078,1197,,10 days,Recharge of Rs. 1197 by Airtel,Unlimited incoming -- 3 GB Data -- 100 SMS/Day -- 250Min Loc/Call to India
-3079,2498,,30 days,Recharge of Rs. 2498 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-3080,2997,,10 days,Recharge of Rs. 2997 by Airtel,250 min incoming -- 3 GB data -- 100 sms/Day -- 250 min loc/call to India
-3081,2998,,10 days,Recharge of Rs. 2998 by Airtel,Unlimited incoming -- 3 GB data -- 100 sms/Day -- 250 min loc/call to India
-3082,3995,,10 days,Recharge of Rs. 3995 by Airtel,250 min incoming -- 3 GB data -- 100 sms/Day -- 250 min loc/call to India
-3083,3997,,30 days,Recharge of Rs. 3997 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-3084,3998,,30 days,Recharge of Rs. 3998 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-3085,4991,,30 days,Recharge of Rs. 4991 by Airtel,"Smartpacks for US,UK & Canada:3 GB Data -- Unltd incoming -- 400 min India calls -- 100 SMS/Day -- Tariff: Calls to India/Local: @Rs3/m, Intl.calls: @Rs39/m -- Data: @Rs3/MB"
-3086,6011,,30 days,Recharge of Rs. 6011 by Airtel,"Smartpack for Europe Select countries:3 GB Data Unltd incoming + 400 min India calls + 100 SMS/DayTariff: Calls to India/Local: @Rs20/m, Intl.calls: @Rs39/m, Data: @Rs3/MB"
-3087,6999,,30 days,Recharge of Rs. 6999 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+id,cost,talktime,validity,comments
+3071,7,,28 days,CALL TO NEPAL @14P/SECKUWAIT @13P/SEC 
+3072,509,,1 day,"100min incoming,100min Local/call to India -- 500 MB data -- 100 SMS/day"
+3073,645,,1 day,"100min incoming,100min Local/call to India -- 500 MB data -- 100 SMS/day"
+3074,646,,1 day,"100min incoming,100min Local/call to India -- 500 MB data -- 100 SMS/day"
+3075,996,,1 day,"100min incoming, 100min Local/call to India -- 500 MB data -- 100SMS/day -- Till 12:00 midnight. "
+3076,997,,30 days,"30 MIN I/C AND O/G FREE , IC @19RS/MIN, OG @39RS/MIN -- SMS @15RS/SMS"
+3077,998,,30 days,"IR Pack: 30 MB data Free. Thereafter charged @39p/10kb -- Outgoing @Rs39/min, Incoming @Rs19/min -- @Rs15/SMS"
+3078,1197,,10 days,Unlimited incoming -- 3 GB Data -- 100 SMS/Day -- 250Min Loc/Call to India
+3079,2498,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+3080,2997,,10 days,250 min incoming -- 3 GB data -- 100 sms/Day -- 250 min loc/call to India
+3081,2998,,10 days,Unlimited incoming -- 3 GB data -- 100 sms/Day -- 250 min loc/call to India
+3082,3995,,10 days,250 min incoming -- 3 GB data -- 100 sms/Day -- 250 min loc/call to India
+3083,3997,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+3084,3998,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+3085,4991,,30 days,"Smartpacks for US,UK & Canada:3 GB Data -- Unltd incoming -- 400 min India calls -- 100 SMS/Day -- Tariff: Calls to India/Local: @Rs3/m, Intl.calls: @Rs39/m -- Data: @Rs3/MB"
+3086,6011,,30 days,"Smartpack for Europe Select countries:3 GB Data Unltd incoming + 400 min India calls + 100 SMS/DayTariff: Calls to India/Local: @Rs20/m, Intl.calls: @Rs39/m, Data: @Rs3/MB"
+3087,6999,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India

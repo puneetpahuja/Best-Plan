@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-8232,5,,1 (Till midnight of day of recharge),Recharge of Rs. 5 by Docomo,30 MB 2G Data
-8233,15,,3 days,Recharge of Rs. 15 by Docomo,90 MB 2G Data
-8234,26,,21 days,Recharge of Rs. 26 by Docomo,100 MB 2G Data
-8235,32,,5 days,Recharge of Rs. 32 by Docomo,185 MB 2G Data
-8236,65,,10 days,Recharge of Rs. 65 by Docomo,375 MB 2G Data
-8237,66,,28 days,Recharge of Rs. 66 by Docomo,300 MB 2G Data
-8238,95,,21 days,Recharge of Rs. 95 by Docomo,750 MB 2G Data
-8239,98,,28 days,Recharge of Rs. 98 by Docomo,1 GB 2G Data
-8240,126,,28 days,Recharge of Rs. 126 by Docomo,1 GB 2G Data
-8242,239,,28 days,Recharge of Rs. 239 by Docomo,4 GB 2G Data
-8243,249,,56 days,Recharge of Rs. 249 by Docomo,2.5 GB 2G Data
-8244,269,,28 days,Recharge of Rs. 269 by Docomo,5 GB 2G Data
-8248,502,,365 days,Recharge of Rs. 502 by Docomo,5 GB 2G data
+id,cost,talktime,validity,comments
+8232,5,,1 (Till midnight of day of recharge),30 MB 2G Data
+8233,15,,3 days,90 MB 2G Data
+8234,26,,21 days,100 MB 2G Data
+8235,32,,5 days,185 MB 2G Data
+8236,65,,10 days,375 MB 2G Data
+8237,66,,28 days,300 MB 2G Data
+8238,95,,21 days,750 MB 2G Data
+8239,98,,28 days,1 GB 2G Data
+8240,126,,28 days,1 GB 2G Data
+8242,239,,28 days,4 GB 2G Data
+8243,249,,56 days,2.5 GB 2G Data
+8244,269,,28 days,5 GB 2G Data
+8248,502,,365 days,5 GB 2G data

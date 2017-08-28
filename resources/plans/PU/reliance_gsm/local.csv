@@ -1,20 +1,20 @@
-id,cost,talktime,validity,short description,long description
-14275,8,,2 days,Recharge of Rs. 8 by RelianceGSM,Local Reliance voice calls @15p/min and other local and STD voice calls @35p/min
-14276,9,,1 day,Recharge of Rs. 9 by RelianceGSM,60 local R2R minute
-14277,11,,5 days,Recharge of Rs. 11 by RelianceGSM,Local/STD calls in Home and National Roaming location at 40p/min and Incoming Free while National Roaming
-14278,13,,3 days,Recharge of Rs. 13 by RelianceGSM,Local Reliance voice calls @ 15p/min and other local and STD voice calls @35p/min 
-14279,17,,10 days,Recharge of Rs. 17 by RelianceGSM,All call 30p/min
-14280,26,,2 days,Recharge of Rs. 26 by RelianceGSM,All Local and STD reliance calls at 5p/min
-14281,32,,28 days,Recharge of Rs. 32 by RelianceGSM,All local call 30p/min
-14282,37,,28 days,Recharge of Rs. 37 by RelianceGSM,All Reliance to Reliance @10 p/min
-14283,41,,28 days,Recharge of Rs. 41 by RelianceGSM,All local calls @ 30p/min
-14284,42,,28 days,Recharge of Rs. 42 by RelianceGSM,All local and STD mobile calls @ 30p/min for 28 days
-14285,47,,30 days,Recharge of Rs. 47 by RelianceGSM,Local/STD calls in Home and National Roaming location at 40p/min & Incoming Free while National Roaming
-14286,54,,10 days,Recharge of Rs. 54 by RelianceGSM,400 local R2R mobile minute
-14287,62,,90 days,Recharge of Rs. 62 by RelianceGSM,All Local & STD Calls @30p
-14288,68,,10 days,Recharge of Rs. 68 by RelianceGSM,130 local+STD minute
-14289,73,,84 days,Recharge of Rs. 73 by RelianceGSM,All local mobile call 30p/min 
-14290,98,,7 days,Recharge of Rs. 98 by RelianceGSM,All local R2R free
-14291,148,,28 days,Recharge of Rs. 148 by RelianceGSM,350 local+STD minute
-14292,185,,28 days,Recharge of Rs. 185 by RelianceGSM,2000 Local R2R free
-14293,248,,28 days,Recharge of Rs. 248 by RelianceGSM,All local R2R Free
+id,cost,talktime,validity,comments
+14275,8,,2 days,Local Reliance voice calls @15p/min and other local and STD voice calls @35p/min
+14276,9,,1 day,60 local R2R minute
+14277,11,,5 days,Local/STD calls in Home and National Roaming location at 40p/min and Incoming Free while National Roaming
+14278,13,,3 days,Local Reliance voice calls @ 15p/min and other local and STD voice calls @35p/min 
+14279,17,,10 days,All call 30p/min
+14280,26,,2 days,All Local and STD reliance calls at 5p/min
+14281,32,,28 days,All local call 30p/min
+14282,37,,28 days,All Reliance to Reliance @10 p/min
+14283,41,,28 days,All local calls @ 30p/min
+14284,42,,28 days,All local and STD mobile calls @ 30p/min for 28 days
+14285,47,,30 days,Local/STD calls in Home and National Roaming location at 40p/min & Incoming Free while National Roaming
+14286,54,,10 days,400 local R2R mobile minute
+14287,62,,90 days,All Local & STD Calls @30p
+14288,68,,10 days,130 local+STD minute
+14289,73,,84 days,All local mobile call 30p/min 
+14290,98,,7 days,All local R2R free
+14291,148,,28 days,350 local+STD minute
+14292,185,,28 days,2000 Local R2R free
+14293,248,,28 days,All local R2R Free

@@ -1,31 +1,31 @@
-id,cost,talktime,validity,short description,long description
-5898,15,15,2 days,Recharge of Rs. 15 by BSNL,15 MB 2G/3G Data
-5899,20,20,N.A,Recharge of Rs. 20 by BSNL,Full Talk value offer equal to Rs.20 from 15 to 20 Aug 2017. Other days talktime 14.95
-5900,60,60,N.A,Recharge of Rs. 60 by BSNL,Full Talk value offer equal to Rs.60 from 15 to 20 Aug 2017. Other days talktime 47.85
-5901,77,80,10 days,Recharge of Rs. 77 by BSNL,40 MB 2G/3G Data
-5902,80,80,N.A,Recharge of Rs. 80 by BSNL,Full Talk value offer equal to Rs.80 from 15 to 20 Aug 2017. Other days talktime 64.8
-5903,160,180,N.A,Recharge of Rs. 160 by BSNL,Talk value offer equal to Rs.180 from 15 to 20 Aug 2017. Other days talktime 132.59
-5904,176,176,10 days,Recharge of Rs. 176 by BSNL,200 MB 2G/3G Data   -- Available for Freedom plan customers only
-5905,188,220,14 days,Recharge of Rs. 188 by BSNL,Rs189 in main account + Rs31 in dedicated account -- 1 GB 2G/3G Data
-5906,220,250,N.A,Recharge of Rs. 220 by BSNL,Talk value offer equal to Rs.250 from 15 to 20 Aug 2017. Other days talktime 220
-5907,289,340,28 days,Recharge of Rs. 289 by BSNL,Rs289 in main account + Rs51 in dedicated account -- 1 GB 2G/3G data
-5908,377,377,20 days,Recharge of Rs. 377 by BSNL,300 MB 2G/3G Data -- Available for Freedom plan customers only
-5909,389,460,30 days,Recharge of Rs. 389 by BSNL,Rs389 in main account + Rs71 in dedicated account -- 1 GB 2G/3G data.
-5910,500,500,N.A,Recharge of Rs. 500 by BSNL,"Applicable to New Mithram , New Per Second plans only"
-5912,577,577,30 days,Recharge of Rs. 577 by BSNL,1 GB 2G/3G Data -- Available for Freedom plan customers only
-5913,599,786,30 days,Recharge of Rs. 599 by BSNL,Talktime: Rs.507 in main account + Rs.279 in dedicated account (30 days) -- 10 on-net local SMS.
-5914,1402,1402,30 days,Recharge of Rs. 1402 by BSNL,Rs.1402 Usage value in main account -- All national voice calls at 0.9p/sec -- 250 MB Data -- 250 SMS any net
-5926,111,90,20 days,Recharge of Rs. 111 by BSNL,70 minutes Onnet in Minute
-5930,222,190,40 days,Recharge of Rs. 222 by BSNL,Usage value Rs190 and 110 min Onnet
-5938,47,20,21 days,Recharge of Rs. 47 by BSNL,Local call onnet at 20ps per min 
-5939,48,22,2 days,Recharge of Rs. 48 by BSNL,500 MB 2G/3G Data free and beyond freebies 5paisa/MB from 2-00 hrs to 6-00hrs.
-5940,62,35,30 days,Recharge of Rs. 62 by BSNL,Local and STD on net Re 1/3 min and off net Rs 1.2/3 min
-5941,71,20,30 days,Recharge of Rs. 71 by BSNL,Local any Network call @30ps/Min 
-5942,81,20,30 days,Recharge of Rs. 81 by BSNL,800 Minutes Local STD On Net Night(11PM to 6AM)
-5943,84,24,60 days,Recharge of Rs. 84 by BSNL,STD Anynet at 0.35 per min 
-5944,148,25,30 days,Recharge of Rs. 148 by BSNL,1800 Minutes Local STD On Net Night(11PM to 6AM) and Rs25 usage value
-5945,209,25,90 days,Recharge of Rs. 209 by BSNL,Local Call Anynet at 1 ps per 2 sec 
-5946,239,80,14 days,Recharge of Rs. 239 by BSNL,1 GB 2G/3G -- Charges after free usage: 3ps/10KB
-5947,451,80,60 days,Recharge of Rs. 451 by BSNL,2 GB 2G/3G Data
-5954,125,,30 days,Recharge of Rs. 125 by BSNL,Free 177 minutes anynet(Local/STD) -- Free data 200MB(3G) -- Free SMS 100 anynet (Local/STD)
-5956,3099,,90 days,Recharge of Rs. 3099 by BSNL,"Unlimited 2G/3G Data (1 GB /Day, Speed Reduced to 80Kbps after 1 GB /Day) -- Unlimited (Local/STD/Roaming) OG Voice calls -- 1500 SMS any Net"
+id,cost,talktime,validity,comments
+5898,15,15,2 days,15 MB 2G/3G Data
+5899,20,20,N.A,Full Talk value offer equal to Rs.20 from 15 to 20 Aug 2017. Other days talktime 14.95
+5900,60,60,N.A,Full Talk value offer equal to Rs.60 from 15 to 20 Aug 2017. Other days talktime 47.85
+5901,77,80,10 days,40 MB 2G/3G Data
+5902,80,80,N.A,Full Talk value offer equal to Rs.80 from 15 to 20 Aug 2017. Other days talktime 64.8
+5903,160,180,N.A,Talk value offer equal to Rs.180 from 15 to 20 Aug 2017. Other days talktime 132.59
+5904,176,176,10 days,200 MB 2G/3G Data   -- Available for Freedom plan customers only
+5905,188,220,14 days,Rs189 in main account + Rs31 in dedicated account -- 1 GB 2G/3G Data
+5906,220,250,N.A,Talk value offer equal to Rs.250 from 15 to 20 Aug 2017. Other days talktime 220
+5907,289,340,28 days,Rs289 in main account + Rs51 in dedicated account -- 1 GB 2G/3G data
+5908,377,377,20 days,300 MB 2G/3G Data -- Available for Freedom plan customers only
+5909,389,460,30 days,Rs389 in main account + Rs71 in dedicated account -- 1 GB 2G/3G data.
+5910,500,500,N.A,"Applicable to New Mithram , New Per Second plans only"
+5912,577,577,30 days,1 GB 2G/3G Data -- Available for Freedom plan customers only
+5913,599,786,30 days,Talktime: Rs.507 in main account + Rs.279 in dedicated account (30 days) -- 10 on-net local SMS.
+5914,1402,1402,30 days,Rs.1402 Usage value in main account -- All national voice calls at 0.9p/sec -- 250 MB Data -- 250 SMS any net
+5926,111,90,20 days,70 minutes Onnet in Minute
+5930,222,190,40 days,Usage value Rs190 and 110 min Onnet
+5938,47,20,21 days,Local call onnet at 20ps per min 
+5939,48,22,2 days,500 MB 2G/3G Data free and beyond freebies 5paisa/MB from 2-00 hrs to 6-00hrs.
+5940,62,35,30 days,Local and STD on net Re 1/3 min and off net Rs 1.2/3 min
+5941,71,20,30 days,Local any Network call @30ps/Min 
+5942,81,20,30 days,800 Minutes Local STD On Net Night(11PM to 6AM)
+5943,84,24,60 days,STD Anynet at 0.35 per min 
+5944,148,25,30 days,1800 Minutes Local STD On Net Night(11PM to 6AM) and Rs25 usage value
+5945,209,25,90 days,Local Call Anynet at 1 ps per 2 sec 
+5946,239,80,14 days,1 GB 2G/3G -- Charges after free usage: 3ps/10KB
+5947,451,80,60 days,2 GB 2G/3G Data
+5954,125,,30 days,Free 177 minutes anynet(Local/STD) -- Free data 200MB(3G) -- Free SMS 100 anynet (Local/STD)
+5956,3099,,90 days,"Unlimited 2G/3G Data (1 GB /Day, Speed Reduced to 80Kbps after 1 GB /Day) -- Unlimited (Local/STD/Roaming) OG Voice calls -- 1500 SMS any Net"

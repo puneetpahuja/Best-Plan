@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-1136,11,,8 days,Recharge of Rs. 11 by Aircel,250 L/N SMS
-1137,33,,28 days,Recharge of Rs. 33 by Aircel,Daily 100 L/N SMS. First SMS @50p
-1138,44,,28 days,Recharge of Rs. 44 by Aircel,100 L /N SMS per day with no restriction on National SMS. No first SMS charging.
-1139,89,,60 days,Recharge of Rs. 89 by Aircel,100 L /N SMS per day with no restriction on National SMS. No first SMS charging.
+id,cost,talktime,validity,comments
+1136,11,,8 days,250 L/N SMS
+1137,33,,28 days,Daily 100 L/N SMS. First SMS @50p
+1138,44,,28 days,100 L /N SMS per day with no restriction on National SMS. No first SMS charging.
+1139,89,,60 days,100 L /N SMS per day with no restriction on National SMS. No first SMS charging.

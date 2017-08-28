@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-16229,11,,28 days,Recharge of Rs. 11 by Vodafone,120 SMS to VF/Mobile
-16230,28,,28 days,Recharge of Rs. 28 by Vodafone,325 SMS to VF/Mobile
-16231,75,,28 days,Recharge of Rs. 75 by Vodafone,875 SMS to VF/Mobile
+id,cost,talktime,validity,comments
+16229,11,,28 days,120 SMS to VF/Mobile
+16230,28,,28 days,325 SMS to VF/Mobile
+16231,75,,28 days,875 SMS to VF/Mobile

@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-2171,35,,5 days,Recharge of Rs. 35 by Airtel,140 MB Data
-2173,59,,8 days,Recharge of Rs. 59 by Airtel,325 MB 2G Data
-2174,98,,14 days,Recharge of Rs. 98 by Airtel,500 MB 2G Data
-2176,165,,28 days,Recharge of Rs. 165 by Airtel,2 GB Day & 2 GB Night 2G Data
-2177,178,,28 days,Recharge of Rs. 178 by Airtel,1 GB 2G data
-2179,196,,28 days,Recharge of Rs. 196 by Airtel,2G data of 1.25 GB Data. 1.25GB Happy Hours Night data (3AM to 5AM)
-2181,246,,28 days,Recharge of Rs. 246 by Airtel,2 G data of 1.5 GB Data. 1.5 GB Happy Hours Night data (3AM to 5AM)
+id,cost,talktime,validity,comments
+2171,35,,5 days,140 MB Data
+2173,59,,8 days,325 MB 2G Data
+2174,98,,14 days,500 MB 2G Data
+2176,165,,28 days,2 GB Day & 2 GB Night 2G Data
+2177,178,,28 days,1 GB 2G data
+2179,196,,28 days,2G data of 1.25 GB Data. 1.25GB Happy Hours Night data (3AM to 5AM)
+2181,246,,28 days,2 G data of 1.5 GB Data. 1.5 GB Happy Hours Night data (3AM to 5AM)

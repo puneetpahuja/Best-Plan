@@ -1,15 +1,15 @@
-id,cost,talktime,validity,short description,long description
-16542,35,22.92,N.A,Recharge of Rs. 35 by Vodafone,8 night Mins to vodafone mobile
-16544,65,48.58,N.A,Recharge of Rs. 65 by Vodafone,8 night Mins to vodafone mobile
-16545,95,74.23,N.A,Recharge of Rs. 95 by Vodafone,8 night Mins to vodafone mobile
-16547,105,47.65,N.A,Recharge of Rs. 105 by Vodafone,500MB 4G/3G data -- No validity for talktime and 3 days data Validity
-16549,115,91.34,N.A,Recharge of Rs. 115 by Vodafone,8 night Mins to vodafone mobile
-16551,185,151.29,N.A,Recharge of Rs. 185 by Vodafone,8 night Mins to vodafone mobile
-16552,255,211.04,N.A,Recharge of Rs. 255 by Vodafone,8 night Mins to vodafone mobile
-16553,525,441.92,N.A,Recharge of Rs. 525 by Vodafone,8 night Mins to vodafone mobile
-16554,104,25,28 days,Recharge of Rs. 104 by Vodafone,250 MB data -- Special features included: call 1 local Vodafone buddy @10p/min -- option of 60MB data loan -- T&C Apply
-16555,179,30,28 days,Recharge of Rs. 179 by Vodafone,"500 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60 MB data loan -- T&C Apply"
-16556,215,75.22,90 days,Recharge of Rs. 215 by Vodafone,All local Calls at 30p/Min
-16557,295,123.46,90 days,Recharge of Rs. 295 by Vodafone,All local V2V Calls at 10p/Min
-16558,297,50,28 days,Recharge of Rs. 297 by Vodafone,"1536 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60MB data loan -- T&C Apply"
-16559,375,166.71,90 days,Recharge of Rs. 375 by Vodafone,All local V2V Calls at 10P/Min & local V2M Calls at 30p/Min
+id,cost,talktime,validity,comments
+16542,35,22.92,N.A,8 night Mins to vodafone mobile
+16544,65,48.58,N.A,8 night Mins to vodafone mobile
+16545,95,74.23,N.A,8 night Mins to vodafone mobile
+16547,105,47.65,N.A,500MB 4G/3G data -- No validity for talktime and 3 days data Validity
+16549,115,91.34,N.A,8 night Mins to vodafone mobile
+16551,185,151.29,N.A,8 night Mins to vodafone mobile
+16552,255,211.04,N.A,8 night Mins to vodafone mobile
+16553,525,441.92,N.A,8 night Mins to vodafone mobile
+16554,104,25,28 days,250 MB data -- Special features included: call 1 local Vodafone buddy @10p/min -- option of 60MB data loan -- T&C Apply
+16555,179,30,28 days,"500 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60 MB data loan -- T&C Apply"
+16556,215,75.22,90 days,All local Calls at 30p/Min
+16557,295,123.46,90 days,All local V2V Calls at 10p/Min
+16558,297,50,28 days,"1536 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60MB data loan -- T&C Apply"
+16559,375,166.71,90 days,All local V2V Calls at 10P/Min & local V2M Calls at 30p/Min

@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-16405,351,351,N.A,Recharge of Rs. 351 by Vodafone,5 night Local Vodafone Minutes
-16447,31,23.27,N.A,Recharge of Rs. 31 by Vodafone,1 Night Min. Validity -1 Day
-16454,146,123.95,N.A,Recharge of Rs. 146 by Vodafone,1 local Vodafone night minutes
-16458,194,165.69,N.A,Recharge of Rs. 194 by Vodafone,1 local Vodafone night minutes
-16459,199,168.64,N.A,Recharge of Rs. 199 by Vodafone,1 local Vodafone night minutes
-16460,397,336.44,N.A,Recharge of Rs. 397 by Vodafone,1 local Vodafone night minutes
-16461,398,334.29,N.A,Recharge of Rs. 398 by Vodafone,1 local Vodafone night minutes
-16462,301,50,28 days,Recharge of Rs. 301 by Vodafone,1536 MB data -- Special features included: call 1 local Vodafone buddy @10p/min -- option of 60 MB data loan -- T&C Apply
-16471,19,,1 day,Recharge of Rs. 19 by Vodafone,Unlimited Local+STD Vodafone calls -- 100 MB 2G Data
-16479,149,,28 days,Recharge of Rs. 149 by Vodafone,Unlimited Onnet Calls (Local+STD) -- 500 MB 2G Data
-16480,299,,28 days,Recharge of Rs. 299 by Vodafone,Unlimited Local & STD Calls -- 2GB 2G Data
-16481,49,,7 days,Recharge of Rs. 49 by Vodafone,Unlimited Local + STD Vodafone calls --  250 MB 2G Data
-16482,89,,7 days,Recharge of Rs. 89 by Vodafone,Unlimited Local + STD Vodafone calls --  250 MB 2G Data -- 100 Mins Local + STD calls to others
+id,cost,talktime,validity,comments
+16405,351,351,N.A,5 night Local Vodafone Minutes
+16447,31,23.27,N.A,1 Night Min. Validity -1 Day
+16454,146,123.95,N.A,1 local Vodafone night minutes
+16458,194,165.69,N.A,1 local Vodafone night minutes
+16459,199,168.64,N.A,1 local Vodafone night minutes
+16460,397,336.44,N.A,1 local Vodafone night minutes
+16461,398,334.29,N.A,1 local Vodafone night minutes
+16462,301,50,28 days,1536 MB data -- Special features included: call 1 local Vodafone buddy @10p/min -- option of 60 MB data loan -- T&C Apply
+16471,19,,1 day,Unlimited Local+STD Vodafone calls -- 100 MB 2G Data
+16479,149,,28 days,Unlimited Onnet Calls (Local+STD) -- 500 MB 2G Data
+16480,299,,28 days,Unlimited Local & STD Calls -- 2GB 2G Data
+16481,49,,7 days,Unlimited Local + STD Vodafone calls --  250 MB 2G Data
+16482,89,,7 days,Unlimited Local + STD Vodafone calls --  250 MB 2G Data -- 100 Mins Local + STD calls to others

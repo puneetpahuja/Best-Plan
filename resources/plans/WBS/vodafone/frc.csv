@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-18873,89,10,90 days,Recharge of Rs. 89 by Vodafone,"Add 3 FNF nos @ 20p/min for 14 days, 100MB + 75MB Night 3G/4G data for 14 days + Tariff 1.2p/sec Local +Std Mobile for 90 days. -- Applicable only for new subscribers as FRC/SRC"
-18874,288,15,90 days,Recharge of Rs. 288 by Vodafone,"Add 3 FNF nos @ 20p/min for 28 days, 800MB + 200MB Night 3G/4G data for 28 days + Tariff 1.2p/sec Local +Std Mobile for 90 days -- Applicable only for new subscribers as FRC/SRC"
+id,cost,talktime,validity,comments
+18873,89,10,90 days,"Add 3 FNF nos @ 20p/min for 14 days, 100MB + 75MB Night 3G/4G data for 14 days + Tariff 1.2p/sec Local +Std Mobile for 90 days. -- Applicable only for new subscribers as FRC/SRC"
+18874,288,15,90 days,"Add 3 FNF nos @ 20p/min for 28 days, 800MB + 200MB Night 3G/4G data for 28 days + Tariff 1.2p/sec Local +Std Mobile for 90 days -- Applicable only for new subscribers as FRC/SRC"

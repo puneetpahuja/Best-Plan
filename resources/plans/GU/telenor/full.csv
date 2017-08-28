@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-15869,110,112,N.A,Recharge of Rs. 110 by Uninor,Talktime of Rs. 112 for Rs. 110 recharge by Telenor
-15870,200,210,N.A,Recharge of Rs. 200 by Uninor,Talktime of Rs. 210 for Rs. 200 recharge by Telenor
-15871,300,315,N.A,Recharge of Rs. 300 by Uninor,Talktime of Rs. 315 for Rs. 300 recharge by Telenor
-15872,500,530,N.A,Recharge of Rs. 500 by Uninor,Talktime of Rs. 530 for Rs. 500 recharge by Telenor
+id,cost,talktime,validity,comments
+15869,110,112,N.A,Talktime of Rs. 112 for Rs. 110 recharge by Telenor
+15870,200,210,N.A,Talktime of Rs. 210 for Rs. 200 recharge by Telenor
+15871,300,315,N.A,Talktime of Rs. 315 for Rs. 300 recharge by Telenor
+15872,500,530,N.A,Talktime of Rs. 530 for Rs. 500 recharge by Telenor
