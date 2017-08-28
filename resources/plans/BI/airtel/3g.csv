@@ -1,29 +1,29 @@
-id,cost,talktime,validity,short description,long description
-1764,9,,1 day,Recharge of Rs. 9 by Airtel,50 MB 2G/3G/4G Data
-1765,17,,2 days,Recharge of Rs. 17 by Airtel,100 MB 2G/3G/4G Data
-1766,27,,3 days,Recharge of Rs. 27 by Airtel,155 MB high speed 2G/3G/4G Data
-1767,29,,27 days,Recharge of Rs. 29 by Airtel,120 MB 4G/3G/2G Data
-1768,37,,27 days,Recharge of Rs. 37 by Airtel,150 MB 4G/3G/2G data
-1769,45,,7 days,Recharge of Rs. 45 by Airtel,260 MB 2G/3G/4G Data
-1770,47,,6 days,Recharge of Rs. 47 by Airtel,270 MB high speed 2G/3G/4G Data
-1771,74,,N.A,Recharge of Rs. 74 by Airtel,110 MB 2G/3G/4G Data -- Local STD Mobile @2P/Sec and landline @2.5P/Sec -- 3G/4G accumulation & Data share / cashback not applicable
-1775,175,,28 days,Recharge of Rs. 175 by Airtel,1 GB 4G/3G/2G data -- 3G/4G accumulation & Data share / cashback not applicable
-1776,247,,28 days,Recharge of Rs. 247 by Airtel,1.5 GB high speed 4G/3G/2G data -- 3G/4G accumulation & data share / cashback not applicable). 1.5GB Happy Hours Night data(3AM to 5AM)
-1777,347,,28 days,Recharge of Rs. 347 by Airtel,2.5 GB 4G/3G/2G data -- 3G/4G accumulation & data share / cashback not applicable). 2.5GB Happy Hours night data(3AM to 5AM)
-1778,399,,28 days,Recharge of Rs. 399 by Airtel,"Local & STD free calls(mobile + landline) + 1.25 GB 4G/3G/2G data (1.25 GB 4G/3G/2G night data 3AM to 5AM), 4G Handset + 4G SIM customers enjoy 1GB per day. T&C"
-1779,447,,28 days,Recharge of Rs. 447 by Airtel,3.5GB 4G/3G/2G data -- 3G/4G accumulation & data share / cashback not applicable. 3.5GB Happy Hours Night data (3AM to 5AM)
-1780,547,,28 days,Recharge of Rs. 547 by Airtel,4.5 GB 4G/3G/2G Data -- 3G/4G accumulation & data share / cashback not applicable. 4.5GB Happy Hours Night data (3AM to 5AM)
-1781,595,,28 days,Recharge of Rs. 595 by Airtel,5 GB high speed 4G/3G/2G data. 5 GB Happy Hours Night 4G/3G/2G data (3AM to 5AM)
-1782,647,,28 days,Recharge of Rs. 647 by Airtel,5.5GB high speed 4G/3G/2G Data -- 3G/4G accumulation & data share / cashback not applicable. 5.5GB Happy Hours Night data (3AM to 5AM)
-1784,747,,28 days,Recharge of Rs. 747 by Airtel,6.5GB 4G/3G/2G Data -- 3G/4G accumulation & data share / cashback not applicable. 6.5GB Happy Hours Night data (3AM to 5AM)
-1785,795,,90 days,Recharge of Rs. 795 by Airtel,Local & STD free A2A calls -- 1 GB 4G/3G/2G data
-1786,847,,28 days,Recharge of Rs. 847 by Airtel,7.5 GB 4G/3G/2G data -- 3G/4G accumulation & data share / cashback not applicable. 7.5 GB Happy Hours night data (3AM to 5AM)
-1787,899,,28 days,Recharge of Rs. 899 by Airtel,"Local & STD free calls -- 6 GB 4G/3G/2G data(6 GB 4G/3G/2G night data 3AM to 5AM), 4G Handset + 4G SIM customers enjoy 3.5GB per day. T&C"
-1788,992,,365 days,Recharge of Rs. 992 by Airtel,10 GB 4G/3G/2G Data
-1789,1095,,28 days,Recharge of Rs. 1095 by Airtel,11 GB high speed 4G/3G/2G data
-1790,1198,,28 days,Recharge of Rs. 1198 by Airtel,"Local & STD free calls --  9 GB 4G/3G/2G data(9 GB 4G/3G/2G night data 3AM to 5AM),4G Handset + 4G SIM customers enjoy 5GB per day. T&C"
-1792,53,,7 days,Recharge of Rs. 53 by Airtel,Free Local and STD airtel mobile calls -- 50 MB 2G/3G/4G data (250 mb for 4G handset)
-1794,197,,28 days,Recharge of Rs. 197 by Airtel,Free Local and STD airtel mobile calls -- 200 MB 2G/3G/4G data 
-1795,244,,28 days,Recharge of Rs. 244 by Airtel,"Unlimited Airtel to Airtel (local and STD) mobile calls --  50 MB 4G/3G/2G data. For 4G handset + 4G SIM, extra 1 GB data. -- T&C apply. 50 MB Happy Hours Night data (3AM to 5AM)"
-1796,499,,28 days,Recharge of Rs. 499 by Airtel,"Local & STD free calls (mobile + Landline) -- 2 GB 4G/3G/2G data (2 GB 4G/3G/2G night data 3AM to 5AM), 4G Handset + 4G SIM customers enjoy 1.5GB per day. T&C"
-1797,695,,90 days,Recharge of Rs. 695 by Airtel,Local & STD free A2A calls -- 500 MB 4G/3G/2G data. T&C
+id,cost,talktime,validity,comments
+1764,9,,1 day,50 MB 2G/3G/4G Data
+1765,17,,2 days,100 MB 2G/3G/4G Data
+1766,27,,3 days,155 MB high speed 2G/3G/4G Data
+1767,29,,27 days,120 MB 4G/3G/2G Data
+1768,37,,27 days,150 MB 4G/3G/2G data
+1769,45,,7 days,260 MB 2G/3G/4G Data
+1770,47,,6 days,270 MB high speed 2G/3G/4G Data
+1771,74,,N.A,110 MB 2G/3G/4G Data -- Local STD Mobile @2P/Sec and landline @2.5P/Sec -- 3G/4G accumulation & Data share / cashback not applicable
+1775,175,,28 days,1 GB 4G/3G/2G data -- 3G/4G accumulation & Data share / cashback not applicable
+1776,247,,28 days,1.5 GB high speed 4G/3G/2G data -- 3G/4G accumulation & data share / cashback not applicable). 1.5GB Happy Hours Night data(3AM to 5AM)
+1777,347,,28 days,2.5 GB 4G/3G/2G data -- 3G/4G accumulation & data share / cashback not applicable). 2.5GB Happy Hours night data(3AM to 5AM)
+1778,399,,28 days,"Local & STD free calls(mobile + landline) + 1.25 GB 4G/3G/2G data (1.25 GB 4G/3G/2G night data 3AM to 5AM), 4G Handset + 4G SIM customers enjoy 1GB per day. T&C"
+1779,447,,28 days,3.5GB 4G/3G/2G data -- 3G/4G accumulation & data share / cashback not applicable. 3.5GB Happy Hours Night data (3AM to 5AM)
+1780,547,,28 days,4.5 GB 4G/3G/2G Data -- 3G/4G accumulation & data share / cashback not applicable. 4.5GB Happy Hours Night data (3AM to 5AM)
+1781,595,,28 days,5 GB high speed 4G/3G/2G data. 5 GB Happy Hours Night 4G/3G/2G data (3AM to 5AM)
+1782,647,,28 days,5.5GB high speed 4G/3G/2G Data -- 3G/4G accumulation & data share / cashback not applicable. 5.5GB Happy Hours Night data (3AM to 5AM)
+1784,747,,28 days,6.5GB 4G/3G/2G Data -- 3G/4G accumulation & data share / cashback not applicable. 6.5GB Happy Hours Night data (3AM to 5AM)
+1785,795,,90 days,Local & STD free A2A calls -- 1 GB 4G/3G/2G data
+1786,847,,28 days,7.5 GB 4G/3G/2G data -- 3G/4G accumulation & data share / cashback not applicable. 7.5 GB Happy Hours night data (3AM to 5AM)
+1787,899,,28 days,"Local & STD free calls -- 6 GB 4G/3G/2G data(6 GB 4G/3G/2G night data 3AM to 5AM), 4G Handset + 4G SIM customers enjoy 3.5GB per day. T&C"
+1788,992,,365 days,10 GB 4G/3G/2G Data
+1789,1095,,28 days,11 GB high speed 4G/3G/2G data
+1790,1198,,28 days,"Local & STD free calls --  9 GB 4G/3G/2G data(9 GB 4G/3G/2G night data 3AM to 5AM),4G Handset + 4G SIM customers enjoy 5GB per day. T&C"
+1792,53,,7 days,Free Local and STD airtel mobile calls -- 50 MB 2G/3G/4G data (250 mb for 4G handset)
+1794,197,,28 days,Free Local and STD airtel mobile calls -- 200 MB 2G/3G/4G data 
+1795,244,,28 days,"Unlimited Airtel to Airtel (local and STD) mobile calls --  50 MB 4G/3G/2G data. For 4G handset + 4G SIM, extra 1 GB data. -- T&C apply. 50 MB Happy Hours Night data (3AM to 5AM)"
+1796,499,,28 days,"Local & STD free calls (mobile + Landline) -- 2 GB 4G/3G/2G data (2 GB 4G/3G/2G night data 3AM to 5AM), 4G Handset + 4G SIM customers enjoy 1.5GB per day. T&C"
+1797,695,,90 days,Local & STD free A2A calls -- 500 MB 4G/3G/2G data. T&C

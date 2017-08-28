@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-3782,17,,5 days,Recharge of Rs. 17 by Airtel,STD Calls @ 25p/Min 
-3783,34,,27 days,Recharge of Rs. 34 by Airtel,STD @ 25p/Min 
+id,cost,talktime,validity,comments
+3782,17,,5 days,STD Calls @ 25p/Min 
+3783,34,,27 days,STD @ 25p/Min 

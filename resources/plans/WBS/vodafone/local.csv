@@ -1,28 +1,28 @@
-id,cost,talktime,validity,short description,long description
-18830,27,,28 days,Recharge of Rs. 27 by Vodafone,All local mobile calls at 1p/sec
-18831,36,,30 days,Recharge of Rs. 36 by Vodafone,All Local & STD Mobile Calls @ 1p/sec
-18832,38,,7 days,Recharge of Rs. 38 by Vodafone,Local Calls to Vodafone numbers @10p/min for 7 days
-18833,43,,28 days,Recharge of Rs. 43 by Vodafone,All Local Mobile Calls @ 30p/min
-18834,56,,30 days,Recharge of Rs. 56 by Vodafone,"All outgoing calls (Local , STD, Roaming) @ 1p/secAll Incoming calls FreeNo additional charges for RoamingStandard rates apply for land line calls."
-18835,59,,28 days,Recharge of Rs. 59 by Vodafone,Local VF to VF@ 25p/min & Local VF to Mobile @ 45p/min
-18836,63,,28 days,Recharge of Rs. 63 by Vodafone,Local mobile calls @ 1.4p/2s
-18837,64,,28 days,Recharge of Rs. 64 by Vodafone,1200 local Vodafone to Vodafone night minutes between 11pm to 7am valid 28 days
-18838,65,,21 days,Recharge of Rs. 65 by Vodafone,Local mobile calls @ 1.2p/2sec
-18839,67,,28 days,Recharge of Rs. 67 by Vodafone,Local Vodafone Calls @10p/min
-18840,68,,28 days,Recharge of Rs. 68 by Vodafone,Local Mobile calls @ 40p/Min & STD Mobile calls @ 35p/Min
-18841,72,,28 days,Recharge of Rs. 72 by Vodafone,All Local + STD Mob Calls @25p/min
-18842,75,,15 days,Recharge of Rs. 75 by Vodafone,All Local Vodafone Calls @ 10p/min
-18843,76,,15 days,Recharge of Rs. 76 by Vodafone,All Local & STD Mobile Calls @ 25p/min
-18844,77,,30 days,Recharge of Rs. 77 by Vodafone,All Local Mobile Calls @ 30p/min
-18845,79,,56 days,Recharge of Rs. 79 by Vodafone,All Local Mobile Calls @ 1.2p/2secs
-18846,82,,30 days,Recharge of Rs. 82 by Vodafone,All Local Vodafone Calls @ 20p/min
-18847,94,,28 days,Recharge of Rs. 94 by Vodafone,All local Vodafone to Vodafone calls at 15p/min
-18848,105,,56 days,Recharge of Rs. 105 by Vodafone,All Local + STD Mob Calls @30p/min
-18849,109,,15 days,Recharge of Rs. 109 by Vodafone,Local Vodafone Calls @ 10p/min & Other Local + STD Mobile Calls @ 30p/min
-18850,125,,30 days,Recharge of Rs. 125 by Vodafone,All Local Vodafone Calls @ 10p/min
-18851,126,,30 days,Recharge of Rs. 126 by Vodafone,All Local & STD Mobile Calls @ 25p/min
-18852,127,,28 days,Recharge of Rs. 127 by Vodafone,Local Vodafone Calls @ 10p/min & Other Local Mobile Calls @ 30p/min
-18853,137,,30 days,Recharge of Rs. 137 by Vodafone,Local Vodafone Calls @ 10p/min & Other Local Mobile Calls @ 30p/min
-18854,169,,30 days,Recharge of Rs. 169 by Vodafone,Local Vodafone Calls @ 10p/min & Other Local + STD Mobile Calls @ 30p/min
-18855,197,,28 days,Recharge of Rs. 197 by Vodafone,900 local Vodafone to Vodafone minutes
-18856,204,,28 days,Recharge of Rs. 204 by Vodafone,450 local & STD minutes
+id,cost,talktime,validity,comments
+18830,27,,28 days,All local mobile calls at 1p/sec
+18831,36,,30 days,All Local & STD Mobile Calls @ 1p/sec
+18832,38,,7 days,Local Calls to Vodafone numbers @10p/min for 7 days
+18833,43,,28 days,All Local Mobile Calls @ 30p/min
+18834,56,,30 days,"All outgoing calls (Local , STD, Roaming) @ 1p/secAll Incoming calls FreeNo additional charges for RoamingStandard rates apply for land line calls."
+18835,59,,28 days,Local VF to VF@ 25p/min & Local VF to Mobile @ 45p/min
+18836,63,,28 days,Local mobile calls @ 1.4p/2s
+18837,64,,28 days,1200 local Vodafone to Vodafone night minutes between 11pm to 7am valid 28 days
+18838,65,,21 days,Local mobile calls @ 1.2p/2sec
+18839,67,,28 days,Local Vodafone Calls @10p/min
+18840,68,,28 days,Local Mobile calls @ 40p/Min & STD Mobile calls @ 35p/Min
+18841,72,,28 days,All Local + STD Mob Calls @25p/min
+18842,75,,15 days,All Local Vodafone Calls @ 10p/min
+18843,76,,15 days,All Local & STD Mobile Calls @ 25p/min
+18844,77,,30 days,All Local Mobile Calls @ 30p/min
+18845,79,,56 days,All Local Mobile Calls @ 1.2p/2secs
+18846,82,,30 days,All Local Vodafone Calls @ 20p/min
+18847,94,,28 days,All local Vodafone to Vodafone calls at 15p/min
+18848,105,,56 days,All Local + STD Mob Calls @30p/min
+18849,109,,15 days,Local Vodafone Calls @ 10p/min & Other Local + STD Mobile Calls @ 30p/min
+18850,125,,30 days,All Local Vodafone Calls @ 10p/min
+18851,126,,30 days,All Local & STD Mobile Calls @ 25p/min
+18852,127,,28 days,Local Vodafone Calls @ 10p/min & Other Local Mobile Calls @ 30p/min
+18853,137,,30 days,Local Vodafone Calls @ 10p/min & Other Local Mobile Calls @ 30p/min
+18854,169,,30 days,Local Vodafone Calls @ 10p/min & Other Local + STD Mobile Calls @ 30p/min
+18855,197,,28 days,900 local Vodafone to Vodafone minutes
+18856,204,,28 days,450 local & STD minutes

@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-16332,7,,1 day,Recharge of Rs. 7 by Vodafone,40 MB Data @2G Speed. Post 40 MB you will be charged at 4p/10Kb.
-16333,14,,2 days,Recharge of Rs. 14 by Vodafone,80 MB Data @2G Speed. Post 80 MB you will be charged at 4p/10Kb.
-16334,15,,1 day,Recharge of Rs. 15 by Vodafone,Unlimited 2G data (24 Hours)
-16335,26,,4 days,Recharge of Rs. 26 by Vodafone,140 MB Data @2G Speed. Post 140 MB you will be charged at 4p/10Kb.
-16336,37,,28 days,Recharge of Rs. 37 by Vodafone,125 MB Data @2G Speed. Post 125 MB you will be charged @4p/10Kb.
-16337,58,,7 days,Recharge of Rs. 58 by Vodafone,325 MB Data @2G Speed. Post 325 MB you will be charged at 4p/10Kb.
-16338,98,,14 days,Recharge of Rs. 98 by Vodafone,550 MB @2G Speed. Post 550 MB you will be charged at 4p/10Kb.
-16339,125,,28 days,Recharge of Rs. 125 by Vodafone,425 MB @2G Speed. Post 425 MB you will be charged at 4p/10Kb.
-16340,155,,21 days,Recharge of Rs. 155 by Vodafone,1 GB @2G Speed. Post 1 GB you will be charged at 4p/10Kb.
-16341,177,,28 days,Recharge of Rs. 177 by Vodafone,1GB @2G speed. Post 1 GB you will be charged 4p/10kb
-16342,196,,28 days,Recharge of Rs. 196 by Vodafone,1.25 GB and get Upto 3GB 
-16343,199,,28 days,Recharge of Rs. 199 by Vodafone,"1.5 GB Data @2G Speed. Post 1.5 GB, 4p/10KB charges will apply."
-16344,247,,28 days,Recharge of Rs. 247 by Vodafone,"2 GB Data @2G Speed. Post 2 GB, 4p/10KB charges will apply"
+id,cost,talktime,validity,comments
+16332,7,,1 day,40 MB Data @2G Speed. Post 40 MB you will be charged at 4p/10Kb.
+16333,14,,2 days,80 MB Data @2G Speed. Post 80 MB you will be charged at 4p/10Kb.
+16334,15,,1 day,Unlimited 2G data (24 Hours)
+16335,26,,4 days,140 MB Data @2G Speed. Post 140 MB you will be charged at 4p/10Kb.
+16336,37,,28 days,125 MB Data @2G Speed. Post 125 MB you will be charged @4p/10Kb.
+16337,58,,7 days,325 MB Data @2G Speed. Post 325 MB you will be charged at 4p/10Kb.
+16338,98,,14 days,550 MB @2G Speed. Post 550 MB you will be charged at 4p/10Kb.
+16339,125,,28 days,425 MB @2G Speed. Post 425 MB you will be charged at 4p/10Kb.
+16340,155,,21 days,1 GB @2G Speed. Post 1 GB you will be charged at 4p/10Kb.
+16341,177,,28 days,1GB @2G speed. Post 1 GB you will be charged 4p/10kb
+16342,196,,28 days,1.25 GB and get Upto 3GB 
+16343,199,,28 days,"1.5 GB Data @2G Speed. Post 1.5 GB, 4p/10KB charges will apply."
+16344,247,,28 days,"2 GB Data @2G Speed. Post 2 GB, 4p/10KB charges will apply"

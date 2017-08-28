@@ -1,27 +1,27 @@
-id,cost,talktime,validity,short description,long description
-3414,10,7.47,N.A,Recharge of Rs. 10 by Airtel,Talktime of Rs. 7.47 for Rs. 10 recharge by Airtel
-3415,20,14.95,N.A,Recharge of Rs. 20 by Airtel,Talktime of Rs. 14.95 for Rs. 20 recharge by Airtel
-3416,30,22.42,N.A,Recharge of Rs. 30 by Airtel,Talktime of Rs. 22.42 for Rs. 30 recharge by Airtel
-3417,40,30.9,N.A,Recharge of Rs. 40 by Airtel,Talktime of Rs. 30.9 for Rs. 40 recharge by Airtel
-3418,50,39.37,N.A,Recharge of Rs. 50 by Airtel,Talktime of Rs. 39.37 for Rs. 50 recharge by Airtel
-3419,60,47.85,N.A,Recharge of Rs. 60 by Airtel,Talktime of Rs. 47.85 for Rs. 60 recharge by Airtel
-3420,70,56.32,N.A,Recharge of Rs. 70 by Airtel,Talktime of Rs. 56.32 for Rs. 70 recharge by Airtel
-3421,80,64.8,N.A,Recharge of Rs. 80 by Airtel,Talktime of Rs. 64.8 for Rs. 80 recharge by Airtel
-3422,90,73.27,N.A,Recharge of Rs. 90 by Airtel,Talktime of Rs. 73.27 for Rs. 90 recharge by Airtel
-3423,100,81.75,N.A,Recharge of Rs. 100 by Airtel,Talktime of Rs. 81.75 for Rs. 100 recharge by Airtel
-3424,110,90.22,N.A,Recharge of Rs. 110 by Airtel,Talktime of Rs. 90.22 for Rs. 110 recharge by Airtel
-3425,120,105,N.A,Recharge of Rs. 120 by Airtel,Talktime of Rs. 105 for Rs. 120 recharge by Airtel
-3426,130,120,N.A,Recharge of Rs. 130 by Airtel,Talktime of Rs. 120 for Rs. 130 recharge by Airtel
-3427,140,130,N.A,Recharge of Rs. 140 by Airtel,Talktime of Rs. 130 for Rs. 140 recharge by Airtel
-3428,150,140,N.A,Recharge of Rs. 150 by Airtel,Talktime of Rs. 140 for Rs. 150 recharge by Airtel
-3430,160,132.59,N.A,Recharge of Rs. 160 by Airtel,Talktime of Rs. 132.59 for Rs. 160 recharge by Airtel
-3431,170,141.07,N.A,Recharge of Rs. 170 by Airtel,Talktime of Rs. 141.07 for Rs. 170 recharge by Airtel
-3432,200,190,N.A,Recharge of Rs. 200 by Airtel,Talktime of Rs. 190 for Rs. 200 recharge by Airtel
-3433,220,183.44,N.A,Recharge of Rs. 220 by Airtel,Talktime of Rs. 183.44 for Rs. 220 recharge by Airtel
-3434,230,191.92,N.A,Recharge of Rs. 230 by Airtel,Talktime of Rs. 191.92 for Rs. 230 recharge by Airtel
-3435,300,251.24,N.A,Recharge of Rs. 300 by Airtel,Talktime of Rs. 251.24 for Rs. 300 recharge by Airtel
-3436,330,315,N.A,Recharge of Rs. 330 by Airtel,Talktime of Rs. 315 for Rs. 330 recharge by Airtel
-3437,350,335,N.A,Recharge of Rs. 350 by Airtel,Talktime of Rs. 335 for Rs. 350 recharge by Airtel
-3438,390,370,N.A,Recharge of Rs. 390 by Airtel,Talktime of Rs. 370 for Rs. 390 recharge by Airtel
-3439,400,335.98,N.A,Recharge of Rs. 400 by Airtel,Talktime of Rs. 335.98 for Rs. 400 recharge by Airtel
-3440,520,437.68,N.A,Recharge of Rs. 520 by Airtel,Talktime of Rs. 437.68 for Rs. 520 recharge by Airtel
+id,cost,talktime,validity,comments
+3414,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by Airtel
+3415,20,14.95,N.A,Talktime of Rs. 14.95 for Rs. 20 recharge by Airtel
+3416,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by Airtel
+3417,40,30.9,N.A,Talktime of Rs. 30.9 for Rs. 40 recharge by Airtel
+3418,50,39.37,N.A,Talktime of Rs. 39.37 for Rs. 50 recharge by Airtel
+3419,60,47.85,N.A,Talktime of Rs. 47.85 for Rs. 60 recharge by Airtel
+3420,70,56.32,N.A,Talktime of Rs. 56.32 for Rs. 70 recharge by Airtel
+3421,80,64.8,N.A,Talktime of Rs. 64.8 for Rs. 80 recharge by Airtel
+3422,90,73.27,N.A,Talktime of Rs. 73.27 for Rs. 90 recharge by Airtel
+3423,100,81.75,N.A,Talktime of Rs. 81.75 for Rs. 100 recharge by Airtel
+3424,110,90.22,N.A,Talktime of Rs. 90.22 for Rs. 110 recharge by Airtel
+3425,120,105,N.A,Talktime of Rs. 105 for Rs. 120 recharge by Airtel
+3426,130,120,N.A,Talktime of Rs. 120 for Rs. 130 recharge by Airtel
+3427,140,130,N.A,Talktime of Rs. 130 for Rs. 140 recharge by Airtel
+3428,150,140,N.A,Talktime of Rs. 140 for Rs. 150 recharge by Airtel
+3430,160,132.59,N.A,Talktime of Rs. 132.59 for Rs. 160 recharge by Airtel
+3431,170,141.07,N.A,Talktime of Rs. 141.07 for Rs. 170 recharge by Airtel
+3432,200,190,N.A,Talktime of Rs. 190 for Rs. 200 recharge by Airtel
+3433,220,183.44,N.A,Talktime of Rs. 183.44 for Rs. 220 recharge by Airtel
+3434,230,191.92,N.A,Talktime of Rs. 191.92 for Rs. 230 recharge by Airtel
+3435,300,251.24,N.A,Talktime of Rs. 251.24 for Rs. 300 recharge by Airtel
+3436,330,315,N.A,Talktime of Rs. 315 for Rs. 330 recharge by Airtel
+3437,350,335,N.A,Talktime of Rs. 335 for Rs. 350 recharge by Airtel
+3438,390,370,N.A,Talktime of Rs. 370 for Rs. 390 recharge by Airtel
+3439,400,335.98,N.A,Talktime of Rs. 335.98 for Rs. 400 recharge by Airtel
+3440,520,437.68,N.A,Talktime of Rs. 437.68 for Rs. 520 recharge by Airtel

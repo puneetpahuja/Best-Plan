@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-12373,5,,1 day,Recharge of Rs. 5 by Idea,25 MB Data -- Overage: 4p/10 KB -- 
-12374,15,,3 days,Recharge of Rs. 15 by Idea,85 MB Data -- Overage: 4p/10 KB -- 
-12375,33,,28 days,Recharge of Rs. 33 by Idea,115 MB Data -- Overage: 4p/10 KB
-12376,38,,7 days,Recharge of Rs. 38 by Idea,220 MB Data -- Overage: 4p/10 KB
-12377,59,,12 days,Recharge of Rs. 59 by Idea,340 MB Data -- Overage: 4p/10 KB  -- 
-12378,65,,28 days,Recharge of Rs. 65 by Idea,1 GB Data -- Overage: 4p/10KB
-12379,97,,20 days,Recharge of Rs. 97 by Idea,555 MB Data -- Overage: 4p/10 KB  -- 
-12380,109,,28 days,Recharge of Rs. 109 by Idea,660 MB**  (330 MB can be used only during night Hrs : 00:00 Hrs to 05:59:59 Hrs) -- Overage: 4p/10 KB
-12381,125,,25 days,Recharge of Rs. 125 by Idea,715 MB Data -- Overage: 4p/10 KB
-12382,135,,13 days,Recharge of Rs. 135 by Idea,775 MB Data -- Overage: 4p/10 KB
-12383,149,,28 days,Recharge of Rs. 149 by Idea,850 MB Data -- Overage: 4p/10 KB
-12384,176,,28 days,Recharge of Rs. 176 by Idea,1 GB Data -- Overage: 4p/10KB
-12385,197,,28 days,Recharge of Rs. 197 by Idea,Unlimited 2 GB FUP -- FUP limit: Speed 40kbps post 1.5 GB and 20kbps post 2.5 GB
+id,cost,talktime,validity,comments
+12373,5,,1 day,25 MB Data -- Overage: 4p/10 KB -- 
+12374,15,,3 days,85 MB Data -- Overage: 4p/10 KB -- 
+12375,33,,28 days,115 MB Data -- Overage: 4p/10 KB
+12376,38,,7 days,220 MB Data -- Overage: 4p/10 KB
+12377,59,,12 days,340 MB Data -- Overage: 4p/10 KB  -- 
+12378,65,,28 days,1 GB Data -- Overage: 4p/10KB
+12379,97,,20 days,555 MB Data -- Overage: 4p/10 KB  -- 
+12380,109,,28 days,660 MB**  (330 MB can be used only during night Hrs : 00:00 Hrs to 05:59:59 Hrs) -- Overage: 4p/10 KB
+12381,125,,25 days,715 MB Data -- Overage: 4p/10 KB
+12382,135,,13 days,775 MB Data -- Overage: 4p/10 KB
+12383,149,,28 days,850 MB Data -- Overage: 4p/10 KB
+12384,176,,28 days,1 GB Data -- Overage: 4p/10KB
+12385,197,,28 days,Unlimited 2 GB FUP -- FUP limit: Speed 40kbps post 1.5 GB and 20kbps post 2.5 GB

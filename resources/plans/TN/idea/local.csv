@@ -1,26 +1,26 @@
-id,cost,talktime,validity,short description,long description
-11842,6,,7 days,Recharge of Rs. 6 by Idea,Local Idea Mobile @ 10p/Min
-11843,14,,30 days,Recharge of Rs. 14 by Idea,Local Idea Mobile @ 10p/Min
-11844,16,,3 days,Recharge of Rs. 16 by Idea,Local Idea calling @10p/min & Local Mobile calling @30p/min
-11845,19,,30 days,Recharge of Rs. 19 by Idea,All Local Mobile calling @ 30p/Min
-11846,22,,30 days,Recharge of Rs. 22 by Idea,Local Idea Mobile @ 10p/Min
-11847,27,,30 days,Recharge of Rs. 27 by Idea,Local Idea calling @10p/min & Local Mobile calling @30p/min
-11848,32,,60 days,Recharge of Rs. 32 by Idea,Local Idea Mobile @ 10p/Min
-11849,35,,7 days,Recharge of Rs. 35 by Idea,All India Mobile calling @ 30p/Min
-11850,39,,30 days,Recharge of Rs. 39 by Idea,Local Idea calling @10p/min & Local Mobile calling @30p/min & STD Calling @ 30p/min
-11851,47,,30 days,Recharge of Rs. 47 by Idea,All India Mobile calling @ 25p/Min
-11852,53,,30 days,Recharge of Rs. 53 by Idea,200 Local + STD Mobile Minutes
-11853,64,,60 days,Recharge of Rs. 64 by Idea,All Local Mobile calling @ 30p/Min
-11854,68,,90 days,Recharge of Rs. 68 by Idea,Local Mobile & STD Mob calling @ 40p/min
-11855,69,,30 days,Recharge of Rs. 69 by Idea,Local Idea calling @10p/min & Local Mobile calling @30p/min
-11856,81,,90 days,Recharge of Rs. 81 by Idea,All Local Mobile calling @ 30p/Min
-11857,85,,60 days,Recharge of Rs. 85 by Idea,Local Mobile & STD Mob calling @ 30p/min
-11858,97,,30 days,Recharge of Rs. 97 by Idea,"10,000 Local Mobile secs"
-11859,99,,30 days,Recharge of Rs. 99 by Idea,400 Local + STD Mobile Minutes
-11860,109,,60 days,Recharge of Rs. 109 by Idea,Local Idea calling @10p/min & Local Mobile calling @30p/min
-11861,122,,90 days,Recharge of Rs. 122 by Idea,Local Idea calling @20p/min & Local Mobile calling @30p/min
-11862,133,,90 days,Recharge of Rs. 133 by Idea,Local Mobile & STD Mob calling @ 30p/min
-11863,139,,90 days,Recharge of Rs. 139 by Idea,Local Idea calling @10p/min & Local Mobile calling @30p/min
-11864,151,,28 days,Recharge of Rs. 151 by Idea,"14,000 to 20,000 Local Mobile Calling Secs"
-11865,195,,30 days,Recharge of Rs. 195 by Idea,800 Local + STD Mobile Minutes
-11866,197,,30 days,Recharge of Rs. 197 by Idea,"30,000 Local Mobile secs"
+id,cost,talktime,validity,comments
+11842,6,,7 days,Local Idea Mobile @ 10p/Min
+11843,14,,30 days,Local Idea Mobile @ 10p/Min
+11844,16,,3 days,Local Idea calling @10p/min & Local Mobile calling @30p/min
+11845,19,,30 days,All Local Mobile calling @ 30p/Min
+11846,22,,30 days,Local Idea Mobile @ 10p/Min
+11847,27,,30 days,Local Idea calling @10p/min & Local Mobile calling @30p/min
+11848,32,,60 days,Local Idea Mobile @ 10p/Min
+11849,35,,7 days,All India Mobile calling @ 30p/Min
+11850,39,,30 days,Local Idea calling @10p/min & Local Mobile calling @30p/min & STD Calling @ 30p/min
+11851,47,,30 days,All India Mobile calling @ 25p/Min
+11852,53,,30 days,200 Local + STD Mobile Minutes
+11853,64,,60 days,All Local Mobile calling @ 30p/Min
+11854,68,,90 days,Local Mobile & STD Mob calling @ 40p/min
+11855,69,,30 days,Local Idea calling @10p/min & Local Mobile calling @30p/min
+11856,81,,90 days,All Local Mobile calling @ 30p/Min
+11857,85,,60 days,Local Mobile & STD Mob calling @ 30p/min
+11858,97,,30 days,"10,000 Local Mobile secs"
+11859,99,,30 days,400 Local + STD Mobile Minutes
+11860,109,,60 days,Local Idea calling @10p/min & Local Mobile calling @30p/min
+11861,122,,90 days,Local Idea calling @20p/min & Local Mobile calling @30p/min
+11862,133,,90 days,Local Mobile & STD Mob calling @ 30p/min
+11863,139,,90 days,Local Idea calling @10p/min & Local Mobile calling @30p/min
+11864,151,,28 days,"14,000 to 20,000 Local Mobile Calling Secs"
+11865,195,,30 days,800 Local + STD Mobile Minutes
+11866,197,,30 days,"30,000 Local Mobile secs"

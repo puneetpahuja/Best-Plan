@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-16539,10,7.47,N.A,Recharge of Rs. 10 by Vodafone,Talktime of Rs. 7.47 for Rs. 10 recharge by Vodafone
-16540,20,14.95,N.A,Recharge of Rs. 20 by Vodafone,Talktime of Rs. 14.95 for Rs. 20 recharge by Vodafone
-16541,30,22.42,N.A,Recharge of Rs. 30 by Vodafone,Talktime of Rs. 22.42 for Rs. 30 recharge by Vodafone
-16543,50,39.37,N.A,Recharge of Rs. 50 by Vodafone,Talktime of Rs. 39.37 for Rs. 50 recharge by Vodafone
-16546,100,81.75,N.A,Recharge of Rs. 100 by Vodafone,Talktime of Rs. 81.75 for Rs. 100 recharge by Vodafone
-16548,110,90.22,N.A,Recharge of Rs. 110 by Vodafone,Talktime of Rs. 90.22 for Rs. 110 recharge by Vodafone
-16550,120,114,N.A,Recharge of Rs. 120 by Vodafone,Talktime of Rs. 114 for Rs. 120 recharge by Vodafone
+id,cost,talktime,validity,comments
+16539,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by Vodafone
+16540,20,14.95,N.A,Talktime of Rs. 14.95 for Rs. 20 recharge by Vodafone
+16541,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by Vodafone
+16543,50,39.37,N.A,Talktime of Rs. 39.37 for Rs. 50 recharge by Vodafone
+16546,100,81.75,N.A,Talktime of Rs. 81.75 for Rs. 100 recharge by Vodafone
+16548,110,90.22,N.A,Talktime of Rs. 90.22 for Rs. 110 recharge by Vodafone
+16550,120,114,N.A,Talktime of Rs. 114 for Rs. 120 recharge by Vodafone

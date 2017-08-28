@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-12643,222,230,N.A,Recharge of Rs. 222 by RelianceGSM,Talktime Rs.230
-12644,333,340,N.A,Recharge of Rs. 333 by RelianceGSM,Talk time of Rs 340
-12645,444,488,N.A,Recharge of Rs. 444 by RelianceGSM,Talk time of Rs 488
-12653,62,30,60 days,Recharge of Rs. 62 by RelianceGSM,Rs 30 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
-12654,81,47,70 days,Recharge of Rs. 81 by RelianceGSM,Rs 47 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
-12655,87,50,60 days,Recharge of Rs. 87 by RelianceGSM,Rs 50 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
-12657,92,57,30 days,Recharge of Rs. 92 by RelianceGSM,Rs 57 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
-12661,124,108.3,28 days,Recharge of Rs. 124 by RelianceGSM,1 GB 3G Data -- Promo TT of Rs.30(Only For new customer till 90 days old) --  For older customers the benefits will be Core TT of Rs.108.30 -- 5 SMS. valid for 3 days
-12665,41,32.81,28 days,Recharge of Rs. 41 by RelianceGSM,"400 MB 3G Data (Only For new customer till 60 days old, for older customers the benefits will be Core TT of Rs.32.81 and 5 SMS valid for 3 days)"
-12668,33,,2 days,Recharge of Rs. 33 by RelianceGSM,1 GB Data -- 1 Hour All Calls to any N/W
-12669,129,,28 days,Recharge of Rs. 129 by RelianceGSM,200 All Mobile Call Mins -- 500 MB Data
-12670,299,,28 days,Recharge of Rs. 299 by RelianceGSM,500 All Mobile Call Mins -- 500 MB Data
+id,cost,talktime,validity,comments
+12643,222,230,N.A,Talktime Rs.230
+12644,333,340,N.A,Talk time of Rs 340
+12645,444,488,N.A,Talk time of Rs 488
+12653,62,30,60 days,Rs 30 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
+12654,81,47,70 days,Rs 47 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
+12655,87,50,60 days,Rs 50 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
+12657,92,57,30 days,Rs 57 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
+12661,124,108.3,28 days,1 GB 3G Data -- Promo TT of Rs.30(Only For new customer till 90 days old) --  For older customers the benefits will be Core TT of Rs.108.30 -- 5 SMS. valid for 3 days
+12665,41,32.81,28 days,"400 MB 3G Data (Only For new customer till 60 days old, for older customers the benefits will be Core TT of Rs.32.81 and 5 SMS valid for 3 days)"
+12668,33,,2 days,1 GB Data -- 1 Hour All Calls to any N/W
+12669,129,,28 days,200 All Mobile Call Mins -- 500 MB Data
+12670,299,,28 days,500 All Mobile Call Mins -- 500 MB Data

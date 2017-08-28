@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-14804,60,60,N.A,Recharge of Rs. 60 by RelianceGSM,Talktime of Rs. 60 for Rs. 60 recharge by Reliance GSM
-14805,80,80,N.A,Recharge of Rs. 80 by RelianceGSM,Talktime of Rs. 80 for Rs. 80 recharge by Reliance GSM
-14807,150,150,N.A,Recharge of Rs. 150 by RelianceGSM,Talktime of Rs. 150 for Rs. 150 recharge by Reliance GSM
-14808,200,200,N.A,Recharge of Rs. 200 by RelianceGSM,Talktime of Rs. 200 for Rs. 200 recharge by Reliance GSM
-14810,300,300,N.A,Recharge of Rs. 300 by RelianceGSM,Talktime of Rs. 300 for Rs. 300 recharge by Reliance GSM
-14811,500,500,N.A,Recharge of Rs. 500 by RelianceGSM,Talktime of Rs. 500 for Rs. 500 recharge by Reliance GSM
+id,cost,talktime,validity,comments
+14804,60,60,N.A,Talktime of Rs. 60 for Rs. 60 recharge by Reliance GSM
+14805,80,80,N.A,Talktime of Rs. 80 for Rs. 80 recharge by Reliance GSM
+14807,150,150,N.A,Talktime of Rs. 150 for Rs. 150 recharge by Reliance GSM
+14808,200,200,N.A,Talktime of Rs. 200 for Rs. 200 recharge by Reliance GSM
+14810,300,300,N.A,Talktime of Rs. 300 for Rs. 300 recharge by Reliance GSM
+14811,500,500,N.A,Talktime of Rs. 500 for Rs. 500 recharge by Reliance GSM

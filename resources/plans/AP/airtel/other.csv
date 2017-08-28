@@ -1,20 +1,20 @@
-id,cost,talktime,validity,short description,long description
-1452,15,15,1 day,Recharge of Rs. 15 by Airtel,2 Local airtel SMS
-1453,24,24,3 days,Recharge of Rs. 24 by Airtel,2 Local Airtel SMS (1 day valid)
-1454,52,52,5 days,Recharge of Rs. 52 by Airtel,2 Local A2A SMS (1 day)
-1455,111,111,12 days,Recharge of Rs. 111 by Airtel,2 Local airtel SMS (1 day)
-1459,306,306,27 days,Recharge of Rs. 306 by Airtel,National Roaming Benefit: Local & STD outgoing calls @60p/min.
-1466,779,779,7 days,Recharge of Rs. 779 by Airtel,IR Pack: Outgoing Rs.40/min and Incoming Rs.30/min -- Applicable only on selected countries and Operators. List attached click here
-1478,14,10.46,2 days,Recharge of Rs. 14 by Airtel,2 A2A sms 
-1481,39,30.05,N.A,Recharge of Rs. 39 by Airtel,2 Airtel to Airtel SMS
-1483,47,36.83,N.A,Recharge of Rs. 47 by Airtel,2 Night Airtel SMS (2days)
-1486,69,55.47,N.A,Recharge of Rs. 69 by Airtel,2 Night Airtel SMS for 2days
-1487,85,69.03,N.A,Recharge of Rs. 85 by Airtel,2 Night Airtel SMS (2 days)
-1488,98,94,28 days,Recharge of Rs. 98 by Airtel,local + STD calls @1.1p/sec 
-1490,108,88.53,N.A,Recharge of Rs. 108 by Airtel,2 Night Airtel SMS (2days)
-1498,239,235,N.A,Recharge of Rs. 239 by Airtel,5 local Airtel 2 Airtel night mins (2 days)
-1500,128,28,28 days,Recharge of Rs. 128 by Airtel,575 MB 2G Data
-1516,23,,1 day,Recharge of Rs. 23 by Airtel,Unlimited airtel to airtel local/STD calls -- 50 MB data ( 100 MB for 4G H/s)
-1517,53,,7 days,Recharge of Rs. 53 by Airtel,Unlimited airtel to airtel local/STD calls -- 50 MB data ( 250MB for 4G H/s)
-1518,93,,7 days,Recharge of Rs. 93 by Airtel,Unlimited Loc+STD A2A calls + 100 mins of Loc+STD airtel to other mobile -- 50 MB data (250 MB for 4G H/s). T&C Apply
-1519,244,,28 days,Recharge of Rs. 244 by Airtel,"Unlimited Local + STD Airtel to Airtel Mobile calls -- 50 MB data.For 4G Handset + 4G SIM, extra 1 GB Data -- T&C apply"
+id,cost,talktime,validity,comments
+1452,15,15,1 day,2 Local airtel SMS
+1453,24,24,3 days,2 Local Airtel SMS (1 day valid)
+1454,52,52,5 days,2 Local A2A SMS (1 day)
+1455,111,111,12 days,2 Local airtel SMS (1 day)
+1459,306,306,27 days,National Roaming Benefit: Local & STD outgoing calls @60p/min.
+1466,779,779,7 days,IR Pack: Outgoing Rs.40/min and Incoming Rs.30/min -- Applicable only on selected countries and Operators. List attached click here
+1478,14,10.46,2 days,2 A2A sms 
+1481,39,30.05,N.A,2 Airtel to Airtel SMS
+1483,47,36.83,N.A,2 Night Airtel SMS (2days)
+1486,69,55.47,N.A,2 Night Airtel SMS for 2days
+1487,85,69.03,N.A,2 Night Airtel SMS (2 days)
+1488,98,94,28 days,local + STD calls @1.1p/sec 
+1490,108,88.53,N.A,2 Night Airtel SMS (2days)
+1498,239,235,N.A,5 local Airtel 2 Airtel night mins (2 days)
+1500,128,28,28 days,575 MB 2G Data
+1516,23,,1 day,Unlimited airtel to airtel local/STD calls -- 50 MB data ( 100 MB for 4G H/s)
+1517,53,,7 days,Unlimited airtel to airtel local/STD calls -- 50 MB data ( 250MB for 4G H/s)
+1518,93,,7 days,Unlimited Loc+STD A2A calls + 100 mins of Loc+STD airtel to other mobile -- 50 MB data (250 MB for 4G H/s). T&C Apply
+1519,244,,28 days,"Unlimited Local + STD Airtel to Airtel Mobile calls -- 50 MB data.For 4G Handset + 4G SIM, extra 1 GB Data -- T&C apply"

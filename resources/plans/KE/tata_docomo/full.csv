@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-8146,120,120,N.A,Recharge of Rs. 120 by Docomo,Talktime of Rs. 120 for Rs. 120 recharge by Tata DOCOMO
-8147,150,150,N.A,Recharge of Rs. 150 by Docomo,Talktime of Rs. 150 for Rs. 150 recharge by Tata DOCOMO
-8148,180,195,N.A,Recharge of Rs. 180 by Docomo,Talktime of Rs. 195 for Rs. 180 recharge by Tata DOCOMO
-8150,200,200,N.A,Recharge of Rs. 200 by Docomo,Talktime of Rs. 200 for Rs. 200 recharge by Tata DOCOMO
+id,cost,talktime,validity,comments
+8146,120,120,N.A,Talktime of Rs. 120 for Rs. 120 recharge by Tata DOCOMO
+8147,150,150,N.A,Talktime of Rs. 150 for Rs. 150 recharge by Tata DOCOMO
+8148,180,195,N.A,Talktime of Rs. 195 for Rs. 180 recharge by Tata DOCOMO
+8150,200,200,N.A,Talktime of Rs. 200 for Rs. 200 recharge by Tata DOCOMO

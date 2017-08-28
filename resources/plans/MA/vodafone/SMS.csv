@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-17670,15,,15 days,Recharge of Rs. 15 by Vodafone,150 SMS to Loc/Nat Mobile
-17671,26,,10 days,Recharge of Rs. 26 by Vodafone,300 SMS to Loc/Nat Mobile
-17672,36,,30 days,Recharge of Rs. 36 by Vodafone,400 SMS to Loc/Nat Mobile
-17673,66,,30 days,Recharge of Rs. 66 by Vodafone,750 SMS to Loc/Nat Mobile
+id,cost,talktime,validity,comments
+17670,15,,15 days,150 SMS to Loc/Nat Mobile
+17671,26,,10 days,300 SMS to Loc/Nat Mobile
+17672,36,,30 days,400 SMS to Loc/Nat Mobile
+17673,66,,30 days,750 SMS to Loc/Nat Mobile

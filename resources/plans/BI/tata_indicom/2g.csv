@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-15005,5,,1 day,Recharge of Rs. 5 by Indicom,25 MB 2G Data
-15006,12,,3 days,Recharge of Rs. 12 by Indicom,75 MB
-15007,43,,10 days,Recharge of Rs. 43 by Indicom,250 MB
-15008,126,,28 days,Recharge of Rs. 126 by Indicom,1 GB
-15009,256,,28 days,Recharge of Rs. 256 by Indicom,2 GB
+id,cost,talktime,validity,comments
+15005,5,,1 day,25 MB 2G Data
+15006,12,,3 days,75 MB
+15007,43,,10 days,250 MB
+15008,126,,28 days,1 GB
+15009,256,,28 days,2 GB

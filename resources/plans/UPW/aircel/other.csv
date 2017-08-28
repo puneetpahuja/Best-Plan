@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-1280,55,55,3 days,Recharge of Rs. 55 by Aircel,Unlimited Local On-net Calls
-1286,105,115,7 days,Recharge of Rs. 105 by Aircel,Unlimited Local On-net Calls
-1288,155,175,14 days,Recharge of Rs. 155 by Aircel,Unlimited Local On-net Calls
-1290,205,230,28 days,Recharge of Rs. 205 by Aircel,Unlimited Local On-net Calls
-1297,249,,28 days,Recharge of Rs. 249 by Aircel,Unlimited All Local & STD calls -- Unlimited 2G Data
+id,cost,talktime,validity,comments
+1280,55,55,3 days,Unlimited Local On-net Calls
+1286,105,115,7 days,Unlimited Local On-net Calls
+1288,155,175,14 days,Unlimited Local On-net Calls
+1290,205,230,28 days,Unlimited Local On-net Calls
+1297,249,,28 days,Unlimited All Local & STD calls -- Unlimited 2G Data

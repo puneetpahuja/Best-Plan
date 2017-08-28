@@ -1,18 +1,18 @@
-id,cost,talktime,validity,short description,long description
-13276,8,,2 days,Recharge of Rs. 8 by RelianceGSM,Local Relaince @15p/min and Local and STD Voice Calls @35p/min
-13277,11,,5 days,Recharge of Rs. 11 by RelianceGSM,Local/STD calls in Home and National Roaming location at 40p/min and Incoming Free while National Roaming
-13278,13,,3 days,Recharge of Rs. 13 by RelianceGSM,Local Relaince @15p/min and Local and STD Voice Calls @35p/min
-13279,17,,14 days,Recharge of Rs. 17 by RelianceGSM,All call 30p/min
-13280,23,,2 days,Recharge of Rs. 23 by RelianceGSM,All Local and STD reliance calls at 5p/min
-13281,32,,18 days,Recharge of Rs. 32 by RelianceGSM,All local Mobile calls 1.2p/2 sec
-13282,34,,3 days,Recharge of Rs. 34 by RelianceGSM,100 Local Relaince Mins
-13283,42,,28 days,Recharge of Rs. 42 by RelianceGSM,Local 35p/min
-13284,46,,28 days,Recharge of Rs. 46 by RelianceGSM,All call 1.2p/2 sec
-13285,47,,28 days,Recharge of Rs. 47 by RelianceGSM,Local/STD calls in Home and National Roaming location at 40p/min & Incoming Free while National Roaming
-13286,48,,10 days,Recharge of Rs. 48 by RelianceGSM,150 local onnet + 150 local onnet night minutes (11 PM to 06 AM)
-13287,49,,90 days,Recharge of Rs. 49 by RelianceGSM,Local Calls @1.4p/2 sec
-13288,68,,21 days,Recharge of Rs. 68 by RelianceGSM,350 local onnet + 350 local onnet night minutes (11 PM to 6 AM)
-13289,78,,28 days,Recharge of Rs. 78 by RelianceGSM,Local Mobile Calls @30/min
-13290,95,,28 days,Recharge of Rs. 95 by RelianceGSM,450 local onnet + 450 local onnet night minutes (11 PM to 6 AM)
-13291,148,,28 days,Recharge of Rs. 148 by RelianceGSM,325 local & STD Mins
-13292,285,,25 days,Recharge of Rs. 285 by RelianceGSM,Unlimited local Reliance to Reliance calling 
+id,cost,talktime,validity,comments
+13276,8,,2 days,Local Relaince @15p/min and Local and STD Voice Calls @35p/min
+13277,11,,5 days,Local/STD calls in Home and National Roaming location at 40p/min and Incoming Free while National Roaming
+13278,13,,3 days,Local Relaince @15p/min and Local and STD Voice Calls @35p/min
+13279,17,,14 days,All call 30p/min
+13280,23,,2 days,All Local and STD reliance calls at 5p/min
+13281,32,,18 days,All local Mobile calls 1.2p/2 sec
+13282,34,,3 days,100 Local Relaince Mins
+13283,42,,28 days,Local 35p/min
+13284,46,,28 days,All call 1.2p/2 sec
+13285,47,,28 days,Local/STD calls in Home and National Roaming location at 40p/min & Incoming Free while National Roaming
+13286,48,,10 days,150 local onnet + 150 local onnet night minutes (11 PM to 06 AM)
+13287,49,,90 days,Local Calls @1.4p/2 sec
+13288,68,,21 days,350 local onnet + 350 local onnet night minutes (11 PM to 6 AM)
+13289,78,,28 days,Local Mobile Calls @30/min
+13290,95,,28 days,450 local onnet + 450 local onnet night minutes (11 PM to 6 AM)
+13291,148,,28 days,325 local & STD Mins
+13292,285,,25 days,Unlimited local Reliance to Reliance calling 

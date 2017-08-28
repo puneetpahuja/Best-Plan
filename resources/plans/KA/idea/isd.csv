@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-10439,13,,28 days,Recharge of Rs. 13 by Idea,US/Canada/China @4p/sQatar @17p/sBangladesh/Hong Kong/Malaysia/Thailand/Singapore @4p/secNepal @11p/secGulf @13p/sec
-10440,45,,28 days,Recharge of Rs. 45 by Idea,"Gulf @13p/s (UAE, Saudi Arabia,Bahrain, Kuwait)"
-10441,123,,28 days,Recharge of Rs. 123 by Idea,"12,000 seconds to US, Canada, China and Tibet"
-10442,596,,10 days,Recharge of Rs. 596 by Idea,"International Roaming Pack for UAE** NO Talktime -- Incoming calls at Rs. 30/min & Outgoing calls at Rs. Rs.30/min -- Outgoing SMS at Rs. 25 per SMS, Incoming SMS Free"
-10443,1496,,30 days,Recharge of Rs. 1496 by Idea,"International Roaming Pack for UAE** -- 30 minutes Incoming Free. Post Free minutes Incoming calls at Rs.30/min & Outgoing calls at Rs.30/min -- Outgoing SMS at Rs.25 per SMS, Incoming SMS Free"
+id,cost,talktime,validity,comments
+10439,13,,28 days,US/Canada/China @4p/sQatar @17p/sBangladesh/Hong Kong/Malaysia/Thailand/Singapore @4p/secNepal @11p/secGulf @13p/sec
+10440,45,,28 days,"Gulf @13p/s (UAE, Saudi Arabia,Bahrain, Kuwait)"
+10441,123,,28 days,"12,000 seconds to US, Canada, China and Tibet"
+10442,596,,10 days,"International Roaming Pack for UAE** NO Talktime -- Incoming calls at Rs. 30/min & Outgoing calls at Rs. Rs.30/min -- Outgoing SMS at Rs. 25 per SMS, Incoming SMS Free"
+10443,1496,,30 days,"International Roaming Pack for UAE** -- 30 minutes Incoming Free. Post Free minutes Incoming calls at Rs.30/min & Outgoing calls at Rs.30/min -- Outgoing SMS at Rs.25 per SMS, Incoming SMS Free"

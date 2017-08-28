@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-11431,5,,1 day,Recharge of Rs. 5 by Idea,30 MB Data -- Overage: 4p/10KB -- 
-11432,17,,1 day,Recharge of Rs. 17 by Idea,Unlimited 2G Data pack -- 
-11434,29,,4 days,Recharge of Rs. 29 by Idea,170 MB Data  -- Overage: 4P/10KB
-11435,37,,5 days,Recharge of Rs. 37 by Idea,210 MB Data -- Overage: 4P/10KB
-11436,46,,6 days,Recharge of Rs. 46 by Idea,265 MB Data -- Overage: 4P/10KB
-11438,59,,7 days,Recharge of Rs. 59 by Idea,340 MB Data -- Overage: 4P/10KB
-11440,106,,28 days,Recharge of Rs. 106 by Idea,350 MB -- Overage: 4P/10KB
-11441,111,,28 days,Recharge of Rs. 111 by Idea,330 MB+330 MB Night~ -- Overage: 4P/10KB
-11442,124,,14 days,Recharge of Rs. 124 by Idea,710 MB Data -- Overage: 4P/10KB
-11443,155,,28 days,Recharge of Rs. 155 by Idea,500 MB -- Overage: 4P/10KB
-11444,175,,28 days,Recharge of Rs. 175 by Idea,1 GB Data -- Overage: 4P/10KB
-11445,199,,28 days,Recharge of Rs. 199 by Idea,Unlimited -- FUP limit: 1.25 GB
-11447,249,,28 days,Recharge of Rs. 249 by Idea,Unlimited -- FUP limit: 3 GB
+id,cost,talktime,validity,comments
+11431,5,,1 day,30 MB Data -- Overage: 4p/10KB -- 
+11432,17,,1 day,Unlimited 2G Data pack -- 
+11434,29,,4 days,170 MB Data  -- Overage: 4P/10KB
+11435,37,,5 days,210 MB Data -- Overage: 4P/10KB
+11436,46,,6 days,265 MB Data -- Overage: 4P/10KB
+11438,59,,7 days,340 MB Data -- Overage: 4P/10KB
+11440,106,,28 days,350 MB -- Overage: 4P/10KB
+11441,111,,28 days,330 MB+330 MB Night~ -- Overage: 4P/10KB
+11442,124,,14 days,710 MB Data -- Overage: 4P/10KB
+11443,155,,28 days,500 MB -- Overage: 4P/10KB
+11444,175,,28 days,1 GB Data -- Overage: 4P/10KB
+11445,199,,28 days,Unlimited -- FUP limit: 1.25 GB
+11447,249,,28 days,Unlimited -- FUP limit: 3 GB

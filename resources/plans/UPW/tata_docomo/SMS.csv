@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-9082,16,,7 days,Recharge of Rs. 16 by Docomo,200 Local + National SMS
-9083,36,,30 days,Recharge of Rs. 36 by Docomo,600 Local + National SMS
-9084,69,,30 days,Recharge of Rs. 69 by Docomo,1500 Local + National SMS
+id,cost,talktime,validity,comments
+9082,16,,7 days,200 Local + National SMS
+9083,36,,30 days,600 Local + National SMS
+9084,69,,30 days,1500 Local + National SMS

@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-15865,43,,28 days,Recharge of Rs. 43 by Uninor,"Unlimited free incoming while roaming in Andhra Pradesh, Gujarat, Maharashtra & Goa (Excluding Mumbai), UP East and UP West"
-15866,61,,180 days,Recharge of Rs. 61 by Uninor,"Per second voice tariff in home circle, Outgoing Local Calls @1.6P/Sec and STD Calls @2.2P/Sec & Local SMS @Rs 1/SMS & national SMS @Rs 1.5/SMS & International SMS @Rs5/SMS.Roaming outgoing Local calls @80P/min and STD calls @1.15P/min; Roaming Incoming calls @45P/min;SMS outgoing Local @25P/SMS and STD @38P/SMS and GPRS 20P/20KB"
-15867,1199,,180 days,Recharge of Rs. 1199 by Uninor,Unlimited Free incoming and Outgoing Local Calls @80P/Min & STD Calls @1.15P/Min & Local SMS @25P/SMS & STD SMS @38P/SMS & International SMS @Rs5/SMS and GPRS 20P/20KB 
+id,cost,talktime,validity,comments
+15865,43,,28 days,"Unlimited free incoming while roaming in Andhra Pradesh, Gujarat, Maharashtra & Goa (Excluding Mumbai), UP East and UP West"
+15866,61,,180 days,"Per second voice tariff in home circle, Outgoing Local Calls @1.6P/Sec and STD Calls @2.2P/Sec & Local SMS @Rs 1/SMS & national SMS @Rs 1.5/SMS & International SMS @Rs5/SMS.Roaming outgoing Local calls @80P/min and STD calls @1.15P/min; Roaming Incoming calls @45P/min;SMS outgoing Local @25P/SMS and STD @38P/SMS and GPRS 20P/20KB"
+15867,1199,,180 days,Unlimited Free incoming and Outgoing Local Calls @80P/Min & STD Calls @1.15P/Min & Local SMS @25P/SMS & STD SMS @38P/SMS & International SMS @Rs5/SMS and GPRS 20P/20KB 

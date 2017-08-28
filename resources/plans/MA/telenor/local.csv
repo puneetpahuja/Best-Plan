@@ -1,35 +1,35 @@
-id,cost,talktime,validity,short description,long description
-16000,6,,2 days,Recharge of Rs. 6 by Uninor,Unlimited Telenor to Telenor Local calls
-16001,11,,28 days,Recharge of Rs. 11 by Uninor,Local Telenor to Telenor Calls @15p/Min and Local Telenor to Others Calls @25p/Min
-16002,15,,28 days,Recharge of Rs. 15 by Uninor,All Local & STD Telenor calls @15p/min
-16003,17,,28 days,Recharge of Rs. 17 by Uninor,"1,700 Local & STD Seconds"
-16004,19,,28 days,Recharge of Rs. 19 by Uninor,"All Local & Telenor to other STD calls @ 25p/mins -- All Telenor to Telenor STD Calls @ 15p/Min -- IC Roaming Free in Telenor Circles, OG Tariff Applicable for Home & Telenor Roaming"
-16005,22,,28 days,Recharge of Rs. 22 by Uninor,Local Telenor to Telenor calls@5p/inm + All Local/STD calls @25p/min
-16006,26,,28 days,Recharge of Rs. 26 by Uninor,All Local calls @1.2p/2sec
-16007,27,,28 days,Recharge of Rs. 27 by Uninor,"All Local & STD Calls @ 20P/Min -- IC Roaming Free in Telenor Circles,OG Tariff Applicable for Home & Telenor Roaming"
-16008,33,,14 days,Recharge of Rs. 33 by Uninor,"3,500 All Local secs"
-16009,36,,28 days,Recharge of Rs. 36 by Uninor,All Local & STD calls @1.2/2 Seconds
-16010,38,,14 days,Recharge of Rs. 38 by Uninor,"25,000 Local Telenor to Telenor seconds"
-16011,39,,90 days,Recharge of Rs. 39 by Uninor,"All Local & Telenor to other STD calls @ 25p/mins -- All Telenor to Telenor STD Calls @ 15p/Min -- IC Roaming Free in Telenor Circles, OG Tariff Applicable for Home & Telenor Roaming"
-16012,48,,21 days,Recharge of Rs. 48 by Uninor,"50,000 Local Telenor to Telenor Seconds"
-16013,49,,14 days,Recharge of Rs. 49 by Uninor,"4,000 Local Telenor to Telenor Seconds + 4,000 All India Seconds"
-16014,55,,21 days,Recharge of Rs. 55 by Uninor,"7,500 All Local Seconds"
-16015,58,,28 days,Recharge of Rs. 58 by Uninor,"75,000 Local Telenor to Telenor Sec"
-16016,69,,28 days,Recharge of Rs. 69 by Uninor,"60,000 Local Telenor to Telenor Seconds + 6,000 All India Seconds"
-16017,73,,14 days,Recharge of Rs. 73 by Uninor,"11,000 All India seconds"
-16018,88,,28 days,Recharge of Rs. 88 by Uninor,Unlimited Local Telenor to Telenor Calls + All Local & STD calls @ 20 p/min
-16019,89,,28 days,Recharge of Rs. 89 by Uninor,"40,000 Local Telenor to Telenor Secs and 11,000 All India Secs"
-16020,96,,21 days,Recharge of Rs. 96 by Uninor,"15,000 All India seconds"
-16021,97,,28 days,Recharge of Rs. 97 by Uninor,Unlimited Local /STD Telenor to Telenor calls + All Local Telenor to Other calls @20p/min & STD Telenor to Other calls @ 15p/min
-16022,98,,14 days,Recharge of Rs. 98 by Uninor,"18,000 All Local Seconds"
-16023,99,,28 days,Recharge of Rs. 99 by Uninor,"6,000 Local Telenor to Telenor  Seconds & 12,000 Other Local Seconds Free"
-16024,123,,28 days,Recharge of Rs. 123 by Uninor,"18,000 All India Seconds + 105,000 Local Telenor to Telenor seconds"
-16025,148,,14 days,Recharge of Rs. 148 by Uninor,Unlimited Local & STD calls Telenor to Telenor + Local & STD Telenor to other calls with 500 Mins/Week along with 100 Mins/day capping post that @25p/min
-16026,157,,90 days,Recharge of Rs. 157 by Uninor,Unlimited Local Telenor to Telenor calls
-16027,198,,28 days,Recharge of Rs. 198 by Uninor,"30,000 All Local Seconds + Unlimited Local Telenor to Telenor Calls"
-16028,199,,28 days,Recharge of Rs. 199 by Uninor,"39,000 All Local Seconds"
-16029,249,,28 days,Recharge of Rs. 249 by Uninor,"51,000 Local Telenor to Others Seconds + Unlimited Local Telenor to Telenor calls"
-16030,253,,28 days,Recharge of Rs. 253 by Uninor,"42,000 All India seconds "
-16031,299,,28 days,Recharge of Rs. 299 by Uninor,Unlimited Local/STD calls & Data -- Commercial Activity means 300 Off-net minutes/day or 1200 Off-net minutes in a week - Post that fixed tariff of 25p/min for Off-net calls will apply for the remainder of day/week. -- This STV should not be used for any Commercial Activity.
-16032,551,,90 days,Recharge of Rs. 551 by Uninor,120000 Local Telenor to Telenor secs + 39000 Local Telenor to others secs per month
-16033,555,,21 days,Recharge of Rs. 555 by Uninor,Unlimited Local calls 
+id,cost,talktime,validity,comments
+16000,6,,2 days,Unlimited Telenor to Telenor Local calls
+16001,11,,28 days,Local Telenor to Telenor Calls @15p/Min and Local Telenor to Others Calls @25p/Min
+16002,15,,28 days,All Local & STD Telenor calls @15p/min
+16003,17,,28 days,"1,700 Local & STD Seconds"
+16004,19,,28 days,"All Local & Telenor to other STD calls @ 25p/mins -- All Telenor to Telenor STD Calls @ 15p/Min -- IC Roaming Free in Telenor Circles, OG Tariff Applicable for Home & Telenor Roaming"
+16005,22,,28 days,Local Telenor to Telenor calls@5p/inm + All Local/STD calls @25p/min
+16006,26,,28 days,All Local calls @1.2p/2sec
+16007,27,,28 days,"All Local & STD Calls @ 20P/Min -- IC Roaming Free in Telenor Circles,OG Tariff Applicable for Home & Telenor Roaming"
+16008,33,,14 days,"3,500 All Local secs"
+16009,36,,28 days,All Local & STD calls @1.2/2 Seconds
+16010,38,,14 days,"25,000 Local Telenor to Telenor seconds"
+16011,39,,90 days,"All Local & Telenor to other STD calls @ 25p/mins -- All Telenor to Telenor STD Calls @ 15p/Min -- IC Roaming Free in Telenor Circles, OG Tariff Applicable for Home & Telenor Roaming"
+16012,48,,21 days,"50,000 Local Telenor to Telenor Seconds"
+16013,49,,14 days,"4,000 Local Telenor to Telenor Seconds + 4,000 All India Seconds"
+16014,55,,21 days,"7,500 All Local Seconds"
+16015,58,,28 days,"75,000 Local Telenor to Telenor Sec"
+16016,69,,28 days,"60,000 Local Telenor to Telenor Seconds + 6,000 All India Seconds"
+16017,73,,14 days,"11,000 All India seconds"
+16018,88,,28 days,Unlimited Local Telenor to Telenor Calls + All Local & STD calls @ 20 p/min
+16019,89,,28 days,"40,000 Local Telenor to Telenor Secs and 11,000 All India Secs"
+16020,96,,21 days,"15,000 All India seconds"
+16021,97,,28 days,Unlimited Local /STD Telenor to Telenor calls + All Local Telenor to Other calls @20p/min & STD Telenor to Other calls @ 15p/min
+16022,98,,14 days,"18,000 All Local Seconds"
+16023,99,,28 days,"6,000 Local Telenor to Telenor  Seconds & 12,000 Other Local Seconds Free"
+16024,123,,28 days,"18,000 All India Seconds + 105,000 Local Telenor to Telenor seconds"
+16025,148,,14 days,Unlimited Local & STD calls Telenor to Telenor + Local & STD Telenor to other calls with 500 Mins/Week along with 100 Mins/day capping post that @25p/min
+16026,157,,90 days,Unlimited Local Telenor to Telenor calls
+16027,198,,28 days,"30,000 All Local Seconds + Unlimited Local Telenor to Telenor Calls"
+16028,199,,28 days,"39,000 All Local Seconds"
+16029,249,,28 days,"51,000 Local Telenor to Others Seconds + Unlimited Local Telenor to Telenor calls"
+16030,253,,28 days,"42,000 All India seconds "
+16031,299,,28 days,Unlimited Local/STD calls & Data -- Commercial Activity means 300 Off-net minutes/day or 1200 Off-net minutes in a week - Post that fixed tariff of 25p/min for Off-net calls will apply for the remainder of day/week. -- This STV should not be used for any Commercial Activity.
+16032,551,,90 days,120000 Local Telenor to Telenor secs + 39000 Local Telenor to others secs per month
+16033,555,,21 days,Unlimited Local calls 

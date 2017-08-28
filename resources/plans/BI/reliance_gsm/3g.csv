@@ -1,20 +1,20 @@
-id,cost,talktime,validity,short description,long description
-12672,15,,1 day,Recharge of Rs. 15 by RelianceGSM,75 MB 3G Data
-12673,16,,1 day,Recharge of Rs. 16 by RelianceGSM,1 GB 3G Data
-12674,32,,3 days,Recharge of Rs. 32 by RelianceGSM,1 GB 3G Data
-12675,34,,3 days,Recharge of Rs. 34 by RelianceGSM,225 MB 3G Data
-12676,49,,28 days,Recharge of Rs. 49 by RelianceGSM,1024 MB 3G Data
-12677,74,,5 days,Recharge of Rs. 74 by RelianceGSM,500 MB 3G Data
-12678,89,,28 days,Recharge of Rs. 89 by RelianceGSM,1 GB/ Day 3G Data
-12679,94,,28 days,Recharge of Rs. 94 by RelianceGSM,300 MB 3G Data
-12680,98,,28 days,Recharge of Rs. 98 by RelianceGSM,1 GB 3G Data (Only For new customer till 90 days old for older customers the benefits will be 1 GB 3G Data. valid for 3 days)
-12681,99,,28 days,Recharge of Rs. 99 by RelianceGSM,2048 MB 3G Data
-12682,143,,7 days,Recharge of Rs. 143 by RelianceGSM,750MB 3G data. Unused data quota will be forfeited.
-12683,149,,28 days,Recharge of Rs. 149 by RelianceGSM,3072 MB 3G Data
-12684,177,,25 days,Recharge of Rs. 177 by RelianceGSM,1 GB 3G Data
-12685,192,,21 days,Recharge of Rs. 192 by RelianceGSM,1GB Data
-12686,198,,28 days,Recharge of Rs. 198 by RelianceGSM,1.25 GB 3G Data
-12687,252,,28 days,Recharge of Rs. 252 by RelianceGSM,1GB Data
-12688,277,,28 days,Recharge of Rs. 277 by RelianceGSM,2 GB 3G Data
-12689,493,,28 days,Recharge of Rs. 493 by RelianceGSM,3GB 3G Data. Unused data quota will be forfeited.
-12690,693,,28 days,Recharge of Rs. 693 by RelianceGSM,5GB 3G Data. Unused data quota will be forfeited.
+id,cost,talktime,validity,comments
+12672,15,,1 day,75 MB 3G Data
+12673,16,,1 day,1 GB 3G Data
+12674,32,,3 days,1 GB 3G Data
+12675,34,,3 days,225 MB 3G Data
+12676,49,,28 days,1024 MB 3G Data
+12677,74,,5 days,500 MB 3G Data
+12678,89,,28 days,1 GB/ Day 3G Data
+12679,94,,28 days,300 MB 3G Data
+12680,98,,28 days,1 GB 3G Data (Only For new customer till 90 days old for older customers the benefits will be 1 GB 3G Data. valid for 3 days)
+12681,99,,28 days,2048 MB 3G Data
+12682,143,,7 days,750MB 3G data. Unused data quota will be forfeited.
+12683,149,,28 days,3072 MB 3G Data
+12684,177,,25 days,1 GB 3G Data
+12685,192,,21 days,1GB Data
+12686,198,,28 days,1.25 GB 3G Data
+12687,252,,28 days,1GB Data
+12688,277,,28 days,2 GB 3G Data
+12689,493,,28 days,3GB 3G Data. Unused data quota will be forfeited.
+12690,693,,28 days,5GB 3G Data. Unused data quota will be forfeited.

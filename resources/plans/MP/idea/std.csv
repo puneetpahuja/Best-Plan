@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-10794,4,,1 day,Recharge of Rs. 4 by Idea,STD Mobile 40p/min(Pack expiry at 23:59:59 hrs on activation day ). Available on deduction -- Mode of Recharge : Calling on ##43(Toll Free)
-10795,36,,28 days,Recharge of Rs. 36 by Idea,STD Mobile Calls @ 25P/min 
-10796,41,,45 days,Recharge of Rs. 41 by Idea,STD Mobile Calls @ 30P/min
-10797,61,,60 days,Recharge of Rs. 61 by Idea,STD Mobile calls @ 25p/min
+id,cost,talktime,validity,comments
+10794,4,,1 day,STD Mobile 40p/min(Pack expiry at 23:59:59 hrs on activation day ). Available on deduction -- Mode of Recharge : Calling on ##43(Toll Free)
+10795,36,,28 days,STD Mobile Calls @ 25P/min 
+10796,41,,45 days,STD Mobile Calls @ 30P/min
+10797,61,,60 days,STD Mobile calls @ 25p/min

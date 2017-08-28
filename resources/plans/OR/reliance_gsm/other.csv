@@ -1,11 +1,11 @@
-id,cost,talktime,validity,short description,long description
-14075,49,49,21 days,Recharge of Rs. 49 by RelianceGSM,Rs. 49 Promo Talktime
-14076,55,55,1 day,Recharge of Rs. 55 by RelianceGSM,1 Local 1 SMS valid for 1 Day
-14081,202,202,30 days,Recharge of Rs. 202 by RelianceGSM,Promo Talktime of Rs.202
-14082,249,249,30 days,Recharge of Rs. 249 by RelianceGSM,Promo Talktime of Rs.249 
-14083,302,302,30 days,Recharge of Rs. 302 by RelianceGSM,Promo Talktime of Rs.302 
-14084,349,349,30 days,Recharge of Rs. 349 by RelianceGSM,Promo Talktime of Rs.349 
-14090,62,30,60 days,Recharge of Rs. 62 by RelianceGSM,Rs 30 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
-14092,87,50,60 days,Recharge of Rs. 87 by RelianceGSM,Rs 50 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
-14093,92,47,70 days,Recharge of Rs. 92 by RelianceGSM,Rs 47 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
-14103,33,,Recharge Day + 1,Recharge of Rs. 33 by RelianceGSM,1GB + 1 Hour All Calls to any N/W
+id,cost,talktime,validity,comments
+14075,49,49,21 days,Rs. 49 Promo Talktime
+14076,55,55,1 day,1 Local 1 SMS valid for 1 Day
+14081,202,202,30 days,Promo Talktime of Rs.202
+14082,249,249,30 days,Promo Talktime of Rs.249 
+14083,302,302,30 days,Promo Talktime of Rs.302 
+14084,349,349,30 days,Promo Talktime of Rs.349 
+14090,62,30,60 days,Rs 30 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
+14092,87,50,60 days,Rs 50 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
+14093,92,47,70 days,Rs 47 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
+14103,33,,Recharge Day + 1,1GB + 1 Hour All Calls to any N/W

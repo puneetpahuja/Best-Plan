@@ -1,27 +1,27 @@
-id,cost,talktime,validity,short description,long description
-9352,5,,1 day,Recharge of Rs. 5 by Idea,20 MB Data -- Overage: 4p/10kb  -- 
-9353,5,,1 Hour,Recharge of Rs. 5 by Idea,Unlimited 2G Internet 
-9354,13,,3 days,Recharge of Rs. 13 by Idea,75 MB Data -- Overage: 4p/10kb -- 
-9355,22,,1 day,Recharge of Rs. 22 by Idea,Unlimited 2G Internet 
-9356,26,,5 days,Recharge of Rs. 26 by Idea,75 MB 4G/2G Data -- Overage: 4p/10KB
-9357,38,,30 days,Recharge of Rs. 38 by Idea,190 MB 2G Data -- Overage: 4p/10KB
-9358,47,,9 days,Recharge of Rs. 47 by Idea,270 MB Data -- Overage: 4p/10kb  -- 
-9359,58,,14 days,Recharge of Rs. 58 by Idea,330 MB Data -- Overage: 4p/10kb -- 
-9360,64,,15 days,Recharge of Rs. 64 by Idea,250 MB Data upto 1 GB 4G/2G Data -- Overage: 4p/10KB
-9361,72,,28 days,Recharge of Rs. 72 by Idea,1 GB 2G data -- Overage: 4p/10KB  -- Available only after Long Term Plan Recharge of MRP 245
-9362,73,,2 days,Recharge of Rs. 73 by Idea,1GB 2G Data -- Overage: 4p/10KB
-9363,78,,10 days,Recharge of Rs. 78 by Idea,250 MB Full Day and 250 MB Night (12pm to 6 am) -- Overage: 4p/10kb
-9364,98,,20 days,Recharge of Rs. 98 by Idea,550 MB Data -- Overage: 4p/10kb  -- 
-9365,125,,30 days,Recharge of Rs. 125 by Idea,700 MB Data -- Overage: 4p/10kb
-9366,147,,30 days,Recharge of Rs. 147 by Idea,840 MB Data -- Overage: 4p/10kb
-9367,148,,28 days,Recharge of Rs. 148 by Idea,1 GB 4G/2G Data -- Overage: 4p/10kb 
-9369,155,,30 days,Recharge of Rs. 155 by Idea,1 GB Data -- Overage: 4p/10kb
-9370,197,,30 days,Recharge of Rs. 197 by Idea,1.5 GB -- Overage: 4p/10kb
-9371,239,,30 days,Recharge of Rs. 239 by Idea,3 GB Data -- FUP limit: 40 kbps from 3GB to 4GB and 10kbps thereafter
-9372,244,,28 days,Recharge of Rs. 244 by Idea,4 GB 4G/2G [Only for 4G Handsets] Data -- Overage: 4p/10kb
-9373,252,,28 days,Recharge of Rs. 252 by Idea,1.4 GB Data -- Overage: 4p/10kb
-9376,299,,28 days,Recharge of Rs. 299 by Idea,1.25 GB upto 10 GB 4G/2G Data -- Overage: 4p/10KB
-9379,347,,28 days,Recharge of Rs. 347 by Idea,1.44 GB 2G/4G Data -- Overage: 4p/10KB
-9380,348,,30 days,Recharge of Rs. 348 by Idea,1.5 GB 3G/4G Data -- Overage: 4p/10KB
-9385,494,,28 days,Recharge of Rs. 494 by Idea,10 GB 4G/2G Data [Only for 4G Handsets] -- Overage: 4p/10KB
-9386,497,,28 days,Recharge of Rs. 497 by Idea,1.9 GB 2G/4G Data -- Overage: 4p/10KB
+id,cost,talktime,validity,comments
+9352,5,,1 day,20 MB Data -- Overage: 4p/10kb  -- 
+9353,5,,1 Hour,Unlimited 2G Internet 
+9354,13,,3 days,75 MB Data -- Overage: 4p/10kb -- 
+9355,22,,1 day,Unlimited 2G Internet 
+9356,26,,5 days,75 MB 4G/2G Data -- Overage: 4p/10KB
+9357,38,,30 days,190 MB 2G Data -- Overage: 4p/10KB
+9358,47,,9 days,270 MB Data -- Overage: 4p/10kb  -- 
+9359,58,,14 days,330 MB Data -- Overage: 4p/10kb -- 
+9360,64,,15 days,250 MB Data upto 1 GB 4G/2G Data -- Overage: 4p/10KB
+9361,72,,28 days,1 GB 2G data -- Overage: 4p/10KB  -- Available only after Long Term Plan Recharge of MRP 245
+9362,73,,2 days,1GB 2G Data -- Overage: 4p/10KB
+9363,78,,10 days,250 MB Full Day and 250 MB Night (12pm to 6 am) -- Overage: 4p/10kb
+9364,98,,20 days,550 MB Data -- Overage: 4p/10kb  -- 
+9365,125,,30 days,700 MB Data -- Overage: 4p/10kb
+9366,147,,30 days,840 MB Data -- Overage: 4p/10kb
+9367,148,,28 days,1 GB 4G/2G Data -- Overage: 4p/10kb 
+9369,155,,30 days,1 GB Data -- Overage: 4p/10kb
+9370,197,,30 days,1.5 GB -- Overage: 4p/10kb
+9371,239,,30 days,3 GB Data -- FUP limit: 40 kbps from 3GB to 4GB and 10kbps thereafter
+9372,244,,28 days,4 GB 4G/2G [Only for 4G Handsets] Data -- Overage: 4p/10kb
+9373,252,,28 days,1.4 GB Data -- Overage: 4p/10kb
+9376,299,,28 days,1.25 GB upto 10 GB 4G/2G Data -- Overage: 4p/10KB
+9379,347,,28 days,1.44 GB 2G/4G Data -- Overage: 4p/10KB
+9380,348,,30 days,1.5 GB 3G/4G Data -- Overage: 4p/10KB
+9385,494,,28 days,10 GB 4G/2G Data [Only for 4G Handsets] -- Overage: 4p/10KB
+9386,497,,28 days,1.9 GB 2G/4G Data -- Overage: 4p/10KB

@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-16123,80,80,N.A,Recharge of Rs. 80 by Uninor,Talktime of Rs. 80 for Rs. 80 recharge by Telenor
-16124,110,110,N.A,Recharge of Rs. 110 by Uninor,Talktime of Rs. 110 for Rs. 110 recharge by Telenor
-16126,300,320,N.A,Recharge of Rs. 300 by Uninor,Talktime of Rs. 320 for Rs. 300 recharge by Telenor
-16127,500,550,N.A,Recharge of Rs. 500 by Uninor,Talktime of Rs. 550 for Rs. 500 recharge by Telenor
+id,cost,talktime,validity,comments
+16123,80,80,N.A,Talktime of Rs. 80 for Rs. 80 recharge by Telenor
+16124,110,110,N.A,Talktime of Rs. 110 for Rs. 110 recharge by Telenor
+16126,300,320,N.A,Talktime of Rs. 320 for Rs. 300 recharge by Telenor
+16127,500,550,N.A,Talktime of Rs. 550 for Rs. 500 recharge by Telenor

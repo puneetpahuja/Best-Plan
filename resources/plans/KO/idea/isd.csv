@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-10653,8,,28 days,Recharge of Rs. 8 by Idea,Bangladesh Rs. @2.1/Min -- Nepal Rs. @7.49/Min -- Bhutan @Rs.6.99/Min
-10654,36,,28 days,Recharge of Rs. 36 by Idea,"BD/TH/Malaysia/Singapore/HK @Rs. 1.99/MinChina @Rs. 1.49/MinNepal, Sri Lanka, Pakistan, Bhutan, Saudi Arabia@Rs. 6.99/MinUS/Canada @Rs. 0.99/MinUK(F) @Rs. 1.49/Min"
-10655,596,,10 days,Recharge of Rs. 596 by Idea,International Roaming Pack for UAEIncoming calls at Rs. 30/min & Outgoing calls at Rs.30/minOutgoing SMS at Rs. 25 per SMS. Incoming SMS Free 
-10656,1496,,30 days,Recharge of Rs. 1496 by Idea,International Roaming Pack for UAEIncoming calls at Rs. 30/min & Outgoing calls at Rs.30/minOutgoing SMS at Rs. 25 per SMS. Incoming SMS Free 
+id,cost,talktime,validity,comments
+10653,8,,28 days,Bangladesh Rs. @2.1/Min -- Nepal Rs. @7.49/Min -- Bhutan @Rs.6.99/Min
+10654,36,,28 days,"BD/TH/Malaysia/Singapore/HK @Rs. 1.99/MinChina @Rs. 1.49/MinNepal, Sri Lanka, Pakistan, Bhutan, Saudi Arabia@Rs. 6.99/MinUS/Canada @Rs. 0.99/MinUK(F) @Rs. 1.49/Min"
+10655,596,,10 days,International Roaming Pack for UAEIncoming calls at Rs. 30/min & Outgoing calls at Rs.30/minOutgoing SMS at Rs. 25 per SMS. Incoming SMS Free 
+10656,1496,,30 days,International Roaming Pack for UAEIncoming calls at Rs. 30/min & Outgoing calls at Rs.30/minOutgoing SMS at Rs. 25 per SMS. Incoming SMS Free 

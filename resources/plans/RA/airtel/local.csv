@@ -1,11 +1,11 @@
-id,cost,talktime,validity,short description,long description
-3903,5,,7 days,Recharge of Rs. 5 by Airtel,Local Airtel to Airtel @1p/s
-3904,8,,7 days,Recharge of Rs. 8 by Airtel,Local Mobile calls @1p/s
-3905,12,,27 days,Recharge of Rs. 12 by Airtel,Local + STD Mobile calls @ 1p/s
-3906,15,,1 day,Recharge of Rs. 15 by Airtel,Local Airtel to Airtel 100 Minutes
-3907,22,,27 days,Recharge of Rs. 22 by Airtel,Local Airtel Mobile calls @ 20p/min
-3908,28,,27 days,Recharge of Rs. 28 by Airtel,Local Mobile calls @ 30p/min
-3909,45,,3 days,Recharge of Rs. 45 by Airtel,Local Airtel to Airtel 300 Minutes
-3910,59,,27 days,Recharge of Rs. 59 by Airtel,Local Airtel Mobile calls @ 10p/min
-3911,135,,27 days,Recharge of Rs. 135 by Airtel,275 minutes Local + STD 
-3912,235,,27 days,Recharge of Rs. 235 by Airtel,550 minutes Local + STD
+id,cost,talktime,validity,comments
+3903,5,,7 days,Local Airtel to Airtel @1p/s
+3904,8,,7 days,Local Mobile calls @1p/s
+3905,12,,27 days,Local + STD Mobile calls @ 1p/s
+3906,15,,1 day,Local Airtel to Airtel 100 Minutes
+3907,22,,27 days,Local Airtel Mobile calls @ 20p/min
+3908,28,,27 days,Local Mobile calls @ 30p/min
+3909,45,,3 days,Local Airtel to Airtel 300 Minutes
+3910,59,,27 days,Local Airtel Mobile calls @ 10p/min
+3911,135,,27 days,275 minutes Local + STD 
+3912,235,,27 days,550 minutes Local + STD

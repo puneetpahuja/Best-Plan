@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-9754,5,,1 day,Recharge of Rs. 5 by Idea,STD Mobile Call @ 25p/Min -- 
-9755,15,,28 days,Recharge of Rs. 15 by Idea,All STD calls @ 50p/min -- 
-9756,38,,14 days,Recharge of Rs. 38 by Idea,STD Mobile Call @ 25p/Min -- 
-9757,45,,7 days,Recharge of Rs. 45 by Idea,80 STD min -- 
-9758,48,,28 days,Recharge of Rs. 48 by Idea,STD Mobile Calls @ 30p/min  -- 
-9759,68,,28 days,Recharge of Rs. 68 by Idea,STD Mobile Call @ 25p/Min  -- 
+id,cost,talktime,validity,comments
+9754,5,,1 day,STD Mobile Call @ 25p/Min -- 
+9755,15,,28 days,All STD calls @ 50p/min -- 
+9756,38,,14 days,STD Mobile Call @ 25p/Min -- 
+9757,45,,7 days,80 STD min -- 
+9758,48,,28 days,STD Mobile Calls @ 30p/min  -- 
+9759,68,,28 days,STD Mobile Call @ 25p/Min  -- 

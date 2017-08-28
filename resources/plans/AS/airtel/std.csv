@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-1718,17,,27 days,Recharge of Rs. 17 by Airtel,STD Mobile Call @ 30p/min
-1719,39,,54 days,Recharge of Rs. 39 by Airtel,STD Mobile Call @ 30p/min
-1720,64,,27 days,Recharge of Rs. 64 by Airtel,STD Mobile Call @ 25p/min
+id,cost,talktime,validity,comments
+1718,17,,27 days,STD Mobile Call @ 30p/min
+1719,39,,54 days,STD Mobile Call @ 30p/min
+1720,64,,27 days,STD Mobile Call @ 25p/min

@@ -1,18 +1,18 @@
-id,cost,talktime,validity,short description,long description
-1971,6,,4 days,Recharge of Rs. 6 by Airtel,1p/s Local + STD Mobile calls
-1972,9,,4 days,Recharge of Rs. 9 by Airtel,All Local Mobile Calls @ 30p/min
-1973,15,,27 days,Recharge of Rs. 15 by Airtel,Local and STD Mobile calls @ 1p/s
-1974,46,,27 days,Recharge of Rs. 46 by Airtel,Local Mobile Calls @ 30p/m
-1975,51,,27 days,Recharge of Rs. 51 by Airtel,Local A2A Calls @ 10p/m
-1976,65,,27 days,Recharge of Rs. 65 by Airtel,All Local+STD Mobile Calls @ 25p/min
-1977,74,,27 days,Recharge of Rs. 74 by Airtel,Local A2A Calls @ 10p/m and Local Other mobile calls @30p/m
-1978,76,,54 days,Recharge of Rs. 76 by Airtel,Local Mobile Calls @ 30p/m
-1979,91,,54 days,Recharge of Rs. 91 by Airtel,Local A2A Calls @ 10p/m
-1980,94,,81 days,Recharge of Rs. 94 by Airtel,Local Mobile Calls @ 30p/m
-1981,121,,81 days,Recharge of Rs. 121 by Airtel,Local A2A Mobile Calls @ 10p/m
-1982,134,,54 days,Recharge of Rs. 134 by Airtel,Local A2A Calls @ 10p/m and Local Other mobile calls @30p/m
-1983,184,,81 days,Recharge of Rs. 184 by Airtel,Local A2A Calls @ 10p/m and Local Other mobile calls @30p/m
-1984,199,,4 days,Recharge of Rs. 199 by Airtel,Unlimited Local + STD all calls (T&C apply)
-1985,249,,3 days,Recharge of Rs. 249 by Airtel,Free All Calls -- T&C Apply.
-1986,299,,4 days,Recharge of Rs. 299 by Airtel,Free All Calls -- T&C Apply
-1987,545,,84 days,Recharge of Rs. 545 by Airtel,Unlimited Local+STD Airtel calls (T&C apply)
+id,cost,talktime,validity,comments
+1971,6,,4 days,1p/s Local + STD Mobile calls
+1972,9,,4 days,All Local Mobile Calls @ 30p/min
+1973,15,,27 days,Local and STD Mobile calls @ 1p/s
+1974,46,,27 days,Local Mobile Calls @ 30p/m
+1975,51,,27 days,Local A2A Calls @ 10p/m
+1976,65,,27 days,All Local+STD Mobile Calls @ 25p/min
+1977,74,,27 days,Local A2A Calls @ 10p/m and Local Other mobile calls @30p/m
+1978,76,,54 days,Local Mobile Calls @ 30p/m
+1979,91,,54 days,Local A2A Calls @ 10p/m
+1980,94,,81 days,Local Mobile Calls @ 30p/m
+1981,121,,81 days,Local A2A Mobile Calls @ 10p/m
+1982,134,,54 days,Local A2A Calls @ 10p/m and Local Other mobile calls @30p/m
+1983,184,,81 days,Local A2A Calls @ 10p/m and Local Other mobile calls @30p/m
+1984,199,,4 days,Unlimited Local + STD all calls (T&C apply)
+1985,249,,3 days,Free All Calls -- T&C Apply.
+1986,299,,4 days,Free All Calls -- T&C Apply
+1987,545,,84 days,Unlimited Local+STD Airtel calls (T&C apply)

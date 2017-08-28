@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-12257,12,,28 days,Recharge of Rs. 12 by Idea,STD Mobile Calls @ Rs1.2 /3 min -- 
-12258,33,,28 days,Recharge of Rs. 33 by Idea,All STD Mobile Calls @ 30p/Min.
-12259,42,,28 days,Recharge of Rs. 42 by Idea,All STD Mobile Calls @ 25p/Min.
+id,cost,talktime,validity,comments
+12257,12,,28 days,STD Mobile Calls @ Rs1.2 /3 min -- 
+12258,33,,28 days,All STD Mobile Calls @ 30p/Min.
+12259,42,,28 days,All STD Mobile Calls @ 25p/Min.

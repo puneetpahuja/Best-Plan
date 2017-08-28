@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-18029,5,,1 hour,Recharge of Rs. 5 by Vodafone,Unlimited 2G data
-18030,16,,3 days,Recharge of Rs. 16 by Vodafone,90 MB Data  -- 
-18031,18,,1 day,Recharge of Rs. 18 by Vodafone,Unlimited 2G data (24 hour) 
-18032,36,,7 days,Recharge of Rs. 36 by Vodafone,200 MB Data -- 
-18033,41,,28 days,Recharge of Rs. 41 by Vodafone,125 2G Data  -- 
-18034,95,,28 days,Recharge of Rs. 95 by Vodafone,28 GB 2G data (1 GB/Day)
-18035,98,,14 days,Recharge of Rs. 98 by Vodafone,550 MB Data -- 
-18036,199,,28 days,Recharge of Rs. 199 by Vodafone,Unlimited 2G Internet for 28 days. Speed after first 2GB will be maximum 40kbps. -- 
-18037,299,,56 days,Recharge of Rs. 299 by Vodafone,3 GB Data Free for 56days. -- 
+id,cost,talktime,validity,comments
+18029,5,,1 hour,Unlimited 2G data
+18030,16,,3 days,90 MB Data  -- 
+18031,18,,1 day,Unlimited 2G data (24 hour) 
+18032,36,,7 days,200 MB Data -- 
+18033,41,,28 days,125 2G Data  -- 
+18034,95,,28 days,28 GB 2G data (1 GB/Day)
+18035,98,,14 days,550 MB Data -- 
+18036,199,,28 days,Unlimited 2G Internet for 28 days. Speed after first 2GB will be maximum 40kbps. -- 
+18037,299,,56 days,3 GB Data Free for 56days. -- 

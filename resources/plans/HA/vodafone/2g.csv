@@ -1,17 +1,17 @@
-id,cost,talktime,validity,short description,long description
-16963,5,,1 day,Recharge of Rs. 5 by Vodafone,20 MB @2G speed. Post 20 MB you will be charged 4p/10kb
-16964,11,,2 days,Recharge of Rs. 11 by Vodafone,60 MB @2G Data speed -- Post 60 MB you will be charged 4p/10kb
-16965,19,,1 day,Recharge of Rs. 19 by Vodafone,Unlimited 2G data for 24 Hour
-16966,27,,3 days,Recharge of Rs. 27 by Vodafone,150 MB @2G Data speed -- Post 150 MB you will be charged 4p/10kb
-16967,36,,28 days,Recharge of Rs. 36 by Vodafone,175 MB Data @2G speed. Post 175 MB you will be charged 4p/10kb
-16968,47,,7 days,Recharge of Rs. 47 by Vodafone,250 MB @2G Data speed -- Post 250 MB you will be charged 4p/10kb
-16969,74,,28 days,Recharge of Rs. 74 by Vodafone,375 MB @2G speed. Post 375 MB you will be charged 4p/10kb
-16970,98,,12 days,Recharge of Rs. 98 by Vodafone,550 MB @2G Data speed -- Post 550 MB you will be charged 4p/10kb
-16971,155,,19 days,Recharge of Rs. 155 by Vodafone,600 MB @2G speed. Post 600 MB you will be charged 4p/10kb
-16972,178,,28 days,Recharge of Rs. 178 by Vodafone,1 GB @2G speed. Post 1 GB you will be charged 4p/10kb
-16973,198,,28 days,Recharge of Rs. 198 by Vodafone,Unlimited 2G Data for 28 days. Throttling @ 40kbps post Consumption of 1.25GB
-16974,205,,28 days,Recharge of Rs. 205 by Vodafone,1 GB 2G internet day and night + 1 GB night (12AM-6 AM)
-16975,248,,28 days,Recharge of Rs. 248 by Vodafone,Unlimited 2G Data for 28 days. Throttling @ 40kbps post Consumption of 2GB
-16976,296,,28 days,Recharge of Rs. 296 by Vodafone,Unlimited 2G Data for 28 days. Throttling @ 40kbps post Consumption of 3GB
-16977,315,,28 days,Recharge of Rs. 315 by Vodafone,2 GB 2G internet day and night + 2 GB night (12AM-6 AM)
-16978,398,,28 days,Recharge of Rs. 398 by Vodafone,3 GB 2G internet day and night + 3 GB night (12AM-6 AM)
+id,cost,talktime,validity,comments
+16963,5,,1 day,20 MB @2G speed. Post 20 MB you will be charged 4p/10kb
+16964,11,,2 days,60 MB @2G Data speed -- Post 60 MB you will be charged 4p/10kb
+16965,19,,1 day,Unlimited 2G data for 24 Hour
+16966,27,,3 days,150 MB @2G Data speed -- Post 150 MB you will be charged 4p/10kb
+16967,36,,28 days,175 MB Data @2G speed. Post 175 MB you will be charged 4p/10kb
+16968,47,,7 days,250 MB @2G Data speed -- Post 250 MB you will be charged 4p/10kb
+16969,74,,28 days,375 MB @2G speed. Post 375 MB you will be charged 4p/10kb
+16970,98,,12 days,550 MB @2G Data speed -- Post 550 MB you will be charged 4p/10kb
+16971,155,,19 days,600 MB @2G speed. Post 600 MB you will be charged 4p/10kb
+16972,178,,28 days,1 GB @2G speed. Post 1 GB you will be charged 4p/10kb
+16973,198,,28 days,Unlimited 2G Data for 28 days. Throttling @ 40kbps post Consumption of 1.25GB
+16974,205,,28 days,1 GB 2G internet day and night + 1 GB night (12AM-6 AM)
+16975,248,,28 days,Unlimited 2G Data for 28 days. Throttling @ 40kbps post Consumption of 2GB
+16976,296,,28 days,Unlimited 2G Data for 28 days. Throttling @ 40kbps post Consumption of 3GB
+16977,315,,28 days,2 GB 2G internet day and night + 2 GB night (12AM-6 AM)
+16978,398,,28 days,3 GB 2G internet day and night + 3 GB night (12AM-6 AM)

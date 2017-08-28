@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-13765,75,75,N.A,Recharge of Rs. 75 by RelianceGSM,Talktime of Rs. 75 for Rs. 75 recharge by Reliance GSM
-13767,99,105,28 days,Recharge of Rs. 99 by RelianceGSM,Talktime of Rs. 105 for Rs. 99 recharge by Reliance GSM
-13769,125,125,N.A,Recharge of Rs. 125 by RelianceGSM,Talktime of Rs. 125 for Rs. 125 recharge by Reliance GSM
-13770,135,150,28 days,Recharge of Rs. 135 by RelianceGSM,Talktime of Rs. 150 for Rs. 135 recharge by Reliance GSM
-13771,220,220,N.A,Recharge of Rs. 220 by RelianceGSM,Talktime of Rs. 220 for Rs. 220 recharge by Reliance GSM
-13772,300,300,N.A,Recharge of Rs. 300 by RelianceGSM,Talktime of Rs. 300 for Rs. 300 recharge by Reliance GSM
-13773,500,500,N.A,Recharge of Rs. 500 by RelianceGSM,Talktime of Rs. 500 for Rs. 500 recharge by Reliance GSM
+id,cost,talktime,validity,comments
+13765,75,75,N.A,Talktime of Rs. 75 for Rs. 75 recharge by Reliance GSM
+13767,99,105,28 days,Talktime of Rs. 105 for Rs. 99 recharge by Reliance GSM
+13769,125,125,N.A,Talktime of Rs. 125 for Rs. 125 recharge by Reliance GSM
+13770,135,150,28 days,Talktime of Rs. 150 for Rs. 135 recharge by Reliance GSM
+13771,220,220,N.A,Talktime of Rs. 220 for Rs. 220 recharge by Reliance GSM
+13772,300,300,N.A,Talktime of Rs. 300 for Rs. 300 recharge by Reliance GSM
+13773,500,500,N.A,Talktime of Rs. 500 for Rs. 500 recharge by Reliance GSM

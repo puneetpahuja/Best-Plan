@@ -1,11 +1,11 @@
-id,cost,talktime,validity,short description,long description
-9066,10,7.48,N.A,Recharge of Rs. 10 by Docomo,Talktime of Rs. 7.48 for Rs. 10 recharge by Tata DOCOMO
-9067,20,14.94,N.A,Recharge of Rs. 20 by Docomo,Talktime of Rs. 14.94 for Rs. 20 recharge by Tata DOCOMO
-9068,30,22.42,N.A,Recharge of Rs. 30 by Docomo,Talktime of Rs. 22.42 for Rs. 30 recharge by Tata DOCOMO
-9069,40,38,N.A,Recharge of Rs. 40 by Docomo,Talktime of Rs. 38 for Rs. 40 recharge by Tata DOCOMO
-9070,50,39.38,N.A,Recharge of Rs. 50 by Docomo,Talktime of Rs. 39.38 for Rs. 50 recharge by Tata DOCOMO
-9071,70,56.32,N.A,Recharge of Rs. 70 by Docomo,Talktime of Rs. 56.32 for Rs. 70 recharge by Tata DOCOMO
-9072,90,73.28,N.A,Recharge of Rs. 90 by Docomo,Talktime of Rs. 73.28 for Rs. 90 recharge by Tata DOCOMO
-9073,100,81.74,N.A,Recharge of Rs. 100 by Docomo,Talktime of Rs. 81.74 for Rs. 100 recharge by Tata DOCOMO
-9074,110,90.22,N.A,Recharge of Rs. 110 by Docomo,Talktime of Rs. 90.22 for Rs. 110 recharge by Tata DOCOMO
-9076,130,110.54,N.A,Recharge of Rs. 130 by Docomo,Talktime of Rs. 110.54 for Rs. 130 recharge by Tata DOCOMO
+id,cost,talktime,validity,comments
+9066,10,7.48,N.A,Talktime of Rs. 7.48 for Rs. 10 recharge by Tata DOCOMO
+9067,20,14.94,N.A,Talktime of Rs. 14.94 for Rs. 20 recharge by Tata DOCOMO
+9068,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by Tata DOCOMO
+9069,40,38,N.A,Talktime of Rs. 38 for Rs. 40 recharge by Tata DOCOMO
+9070,50,39.38,N.A,Talktime of Rs. 39.38 for Rs. 50 recharge by Tata DOCOMO
+9071,70,56.32,N.A,Talktime of Rs. 56.32 for Rs. 70 recharge by Tata DOCOMO
+9072,90,73.28,N.A,Talktime of Rs. 73.28 for Rs. 90 recharge by Tata DOCOMO
+9073,100,81.74,N.A,Talktime of Rs. 81.74 for Rs. 100 recharge by Tata DOCOMO
+9074,110,90.22,N.A,Talktime of Rs. 90.22 for Rs. 110 recharge by Tata DOCOMO
+9076,130,110.54,N.A,Talktime of Rs. 110.54 for Rs. 130 recharge by Tata DOCOMO

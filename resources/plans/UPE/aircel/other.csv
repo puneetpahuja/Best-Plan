@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-1186,45,45,28 days,Recharge of Rs. 45 by Aircel,5 Night Local Aircel to Aircel Mins (1 Day)
-1187,55,60,28 days,Recharge of Rs. 55 by Aircel,5 Local A2A Night Min
-1190,83,83,28 days,Recharge of Rs. 83 by Aircel,"Free Incoming -- Local & STD @1.3p/Sec, while roaming on Aircel & Vodafone network."
-1195,500,550,N.A,Recharge of Rs. 500 by Aircel,550 TT
-1198,44,35.26,N.A,Recharge of Rs. 44 by Aircel,1 Local Night Aircel to Aircel min (1 Day)
-1204,161,137,N.A,Recharge of Rs. 161 by Aircel,1 Local Night Aircel to Aircel min (1 Day)
-1205,196,167.43,N.A,Recharge of Rs. 196 by Aircel,1 Local Night Aircel to Aircel min (1 Day)
-1206,298,50,28 days,Recharge of Rs. 298 by Aircel,1 GB 3G Data per Day+ UL A2A (Local+STD Calls) + A2O Calls @30p/m
-1223,123,,14 days,Recharge of Rs. 123 by Aircel,"Unlimited Local On Net calling, Unlimited data with throttling post 500 MB of unified data."
+id,cost,talktime,validity,comments
+1186,45,45,28 days,5 Night Local Aircel to Aircel Mins (1 Day)
+1187,55,60,28 days,5 Local A2A Night Min
+1190,83,83,28 days,"Free Incoming -- Local & STD @1.3p/Sec, while roaming on Aircel & Vodafone network."
+1195,500,550,N.A,550 TT
+1198,44,35.26,N.A,1 Local Night Aircel to Aircel min (1 Day)
+1204,161,137,N.A,1 Local Night Aircel to Aircel min (1 Day)
+1205,196,167.43,N.A,1 Local Night Aircel to Aircel min (1 Day)
+1206,298,50,28 days,1 GB 3G Data per Day+ UL A2A (Local+STD Calls) + A2O Calls @30p/m
+1223,123,,14 days,"Unlimited Local On Net calling, Unlimited data with throttling post 500 MB of unified data."

@@ -1,9 +1,9 @@
-id,cost,talktime,validity,short description,long description
-10573,5,,1 day,Recharge of Rs. 5 by Idea,25 MB Data -- Overage: 4p/10KB -- 
-10575,28,,4 days,Recharge of Rs. 28 by Idea,140 MB -- Overage: 4p/10KB
-10576,35,,28 days,Recharge of Rs. 35 by Idea,120 MB Data -- Overage: 4p/10KB
-10577,58,,8 days,Recharge of Rs. 58 by Idea,300MB -- Overage: 4p/10KB
-10578,94,,5 days,Recharge of Rs. 94 by Idea,1 GB Data -- Overage: 4p/10KB
-10579,125,,18 days,Recharge of Rs. 125 by Idea,625 MB Data -- Overage: 4p/10KB
-10581,179,,30 days,Recharge of Rs. 179 by Idea,1 GB Data  -- Extra 250 MB on App Recharge only -- Overage: 4p/10KB
-10582,199,,30 days,Recharge of Rs. 199 by Idea,"Unlimited (1.25 GB FUP) -- FUP limit: Upto 1.25 GB @2G High Speed, 1.25-2.25 GB @40 Kbps, Post 2.25 GB @10 Kbps"
+id,cost,talktime,validity,comments
+10573,5,,1 day,25 MB Data -- Overage: 4p/10KB -- 
+10575,28,,4 days,140 MB -- Overage: 4p/10KB
+10576,35,,28 days,120 MB Data -- Overage: 4p/10KB
+10577,58,,8 days,300MB -- Overage: 4p/10KB
+10578,94,,5 days,1 GB Data -- Overage: 4p/10KB
+10579,125,,18 days,625 MB Data -- Overage: 4p/10KB
+10581,179,,30 days,1 GB Data  -- Extra 250 MB on App Recharge only -- Overage: 4p/10KB
+10582,199,,30 days,"Unlimited (1.25 GB FUP) -- FUP limit: Upto 1.25 GB @2G High Speed, 1.25-2.25 GB @40 Kbps, Post 2.25 GB @10 Kbps"

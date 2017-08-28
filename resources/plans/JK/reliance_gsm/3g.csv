@@ -1,51 +1,51 @@
-id,cost,talktime,validity,short description,long description
-14840,44,,1 Night,Recharge of Rs. 44 by RelianceGSM,1 GB 2G/3G Night Data + Unlimited Local R2R calls ( applicable between 0001 Hrs-0600 Hrs)
-14862,145,,28 days,Recharge of Rs. 145 by RelianceGSM,Unlimited Local & STD Onnet Calls -- 500 MB 2G/3G Data
-14863,18,,2 days,Recharge of Rs. 18 by RelianceGSM,150 MB 3G Data
-14864,24,,1 day,Recharge of Rs. 24 by RelianceGSM,1GB 3G Data (same day0
-14865,29,,28 days,Recharge of Rs. 29 by RelianceGSM,125 MB 3G Data
-14866,41,,5 days,Recharge of Rs. 41 by RelianceGSM,200 MB 3G Data
-14867,42,,5 days,Recharge of Rs. 42 by RelianceGSM,185 MB 3G Data
-14868,89,,28 days,Recharge of Rs. 89 by RelianceGSM,1 GB/ Day 3G Data
-14869,94,,7 days,Recharge of Rs. 94 by RelianceGSM,1 GB 3G Data
-14870,123,,14 days,Recharge of Rs. 123 by RelianceGSM,1 GB 3G Data
-14871,143,,7 days,Recharge of Rs. 143 by RelianceGSM,750MB 3G data. Unused data quota will be forfeited.
-14872,153,,14 days,Recharge of Rs. 153 by RelianceGSM,1 GB 3G Data -- 60 mins calls to any network/Day 
-14873,156,,14 days,Recharge of Rs. 156 by RelianceGSM,500 MB 3G DATA
-14874,179,,14 days,Recharge of Rs. 179 by RelianceGSM,750 MB 3G Data
-14875,192,,21 days,Recharge of Rs. 192 by RelianceGSM,1GB Data
-14876,195,,28 days,Recharge of Rs. 195 by RelianceGSM,1 GB 3G data --  Unlimited Local and STD Onnet & Offnet Mobile & Landline Calls -- Free Incoming roaming
-14877,198,,28 days,Recharge of Rs. 198 by RelianceGSM,1GB 3G Data
-14878,219,,28 days,Recharge of Rs. 219 by RelianceGSM,1.5 GB 3G Data
-14879,243,,28 days,Recharge of Rs. 243 by RelianceGSM,1.25 GB 3G Data. Unused data quota will be forfeited.
-14880,252,,28 days,Recharge of Rs. 252 by RelianceGSM,1GB Data
-14881,255,,28 days,Recharge of Rs. 255 by RelianceGSM,2 GB 3G Data
-14882,294,,28 days,Recharge of Rs. 294 by RelianceGSM,3 GB 3G Data
-14883,303,,28 days,Recharge of Rs. 303 by RelianceGSM,1 GB 3G Data -- 60 mins calls to any network/Day
-14884,343,,28 days,Recharge of Rs. 343 by RelianceGSM,2GB 3G Data. Unused data quota will be forfeited.
-14885,359,,28 days,Recharge of Rs. 359 by RelianceGSM,2.5 GB
-14886,374,,28 days,Recharge of Rs. 374 by RelianceGSM,5 GB 3G Data
-14887,375,,60 days,Recharge of Rs. 375 by RelianceGSM,4 GB 3G Data
-14888,397,,28 days,Recharge of Rs. 397 by RelianceGSM,3 GB
-14889,447,,28 days,Recharge of Rs. 447 by RelianceGSM,3.5 GB
-14890,493,,28 days,Recharge of Rs. 493 by RelianceGSM,3GB 3G Data. Unused data quota will be forfeited.
-14891,495,,28 days,Recharge of Rs. 495 by RelianceGSM,5 GB 3G Data
-14892,498,,28 days,Recharge of Rs. 498 by RelianceGSM,4 GB
-14893,549,,28 days,Recharge of Rs. 549 by RelianceGSM,4.5 GB
-14894,555,,90 days,Recharge of Rs. 555 by RelianceGSM,1GB 3G Data + 60 mins calls to any network / Day
-14895,595,,28 days,Recharge of Rs. 595 by RelianceGSM,5 GB 3G Data -- Unlimited Local Onnet calls
-14896,598,,28 days,Recharge of Rs. 598 by RelianceGSM,5 GB
-14897,648,,28 days,Recharge of Rs. 648 by RelianceGSM,5.5 GB
-14898,649,,60 days,Recharge of Rs. 649 by RelianceGSM,5.5 GB 3G DATA
-14899,693,,28 days,Recharge of Rs. 693 by RelianceGSM,5GB 3G Data. Unused data quota will be forfeited.
-14900,698,,28 days,Recharge of Rs. 698 by RelianceGSM,6 GB
-14901,749,,28 days,Recharge of Rs. 749 by RelianceGSM,6.5 GB
-14902,786,,90 days,Recharge of Rs. 786 by RelianceGSM,1 GB/ DAY 3G Data 
-14903,798,,28 days,Recharge of Rs. 798 by RelianceGSM,7 GB
-14904,848,,28 days,Recharge of Rs. 848 by RelianceGSM,8 GB
-14905,898,,28 days,Recharge of Rs. 898 by RelianceGSM,8.5 GB
-14906,949,,28 days,Recharge of Rs. 949 by RelianceGSM,9 GB
-14907,998,,28 days,Recharge of Rs. 998 by RelianceGSM,9.5 GB
-14908,1199,,28 days,Recharge of Rs. 1199 by RelianceGSM,11 GB
-14909,1297,,28 days,Recharge of Rs. 1297 by RelianceGSM,10Gb 3G Data. Unused data quota will be forfeited.
-14910,1298,,28 days,Recharge of Rs. 1298 by RelianceGSM,15 GB Data
+id,cost,talktime,validity,comments
+14840,44,,1 Night,1 GB 2G/3G Night Data + Unlimited Local R2R calls ( applicable between 0001 Hrs-0600 Hrs)
+14862,145,,28 days,Unlimited Local & STD Onnet Calls -- 500 MB 2G/3G Data
+14863,18,,2 days,150 MB 3G Data
+14864,24,,1 day,1GB 3G Data (same day0
+14865,29,,28 days,125 MB 3G Data
+14866,41,,5 days,200 MB 3G Data
+14867,42,,5 days,185 MB 3G Data
+14868,89,,28 days,1 GB/ Day 3G Data
+14869,94,,7 days,1 GB 3G Data
+14870,123,,14 days,1 GB 3G Data
+14871,143,,7 days,750MB 3G data. Unused data quota will be forfeited.
+14872,153,,14 days,1 GB 3G Data -- 60 mins calls to any network/Day 
+14873,156,,14 days,500 MB 3G DATA
+14874,179,,14 days,750 MB 3G Data
+14875,192,,21 days,1GB Data
+14876,195,,28 days,1 GB 3G data --  Unlimited Local and STD Onnet & Offnet Mobile & Landline Calls -- Free Incoming roaming
+14877,198,,28 days,1GB 3G Data
+14878,219,,28 days,1.5 GB 3G Data
+14879,243,,28 days,1.25 GB 3G Data. Unused data quota will be forfeited.
+14880,252,,28 days,1GB Data
+14881,255,,28 days,2 GB 3G Data
+14882,294,,28 days,3 GB 3G Data
+14883,303,,28 days,1 GB 3G Data -- 60 mins calls to any network/Day
+14884,343,,28 days,2GB 3G Data. Unused data quota will be forfeited.
+14885,359,,28 days,2.5 GB
+14886,374,,28 days,5 GB 3G Data
+14887,375,,60 days,4 GB 3G Data
+14888,397,,28 days,3 GB
+14889,447,,28 days,3.5 GB
+14890,493,,28 days,3GB 3G Data. Unused data quota will be forfeited.
+14891,495,,28 days,5 GB 3G Data
+14892,498,,28 days,4 GB
+14893,549,,28 days,4.5 GB
+14894,555,,90 days,1GB 3G Data + 60 mins calls to any network / Day
+14895,595,,28 days,5 GB 3G Data -- Unlimited Local Onnet calls
+14896,598,,28 days,5 GB
+14897,648,,28 days,5.5 GB
+14898,649,,60 days,5.5 GB 3G DATA
+14899,693,,28 days,5GB 3G Data. Unused data quota will be forfeited.
+14900,698,,28 days,6 GB
+14901,749,,28 days,6.5 GB
+14902,786,,90 days,1 GB/ DAY 3G Data 
+14903,798,,28 days,7 GB
+14904,848,,28 days,8 GB
+14905,898,,28 days,8.5 GB
+14906,949,,28 days,9 GB
+14907,998,,28 days,9.5 GB
+14908,1199,,28 days,11 GB
+14909,1297,,28 days,10Gb 3G Data. Unused data quota will be forfeited.
+14910,1298,,28 days,15 GB Data

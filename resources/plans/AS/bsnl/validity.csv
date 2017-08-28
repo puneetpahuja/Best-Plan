@@ -1,9 +1,9 @@
-id,cost,talktime,validity,short description,long description
-4965,17,,90 days,Recharge of Rs. 17 by BSNL,Validity_PSP_17
-4966,19,,90 days,Recharge of Rs. 19 by BSNL,Validity_PSP_17
-4967,75,,90 days,Recharge of Rs. 75 by BSNL,Validity extension: Pyari Jodi 75
-4968,91,,90 days,Recharge of Rs. 91 by BSNL,Validity Extension: RTP_FR_91
-4969,96,,90 days,Recharge of Rs. 96 by BSNL,Validity extension: Data_Pan_96
-4970,99,,30 days,Recharge of Rs. 99 by BSNL,Validity extension: Jai_Jawan_99
-4971,118,,90 days,Recharge of Rs. 118 by BSNL,StudentSpecialPlan_118_validity-extension
-4972,666,,180 days,Recharge of Rs. 666 by BSNL,BSNL_SIXER_666_validity-extension
+id,cost,talktime,validity,comments
+4965,17,,90 days,Validity_PSP_17
+4966,19,,90 days,Validity_PSP_17
+4967,75,,90 days,Validity extension: Pyari Jodi 75
+4968,91,,90 days,Validity Extension: RTP_FR_91
+4969,96,,90 days,Validity extension: Data_Pan_96
+4970,99,,30 days,Validity extension: Jai_Jawan_99
+4971,118,,90 days,StudentSpecialPlan_118_validity-extension
+4972,666,,180 days,BSNL_SIXER_666_validity-extension

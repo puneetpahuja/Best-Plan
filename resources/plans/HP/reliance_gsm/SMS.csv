@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-13191,14,,28 days,Recharge of Rs. 14 by RelianceGSM,Local onnet 5 paise/SMS other @ 15 paise/SMS; Validity 28 days
-13192,39,,28 days,Recharge of Rs. 39 by RelianceGSM,500 SMS (Local + National)
-13193,45,,28 days,Recharge of Rs. 45 by RelianceGSM,550 Local + National SMS
+id,cost,talktime,validity,comments
+13191,14,,28 days,Local onnet 5 paise/SMS other @ 15 paise/SMS; Validity 28 days
+13192,39,,28 days,500 SMS (Local + National)
+13193,45,,28 days,550 Local + National SMS

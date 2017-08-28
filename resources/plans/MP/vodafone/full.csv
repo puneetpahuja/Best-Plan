@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-17513,150,150,N.A,Recharge of Rs. 150 by Vodafone,Talktime of Rs. 150 for Rs. 150 recharge by Vodafone
-17514,200,200,N.A,Recharge of Rs. 200 by Vodafone,Talktime of Rs. 200 for Rs. 200 recharge by Vodafone
-17515,222,222,N.A,Recharge of Rs. 222 by Vodafone,Talktime of Rs. 222 for Rs. 222 recharge by Vodafone
-17516,225,225,N.A,Recharge of Rs. 225 by Vodafone,Talktime of Rs. 225 for Rs. 225 recharge by Vodafone
-17517,300,300,N.A,Recharge of Rs. 300 by Vodafone,Talktime of Rs. 300 for Rs. 300 recharge by Vodafone
-17519,400,400,N.A,Recharge of Rs. 400 by Vodafone,Talktime of Rs. 400 for Rs. 400 recharge by Vodafone
-17520,500,500,N.A,Recharge of Rs. 500 by Vodafone,Talktime of Rs. 500 for Rs. 500 recharge by Vodafone
-17521,750,750,N.A,Recharge of Rs. 750 by Vodafone,Talktime of Rs. 750 for Rs. 750 recharge by Vodafone
-17522,1000,1000,N.A,Recharge of Rs. 1000 by Vodafone,Talktime of Rs. 1000 for Rs. 1000 recharge by Vodafone
-17523,1100,1200,N.A,Recharge of Rs. 1100 by Vodafone,Talktime of Rs. 1200 for Rs. 1100 recharge by Vodafone
-17524,2000,2000,N.A,Recharge of Rs. 2000 by Vodafone,Talktime of Rs. 2000 for Rs. 2000 recharge by Vodafone
-17525,2200,2400,N.A,Recharge of Rs. 2200 by Vodafone,Talktime of Rs. 2400 for Rs. 2200 recharge by Vodafone
-17526,3000,3000,N.A,Recharge of Rs. 3000 by Vodafone,Talktime of Rs. 3000 for Rs. 3000 recharge by Vodafone
+id,cost,talktime,validity,comments
+17513,150,150,N.A,Talktime of Rs. 150 for Rs. 150 recharge by Vodafone
+17514,200,200,N.A,Talktime of Rs. 200 for Rs. 200 recharge by Vodafone
+17515,222,222,N.A,Talktime of Rs. 222 for Rs. 222 recharge by Vodafone
+17516,225,225,N.A,Talktime of Rs. 225 for Rs. 225 recharge by Vodafone
+17517,300,300,N.A,Talktime of Rs. 300 for Rs. 300 recharge by Vodafone
+17519,400,400,N.A,Talktime of Rs. 400 for Rs. 400 recharge by Vodafone
+17520,500,500,N.A,Talktime of Rs. 500 for Rs. 500 recharge by Vodafone
+17521,750,750,N.A,Talktime of Rs. 750 for Rs. 750 recharge by Vodafone
+17522,1000,1000,N.A,Talktime of Rs. 1000 for Rs. 1000 recharge by Vodafone
+17523,1100,1200,N.A,Talktime of Rs. 1200 for Rs. 1100 recharge by Vodafone
+17524,2000,2000,N.A,Talktime of Rs. 2000 for Rs. 2000 recharge by Vodafone
+17525,2200,2400,N.A,Talktime of Rs. 2400 for Rs. 2200 recharge by Vodafone
+17526,3000,3000,N.A,Talktime of Rs. 3000 for Rs. 3000 recharge by Vodafone

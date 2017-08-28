@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-18390,34,,28 days,Recharge of Rs. 34 by Vodafone,All STD mobile calls @ 30p/min
-18391,58,,28 days,Recharge of Rs. 58 by Vodafone,All STD Mobile calls @ 25p/min
-18392,62,,60 days,Recharge of Rs. 62 by Vodafone,All STD mobile calls @30p/Min
-18393,73,,35 days,Recharge of Rs. 73 by Vodafone,All STD Mobile calls @ 25p/min
-18394,122,,150 days,Recharge of Rs. 122 by Vodafone,All STD mobile calls @30p/Min
+id,cost,talktime,validity,comments
+18390,34,,28 days,All STD mobile calls @ 30p/min
+18391,58,,28 days,All STD Mobile calls @ 25p/min
+18392,62,,60 days,All STD mobile calls @30p/Min
+18393,73,,35 days,All STD Mobile calls @ 25p/min
+18394,122,,150 days,All STD mobile calls @30p/Min

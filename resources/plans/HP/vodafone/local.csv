@@ -1,26 +1,26 @@
-id,cost,talktime,validity,short description,long description
-17127,15,,56 days,Recharge of Rs. 15 by Vodafone,"Local & STD calls @ 2p/sec for first 60 secs, 30p local/std"
-17128,17,,45 days,Recharge of Rs. 17 by Vodafone,Local & STD Mobile Calls @1p/sec
-17129,21,,9 days,Recharge of Rs. 21 by Vodafone,Local Vodafone to Vodafone 15p/min
-17130,23,,3 days,Recharge of Rs. 23 by Vodafone,150 Local Vodafone to Vodafone min
-17131,26,,10 days,Recharge of Rs. 26 by Vodafone,Local mobile calls @25p/min
-17132,29,,3 days,Recharge of Rs. 29 by Vodafone,70 Local & STD minutes
-17133,31,,21 days,Recharge of Rs. 31 by Vodafone,Local V2V calls@ 10p/min
-17134,39,,28 days,Recharge of Rs. 39 by Vodafone,Local V2V calls @ 10p/min
-17135,43,,28 days,Recharge of Rs. 43 by Vodafone,Local mobile calls @25p/min
-17136,44,,5 days,Recharge of Rs. 44 by Vodafone,250 Local Vodafone to Vodafone min
-17137,46,,28 days,Recharge of Rs. 46 by Vodafone,Local & STD 30p/min
-17138,49,,45 days,Recharge of Rs. 49 by Vodafone,Local moblie calls @30p/min
-17139,53,,7 days,Recharge of Rs. 53 by Vodafone,Free 85 Local mins
-17140,59,,7 days,Recharge of Rs. 59 by Vodafone,130 Local & STD mins
-17141,65,,45 days,Recharge of Rs. 65 by Vodafone,Local Mobile calls @25p/min
-17142,79,,14 days,Recharge of Rs. 79 by Vodafone,Free 175 Local & STD mins
-17143,86,,14 days,Recharge of Rs. 86 by Vodafone,Free 200 Local & STD mins
-17144,96,,28 days,Recharge of Rs. 96 by Vodafone,Free 620 Local Vodafone mins
-17145,99,,7 days,Recharge of Rs. 99 by Vodafone,700 Local Vodafone to Vodafone min
-17146,105,,28 days,Recharge of Rs. 105 by Vodafone,Free 255 Local & STD mins
-17147,109,,30 days,Recharge of Rs. 109 by Vodafone,"Loc Onnet 15p, Loc Offnet 30p & STD @ 35p"
-17148,115,,28 days,Recharge of Rs. 115 by Vodafone,Free 300 Local Mobile mins
-17149,198,,28 days,Recharge of Rs. 198 by Vodafone,1100 Local Vodafone to Vodafone min
-17150,204,,28 days,Recharge of Rs. 204 by Vodafone,Free 550 Local & STD mins
-17151,209,,28 days,Recharge of Rs. 209 by Vodafone,Free 600 Local & STD Mobile mins
+id,cost,talktime,validity,comments
+17127,15,,56 days,"Local & STD calls @ 2p/sec for first 60 secs, 30p local/std"
+17128,17,,45 days,Local & STD Mobile Calls @1p/sec
+17129,21,,9 days,Local Vodafone to Vodafone 15p/min
+17130,23,,3 days,150 Local Vodafone to Vodafone min
+17131,26,,10 days,Local mobile calls @25p/min
+17132,29,,3 days,70 Local & STD minutes
+17133,31,,21 days,Local V2V calls@ 10p/min
+17134,39,,28 days,Local V2V calls @ 10p/min
+17135,43,,28 days,Local mobile calls @25p/min
+17136,44,,5 days,250 Local Vodafone to Vodafone min
+17137,46,,28 days,Local & STD 30p/min
+17138,49,,45 days,Local moblie calls @30p/min
+17139,53,,7 days,Free 85 Local mins
+17140,59,,7 days,130 Local & STD mins
+17141,65,,45 days,Local Mobile calls @25p/min
+17142,79,,14 days,Free 175 Local & STD mins
+17143,86,,14 days,Free 200 Local & STD mins
+17144,96,,28 days,Free 620 Local Vodafone mins
+17145,99,,7 days,700 Local Vodafone to Vodafone min
+17146,105,,28 days,Free 255 Local & STD mins
+17147,109,,30 days,"Loc Onnet 15p, Loc Offnet 30p & STD @ 35p"
+17148,115,,28 days,Free 300 Local Mobile mins
+17149,198,,28 days,1100 Local Vodafone to Vodafone min
+17150,204,,28 days,Free 550 Local & STD mins
+17151,209,,28 days,Free 600 Local & STD Mobile mins

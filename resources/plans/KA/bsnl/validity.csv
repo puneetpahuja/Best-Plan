@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-5877,36,,180 days,Recharge of Rs. 36 by BSNL,Validity Extension: PerSecond_36
-5878,37,,180 days,Recharge of Rs. 37 by BSNL,Validity extension: PerMin_37
-5879,75,,90 days,Recharge of Rs. 75 by BSNL,Validity extension: Pyari Jodi 
-5880,77,,365 days,Recharge of Rs. 77 by BSNL,Ullasa_77_validity-extension_KA
-5881,85,,180 days,Recharge of Rs. 85 by BSNL,ANANYA_validity-extension
-5882,87,,180 days,Recharge of Rs. 87 by BSNL,Nimagagi_87_validity-extension_KA
-5883,96,,365 days,Recharge of Rs. 96 by BSNL,Data Plan_96: 0.5GB valid for 30 days
-5884,99,,30 days,Recharge of Rs. 99 by BSNL,Validity Extension: Jai_Jawan_99
-5885,118,,365 days,Recharge of Rs. 118 by BSNL,"Student Special Plan -- 1 GB 2G/3G Data (30 days) -- Reduced call rates for first 60 days 10ps/min on -net (local/STD) calls, 30ps/min Any network (local/STD) calls"
-5886,136,,730 days,Recharge of Rs. 136 by BSNL,"Freedom RLH (Roam Like Home) Plan -- All calls (local/STD) (on-net/off-net) (Home LSA/National Roaming) @ 25paisa/minute for first 30 days, after 30 days 1.3ps/sec All Local STD calls -- New customers will get 1 GB 2G/3G Data (30 days) -- Special Combo Vouchers 176, 377 & 577 applicable specially for this plan only."
-5887,199,,180 days,Recharge of Rs. 199 by BSNL,Validity extension: RTP_FR_199
-5888,666,,180 days,Recharge of Rs. 666 by BSNL,BSNL_SIXER_666_validity-extension
+id,cost,talktime,validity,comments
+5877,36,,180 days,Validity Extension: PerSecond_36
+5878,37,,180 days,Validity extension: PerMin_37
+5879,75,,90 days,Validity extension: Pyari Jodi 
+5880,77,,365 days,Ullasa_77_validity-extension_KA
+5881,85,,180 days,ANANYA_validity-extension
+5882,87,,180 days,Nimagagi_87_validity-extension_KA
+5883,96,,365 days,Data Plan_96: 0.5GB valid for 30 days
+5884,99,,30 days,Validity Extension: Jai_Jawan_99
+5885,118,,365 days,"Student Special Plan -- 1 GB 2G/3G Data (30 days) -- Reduced call rates for first 60 days 10ps/min on -net (local/STD) calls, 30ps/min Any network (local/STD) calls"
+5886,136,,730 days,"Freedom RLH (Roam Like Home) Plan -- All calls (local/STD) (on-net/off-net) (Home LSA/National Roaming) @ 25paisa/minute for first 30 days, after 30 days 1.3ps/sec All Local STD calls -- New customers will get 1 GB 2G/3G Data (30 days) -- Special Combo Vouchers 176, 377 & 577 applicable specially for this plan only."
+5887,199,,180 days,Validity extension: RTP_FR_199
+5888,666,,180 days,BSNL_SIXER_666_validity-extension

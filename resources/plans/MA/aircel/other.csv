@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-691,83,90,28 days,Recharge of Rs. 83 by Aircel,"10 Mins of Incoming FREE ( Daily), Outgoing 1.3p/sec ( Applicable on Aircel & Vodafone network)"
-694,135,150,30 days,Recharge of Rs. 135 by Aircel,150 MB Data (30 days)
-704,85,10,90 days,Recharge of Rs. 85 by Aircel,A2A STD & Local Calls @15p/min -- All other local & STD Calls ( M) @ 25p/min
-721,239,,28 days,Recharge of Rs. 239 by Aircel,1200 Local/STD Min Free (Post Free Min 25p/min applies) -- Local A2A Unlimited Calls -- 200 MB Internet
-722,299,,28 days,Recharge of Rs. 299 by Aircel,1500 Local/STD Min Free (Post Free Min 25p/min applies) -- Local A2A Unlimited Calls -- 500 MB Internet
+id,cost,talktime,validity,comments
+691,83,90,28 days,"10 Mins of Incoming FREE ( Daily), Outgoing 1.3p/sec ( Applicable on Aircel & Vodafone network)"
+694,135,150,30 days,150 MB Data (30 days)
+704,85,10,90 days,A2A STD & Local Calls @15p/min -- All other local & STD Calls ( M) @ 25p/min
+721,239,,28 days,1200 Local/STD Min Free (Post Free Min 25p/min applies) -- Local A2A Unlimited Calls -- 200 MB Internet
+722,299,,28 days,1500 Local/STD Min Free (Post Free Min 25p/min applies) -- Local A2A Unlimited Calls -- 500 MB Internet

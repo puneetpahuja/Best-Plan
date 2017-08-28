@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-7422,13,,1 day,Recharge of Rs. 13 by BSNL,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan
-7423,32,,6 days,Recharge of Rs. 32 by BSNL,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan
-7424,79,,28 days,Recharge of Rs. 79 by BSNL,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan
+id,cost,talktime,validity,comments
+7422,13,,1 day,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan
+7423,32,,6 days,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan
+7424,79,,28 days,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan

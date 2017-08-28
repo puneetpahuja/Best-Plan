@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-12343,55,60,8 days,Recharge of Rs. 55 by Idea,2 Local I2I Night Minutes (1 Day)
-12359,25,22,N.A,Recharge of Rs. 25 by Idea,2 Local I2I Night Minutes (1 day)
-12364,70,59,N.A,Recharge of Rs. 70 by Idea,Talktime: between Rs.59 to Rs.100
-12386,16,,1 day,Recharge of Rs. 16 by Idea,UL On-net (Local + STD) + 100 MB Data (4G HS) or 50 MB Data (Non 4G HS)
-12387,46,,7 days,Recharge of Rs. 46 by Idea,UL On-net (Local + STD) -- 250 MB Data (4G HS) or 50 MB Data  (Non 4G HS)
-12388,86,,7 days,Recharge of Rs. 86 by Idea,UL On-net (Local + STD) + 100 L/N Off-net minutes -- 250 MB Data (4G HS) or 50 MB Data  (Non 4G HS)
+id,cost,talktime,validity,comments
+12343,55,60,8 days,2 Local I2I Night Minutes (1 Day)
+12359,25,22,N.A,2 Local I2I Night Minutes (1 day)
+12364,70,59,N.A,Talktime: between Rs.59 to Rs.100
+12386,16,,1 day,UL On-net (Local + STD) + 100 MB Data (4G HS) or 50 MB Data (Non 4G HS)
+12387,46,,7 days,UL On-net (Local + STD) -- 250 MB Data (4G HS) or 50 MB Data  (Non 4G HS)
+12388,86,,7 days,UL On-net (Local + STD) + 100 L/N Off-net minutes -- 250 MB Data (4G HS) or 50 MB Data  (Non 4G HS)

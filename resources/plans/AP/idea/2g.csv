@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-9185,5,,1 hour,Recharge of Rs. 5 by Idea,Unlimited 2G -- Overage: 4p/10KB -- 
-9186,7,,1 day,Recharge of Rs. 7 by Idea,35 MB Data -- Overage: 4p/10KB -- 
-9188,21,,3 Hours,Recharge of Rs. 21 by Idea,150 MB Data -- Overage: 4p/10KB -- 
-9189,32,,28 days,Recharge of Rs. 32 by Idea,160 MB Data -- Overage: 4p/10KB
-9190,54,,7 days,Recharge of Rs. 54 by Idea,300 MB Data -- Overage: 4p/10KB 
-9191,96,,10 days,Recharge of Rs. 96 by Idea,550 MB Data -- Overage: 4p/10KB
-9192,102,,28 days,Recharge of Rs. 102 by Idea,300 MB -- Overage: 4p/10KB
-9194,124,,15 days,Recharge of Rs. 124 by Idea,700 MB Data -- Overage: 4p/10KB
-9195,131,,1 Weekend,Recharge of Rs. 131 by Idea,1 GB over 1 weekend -- Validity: 1 weekend (1 Saturday and 1 Sunday within the span of 7 days); Starts from 00:00:00 hours on Saturday and ends on 23:59:59 hours on Sunday)
-9196,155,,20 days,Recharge of Rs. 155 by Idea,900 MB Data -- Overage: 4p/10KB 
-9197,175,,28 days,Recharge of Rs. 175 by Idea,1 GB Data -- Overage: 4p/10KB
-9198,248,,28 days,Recharge of Rs. 248 by Idea,Unlimited 3GB FUP -- FUP limit: Speed from 3GB drops to 10 Kbps
-9199,431,,4 Weekends,Recharge of Rs. 431 by Idea,4 GB over 4 weekends -- Validity: 4 weekends (4 Saturdays & 4 Sundays within the span of 28 days); Starts from 00:00:00 hours on Saturday and ends on 23:59:59 hours on Sunday)
+id,cost,talktime,validity,comments
+9185,5,,1 hour,Unlimited 2G -- Overage: 4p/10KB -- 
+9186,7,,1 day,35 MB Data -- Overage: 4p/10KB -- 
+9188,21,,3 Hours,150 MB Data -- Overage: 4p/10KB -- 
+9189,32,,28 days,160 MB Data -- Overage: 4p/10KB
+9190,54,,7 days,300 MB Data -- Overage: 4p/10KB 
+9191,96,,10 days,550 MB Data -- Overage: 4p/10KB
+9192,102,,28 days,300 MB -- Overage: 4p/10KB
+9194,124,,15 days,700 MB Data -- Overage: 4p/10KB
+9195,131,,1 Weekend,1 GB over 1 weekend -- Validity: 1 weekend (1 Saturday and 1 Sunday within the span of 7 days); Starts from 00:00:00 hours on Saturday and ends on 23:59:59 hours on Sunday)
+9196,155,,20 days,900 MB Data -- Overage: 4p/10KB 
+9197,175,,28 days,1 GB Data -- Overage: 4p/10KB
+9198,248,,28 days,Unlimited 3GB FUP -- FUP limit: Speed from 3GB drops to 10 Kbps
+9199,431,,4 Weekends,4 GB over 4 weekends -- Validity: 4 weekends (4 Saturdays & 4 Sundays within the span of 28 days); Starts from 00:00:00 hours on Saturday and ends on 23:59:59 hours on Sunday)

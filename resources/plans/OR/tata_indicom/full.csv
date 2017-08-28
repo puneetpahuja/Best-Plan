@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-15469,35,35,N.A,Recharge of Rs. 35 by Indicom,Talktime of Rs. 35 for Rs. 35 recharge by Tata Indicom
-15470,50,50,N.A,Recharge of Rs. 50 by Indicom,Talktime of Rs. 50 for Rs. 50 recharge by Tata Indicom
-15471,65,65,N.A,Recharge of Rs. 65 by Indicom,Talktime of Rs. 65 for Rs. 65 recharge by Tata Indicom
-15472,70,70,N.A,Recharge of Rs. 70 by Indicom,Talktime of Rs. 70 for Rs. 70 recharge by Tata Indicom
-15473,110,110,N.A,Recharge of Rs. 110 by Indicom,Talktime of Rs. 110 for Rs. 110 recharge by Tata Indicom
-15474,120,120,N.A,Recharge of Rs. 120 by Indicom,Talktime of Rs. 120 for Rs. 120 recharge by Tata Indicom
-15475,150,155,N.A,Recharge of Rs. 150 by Indicom,Talktime of Rs. 155 for Rs. 150 recharge by Tata Indicom
-15476,220,240,N.A,Recharge of Rs. 220 by Indicom,Talktime of Rs. 240 for Rs. 220 recharge by Tata Indicom
-15477,300,330,N.A,Recharge of Rs. 300 by Indicom,Talktime of Rs. 330 for Rs. 300 recharge by Tata Indicom
-15478,350,400,N.A,Recharge of Rs. 350 by Indicom,Talktime of Rs. 400 for Rs. 350 recharge by Tata Indicom
-15479,510,575,N.A,Recharge of Rs. 510 by Indicom,Talktime of Rs. 575 for Rs. 510 recharge by Tata Indicom
-15480,1010,1140,N.A,Recharge of Rs. 1010 by Indicom,Talktime of Rs. 1140 for Rs. 1010 recharge by Tata Indicom
+id,cost,talktime,validity,comments
+15469,35,35,N.A,Talktime of Rs. 35 for Rs. 35 recharge by Tata Indicom
+15470,50,50,N.A,Talktime of Rs. 50 for Rs. 50 recharge by Tata Indicom
+15471,65,65,N.A,Talktime of Rs. 65 for Rs. 65 recharge by Tata Indicom
+15472,70,70,N.A,Talktime of Rs. 70 for Rs. 70 recharge by Tata Indicom
+15473,110,110,N.A,Talktime of Rs. 110 for Rs. 110 recharge by Tata Indicom
+15474,120,120,N.A,Talktime of Rs. 120 for Rs. 120 recharge by Tata Indicom
+15475,150,155,N.A,Talktime of Rs. 155 for Rs. 150 recharge by Tata Indicom
+15476,220,240,N.A,Talktime of Rs. 240 for Rs. 220 recharge by Tata Indicom
+15477,300,330,N.A,Talktime of Rs. 330 for Rs. 300 recharge by Tata Indicom
+15478,350,400,N.A,Talktime of Rs. 400 for Rs. 350 recharge by Tata Indicom
+15479,510,575,N.A,Talktime of Rs. 575 for Rs. 510 recharge by Tata Indicom
+15480,1010,1140,N.A,Talktime of Rs. 1140 for Rs. 1010 recharge by Tata Indicom

@@ -1,17 +1,17 @@
-id,cost,talktime,validity,short description,long description
-9552,25,25,N.A,Recharge of Rs. 25 by Idea,1 Local Idea Night SMS (11pm to 8am) -- Talktime Validity (Days): 3 -- Tariff Validity (Days): 1
-9553,65,65,N.A,Recharge of Rs. 65 by Idea,1 Local Idea Night SMS (11pm to 8am) -- Talktime Validity (Days): 9 -- Tariff Validity (Days): 1
-9555,138,138,30 days,Recharge of Rs. 138 by Idea,"5 Local Idea Night Mins. (12 Am to 6 AM), Validity: 5 days"
-9565,17,12.7,N.A,Recharge of Rs. 17 by Idea,1 Local Idea Night SMS (Timing-12 AM to 6 AM )Validity 1 Day -- Talktime Validity (Days): 0 -- Tariff Validity (Days): 1
-9567,29,21.58,N.A,Recharge of Rs. 29 by Idea,5 Local Idea Night SMS (Timing-12 AM to 6 AM ) Validity 1 Day
-9571,59,47,N.A,Recharge of Rs. 59 by Idea,12 Local Idea Night SMS (Timing-12 AM to 6 AM ) Validity 4 Day 
-9575,84,68.18,N.A,Recharge of Rs. 84 by Idea,1 Local Idea Night SMS (Timing-12 AM to 6 AM )Validity 1 Day 
-9581,143,30,28 days,Recharge of Rs. 143 by Idea,1 GB to 5 GB 3G Data (Based on time of recharge by subscriber)
-9582,149,100,28 days,Recharge of Rs. 149 by Idea,100 MB 3G Data -- Talktime: No Validity
-9591,402,346.57,28 days,Recharge of Rs. 402 by Idea,5 Local I2I Minutes (1 Day) -- For Recharges from My Idea App and Idea Website: Unlimited L+N calling -- 1 GB Daily 3G Data (28 days) + RS.70.10 TT
-9599,7,,2 Nights,Recharge of Rs. 7 by Idea,75 Local/ National Night SMS (12:00 AM to 6:00 AM) (Choice Recharge) -- 
-9608,896,,84 days,Recharge of Rs. 896 by Idea,"Unlimited Local/STD/Roaming calls + SMS -- 15 GB 3G Data -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 250 mins in a day or 1000 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min -- "
-9609,897,,84 days,Recharge of Rs. 897 by Idea,"Unlimited Local/STD/Roaming calls+SMS -- 15 GB 2G/3G data (4G handset users will get 2GB/Per Day 2G/3G data, Customers newly upgrading to 4G Handset will be eligible to get additional data only after 48 hours of handset upgrade. Additional data can be used on 4G handset only) -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 250 mins in a day or 1000 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable -- "
-9610,1196,,84 days,Recharge of Rs. 1196 by Idea,"Unlimited Local/STD/Roaming calls+SMS -- 30 GB 3G Data -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 250 mins in a day or 1000 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min -- "
-9611,1197,,84 days,Recharge of Rs. 1197 by Idea,"Unlimited Local/STD/Roaming calls+SMS -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 250 mins in a day or 1000 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable in Case -- 30 GB 2G/3G data (4G handset users will get 1GB/Per Day 2.5 GB/3G data, Customers newly upgrading to 4G Handset will be eligible to get additional data only after 48 hours of handset upgrade. Additional data can be used on 4G handset only)  -- "
-9615,7,,1 night,Recharge of Rs. 7 by Idea,400 MB 2G Data -- Overage: 4P/10KB -- 
+id,cost,talktime,validity,comments
+9552,25,25,N.A,1 Local Idea Night SMS (11pm to 8am) -- Talktime Validity (Days): 3 -- Tariff Validity (Days): 1
+9553,65,65,N.A,1 Local Idea Night SMS (11pm to 8am) -- Talktime Validity (Days): 9 -- Tariff Validity (Days): 1
+9555,138,138,30 days,"5 Local Idea Night Mins. (12 Am to 6 AM), Validity: 5 days"
+9565,17,12.7,N.A,1 Local Idea Night SMS (Timing-12 AM to 6 AM )Validity 1 Day -- Talktime Validity (Days): 0 -- Tariff Validity (Days): 1
+9567,29,21.58,N.A,5 Local Idea Night SMS (Timing-12 AM to 6 AM ) Validity 1 Day
+9571,59,47,N.A,12 Local Idea Night SMS (Timing-12 AM to 6 AM ) Validity 4 Day 
+9575,84,68.18,N.A,1 Local Idea Night SMS (Timing-12 AM to 6 AM )Validity 1 Day 
+9581,143,30,28 days,1 GB to 5 GB 3G Data (Based on time of recharge by subscriber)
+9582,149,100,28 days,100 MB 3G Data -- Talktime: No Validity
+9591,402,346.57,28 days,5 Local I2I Minutes (1 Day) -- For Recharges from My Idea App and Idea Website: Unlimited L+N calling -- 1 GB Daily 3G Data (28 days) + RS.70.10 TT
+9599,7,,2 Nights,75 Local/ National Night SMS (12:00 AM to 6:00 AM) (Choice Recharge) -- 
+9608,896,,84 days,"Unlimited Local/STD/Roaming calls + SMS -- 15 GB 3G Data -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 250 mins in a day or 1000 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min -- "
+9609,897,,84 days,"Unlimited Local/STD/Roaming calls+SMS -- 15 GB 2G/3G data (4G handset users will get 2GB/Per Day 2G/3G data, Customers newly upgrading to 4G Handset will be eligible to get additional data only after 48 hours of handset upgrade. Additional data can be used on 4G handset only) -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 250 mins in a day or 1000 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable -- "
+9610,1196,,84 days,"Unlimited Local/STD/Roaming calls+SMS -- 30 GB 3G Data -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 250 mins in a day or 1000 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min -- "
+9611,1197,,84 days,"Unlimited Local/STD/Roaming calls+SMS -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 250 mins in a day or 1000 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable in Case -- 30 GB 2G/3G data (4G handset users will get 1GB/Per Day 2.5 GB/3G data, Customers newly upgrading to 4G Handset will be eligible to get additional data only after 48 hours of handset upgrade. Additional data can be used on 4G handset only)  -- "
+9615,7,,1 night,400 MB 2G Data -- Overage: 4P/10KB -- 

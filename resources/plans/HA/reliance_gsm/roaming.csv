@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-13142,29,,30 days,Recharge of Rs. 29 by RelianceGSM,All roaming incoming calls free and Roaming outgoing calls 1p/sec for 30 days
-13143,194,,180 days,Recharge of Rs. 194 by RelianceGSM,"Incoming calls free while roaming, All outgoing calls @ 1.5p/sec anywhere in India."
+id,cost,talktime,validity,comments
+13142,29,,30 days,All roaming incoming calls free and Roaming outgoing calls 1p/sec for 30 days
+13143,194,,180 days,"Incoming calls free while roaming, All outgoing calls @ 1.5p/sec anywhere in India."

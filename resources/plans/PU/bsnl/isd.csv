@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-6725,16,,18 days,Recharge of Rs. 16 by BSNL,All voice calls to Bhutan @10p/sec
-6726,18,,30 days,Recharge of Rs. 18 by BSNL,All voice calls to Nepal at Rs.8.50 per min
-6727,23,,30 days,Recharge of Rs. 23 by BSNL,"ISD calls to Australia ,Bahrain , Indonesia, Kuwait @ Rs. 6.49/min -- International SMS @ Rs.3/SMS"
-6728,27,,30 days,Recharge of Rs. 27 by BSNL,"ISD calls to Bangladesh, Malaysia, Hong kong, Thailand @ Rs. 2.99/min, International SMS @ Rs. 3/SMS"
-6729,38,,30 days,Recharge of Rs. 38 by BSNL,"ISD calls to Bahrain, France, Germany, U.K** @ Rs. 4.49/min -- **These STVs are not applicable for ISD code 004470 of UK"
-6730,41,,30 days,Recharge of Rs. 41 by BSNL,"ISD calls to Canada , U.S.A. , Singapore , China @ Rs. 1.49/min -- International SMS @ Rs.3/SMS"
+id,cost,talktime,validity,comments
+6725,16,,18 days,All voice calls to Bhutan @10p/sec
+6726,18,,30 days,All voice calls to Nepal at Rs.8.50 per min
+6727,23,,30 days,"ISD calls to Australia ,Bahrain , Indonesia, Kuwait @ Rs. 6.49/min -- International SMS @ Rs.3/SMS"
+6728,27,,30 days,"ISD calls to Bangladesh, Malaysia, Hong kong, Thailand @ Rs. 2.99/min, International SMS @ Rs. 3/SMS"
+6729,38,,30 days,"ISD calls to Bahrain, France, Germany, U.K** @ Rs. 4.49/min -- **These STVs are not applicable for ISD code 004470 of UK"
+6730,41,,30 days,"ISD calls to Canada , U.S.A. , Singapore , China @ Rs. 1.49/min -- International SMS @ Rs.3/SMS"

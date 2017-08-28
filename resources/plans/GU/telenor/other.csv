@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-15868,25,28,5 days,Recharge of Rs. 25 by Uninor,5 Local Telenor to Telenor night minutes
-15896,188,,84 days,Recharge of Rs. 188 by Uninor,Unlimited Local & STD Telenor to Telenor calls -- Unlimited Data with FUP 1GB/Day
-15897,198,,28 days,Recharge of Rs. 198 by Uninor,Unlimited Local/STD Telenor to telenor calls + 1000 Minutes Local/STD Telenor to others -- Unlimited 2G data
-15898,298,,28 days,Recharge of Rs. 298 by Uninor,Unlimited Local/STD Telenor to Telenor calls -- 2 GB data --  800 min All India per week for 4 weeks (Post Free mins Offnet Calls @ 25p/min) 
+id,cost,talktime,validity,comments
+15868,25,28,5 days,5 Local Telenor to Telenor night minutes
+15896,188,,84 days,Unlimited Local & STD Telenor to Telenor calls -- Unlimited Data with FUP 1GB/Day
+15897,198,,28 days,Unlimited Local/STD Telenor to telenor calls + 1000 Minutes Local/STD Telenor to others -- Unlimited 2G data
+15898,298,,28 days,Unlimited Local/STD Telenor to Telenor calls -- 2 GB data --  800 min All India per week for 4 weeks (Post Free mins Offnet Calls @ 25p/min) 

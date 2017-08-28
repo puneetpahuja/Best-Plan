@@ -1,21 +1,21 @@
-id,cost,talktime,validity,short description,long description
-7397,22,,90 days,Recharge of Rs. 22 by BSNL,All local/STD voice calls in home LSA @30 Paisa/Min
-7398,33,,1 day,Recharge of Rs. 33 by BSNL,72 minutes free local or STD any network voice call.STV benefit available in home LSA only.
-7399,42,,21 days,Recharge of Rs. 42 by BSNL,For Per Minute plan: (a)10paisa/min for On-net voice calls(Local/STD) (b) 30paisa/min for Offnet voice calls (Local/STD) -- For Per Second plan: (a)1paisa/3sec for On-net voice calls(Local/STD) (b) 2paisa/3 sec for OffnetVoice calls (Local/STD)STV feature available in home LSA only.
-7400,44,,25 days,Recharge of Rs. 44 by BSNL,Local any network Voice calls 1.4ps per 2 secs.STV benefit available in home LSA only.
-7401,58,,8 days,Recharge of Rs. 58 by BSNL,5600 Sec Local or STD to any network
-7402,65,,27 days,Recharge of Rs. 65 by BSNL,Local onnet voice calls at 15p per min.STV benefit available in home LSA only.
-7403,69,,30 days,Recharge of Rs. 69 by BSNL,Local Call Anynet at 1 ps per 2 sec. STV feature available in home LSA only.
-7404,88,,48 days,Recharge of Rs. 88 by BSNL,For Per Minute plan:(a)10paisa/min for On-net voice calls (Local/STD)(b)30paisa/min for Off-netvoicecalls(Local/STD) -- For Per Second plan:(a)1paisa/3sec for On-net voice calls (Local/STD) (b)2paisa/3 sec for Off-net Voice calls (Local/STD)STV benefit is avilable in home LSA only
-7405,122,,75 days,Recharge of Rs. 122 by BSNL,Local any network Voice calls 1.4ps per 2 secs.STV benefit available in home LSA only.
-7406,135,,28 days,Recharge of Rs. 135 by BSNL,275 min free to any network (Local/STD)
-7407,142,,30 days,Recharge of Rs. 142 by BSNL,Unlimited On net (local/STD) voice calls + Off-net (local/STD) voice calls upto 20 minutes per day. -- This STV is applicable only for all free plan-149 customers.
-7408,159,,30 days,Recharge of Rs. 159 by BSNL,20300 sec Local/STD any net
-7409,164,,5 days,Recharge of Rs. 164 by BSNL,Unlimited Local STD Onnet Voice call. STV benefit available in home LSA only.
-7410,346,,24 days,Recharge of Rs. 346 by BSNL,Unlimited Local Onnet Voice call.STV benefit available in home LSA only.
-7411,359,,60 days,Recharge of Rs. 359 by BSNL,52000 sec Local/STD any net
-7412,449,,84 days,Recharge of Rs. 449 by BSNL,1400 min. Local/STD any net
-7413,574,,27 days,Recharge of Rs. 574 by BSNL,Unlimited Local Onnet call and 500 minutes Local STD any net Voice call. STV benefit available in home LSA only.
-7414,699,,28 days,Recharge of Rs. 699 by BSNL,Unlimited Local STD onnet Voice call. STV benefit available in home LSA only.
-7415,894,,81 days,Recharge of Rs. 894 by BSNL,Unlimited Local Onnet Voice call. STV benefit available in home LSA only.
-7416,1494,,81 days,Recharge of Rs. 1494 by BSNL,Unlimited Local Onnet call and 1500 minutes Local STD any net Voice call. STV benefit available in home LSA only.
+id,cost,talktime,validity,comments
+7397,22,,90 days,All local/STD voice calls in home LSA @30 Paisa/Min
+7398,33,,1 day,72 minutes free local or STD any network voice call.STV benefit available in home LSA only.
+7399,42,,21 days,For Per Minute plan: (a)10paisa/min for On-net voice calls(Local/STD) (b) 30paisa/min for Offnet voice calls (Local/STD) -- For Per Second plan: (a)1paisa/3sec for On-net voice calls(Local/STD) (b) 2paisa/3 sec for OffnetVoice calls (Local/STD)STV feature available in home LSA only.
+7400,44,,25 days,Local any network Voice calls 1.4ps per 2 secs.STV benefit available in home LSA only.
+7401,58,,8 days,5600 Sec Local or STD to any network
+7402,65,,27 days,Local onnet voice calls at 15p per min.STV benefit available in home LSA only.
+7403,69,,30 days,Local Call Anynet at 1 ps per 2 sec. STV feature available in home LSA only.
+7404,88,,48 days,For Per Minute plan:(a)10paisa/min for On-net voice calls (Local/STD)(b)30paisa/min for Off-netvoicecalls(Local/STD) -- For Per Second plan:(a)1paisa/3sec for On-net voice calls (Local/STD) (b)2paisa/3 sec for Off-net Voice calls (Local/STD)STV benefit is avilable in home LSA only
+7405,122,,75 days,Local any network Voice calls 1.4ps per 2 secs.STV benefit available in home LSA only.
+7406,135,,28 days,275 min free to any network (Local/STD)
+7407,142,,30 days,Unlimited On net (local/STD) voice calls + Off-net (local/STD) voice calls upto 20 minutes per day. -- This STV is applicable only for all free plan-149 customers.
+7408,159,,30 days,20300 sec Local/STD any net
+7409,164,,5 days,Unlimited Local STD Onnet Voice call. STV benefit available in home LSA only.
+7410,346,,24 days,Unlimited Local Onnet Voice call.STV benefit available in home LSA only.
+7411,359,,60 days,52000 sec Local/STD any net
+7412,449,,84 days,1400 min. Local/STD any net
+7413,574,,27 days,Unlimited Local Onnet call and 500 minutes Local STD any net Voice call. STV benefit available in home LSA only.
+7414,699,,28 days,Unlimited Local STD onnet Voice call. STV benefit available in home LSA only.
+7415,894,,81 days,Unlimited Local Onnet Voice call. STV benefit available in home LSA only.
+7416,1494,,81 days,Unlimited Local Onnet call and 1500 minutes Local STD any net Voice call. STV benefit available in home LSA only.

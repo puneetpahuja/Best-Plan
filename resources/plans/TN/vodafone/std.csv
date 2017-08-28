@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-18513,28,,14 days,Recharge of Rs. 28 by Vodafone,STD calls to mobile @35P/Min
-18514,39,,28 days,Recharge of Rs. 39 by Vodafone,STD calls to mobile @35P/Min
-18515,58,,28 days,Recharge of Rs. 58 by Vodafone,STD calls to mobile @25P/Min
-18516,84,,84 days,Recharge of Rs. 84 by Vodafone,STD calls to mobile@ 35P/Min
+id,cost,talktime,validity,comments
+18513,28,,14 days,STD calls to mobile @35P/Min
+18514,39,,28 days,STD calls to mobile @35P/Min
+18515,58,,28 days,STD calls to mobile @25P/Min
+18516,84,,84 days,STD calls to mobile@ 35P/Min

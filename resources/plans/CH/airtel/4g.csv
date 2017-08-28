@@ -1,15 +1,15 @@
-id,cost,talktime,validity,short description,long description
-1955,47,,1 Night,Recharge of Rs. 47 by Airtel,1 GB 4G/3G Data Night Internet (00;00hrs to 06;00hrs) with a validity of 1 Night
-1956,93,,2 days,Recharge of Rs. 93 by Airtel,2GB 4G/3G/2G (This recharge cannot be used to carry forward existing Data balance)*
-1957,102,,27 days,Recharge of Rs. 102 by Airtel,400 MB 3G/4G Data
-1958,108,,27 days,Recharge of Rs. 108 by Airtel,250 MB 3G/4G Data
-1959,128,,28 days,Recharge of Rs. 128 by Airtel,1 GB 4G/3G Data Night Internet (00;00hrs to 06;00hrs) 
-1960,143,,7 days,Recharge of Rs. 143 by Airtel,1.5 GB 3G/4G Data  (This recharge cannot be used to carry forward existing 3G balance).
-1962,348,,28 days,Recharge of Rs. 348 by Airtel,1 GB 3G/4G Data -- Unlimited Local + STD Airtel to Airtel mobile calls
-1963,349,,28 days,Recharge of Rs. 349 by Airtel,Unlimited all Local + STD calls -- 1 GB/day 3G/4G data -- T&C apply.
-1964,358,,25 days,Recharge of Rs. 358 by Airtel,2 GB 4G/3G Data 
-1965,549,,28 days,Recharge of Rs. 549 by Airtel,Unlimited all Local + STD calls -- 2 GB/day 3G/4G data -- T&C apply.
-1966,749,,28 days,Recharge of Rs. 749 by Airtel,Unlimited all Local + STD calls -- 3 GB/day 3G/4G data -- T&C apply.
-1967,999,,28 days,Recharge of Rs. 999 by Airtel,Unlimited all Local + STD calls -- 4 GB/day 3G/4G data -- T&C apply.
-1969,1497,,27 days,Recharge of Rs. 1497 by Airtel,"10 GB 4G/3G Data. Now for 1 year get 1 GB 4G/3G Data (27 Days) @ Rs.53, 2GB 4G/3G Data (27 Days) @ Rs.95 and 5GB 4G/3G Data (27Days) @ Rs.265. Data share or cashback does not apply."
-1970,148,,28 days,Recharge of Rs. 148 by Airtel,Enjoy Free Airtel to Airtel (Local +STD) mobile calls -- 50 MB 3G/4G data for 28 days. 4G handsets get 300MB data. Roaming calls are charegable. (This recharge does not carry forward existing data balance)
+id,cost,talktime,validity,comments
+1955,47,,1 Night,1 GB 4G/3G Data Night Internet (00;00hrs to 06;00hrs) with a validity of 1 Night
+1956,93,,2 days,2GB 4G/3G/2G (This recharge cannot be used to carry forward existing Data balance)*
+1957,102,,27 days,400 MB 3G/4G Data
+1958,108,,27 days,250 MB 3G/4G Data
+1959,128,,28 days,1 GB 4G/3G Data Night Internet (00;00hrs to 06;00hrs) 
+1960,143,,7 days,1.5 GB 3G/4G Data  (This recharge cannot be used to carry forward existing 3G balance).
+1962,348,,28 days,1 GB 3G/4G Data -- Unlimited Local + STD Airtel to Airtel mobile calls
+1963,349,,28 days,Unlimited all Local + STD calls -- 1 GB/day 3G/4G data -- T&C apply.
+1964,358,,25 days,2 GB 4G/3G Data 
+1965,549,,28 days,Unlimited all Local + STD calls -- 2 GB/day 3G/4G data -- T&C apply.
+1966,749,,28 days,Unlimited all Local + STD calls -- 3 GB/day 3G/4G data -- T&C apply.
+1967,999,,28 days,Unlimited all Local + STD calls -- 4 GB/day 3G/4G data -- T&C apply.
+1969,1497,,27 days,"10 GB 4G/3G Data. Now for 1 year get 1 GB 4G/3G Data (27 Days) @ Rs.53, 2GB 4G/3G Data (27 Days) @ Rs.95 and 5GB 4G/3G Data (27Days) @ Rs.265. Data share or cashback does not apply."
+1970,148,,28 days,Enjoy Free Airtel to Airtel (Local +STD) mobile calls -- 50 MB 3G/4G data for 28 days. 4G handsets get 300MB data. Roaming calls are charegable. (This recharge does not carry forward existing data balance)

@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-12641,80,80,N.A,Recharge of Rs. 80 by RelianceGSM,Talktime of Rs. 80 for Rs. 80 recharge by Reliance GSM
-12642,150,150,N.A,Recharge of Rs. 150 by RelianceGSM,Talktime of Rs. 150 for Rs. 150 recharge by Reliance GSM
-12646,500,500,N.A,Recharge of Rs. 500 by RelianceGSM,Talktime of Rs. 500 for Rs. 500 recharge by Reliance GSM
+id,cost,talktime,validity,comments
+12641,80,80,N.A,Talktime of Rs. 80 for Rs. 80 recharge by Reliance GSM
+12642,150,150,N.A,Talktime of Rs. 150 for Rs. 150 recharge by Reliance GSM
+12646,500,500,N.A,Talktime of Rs. 500 for Rs. 500 recharge by Reliance GSM

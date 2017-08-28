@@ -1,21 +1,21 @@
-id,cost,talktime,validity,short description,long description
-4498,8,,5 days,Recharge of Rs. 8 by Airtel,Local mobile calls @1.2p/2sec
-4499,9,,7 days,Recharge of Rs. 9 by Airtel,Local mobile calls @1.2p/2sec
-4500,12,,3 days,Recharge of Rs. 12 by Airtel,All local mobile calls @1.2p/2sec
-4501,15,,3 days,Recharge of Rs. 15 by Airtel,Local Airtel to Airtel 20p/min
-4502,16,,14 days,Recharge of Rs. 16 by Airtel,Local Airtel calls @1.2p/2 sec
-4503,17,,28 days,Recharge of Rs. 17 by Airtel,Local mobile calls @1.2p/2secs (1st 120 Local mobile sec of the Day @1.5p/sec)
-4504,24,,28 days,Recharge of Rs. 24 by Airtel,Local Airtel to Airtel mobile calls @10p/min (1st 120 Local Airtel to Airtel secs of the Day @1.5p/s)
-4505,28,,3 days,Recharge of Rs. 28 by Airtel,100 Local Airtel to Airtel Minute
-4506,31,,25 days,Recharge of Rs. 31 by Airtel,Local mobile calls @45p/min
-4507,39,,28 days,Recharge of Rs. 39 by Airtel,Local Mobile Calls @1.2p/2Sec
-4508,44,,28 days,Recharge of Rs. 44 by Airtel,Local Airtel to Airtel @10p/min
-4509,48,,28 days,Recharge of Rs. 48 by Airtel,Local Mobile @35p/m -- STD Mobile @30p/m
-4510,54,,28 days,Recharge of Rs. 54 by Airtel,Local STD Airtel to Airtel @15p/min
-4511,59,,28 days,Recharge of Rs. 59 by Airtel,Local + STD mobile calls @30p/min
-4512,65,,28 days,Recharge of Rs. 65 by Airtel,"Local Airtel to Airtel @10p/min, A2M @30p/min "
-4513,69,,45 days,Recharge of Rs. 69 by Airtel,Local mobile calls @35p/min -- STD mobile calls @30p/min
-4514,71,,28 days,Recharge of Rs. 71 by Airtel,Local & STD mobile calls @25p/min
-4515,78,,56 days,Recharge of Rs. 78 by Airtel,Local Mobile Calls @1.2p/2Sec
-4516,99,,56 days,Recharge of Rs. 99 by Airtel,Local + STD Mobile Calls @30p/mins
-4517,194,,28 days,Recharge of Rs. 194 by Airtel,"HOME LOCAL STD ALL @ 2P/SEC, NATIONAL ROAMING LOCAL STD ALL @ 60P/MIN"
+id,cost,talktime,validity,comments
+4498,8,,5 days,Local mobile calls @1.2p/2sec
+4499,9,,7 days,Local mobile calls @1.2p/2sec
+4500,12,,3 days,All local mobile calls @1.2p/2sec
+4501,15,,3 days,Local Airtel to Airtel 20p/min
+4502,16,,14 days,Local Airtel calls @1.2p/2 sec
+4503,17,,28 days,Local mobile calls @1.2p/2secs (1st 120 Local mobile sec of the Day @1.5p/sec)
+4504,24,,28 days,Local Airtel to Airtel mobile calls @10p/min (1st 120 Local Airtel to Airtel secs of the Day @1.5p/s)
+4505,28,,3 days,100 Local Airtel to Airtel Minute
+4506,31,,25 days,Local mobile calls @45p/min
+4507,39,,28 days,Local Mobile Calls @1.2p/2Sec
+4508,44,,28 days,Local Airtel to Airtel @10p/min
+4509,48,,28 days,Local Mobile @35p/m -- STD Mobile @30p/m
+4510,54,,28 days,Local STD Airtel to Airtel @15p/min
+4511,59,,28 days,Local + STD mobile calls @30p/min
+4512,65,,28 days,"Local Airtel to Airtel @10p/min, A2M @30p/min "
+4513,69,,45 days,Local mobile calls @35p/min -- STD mobile calls @30p/min
+4514,71,,28 days,Local & STD mobile calls @25p/min
+4515,78,,56 days,Local Mobile Calls @1.2p/2Sec
+4516,99,,56 days,Local + STD Mobile Calls @30p/mins
+4517,194,,28 days,"HOME LOCAL STD ALL @ 2P/SEC, NATIONAL ROAMING LOCAL STD ALL @ 60P/MIN"

@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-15138,15,,30 days,Recharge of Rs. 15 by Indicom,75 National SMS (Local/STD SMS)
-15139,29,,30 days,Recharge of Rs. 29 by Indicom,400 National SMS (Local/STD SMS)
-15140,39,,30 days,Recharge of Rs. 39 by Indicom,700 National SMS (Local/STD SMS)
+id,cost,talktime,validity,comments
+15138,15,,30 days,75 National SMS (Local/STD SMS)
+15139,29,,30 days,400 National SMS (Local/STD SMS)
+15140,39,,30 days,700 National SMS (Local/STD SMS)

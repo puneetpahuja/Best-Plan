@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-14945,333,355,N.A,Recharge of Rs. 333 by Indicom,Local On-Net Secs: 60 valid for 1 day
-14946,555,600,N.A,Recharge of Rs. 555 by Indicom,Local On-Net Secs: 60 valid for 1 day
-14947,1111,1222,N.A,Recharge of Rs. 1111 by Indicom,Local On-Net Secs: 60 valid for 1 day
-14963,103,,28 days,Recharge of Rs. 103 by Indicom,Unlimited Local/STD Tata to Tata Mobile Calls -- 500MB Data
-14965,246,,28 days,Recharge of Rs. 246 by Indicom,3000 mins of usage in Local and STD calls + 2GB Data -- Post 3000 Mins call charges @ 30p/min
+id,cost,talktime,validity,comments
+14945,333,355,N.A,Local On-Net Secs: 60 valid for 1 day
+14946,555,600,N.A,Local On-Net Secs: 60 valid for 1 day
+14947,1111,1222,N.A,Local On-Net Secs: 60 valid for 1 day
+14963,103,,28 days,Unlimited Local/STD Tata to Tata Mobile Calls -- 500MB Data
+14965,246,,28 days,3000 mins of usage in Local and STD calls + 2GB Data -- Post 3000 Mins call charges @ 30p/min

@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-15175,10,7.48,N.A,Recharge of Rs. 10 by Indicom,Talktime of Rs. 7.48 for Rs. 10 recharge by Tata Indicom
-15176,20,14.94,N.A,Recharge of Rs. 20 by Indicom,Talktime of Rs. 14.94 for Rs. 20 recharge by Tata Indicom
-15177,30,22.42,N.A,Recharge of Rs. 30 by Indicom,Talktime of Rs. 22.42 for Rs. 30 recharge by Tata Indicom
-15178,50,39.38,N.A,Recharge of Rs. 50 by Indicom,Talktime of Rs. 39.38 for Rs. 50 recharge by Tata Indicom
-15179,70,56.32,N.A,Recharge of Rs. 70 by Indicom,Talktime of Rs. 56.32 for Rs. 70 recharge by Tata Indicom
-15180,80,70,N.A,Recharge of Rs. 80 by Indicom,Talktime of Rs. 70 for Rs. 80 recharge by Tata Indicom
-15181,90,73.28,N.A,Recharge of Rs. 90 by Indicom,Talktime of Rs. 73.28 for Rs. 90 recharge by Tata Indicom
-15182,100,81.74,N.A,Recharge of Rs. 100 by Indicom,Talktime of Rs. 81.74 for Rs. 100 recharge by Tata Indicom
-15183,110,90.22,N.A,Recharge of Rs. 110 by Indicom,Talktime of Rs. 90.22 for Rs. 110 recharge by Tata Indicom
-15184,120,98.7,N.A,Recharge of Rs. 120 by Indicom,Talktime of Rs. 98.7 for Rs. 120 recharge by Tata Indicom
-15185,140,115.64,N.A,Recharge of Rs. 140 by Indicom,Talktime of Rs. 115.64 for Rs. 140 recharge by Tata Indicom
-15186,150,140,N.A,Recharge of Rs. 150 by Indicom,Talktime of Rs. 140 for Rs. 150 recharge by Tata Indicom
-15187,160,155,N.A,Recharge of Rs. 160 by Indicom,Talktime of Rs. 155 for Rs. 160 recharge by Tata Indicom
+id,cost,talktime,validity,comments
+15175,10,7.48,N.A,Talktime of Rs. 7.48 for Rs. 10 recharge by Tata Indicom
+15176,20,14.94,N.A,Talktime of Rs. 14.94 for Rs. 20 recharge by Tata Indicom
+15177,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by Tata Indicom
+15178,50,39.38,N.A,Talktime of Rs. 39.38 for Rs. 50 recharge by Tata Indicom
+15179,70,56.32,N.A,Talktime of Rs. 56.32 for Rs. 70 recharge by Tata Indicom
+15180,80,70,N.A,Talktime of Rs. 70 for Rs. 80 recharge by Tata Indicom
+15181,90,73.28,N.A,Talktime of Rs. 73.28 for Rs. 90 recharge by Tata Indicom
+15182,100,81.74,N.A,Talktime of Rs. 81.74 for Rs. 100 recharge by Tata Indicom
+15183,110,90.22,N.A,Talktime of Rs. 90.22 for Rs. 110 recharge by Tata Indicom
+15184,120,98.7,N.A,Talktime of Rs. 98.7 for Rs. 120 recharge by Tata Indicom
+15185,140,115.64,N.A,Talktime of Rs. 115.64 for Rs. 140 recharge by Tata Indicom
+15186,150,140,N.A,Talktime of Rs. 140 for Rs. 150 recharge by Tata Indicom
+15187,160,155,N.A,Talktime of Rs. 155 for Rs. 160 recharge by Tata Indicom

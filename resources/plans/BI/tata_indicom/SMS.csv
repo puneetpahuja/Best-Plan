@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-15002,9,,7 days,Recharge of Rs. 9 by Indicom,150 National SMS (Local/STD SMS)
-15003,27,,28 days,Recharge of Rs. 27 by Indicom,475 National SMS (Local/STD SMS)
-15004,72,,28 days,Recharge of Rs. 72 by Indicom,1000 National SMS (Local/STD SMS)
+id,cost,talktime,validity,comments
+15002,9,,7 days,150 National SMS (Local/STD SMS)
+15003,27,,28 days,475 National SMS (Local/STD SMS)
+15004,72,,28 days,1000 National SMS (Local/STD SMS)

@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-10651,22,,28 days,Recharge of Rs. 22 by Idea,STD Mobile Calls @30p/min
-10652,37,,28 days,Recharge of Rs. 37 by Idea,STD Mobile Calls @25p/min
+id,cost,talktime,validity,comments
+10651,22,,28 days,STD Mobile Calls @30p/min
+10652,37,,28 days,STD Mobile Calls @25p/min

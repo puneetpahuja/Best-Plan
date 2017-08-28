@@ -1,12 +1,12 @@
-id,cost,talktime,validity,short description,long description
-17269,65,65,7 days,Recharge of Rs. 65 by Vodafone,"Rs65 TalkTime and 10 Local V2V night minutes .Both benefit valid for 7 days, *142# to know your smart balance -- "
-17270,125,125,N.A,Recharge of Rs. 125 by Vodafone,"100TT (unlimited Validity) + 25TT (3days Validity) + 2 V2V Night Mins (3days Validity), dial *142# to know your Smart Balance -- "
-17274,351,351,N.A,Recharge of Rs. 351 by Vodafone,FULL TALK TIME+10 V2V Night Minutes
-17276,501,501,N.A,Recharge of Rs. 501 by Vodafone,10 V2V Night Minutes
-17280,786,786,N.A,Recharge of Rs. 786 by Vodafone,FULL TALK TIME+ 2 V2V Night Minutes for 2 days
-17284,1001,1001,N.A,Recharge of Rs. 1001 by Vodafone,FULL TALK TIME+10 V2V Night Minutes
-17294,54,42.29,1 day,Recharge of Rs. 54 by Vodafone,All India 35p/min
-17301,110,90.22,N.A,Recharge of Rs. 110 by Vodafone,Get Full Talktime of Rs 110 only on recharge through My Vodafone App and www.vodafone.in 
-17305,178,30,28 days,Recharge of Rs. 178 by Vodafone,"500 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60MB data loan. T&C Apply"
-17307,220,209,N.A,Recharge of Rs. 220 by Vodafone,Get Full Talktime of Rs 220 only on recharge through My Vodafone App and www.vodafone.in
-17308,108,25,28 days,Recharge of Rs. 108 by Vodafone,250 MB data  -- Special features included: call 1 local Vodafone buddy @10p/min -- option of 60 MB data loan -- T&C Apply
+id,cost,talktime,validity,comments
+17269,65,65,7 days,"Rs65 TalkTime and 10 Local V2V night minutes .Both benefit valid for 7 days, *142# to know your smart balance -- "
+17270,125,125,N.A,"100TT (unlimited Validity) + 25TT (3days Validity) + 2 V2V Night Mins (3days Validity), dial *142# to know your Smart Balance -- "
+17274,351,351,N.A,FULL TALK TIME+10 V2V Night Minutes
+17276,501,501,N.A,10 V2V Night Minutes
+17280,786,786,N.A,FULL TALK TIME+ 2 V2V Night Minutes for 2 days
+17284,1001,1001,N.A,FULL TALK TIME+10 V2V Night Minutes
+17294,54,42.29,1 day,All India 35p/min
+17301,110,90.22,N.A,Get Full Talktime of Rs 110 only on recharge through My Vodafone App and www.vodafone.in 
+17305,178,30,28 days,"500 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60MB data loan. T&C Apply"
+17307,220,209,N.A,Get Full Talktime of Rs 220 only on recharge through My Vodafone App and www.vodafone.in
+17308,108,25,28 days,250 MB data  -- Special features included: call 1 local Vodafone buddy @10p/min -- option of 60 MB data loan -- T&C Apply

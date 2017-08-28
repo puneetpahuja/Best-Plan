@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-8025,102,30,28 days,Recharge of Rs. 102 by Docomo,All Local & STD Calls @ 2p/sec
+id,cost,talktime,validity,comments
+8025,102,30,28 days,All Local & STD Calls @ 2p/sec

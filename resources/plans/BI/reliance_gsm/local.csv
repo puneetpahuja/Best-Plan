@@ -1,12 +1,12 @@
-id,cost,talktime,validity,short description,long description
-12691,9,,90 days,Recharge of Rs. 9 by RelianceGSM,All Local and STD Calls @30p/min -- Free Incoming Calls in National Roaming
-12692,35,,28 days,Recharge of Rs. 35 by RelianceGSM,All Local Mobile Call @35p/min
-12693,38,,7 days,Recharge of Rs. 38 by RelianceGSM,3000 Sec All Mobile Call
-12694,45,,29 days,Recharge of Rs. 45 by RelianceGSM,All Mobile Call @35 p/Min
-12695,51,,28 days,Recharge of Rs. 51 by RelianceGSM,300 Minutes All mobile call (Local+STD). Term and conditions Apply
-12696,55,,30 days,Recharge of Rs. 55 by RelianceGSM,All Mobile Call @30p/Min
-12697,68,,14 days,Recharge of Rs. 68 by RelianceGSM,7500 Sec All Mobile Call
-12698,88,,21 days,Recharge of Rs. 88 by RelianceGSM,10000 Sec All Mobile Call
-12699,97,,90 days,Recharge of Rs. 97 by RelianceGSM,Local & STD All Calls @25p/min 
-12700,111,,85 days,Recharge of Rs. 111 by RelianceGSM,"Local Mobile Call @30p/min, STD Mobile Call @35p/Min"
-12701,148,,28 days,Recharge of Rs. 148 by RelianceGSM,20000 sec All Mobile Call
+id,cost,talktime,validity,comments
+12691,9,,90 days,All Local and STD Calls @30p/min -- Free Incoming Calls in National Roaming
+12692,35,,28 days,All Local Mobile Call @35p/min
+12693,38,,7 days,3000 Sec All Mobile Call
+12694,45,,29 days,All Mobile Call @35 p/Min
+12695,51,,28 days,300 Minutes All mobile call (Local+STD). Term and conditions Apply
+12696,55,,30 days,All Mobile Call @30p/Min
+12697,68,,14 days,7500 Sec All Mobile Call
+12698,88,,21 days,10000 Sec All Mobile Call
+12699,97,,90 days,Local & STD All Calls @25p/min 
+12700,111,,85 days,"Local Mobile Call @30p/min, STD Mobile Call @35p/Min"
+12701,148,,28 days,20000 sec All Mobile Call

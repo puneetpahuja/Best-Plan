@@ -1,30 +1,30 @@
-id,cost,talktime,validity,short description,long description
-291,24,,N.A,Recharge of Rs. 24 by Aircel,1 GB 3G/2G Valid with 329 Recharge validity based on base product
-293,29,,3 days,Recharge of Rs. 29 by Aircel,120 MB 3G/2G Data
-294,36,,27 days,Recharge of Rs. 36 by Aircel,100MB 3G/2G
-295,37,,5 days,Recharge of Rs. 37 by Aircel,150 MB 3G/2G Data
-296,42,,2 days,Recharge of Rs. 42 by Aircel,1 GB 3G/2G Data
-297,43,,5 days,Recharge of Rs. 43 by Aircel,190 MB 3G/2G Data
-299,66,,4 days,Recharge of Rs. 66 by Aircel,1 GB 3G/2G Data
-300,67,,10 days,Recharge of Rs. 67 by Aircel,300 MB (3G/2G) Data
-301,78,,4 days,Recharge of Rs. 78 by Aircel,Free Local + STD calls (Mobile & Landline) + 1GB/Day
-303,101,,10 days,Recharge of Rs. 101 by Aircel,1 GB 3G/2G Data
-304,143,,27 days,Recharge of Rs. 143 by Aircel,1 GB 3G/2G Data
-306,163,,27 days,Recharge of Rs. 163 by Aircel,2GB 3G/2G data
-307,198,,27 days,Recharge of Rs. 198 by Aircel,2.5 GB 3G/2G Data
-308,199,,10 days,Recharge of Rs. 199 by Aircel,Unlimited calls -- 1 GB 3G/2G Data
-309,227,,27 days,Recharge of Rs. 227 by Aircel,3 GB 3G/2G Data
-310,235,,27 days,Recharge of Rs. 235 by Aircel,3.25 GB
-311,249,,14 days,Recharge of Rs. 249 by Aircel,Unlimited calls -- 2 GB 3G/2G Data
-312,255,,81 days,Recharge of Rs. 255 by Aircel,5GB 3G/2G Data
-313,295,,27 days,Recharge of Rs. 295 by Aircel,10GB (5GB day + 5GB Night 12am to 6am)
-314,345,,28 days,Recharge of Rs. 345 by Aircel,FREE local/STD Calls(Fair usage policy will apply) -- 1 GB/Day Data
-315,348,,28 days,Recharge of Rs. 348 by Aircel,FREE Loc/STD Calls -- 1GB/Day Data
-316,399,,27 days,Recharge of Rs. 399 by Aircel,6GB Day Night +6 GB night
-317,495,,6 months,Recharge of Rs. 495 by Aircel,1 GB 3G/2G Data 
-318,496,,54 days,Recharge of Rs. 496 by Aircel,10GB 3G/2G Data + Unlimited Local A2A Night calls (12AM to 5AM)
-319,498,,27 days,Recharge of Rs. 498 by Aircel,20GB 3G/2G + + Unlimited Local A2A Night calls (12AM to 5AM)
-320,549,,28 days,Recharge of Rs. 549 by Aircel,Unlimited calls -- 1 GB/Day 3G/2G Data
-321,41,,5 Nights,Recharge of Rs. 41 by Aircel,"FREE Local/STD Night Calls (Mobile & Landline) -- 1 GB/night (Night hours 11PM to 6AM) --  This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 200 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1000 mins in a week"
-322,149,,28 days,Recharge of Rs. 149 by Aircel,Unlimited local / STD Aircel calls -- 100MB 3G/2G Data
-323,786,,70 days,Recharge of Rs. 786 by Aircel,"Free Local + STD calls (Mobile & Landline) -- 1 GB/Day Data -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 200 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1000 mins in a week"
+id,cost,talktime,validity,comments
+291,24,,N.A,1 GB 3G/2G Valid with 329 Recharge validity based on base product
+293,29,,3 days,120 MB 3G/2G Data
+294,36,,27 days,100MB 3G/2G
+295,37,,5 days,150 MB 3G/2G Data
+296,42,,2 days,1 GB 3G/2G Data
+297,43,,5 days,190 MB 3G/2G Data
+299,66,,4 days,1 GB 3G/2G Data
+300,67,,10 days,300 MB (3G/2G) Data
+301,78,,4 days,Free Local + STD calls (Mobile & Landline) + 1GB/Day
+303,101,,10 days,1 GB 3G/2G Data
+304,143,,27 days,1 GB 3G/2G Data
+306,163,,27 days,2GB 3G/2G data
+307,198,,27 days,2.5 GB 3G/2G Data
+308,199,,10 days,Unlimited calls -- 1 GB 3G/2G Data
+309,227,,27 days,3 GB 3G/2G Data
+310,235,,27 days,3.25 GB
+311,249,,14 days,Unlimited calls -- 2 GB 3G/2G Data
+312,255,,81 days,5GB 3G/2G Data
+313,295,,27 days,10GB (5GB day + 5GB Night 12am to 6am)
+314,345,,28 days,FREE local/STD Calls(Fair usage policy will apply) -- 1 GB/Day Data
+315,348,,28 days,FREE Loc/STD Calls -- 1GB/Day Data
+316,399,,27 days,6GB Day Night +6 GB night
+317,495,,6 months,1 GB 3G/2G Data 
+318,496,,54 days,10GB 3G/2G Data + Unlimited Local A2A Night calls (12AM to 5AM)
+319,498,,27 days,20GB 3G/2G + + Unlimited Local A2A Night calls (12AM to 5AM)
+320,549,,28 days,Unlimited calls -- 1 GB/Day 3G/2G Data
+321,41,,5 Nights,"FREE Local/STD Night Calls (Mobile & Landline) -- 1 GB/night (Night hours 11PM to 6AM) --  This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 200 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1000 mins in a week"
+322,149,,28 days,Unlimited local / STD Aircel calls -- 100MB 3G/2G Data
+323,786,,70 days,"Free Local + STD calls (Mobile & Landline) -- 1 GB/Day Data -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 200 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1000 mins in a week"

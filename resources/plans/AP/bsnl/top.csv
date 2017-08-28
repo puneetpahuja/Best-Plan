@@ -1,11 +1,11 @@
-id,cost,talktime,validity,short description,long description
-4732,10,7.47,N.A,Recharge of Rs. 10 by BSNL,Talktime of Rs. 7.47 for Rs. 10 recharge by BSNL
-4733,30,22.42,N.A,Recharge of Rs. 30 by BSNL,Talktime of Rs. 22.42 for Rs. 30 recharge by BSNL
-4734,50,39.37,N.A,Recharge of Rs. 50 by BSNL,Talktime of Rs. 39.37 for Rs. 50 recharge by BSNL
-4735,110,90.22,N.A,Recharge of Rs. 110 by BSNL,Talktime of Rs. 90.22 for Rs. 110 recharge by BSNL
-4737,190,158.02,N.A,Recharge of Rs. 190 by BSNL,Talktime of Rs. 158.02 for Rs. 190 recharge by BSNL
-4740,490,412.25,N.A,Recharge of Rs. 490 by BSNL,Talktime of Rs. 412.25 for Rs. 490 recharge by BSNL
-4741,500,420.73,N.A,Recharge of Rs. 500 by BSNL,Talktime of Rs. 420.73 for Rs. 500 recharge by BSNL
-4742,610,513.95,N.A,Recharge of Rs. 610 by BSNL,Talktime of Rs. 513.95 for Rs. 610 recharge by BSNL
-4743,1010,852.93,N.A,Recharge of Rs. 1010 by BSNL,Talktime of Rs. 852.93 for Rs. 1010 recharge by BSNL
-4744,5000,4234.29,N.A,Recharge of Rs. 5000 by BSNL,Talktime of Rs. 4234.29 for Rs. 5000 recharge by BSNL
+id,cost,talktime,validity,comments
+4732,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by BSNL
+4733,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by BSNL
+4734,50,39.37,N.A,Talktime of Rs. 39.37 for Rs. 50 recharge by BSNL
+4735,110,90.22,N.A,Talktime of Rs. 90.22 for Rs. 110 recharge by BSNL
+4737,190,158.02,N.A,Talktime of Rs. 158.02 for Rs. 190 recharge by BSNL
+4740,490,412.25,N.A,Talktime of Rs. 412.25 for Rs. 490 recharge by BSNL
+4741,500,420.73,N.A,Talktime of Rs. 420.73 for Rs. 500 recharge by BSNL
+4742,610,513.95,N.A,Talktime of Rs. 513.95 for Rs. 610 recharge by BSNL
+4743,1010,852.93,N.A,Talktime of Rs. 852.93 for Rs. 1010 recharge by BSNL
+4744,5000,4234.29,N.A,Talktime of Rs. 4234.29 for Rs. 5000 recharge by BSNL

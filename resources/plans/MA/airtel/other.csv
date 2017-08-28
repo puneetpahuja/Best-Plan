@@ -1,15 +1,15 @@
-id,cost,talktime,validity,short description,long description
-3104,44,44,6 days,Recharge of Rs. 44 by Airtel,2 Local airtel night min(1 day)
-3105,88,88,13 days,Recharge of Rs. 88 by Airtel,2 local airtel night mins (1 day)
-3106,109,109,15 days,Recharge of Rs. 109 by Airtel,2 Local airtel night min(1 day)
-3111,306,306,28 days,Recharge of Rs. 306 by Airtel,Local & STD outgoing calls on National Roaming @60p/min
-3114,779,779,7 days,Recharge of Rs. 779 by Airtel,Outgoing Rs 40/min and Incoming Rs 30/min. Applicable only on selected countries and Operators
-3134,189,20,28 days,Recharge of Rs. 189 by Airtel,1 GB 3G Data -- For greater than 90 days - 420MB 3G+ Talktime of Rs.20
-3137,289,100,28 days,Recharge of Rs. 289 by Airtel,400 MB 3G Data -- All STD mob @25p/min [1st 140 secs STD calls @2p/s]
-3138,389,80,28 days,Recharge of Rs. 389 by Airtel,1 GB 3G Data
-3140,56,20,28 days,Recharge of Rs. 56 by Airtel,Local+STD mob calls @30p/m
-3162,244,,28 days,Recharge of Rs. 244 by Airtel,"Unlimited Local + STD Airtel to Airtel mobile calls -- 50 MB data.For 4G Handset with 4G SIM,extra 1 GB.-- T&C apply. 1 GB Happy Hours night data for 4G H/S+4G SIM & 50 MB for others (3AM to 5AM)"
-3163,249,,28 days,Recharge of Rs. 249 by Airtel,"FREE Local mobile calls -- 1 GB on 4G handset & 50 MB on other handsets. T&C apply. For detailed T&C, 1 GB Happy Hours night data for 4G H/S & 50 MB for others(3AM to 5AM)"
-3165,397,,28 days,Recharge of Rs. 397 by Airtel,UL all L+S calls on all HS -- 1 GB/Day Data on 4G H/S; 1.25 GB Data for Other H/S.
-3166,399,,28 days,Recharge of Rs. 399 by Airtel,Unlimited all Local+STD calls -- 250 MB data. For 4G Handset with 4G SIM extra 1 GB data. T&C apply. 1GB Happy Hours night data for 4G H/S+4G SIM & 250 MB for others (3AM to 5AM)
-3168,599,,28 days,Recharge of Rs. 599 by Airtel,UL all L+S calls on all HS -- 2 GB/Day Data on 4G H/S; 3 GB Data for Other H/S.
+id,cost,talktime,validity,comments
+3104,44,44,6 days,2 Local airtel night min(1 day)
+3105,88,88,13 days,2 local airtel night mins (1 day)
+3106,109,109,15 days,2 Local airtel night min(1 day)
+3111,306,306,28 days,Local & STD outgoing calls on National Roaming @60p/min
+3114,779,779,7 days,Outgoing Rs 40/min and Incoming Rs 30/min. Applicable only on selected countries and Operators
+3134,189,20,28 days,1 GB 3G Data -- For greater than 90 days - 420MB 3G+ Talktime of Rs.20
+3137,289,100,28 days,400 MB 3G Data -- All STD mob @25p/min [1st 140 secs STD calls @2p/s]
+3138,389,80,28 days,1 GB 3G Data
+3140,56,20,28 days,Local+STD mob calls @30p/m
+3162,244,,28 days,"Unlimited Local + STD Airtel to Airtel mobile calls -- 50 MB data.For 4G Handset with 4G SIM,extra 1 GB.-- T&C apply. 1 GB Happy Hours night data for 4G H/S+4G SIM & 50 MB for others (3AM to 5AM)"
+3163,249,,28 days,"FREE Local mobile calls -- 1 GB on 4G handset & 50 MB on other handsets. T&C apply. For detailed T&C, 1 GB Happy Hours night data for 4G H/S & 50 MB for others(3AM to 5AM)"
+3165,397,,28 days,UL all L+S calls on all HS -- 1 GB/Day Data on 4G H/S; 1.25 GB Data for Other H/S.
+3166,399,,28 days,Unlimited all Local+STD calls -- 250 MB data. For 4G Handset with 4G SIM extra 1 GB data. T&C apply. 1GB Happy Hours night data for 4G H/S+4G SIM & 250 MB for others (3AM to 5AM)
+3168,599,,28 days,UL all L+S calls on all HS -- 2 GB/Day Data on 4G H/S; 3 GB Data for Other H/S.

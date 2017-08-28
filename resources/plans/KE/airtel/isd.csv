@@ -1,19 +1,19 @@
-id,cost,talktime,validity,short description,long description
-2766,17,,28 days,Recharge of Rs. 17 by Airtel,"UAE, Saudi, Bahrain, Kuwait calls @12p/secQatar, Yemen calls @17p/SecOman calls @20p/SecSingapore calls @6p/SecNepal calls @10p/Sec"
-2767,22,,28 days,Recharge of Rs. 22 by Airtel,"Kuwait(00965) @8p/sQatar(00974) @14p/sUAE(00971),SaudiA(00966),Bahrain(00973) @10p/s"
-2768,58,,28 days,Recharge of Rs. 58 by Airtel,"US ,Canada,UK calls @ 1p/sec"
-2769,498,,1 day,Recharge of Rs. 498 by Airtel,"Unlimited incoming, 100min Local/call to India -- 500 MB data -- 100SMS/day -- Till 12:00 midnight"
-2770,646,,1 day,Recharge of Rs. 646 by Airtel,Free benefits: 100 Min incoming -- 500 MB Data -- 100 SMS/Day -- 100 Min Loc/Call to India
-2771,649,,1 day,Recharge of Rs. 649 by Airtel,"100min incoming,100min Local/call to India -- 500 MB data -- 100 SMS/day"
-2772,996,,1 day,Recharge of Rs. 996 by Airtel,"100min incoming, 100min Local/call to India -- 500 MB data -- 100SMS/day -- Till 12:00 midnight. "
-2773,997,,30 days,Recharge of Rs. 997 by Airtel,"IR Pack30mins Free incoming. Thereafter charged Incoming @Rs19/min, Outgoing @Rs39/min Data @39p/10KB Rs15/SMS"
-2774,998,,30 days,Recharge of Rs. 998 by Airtel,"IR Pack30 MB Free. Thereafter charged @39p/10KB, Outgoing @Rs39/min, Incoming @Rs19/min.Rs15/SMS"
-2775,1199,,10 days,Recharge of Rs. 1199 by Airtel,Free benefits: Unlimited incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
-2776,2499,,30 days,Recharge of Rs. 2499 by Airtel,Free benefits: Unlimited incoming -- 5 GB data -- 100 sms/Day -- 500 min loc/call to India
-2777,2899,,30 days,Recharge of Rs. 2899 by Airtel,"Thailand Smartpack: 1 GB data Unlimited incomings -- 299min India callsTariff: Calls to India/Local @Rs10/min, Intl.calls @Rs39/min -- SMS: @Rs10 -- Data: @Rs10/MB"
-2778,2996,,10 days,Recharge of Rs. 2996 by Airtel,Free benefits: 250 min incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
-2779,2999,,10 days,Recharge of Rs. 2999 by Airtel,Free benefits: Unlimited incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
-2780,3996,,10 days,Recharge of Rs. 3996 by Airtel,Free benefits: 250 min incoming -- 3 GB data -- 100 sms/Day -- 250 min local/call to India
-2781,3997,,30 days,Recharge of Rs. 3997 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-2782,3998,,30 days,Recharge of Rs. 3998 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
-2783,6999,,30 days,Recharge of Rs. 6999 by Airtel,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+id,cost,talktime,validity,comments
+2766,17,,28 days,"UAE, Saudi, Bahrain, Kuwait calls @12p/secQatar, Yemen calls @17p/SecOman calls @20p/SecSingapore calls @6p/SecNepal calls @10p/Sec"
+2767,22,,28 days,"Kuwait(00965) @8p/sQatar(00974) @14p/sUAE(00971),SaudiA(00966),Bahrain(00973) @10p/s"
+2768,58,,28 days,"US ,Canada,UK calls @ 1p/sec"
+2769,498,,1 day,"Unlimited incoming, 100min Local/call to India -- 500 MB data -- 100SMS/day -- Till 12:00 midnight"
+2770,646,,1 day,Free benefits: 100 Min incoming -- 500 MB Data -- 100 SMS/Day -- 100 Min Loc/Call to India
+2771,649,,1 day,"100min incoming,100min Local/call to India -- 500 MB data -- 100 SMS/day"
+2772,996,,1 day,"100min incoming, 100min Local/call to India -- 500 MB data -- 100SMS/day -- Till 12:00 midnight. "
+2773,997,,30 days,"IR Pack30mins Free incoming. Thereafter charged Incoming @Rs19/min, Outgoing @Rs39/min Data @39p/10KB Rs15/SMS"
+2774,998,,30 days,"IR Pack30 MB Free. Thereafter charged @39p/10KB, Outgoing @Rs39/min, Incoming @Rs19/min.Rs15/SMS"
+2775,1199,,10 days,Free benefits: Unlimited incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
+2776,2499,,30 days,Free benefits: Unlimited incoming -- 5 GB data -- 100 sms/Day -- 500 min loc/call to India
+2777,2899,,30 days,"Thailand Smartpack: 1 GB data Unlimited incomings -- 299min India callsTariff: Calls to India/Local @Rs10/min, Intl.calls @Rs39/min -- SMS: @Rs10 -- Data: @Rs10/MB"
+2778,2996,,10 days,Free benefits: 250 min incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
+2779,2999,,10 days,Free benefits: Unlimited incoming -- 3 GB data -- 100sms/Day -- 250min local/call to India -- For covered countries/tariff visit www.airtel.in/IR
+2780,3996,,10 days,Free benefits: 250 min incoming -- 3 GB data -- 100 sms/Day -- 250 min local/call to India
+2781,3997,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+2782,3998,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India
+2783,6999,,30 days,Free benefits:Unlimited incoming -- 5 GB data -- 100sms/Day -- 500 min loc/call to India

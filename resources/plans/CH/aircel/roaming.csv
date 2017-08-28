@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-340,49,,28 days,Recharge of Rs. 49 by Aircel,Free Incoming calls on Roaming Aircel network. 1p/sec to Local/National Calls (Home Network &Roaming on Aircel Network). Re1/SMS Local/ National SMS Charges (Home / Roam Network). Data charges while Roaming as per home network.
+id,cost,talktime,validity,comments
+340,49,,28 days,Free Incoming calls on Roaming Aircel network. 1p/sec to Local/National Calls (Home Network &Roaming on Aircel Network). Re1/SMS Local/ National SMS Charges (Home / Roam Network). Data charges while Roaming as per home network.

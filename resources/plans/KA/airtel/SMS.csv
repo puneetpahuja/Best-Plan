@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-2566,18,,14 days,Recharge of Rs. 18 by Airtel,"150 local + STD SMS -- Rs 1/ local SMS & Rs 1.5/STD SMS, post 100 SMS per day"
-2567,31,,28 days,Recharge of Rs. 31 by Airtel,"300 sms local + STD, Rs 1/ local sms & Rs 1.5/ std sms post 300 SMS. Rs 1/ local sms & Rs 1.5/ std sms, post 100 SMS per day"
-2568,42,,28 days,Recharge of Rs. 42 by Airtel,"500 SMS LOCAL + STD -- RS 1/ LOCAL SMS & RS 1.5/ STD SMS POST 500 SMS. RS 1/ LOCAL SMS & RS 1.5/ STD SMS, POST 100 SMS PER DAY"
-2569,65,,28 days,Recharge of Rs. 65 by Airtel,Free 100 SMS/day local + STD. Rs 1/ local SMS & Rs 1.5/ STD SMS post 100 SMS per day
-2570,79,,56 days,Recharge of Rs. 79 by Airtel,"1500 SMS local + STD -- Rs 1/ local SMS & Rs 1.5/ STD SMS, post 100 SMS per day"
+id,cost,talktime,validity,comments
+2566,18,,14 days,"150 local + STD SMS -- Rs 1/ local SMS & Rs 1.5/STD SMS, post 100 SMS per day"
+2567,31,,28 days,"300 sms local + STD, Rs 1/ local sms & Rs 1.5/ std sms post 300 SMS. Rs 1/ local sms & Rs 1.5/ std sms, post 100 SMS per day"
+2568,42,,28 days,"500 SMS LOCAL + STD -- RS 1/ LOCAL SMS & RS 1.5/ STD SMS POST 500 SMS. RS 1/ LOCAL SMS & RS 1.5/ STD SMS, POST 100 SMS PER DAY"
+2569,65,,28 days,Free 100 SMS/day local + STD. Rs 1/ local SMS & Rs 1.5/ STD SMS post 100 SMS per day
+2570,79,,56 days,"1500 SMS local + STD -- Rs 1/ local SMS & Rs 1.5/ STD SMS, post 100 SMS per day"

@@ -1,17 +1,17 @@
-id,cost,talktime,validity,short description,long description
-16699,8,,1 day,Recharge of Rs. 8 by Vodafone,45 MB Data @2G speed. Post 45MB you will be charged 4p/10kb
-16700,9,,1 hour,Recharge of Rs. 9 by Vodafone,Unlimited 2G data  -- 
-16701,17,,2 days,Recharge of Rs. 17 by Vodafone,95 MB Data @2G speed. Post 95 MB you will be charged 4p/10kb
-16702,35,,5 days,Recharge of Rs. 35 by Vodafone,200 MB Data @2G speed. Post 200 MB you will be charged 4p/10kb
-16703,46,,28 days,Recharge of Rs. 46 by Vodafone,150 MB 2G Data
-16704,75,,11 days,Recharge of Rs. 75 by Vodafone,400 MB Data @2G speed. Post 400 MB you will be charged 4p/10kb
-16705,94,,14 days,Recharge of Rs. 94 by Vodafone,525 MB Data @ 2G speed. Post 525MB you will be charged 4p/10kb
-16706,107,,28 days,Recharge of Rs. 107 by Vodafone,350 MB 2G Data
-16707,125,,18 days,Recharge of Rs. 125 by Vodafone,700 MB Data @2G speed. Post 700 MB you will be charged 4p/10kb
-16708,147,,28 days,Recharge of Rs. 147 by Vodafone,1 GB for 4G Handset & 4G SIM users only. For 3G/2G users 500 MB @3G speed. Post free quota you will be charged 4p/10kb
-16709,194,,28 days,Recharge of Rs. 194 by Vodafone,Get assured 1.25 GB and upto 10 GB 2G Internet with hero recharge.
-16710,195,,28 days,Recharge of Rs. 195 by Vodafone,1.25 GB Data @2G speed. Post 1.2GB your speed will be reduced up to 40 kbps.
-16711,216,,28 days,Recharge of Rs. 216 by Vodafone,2GB 2G Internet (1GB Day + 1GB Night)
-16712,249,,28 days,Recharge of Rs. 249 by Vodafone,3 GB Data @2G speed. Post 3GB your speed will be reduced up to 40 kbps.
-16713,296,,28 days,Recharge of Rs. 296 by Vodafone,3.5 GB @2G speed. Post 3.5GB your speed will be reduced up to 40 kbps.
-16714,316,,28 days,Recharge of Rs. 316 by Vodafone,4 GB 2G Internet (2GB Day + 2GB Night)
+id,cost,talktime,validity,comments
+16699,8,,1 day,45 MB Data @2G speed. Post 45MB you will be charged 4p/10kb
+16700,9,,1 hour,Unlimited 2G data  -- 
+16701,17,,2 days,95 MB Data @2G speed. Post 95 MB you will be charged 4p/10kb
+16702,35,,5 days,200 MB Data @2G speed. Post 200 MB you will be charged 4p/10kb
+16703,46,,28 days,150 MB 2G Data
+16704,75,,11 days,400 MB Data @2G speed. Post 400 MB you will be charged 4p/10kb
+16705,94,,14 days,525 MB Data @ 2G speed. Post 525MB you will be charged 4p/10kb
+16706,107,,28 days,350 MB 2G Data
+16707,125,,18 days,700 MB Data @2G speed. Post 700 MB you will be charged 4p/10kb
+16708,147,,28 days,1 GB for 4G Handset & 4G SIM users only. For 3G/2G users 500 MB @3G speed. Post free quota you will be charged 4p/10kb
+16709,194,,28 days,Get assured 1.25 GB and upto 10 GB 2G Internet with hero recharge.
+16710,195,,28 days,1.25 GB Data @2G speed. Post 1.2GB your speed will be reduced up to 40 kbps.
+16711,216,,28 days,2GB 2G Internet (1GB Day + 1GB Night)
+16712,249,,28 days,3 GB Data @2G speed. Post 3GB your speed will be reduced up to 40 kbps.
+16713,296,,28 days,3.5 GB @2G speed. Post 3.5GB your speed will be reduced up to 40 kbps.
+16714,316,,28 days,4 GB 2G Internet (2GB Day + 2GB Night)

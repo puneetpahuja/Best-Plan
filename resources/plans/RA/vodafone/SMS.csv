@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-18293,4,,2 days,Recharge of Rs. 4 by Vodafone,30 Local and National SMS
-18294,13,,14 days,Recharge of Rs. 13 by Vodafone,100 Local and National SMS
-18295,25,,28 days,Recharge of Rs. 25 by Vodafone,250 Local and National SMS
-18296,44,,28 days,Recharge of Rs. 44 by Vodafone,450 Local and National SMS
-18297,63,,28 days,Recharge of Rs. 63 by Vodafone,700 Local and National SMS
-18298,85,,28 days,Recharge of Rs. 85 by Vodafone,925 Local and National SMS
+id,cost,talktime,validity,comments
+18293,4,,2 days,30 Local and National SMS
+18294,13,,14 days,100 Local and National SMS
+18295,25,,28 days,250 Local and National SMS
+18296,44,,28 days,450 Local and National SMS
+18297,63,,28 days,700 Local and National SMS
+18298,85,,28 days,925 Local and National SMS

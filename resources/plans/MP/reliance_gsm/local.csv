@@ -1,34 +1,34 @@
-id,cost,talktime,validity,short description,long description
-13725,8,,2 days,Recharge of Rs. 8 by RelianceGSM,"All local onnet calls at 10p /min , Local Offnet @30p/min & STD calls @25p/min"
-13726,16,,3 days,Recharge of Rs. 16 by RelianceGSM,30 LOCAL MINUTES
-13727,17,,7 days,Recharge of Rs. 17 by RelianceGSM,All Local STD Roam/Non roam calls @ 1.8 P/2 sec & incoming roaming free
-13728,22,,21 days,Recharge of Rs. 22 by RelianceGSM,All local and STD calls at 1P/2 Sec
-13729,24,,4 days,Recharge of Rs. 24 by RelianceGSM,70 Min for Local onnet mobile minutes
-13730,26,,2 days,Recharge of Rs. 26 by RelianceGSM,Unlimited Local Onnet
-13731,28,,28 days,Recharge of Rs. 28 by RelianceGSM,All Local calls @ 1P/sec
-13732,29,,28 days,Recharge of Rs. 29 by RelianceGSM,1000 Min for Local Night onnet mobile minutes (11PM to 6AM)
-13733,31,,2 days,Recharge of Rs. 31 by RelianceGSM,"All local onnet calls at 10p /min , Local Offnet at 30p/min & STD calls at 25p/min"
-13734,32,,28 days,Recharge of Rs. 32 by RelianceGSM,All Reliance to Reliance local calls at 10P/Min
-13735,43,,28 days,Recharge of Rs. 43 by RelianceGSM,All Local STD Roam/Non roam calls @ 1.8 P/2 sec & incoming roaming free
-13736,45,,60 days,Recharge of Rs. 45 by RelianceGSM,All local calls at 1P/2 Sec
-13737,46,,10 days,Recharge of Rs. 46 by RelianceGSM,Free 160 mins for Local onnet mobile calls
-13738,48,,7 days,Recharge of Rs. 48 by RelianceGSM,Local + STD 70 minutes
-13739,49,,7 days,Recharge of Rs. 49 by RelianceGSM,90 mins for all local calls
-13740,55,,28 days,Recharge of Rs. 55 by RelianceGSM,All local and STD calls at 30p /min
-13741,59,,7 days,Recharge of Rs. 59 by RelianceGSM,Unlimited Local & STD Reliance Night Voice calls (11 PM to 6 AM)
-13742,66,,90 days,Recharge of Rs. 66 by RelianceGSM,All local and STD calls at 1P/2 Sec
-13743,69,,7 days,Recharge of Rs. 69 by RelianceGSM,Unlimited local & std onnet calls
-13744,74,,12 days,Recharge of Rs. 74 by RelianceGSM,120 min Local+STD
-13745,75,,14 days,Recharge of Rs. 75 by RelianceGSM,120 mins for all local calls
-13746,88,,7 days,Recharge of Rs. 88 by RelianceGSM,All Local and STD reliance calls at 5p/min
-13747,104,,25 days,Recharge of Rs. 104 by RelianceGSM,All Local 170 minutes
-13748,117,,7 days,Recharge of Rs. 117 by RelianceGSM,Unlimited Local & STD Onnet in home and roaming Unlimited Local & STD Offnet landline in home and roaming @30 min/day Local & STD Offnet mobile in home and roaming Incoming roaming Free 
-13749,119,,28 days,Recharge of Rs. 119 by RelianceGSM,600 Min Local STD
-13750,125,,28 days,Recharge of Rs. 125 by RelianceGSM,225 mins for all local STD calls
-13751,155,,18 days,Recharge of Rs. 155 by RelianceGSM,Unlimited Local Onnet
-13752,199,,28 days,Recharge of Rs. 199 by RelianceGSM,600 LOCAL + STD MINUTES
-13753,225,,45 days,Recharge of Rs. 225 by RelianceGSM,LOCAL + STD Onnet free
-13754,248,,28 days,Recharge of Rs. 248 by RelianceGSM,500 Local mins
-13755,249,,28 days,Recharge of Rs. 249 by RelianceGSM,2000 minutes for All Local Reliance to Reliance Mobile voice calls
-13756,399,,28 days,Recharge of Rs. 399 by RelianceGSM,Unlimited Onnet calls+10min/day on other networks
-13757,445,,28 days,Recharge of Rs. 445 by RelianceGSM,Unlimited Local & STD Onnet in home and roaming Unlimited Local & STD Offnet landline in home and roaming @30 min/day Local & STD Offnet mobile in home and roaming Incoming roaming Free 
+id,cost,talktime,validity,comments
+13725,8,,2 days,"All local onnet calls at 10p /min , Local Offnet @30p/min & STD calls @25p/min"
+13726,16,,3 days,30 LOCAL MINUTES
+13727,17,,7 days,All Local STD Roam/Non roam calls @ 1.8 P/2 sec & incoming roaming free
+13728,22,,21 days,All local and STD calls at 1P/2 Sec
+13729,24,,4 days,70 Min for Local onnet mobile minutes
+13730,26,,2 days,Unlimited Local Onnet
+13731,28,,28 days,All Local calls @ 1P/sec
+13732,29,,28 days,1000 Min for Local Night onnet mobile minutes (11PM to 6AM)
+13733,31,,2 days,"All local onnet calls at 10p /min , Local Offnet at 30p/min & STD calls at 25p/min"
+13734,32,,28 days,All Reliance to Reliance local calls at 10P/Min
+13735,43,,28 days,All Local STD Roam/Non roam calls @ 1.8 P/2 sec & incoming roaming free
+13736,45,,60 days,All local calls at 1P/2 Sec
+13737,46,,10 days,Free 160 mins for Local onnet mobile calls
+13738,48,,7 days,Local + STD 70 minutes
+13739,49,,7 days,90 mins for all local calls
+13740,55,,28 days,All local and STD calls at 30p /min
+13741,59,,7 days,Unlimited Local & STD Reliance Night Voice calls (11 PM to 6 AM)
+13742,66,,90 days,All local and STD calls at 1P/2 Sec
+13743,69,,7 days,Unlimited local & std onnet calls
+13744,74,,12 days,120 min Local+STD
+13745,75,,14 days,120 mins for all local calls
+13746,88,,7 days,All Local and STD reliance calls at 5p/min
+13747,104,,25 days,All Local 170 minutes
+13748,117,,7 days,Unlimited Local & STD Onnet in home and roaming Unlimited Local & STD Offnet landline in home and roaming @30 min/day Local & STD Offnet mobile in home and roaming Incoming roaming Free 
+13749,119,,28 days,600 Min Local STD
+13750,125,,28 days,225 mins for all local STD calls
+13751,155,,18 days,Unlimited Local Onnet
+13752,199,,28 days,600 LOCAL + STD MINUTES
+13753,225,,45 days,LOCAL + STD Onnet free
+13754,248,,28 days,500 Local mins
+13755,249,,28 days,2000 minutes for All Local Reliance to Reliance Mobile voice calls
+13756,399,,28 days,Unlimited Onnet calls+10min/day on other networks
+13757,445,,28 days,Unlimited Local & STD Onnet in home and roaming Unlimited Local & STD Offnet landline in home and roaming @30 min/day Local & STD Offnet mobile in home and roaming Incoming roaming Free 

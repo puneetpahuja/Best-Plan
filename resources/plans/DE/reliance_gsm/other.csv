@@ -1,24 +1,24 @@
-id,cost,talktime,validity,short description,long description
-12799,12,12,1 day,Recharge of Rs. 12 by RelianceGSM,Promo talk Time of Rs. 12 -- 5 Local Reliance Mobile Night Minutes (Same day)
-12800,35,35,3 days,Recharge of Rs. 35 by RelianceGSM,Promo Talktime 35 + 5 local Reliance to Reliance night minutes for 1 day (Night minutes from 11 PM to 6 AM)
-12801,69,69,8 days,Recharge of Rs. 69 by RelianceGSM,5 Local Reliance Night Minutes
-12802,75,75,7 days,Recharge of Rs. 75 by RelianceGSM,5 local reliance night mins.
-12803,96,96,10 days,Recharge of Rs. 96 by RelianceGSM,5 local reliance night mins.
-12804,125,130,14 days,Recharge of Rs. 125 by RelianceGSM,5 Local Night Reliance Mins (11PM to 6AM)
-12805,155,160,18 days,Recharge of Rs. 155 by RelianceGSM,5 Local Reliance Mobile Night Minutes
-12806,199,215,28 days,Recharge of Rs. 199 by RelianceGSM,5 Local Night Reliance Mins (11PM to 6AM)
-12813,36,28.58,N.A,Recharge of Rs. 36 by RelianceGSM,5 Local and National SMS (1 day-same day)
-12815,55,50,10 days,Recharge of Rs. 55 by RelianceGSM,Promo Talktime Rs.50 (5day validity) -- Roaming incoming free
-12816,59,48.3,30 days,Recharge of Rs. 59 by RelianceGSM,Daily 1 minute free for 30 days
-12818,63,47,28 days,Recharge of Rs. 63 by RelianceGSM,Promo Talktime of Rs 47 -- 5 mins of Local Reliance to Reliance Mobile calls valid for 1 day
-12819,65,54.02,N.A,Recharge of Rs. 65 by RelianceGSM,5 Local and National SMS Valid for 1 day (same day)
-12821,76,57,60 days,Recharge of Rs. 76 by RelianceGSM,Promo Talktime of Rs 57 -- 5 mins of Local Reliance to Reliance Mobile calls valid for 1 day
-12824,117,100,45 days,Recharge of Rs. 117 by RelianceGSM,5 Local Reliance to Reliance night minute for 1 days (11 PM-6 AM)
-12832,9,,1 day,Recharge of Rs. 9 by RelianceGSM,50 MB 3G data -- Voice tariif@1p/sec(L+N) -- SMS@50p/sms (L+N)
-12836,33,,2 days,Recharge of Rs. 33 by RelianceGSM,1 GB Data -- 1 Hour All Calls to any N/W
-12850,193,,28 days,Recharge of Rs. 193 by RelianceGSM,30 Mins All Calls -- 1 GB/ Day Data 
-12851,198,,28 days,Recharge of Rs. 198 by RelianceGSM,1 GB Data -- Unlimited Local and STD Reliance to Reliance calls + 1250 Local and STD minutes to other network -- Free Incoming roaming.Post 1250 Local & STD minutes all calls @20p/min
-12857,299,,28 days,Recharge of Rs. 299 by RelianceGSM,2 GB Data -- Unlimited Local and STD Reliance to Reliance calls + 1900 Local and STD minutes to other network -- Free Incoming roaming.Post 1900 Local & STD minutes all calls @20p/min
-12858,349,,28 days,Recharge of Rs. 349 by RelianceGSM,Unlimited Calls to any Network -- 1 GB/ Day Data -- FUP-150 Mins Per Day
-12862,499,,28 days,Recharge of Rs. 499 by RelianceGSM,4 GB Data -- Unlimited Local and STD Reliance to Reliance calls + 3300 Local and STD minutes to other network -- Free Incoming roaming.Post 3300 Local & STD minutes all calls @20p/min
-12863,501,,90 days,Recharge of Rs. 501 by RelianceGSM,1 GB Data -- Unlimited Local and STD Reliance to Reliance calls + 3300 Local and STD minutes to other network -- Free Incoming roaming.Post 3300 Local & STD minutes all calls @20p/min
+id,cost,talktime,validity,comments
+12799,12,12,1 day,Promo talk Time of Rs. 12 -- 5 Local Reliance Mobile Night Minutes (Same day)
+12800,35,35,3 days,Promo Talktime 35 + 5 local Reliance to Reliance night minutes for 1 day (Night minutes from 11 PM to 6 AM)
+12801,69,69,8 days,5 Local Reliance Night Minutes
+12802,75,75,7 days,5 local reliance night mins.
+12803,96,96,10 days,5 local reliance night mins.
+12804,125,130,14 days,5 Local Night Reliance Mins (11PM to 6AM)
+12805,155,160,18 days,5 Local Reliance Mobile Night Minutes
+12806,199,215,28 days,5 Local Night Reliance Mins (11PM to 6AM)
+12813,36,28.58,N.A,5 Local and National SMS (1 day-same day)
+12815,55,50,10 days,Promo Talktime Rs.50 (5day validity) -- Roaming incoming free
+12816,59,48.3,30 days,Daily 1 minute free for 30 days
+12818,63,47,28 days,Promo Talktime of Rs 47 -- 5 mins of Local Reliance to Reliance Mobile calls valid for 1 day
+12819,65,54.02,N.A,5 Local and National SMS Valid for 1 day (same day)
+12821,76,57,60 days,Promo Talktime of Rs 57 -- 5 mins of Local Reliance to Reliance Mobile calls valid for 1 day
+12824,117,100,45 days,5 Local Reliance to Reliance night minute for 1 days (11 PM-6 AM)
+12832,9,,1 day,50 MB 3G data -- Voice tariif@1p/sec(L+N) -- SMS@50p/sms (L+N)
+12836,33,,2 days,1 GB Data -- 1 Hour All Calls to any N/W
+12850,193,,28 days,30 Mins All Calls -- 1 GB/ Day Data 
+12851,198,,28 days,1 GB Data -- Unlimited Local and STD Reliance to Reliance calls + 1250 Local and STD minutes to other network -- Free Incoming roaming.Post 1250 Local & STD minutes all calls @20p/min
+12857,299,,28 days,2 GB Data -- Unlimited Local and STD Reliance to Reliance calls + 1900 Local and STD minutes to other network -- Free Incoming roaming.Post 1900 Local & STD minutes all calls @20p/min
+12858,349,,28 days,Unlimited Calls to any Network -- 1 GB/ Day Data -- FUP-150 Mins Per Day
+12862,499,,28 days,4 GB Data -- Unlimited Local and STD Reliance to Reliance calls + 3300 Local and STD minutes to other network -- Free Incoming roaming.Post 3300 Local & STD minutes all calls @20p/min
+12863,501,,90 days,1 GB Data -- Unlimited Local and STD Reliance to Reliance calls + 3300 Local and STD minutes to other network -- Free Incoming roaming.Post 3300 Local & STD minutes all calls @20p/min

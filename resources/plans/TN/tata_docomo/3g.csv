@@ -1,18 +1,18 @@
-id,cost,talktime,validity,short description,long description
-8932,11,,1 day,Recharge of Rs. 11 by Docomo,45 MB 3G data (Till Midnight - 11: 59)
-8933,24,,2 days,Recharge of Rs. 24 by Docomo,95 MB 3G Data -- 
-8934,34,,3 days,Recharge of Rs. 34 by Docomo,135 MB 3G data  -- 
-8935,47,,5 days,Recharge of Rs. 47 by Docomo,180 MB 3G Data -- 
-8936,52,,7 days,Recharge of Rs. 52 by Docomo,125 MB 3G data -- For customers activated more than 90 days ago
-8937,68,,6 days,Recharge of Rs. 68 by Docomo,270 MB 3G Data -- 
-8938,88,,14 days,Recharge of Rs. 88 by Docomo,200 MB 3G Data
-8939,95,,10 days,Recharge of Rs. 95 by Docomo,375 MB 3G Data -- 
-8940,125,,12 days,Recharge of Rs. 125 by Docomo,500 MB 3G Data -- 
-8941,165,,14 days,Recharge of Rs. 165 by Docomo,750 MB 3G Data -- 
-8942,169,,28 days,Recharge of Rs. 169 by Docomo,400 MB 3G data -- For customers activated more than 90 days ago
-8943,195,,14 days,Recharge of Rs. 195 by Docomo,900 MB 3G Data -- 
-8944,245,,21 days,Recharge of Rs. 245 by Docomo,1 GB 3G Data -- 
-8945,265,,28 days,Recharge of Rs. 265 by Docomo,1 GB 3G Data -- 
-8946,309,,28 days,Recharge of Rs. 309 by Docomo,1.25 GB 3G Data -- 
-8947,345,,28 days,Recharge of Rs. 345 by Docomo,1.7 GB 3G Data 
-8948,475,,28 days,Recharge of Rs. 475 by Docomo,2.25 GB 3G Data -- 
+id,cost,talktime,validity,comments
+8932,11,,1 day,45 MB 3G data (Till Midnight - 11: 59)
+8933,24,,2 days,95 MB 3G Data -- 
+8934,34,,3 days,135 MB 3G data  -- 
+8935,47,,5 days,180 MB 3G Data -- 
+8936,52,,7 days,125 MB 3G data -- For customers activated more than 90 days ago
+8937,68,,6 days,270 MB 3G Data -- 
+8938,88,,14 days,200 MB 3G Data
+8939,95,,10 days,375 MB 3G Data -- 
+8940,125,,12 days,500 MB 3G Data -- 
+8941,165,,14 days,750 MB 3G Data -- 
+8942,169,,28 days,400 MB 3G data -- For customers activated more than 90 days ago
+8943,195,,14 days,900 MB 3G Data -- 
+8944,245,,21 days,1 GB 3G Data -- 
+8945,265,,28 days,1 GB 3G Data -- 
+8946,309,,28 days,1.25 GB 3G Data -- 
+8947,345,,28 days,1.7 GB 3G Data 
+8948,475,,28 days,2.25 GB 3G Data -- 

@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-9296,5,,2 days,Recharge of Rs. 5 by Idea,Std Calls @35p/Min -- 
-9297,8,,1 day,Recharge of Rs. 8 by Idea,STD Mobile calls @25ps/min -- 
-9298,18,,10 days,Recharge of Rs. 18 by Idea,25ps/min STD Mobile calls
-9299,29,,27 days,Recharge of Rs. 29 by Idea,25ps/min STD Mobile calls
-9300,42,,45 days,Recharge of Rs. 42 by Idea,STD Mobile calls @25ps/min 
+id,cost,talktime,validity,comments
+9296,5,,2 days,Std Calls @35p/Min -- 
+9297,8,,1 day,STD Mobile calls @25ps/min -- 
+9298,18,,10 days,25ps/min STD Mobile calls
+9299,29,,27 days,25ps/min STD Mobile calls
+9300,42,,45 days,STD Mobile calls @25ps/min 

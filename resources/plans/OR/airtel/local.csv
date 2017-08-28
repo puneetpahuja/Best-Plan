@@ -1,19 +1,19 @@
-id,cost,talktime,validity,short description,long description
-3636,6,,2 days,Recharge of Rs. 6 by Airtel,All Local mobile calls @1p/2sec
-3637,8,,5 days,Recharge of Rs. 8 by Airtel,All Local mobile calls @1.2p/2sec
-3638,9,,3 days,Recharge of Rs. 9 by Airtel,All Local airtel mobile calls @10p/min
-3639,12,,20 days,Recharge of Rs. 12 by Airtel,ALL LOCAL MOBILE CALLS @1.2P/2SEC 
-3640,17,,27 days,Recharge of Rs. 17 by Airtel,ALL LOCAL MOBILE CALLS @1.2P/2SEC
-3641,19,,2 days,Recharge of Rs. 19 by Airtel,150 min (Local & STD Airtel) 
-3642,21,,81 days,Recharge of Rs. 21 by Airtel,LOCAL & STD OUTGOING CALLS ON NATIONAL ROAMING @60P/MIN
-3643,26,,27 days,Recharge of Rs. 26 by Airtel,ALL LOCAL MOBILE CALLS @ 1P/2S
-3644,28,,14 days,Recharge of Rs. 28 by Airtel,Local airtel mobile calls @10p/m
-3645,29,,3 days,Recharge of Rs. 29 by Airtel,250 min (Local & STD Airtel)
-3646,31,,27 days,Recharge of Rs. 31 by Airtel,ALL LOCAL + STD MOBILE CALLS @ 1.2P/2S 
-3647,41,,27 days,Recharge of Rs. 41 by Airtel,ALL LOCAL AIRTEL MOBILE CALLS @ 10P/M
-3648,48,,28 days,Recharge of Rs. 48 by Airtel,RC 48 - LOCAL & STD OUTGOING CALLS ON NATIONAL ROAMING @1.2P/2s FOR 27 DAYS.
-3649,199,,10 days,Recharge of Rs. 199 by Airtel,"Free Local Mobile calls, T&C Apply."
-3650,295,,56 days,Recharge of Rs. 295 by Airtel,Unlimited All Local + STD Airtel calls -- T & C apply.
-3651,299,,4 days,Recharge of Rs. 299 by Airtel,Unlimited Local+ STD all calls
-3652,346,,60 days,Recharge of Rs. 346 by Airtel,Unlimited All Local + STD Airtel calls -- T & C apply.
-3653,395,,75 days,Recharge of Rs. 395 by Airtel,Unlimited All Local + STD Airtel calls -- T & C apply.
+id,cost,talktime,validity,comments
+3636,6,,2 days,All Local mobile calls @1p/2sec
+3637,8,,5 days,All Local mobile calls @1.2p/2sec
+3638,9,,3 days,All Local airtel mobile calls @10p/min
+3639,12,,20 days,ALL LOCAL MOBILE CALLS @1.2P/2SEC 
+3640,17,,27 days,ALL LOCAL MOBILE CALLS @1.2P/2SEC
+3641,19,,2 days,150 min (Local & STD Airtel) 
+3642,21,,81 days,LOCAL & STD OUTGOING CALLS ON NATIONAL ROAMING @60P/MIN
+3643,26,,27 days,ALL LOCAL MOBILE CALLS @ 1P/2S
+3644,28,,14 days,Local airtel mobile calls @10p/m
+3645,29,,3 days,250 min (Local & STD Airtel)
+3646,31,,27 days,ALL LOCAL + STD MOBILE CALLS @ 1.2P/2S 
+3647,41,,27 days,ALL LOCAL AIRTEL MOBILE CALLS @ 10P/M
+3648,48,,28 days,RC 48 - LOCAL & STD OUTGOING CALLS ON NATIONAL ROAMING @1.2P/2s FOR 27 DAYS.
+3649,199,,10 days,"Free Local Mobile calls, T&C Apply."
+3650,295,,56 days,Unlimited All Local + STD Airtel calls -- T & C apply.
+3651,299,,4 days,Unlimited Local+ STD all calls
+3652,346,,60 days,Unlimited All Local + STD Airtel calls -- T & C apply.
+3653,395,,75 days,Unlimited All Local + STD Airtel calls -- T & C apply.

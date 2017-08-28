@@ -1,25 +1,25 @@
-id,cost,talktime,validity,short description,long description
-8364,6,,4 days,Recharge of Rs. 6 by Docomo,All Local/ STD On-Net & Off-Net mobile calls @ 1.3p/ 2secs
-8365,12,,2 days,Recharge of Rs. 12 by Docomo,23 Local Mins 
-8366,18,,28 days,Recharge of Rs. 18 by Docomo,"Local Mobile Calls @ 30p/min, STD Mobile Calls @ 25p/min "
-8367,24,,28 days,Recharge of Rs. 24 by Docomo,Local On-Net Mobile calls @ 10p/min
-8368,26,,60 days,Recharge of Rs. 26 by Docomo,All Local/STD Mobile calls @ 1p/ sec
-8369,28,,5 days,Recharge of Rs. 28 by Docomo,100 Local On-Net Mins
-8370,33,,40 days,Recharge of Rs. 33 by Docomo,All Local Mobile calls @ 30p/min
-8371,36,,28 days,Recharge of Rs. 36 by Docomo,All Local/STD mobile calls @ 30p/min
-8372,41,,10 days,Recharge of Rs. 41 by Docomo,80 Local Mins
-8373,45,,28 days,Recharge of Rs. 45 by Docomo,Local Mobile calls @ 1.2p/2sec
-8374,53,,28 days,Recharge of Rs. 53 by Docomo,Local/STD Mobile calls @ 1/2sec
-8375,58,,45 days,Recharge of Rs. 58 by Docomo,Local Mobile calls @ 1p/2sec
-8376,68,,90 days,Recharge of Rs. 68 by Docomo,All Local/STD mobile calls @ 30p/min
-8377,82,,90 days,Recharge of Rs. 82 by Docomo,Local/STD Mobile calls @ 39p/Min 
-8378,86,,90 days,Recharge of Rs. 86 by Docomo,All Local On-Net Mobile calls @ 10p/min
-8379,87,,90 days,Recharge of Rs. 87 by Docomo,Local/STD Mobile calls @1p/2secs(From Act. Date to 30 days & 31-90 days 1p/sec) -- Local/STD Mobile calls @ 1p/2secs (From Act. Date to 30 days & 31-90 days 1p/sec)
-8380,99,,90 days,Recharge of Rs. 99 by Docomo,Local/STD Mobile calls @ 2p/3sec 
-8381,103,,28 days,Recharge of Rs. 103 by Docomo,"T-T FREE calling, T-T Calls post 1500 mins. Will be charged @ 15p/min"
-8382,111,,28 days,Recharge of Rs. 111 by Docomo,24000 Local/STD Seconds (400 Min)
-8383,123,,21 days,Recharge of Rs. 123 by Docomo,"Free 18 hr Local On-Net Call (11PM to 5PM), PHC 5PM to 11 PM 1.2p/sec -- Local Off-Net mobile calls @ 1.8p/sec -- STD On-Net mobile calls @ 1.8p/sec -- STD Off-Net mobile calls @ 1.8p/sec"
-8384,148,,14 days,Recharge of Rs. 148 by Docomo,500 Local STD Mobile mins. Post 500 mins calls will be charged @ 30p/min 
-8385,177,,28 days,Recharge of Rs. 177 by Docomo,36000 Local/STD Seconds (600 Min)
-8386,246,,28 days,Recharge of Rs. 246 by Docomo,1000 Local STD Mobile mins. Post 1000 mins calls will be charged @ 30p/min
-8387,666,,28 days,Recharge of Rs. 666 by Docomo,"Free Local 2500 Min, Post 2500 Min All local calls @ 1.5p/sec"
+id,cost,talktime,validity,comments
+8364,6,,4 days,All Local/ STD On-Net & Off-Net mobile calls @ 1.3p/ 2secs
+8365,12,,2 days,23 Local Mins 
+8366,18,,28 days,"Local Mobile Calls @ 30p/min, STD Mobile Calls @ 25p/min "
+8367,24,,28 days,Local On-Net Mobile calls @ 10p/min
+8368,26,,60 days,All Local/STD Mobile calls @ 1p/ sec
+8369,28,,5 days,100 Local On-Net Mins
+8370,33,,40 days,All Local Mobile calls @ 30p/min
+8371,36,,28 days,All Local/STD mobile calls @ 30p/min
+8372,41,,10 days,80 Local Mins
+8373,45,,28 days,Local Mobile calls @ 1.2p/2sec
+8374,53,,28 days,Local/STD Mobile calls @ 1/2sec
+8375,58,,45 days,Local Mobile calls @ 1p/2sec
+8376,68,,90 days,All Local/STD mobile calls @ 30p/min
+8377,82,,90 days,Local/STD Mobile calls @ 39p/Min 
+8378,86,,90 days,All Local On-Net Mobile calls @ 10p/min
+8379,87,,90 days,Local/STD Mobile calls @1p/2secs(From Act. Date to 30 days & 31-90 days 1p/sec) -- Local/STD Mobile calls @ 1p/2secs (From Act. Date to 30 days & 31-90 days 1p/sec)
+8380,99,,90 days,Local/STD Mobile calls @ 2p/3sec 
+8381,103,,28 days,"T-T FREE calling, T-T Calls post 1500 mins. Will be charged @ 15p/min"
+8382,111,,28 days,24000 Local/STD Seconds (400 Min)
+8383,123,,21 days,"Free 18 hr Local On-Net Call (11PM to 5PM), PHC 5PM to 11 PM 1.2p/sec -- Local Off-Net mobile calls @ 1.8p/sec -- STD On-Net mobile calls @ 1.8p/sec -- STD Off-Net mobile calls @ 1.8p/sec"
+8384,148,,14 days,500 Local STD Mobile mins. Post 500 mins calls will be charged @ 30p/min 
+8385,177,,28 days,36000 Local/STD Seconds (600 Min)
+8386,246,,28 days,1000 Local STD Mobile mins. Post 1000 mins calls will be charged @ 30p/min
+8387,666,,28 days,"Free Local 2500 Min, Post 2500 Min All local calls @ 1.5p/sec"

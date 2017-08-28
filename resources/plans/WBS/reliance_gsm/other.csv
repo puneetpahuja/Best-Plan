@@ -1,16 +1,16 @@
-id,cost,talktime,validity,short description,long description
-14729,22,22,3 days,Recharge of Rs. 22 by RelianceGSM,Rs 22 Promo Talk Time + 2 Local SMS
-14730,44,44,7 days,Recharge of Rs. 44 by RelianceGSM,Rs 44 Promo Talk Time + 4 Local SMS
-14731,55,55,N.A,Recharge of Rs. 55 by RelianceGSM,"Rs. 43 Core Talk Time, Rs. 12 Promo Talk Time valid for 4 Days -- 2 Local SMS valid for 2 Days"
-14732,69,69,15 days,Recharge of Rs. 69 by RelianceGSM,Rs 69 Promo Talk Time + 6 Local SMS
-14734,111,111,N.A,Recharge of Rs. 111 by RelianceGSM,10 Local SMS for 7 days
-14735,222,222,N.A,Recharge of Rs. 222 by RelianceGSM,15 Local SMS for 7 days
-14736,333,333,N.A,Recharge of Rs. 333 by RelianceGSM,20 Local SMS for 7 days
-14741,35,27.57,N.A,Recharge of Rs. 35 by RelianceGSM,2 Local SMS (valid for 2 Days)
-14742,37,29.56,N.A,Recharge of Rs. 37 by RelianceGSM,5 Local and National SMS Valid for 1 day (same day)
-14746,62,30,60 days,Recharge of Rs. 62 by RelianceGSM,Rs 30 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
-14747,87,50,60 days,Recharge of Rs. 87 by RelianceGSM,Rs 50 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
-14748,92,47,70 days,Recharge of Rs. 92 by RelianceGSM,Rs 47 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
-14752,123,30,30 days,Recharge of Rs. 123 by RelianceGSM,400MB 3G + Rs 30 Promo Talk Time
-14759,96,96,30 days,Recharge of Rs. 96 by RelianceGSM,96 TT valid for 10 days + all Local & STD calls for 40paise/min for 30 days
-14762,33,,Recharge Day + 1,Recharge of Rs. 33 by RelianceGSM,1GB + 1 Hour All Calls to any N/W
+id,cost,talktime,validity,comments
+14729,22,22,3 days,Rs 22 Promo Talk Time + 2 Local SMS
+14730,44,44,7 days,Rs 44 Promo Talk Time + 4 Local SMS
+14731,55,55,N.A,"Rs. 43 Core Talk Time, Rs. 12 Promo Talk Time valid for 4 Days -- 2 Local SMS valid for 2 Days"
+14732,69,69,15 days,Rs 69 Promo Talk Time + 6 Local SMS
+14734,111,111,N.A,10 Local SMS for 7 days
+14735,222,222,N.A,15 Local SMS for 7 days
+14736,333,333,N.A,20 Local SMS for 7 days
+14741,35,27.57,N.A,2 Local SMS (valid for 2 Days)
+14742,37,29.56,N.A,5 Local and National SMS Valid for 1 day (same day)
+14746,62,30,60 days,Rs 30 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
+14747,87,50,60 days,Rs 50 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
+14748,92,47,70 days,Rs 47 Promo Talktime -- 20 Local Reliance to reliance minutes (2 Days)
+14752,123,30,30 days,400MB 3G + Rs 30 Promo Talk Time
+14759,96,96,30 days,96 TT valid for 10 days + all Local & STD calls for 40paise/min for 30 days
+14762,33,,Recharge Day + 1,1GB + 1 Hour All Calls to any N/W

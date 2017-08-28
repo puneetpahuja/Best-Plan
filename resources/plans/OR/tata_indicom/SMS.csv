@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-15484,15,,30 days,Recharge of Rs. 15 by Indicom,75 National SMS (Local/STD SMS)
-15485,55,,30 days,Recharge of Rs. 55 by Indicom,3000 National SMS (Local/STD SMS)
+id,cost,talktime,validity,comments
+15484,15,,30 days,75 National SMS (Local/STD SMS)
+15485,55,,30 days,3000 National SMS (Local/STD SMS)

@@ -1,25 +1,25 @@
-id,cost,talktime,validity,short description,long description
-5683,28,,90 days,Recharge of Rs. 28 by BSNL,All local Onnet calls at 49p per Min -- Not applicable for lifetime & Saral Anant customers
-5684,30,,1 day,Recharge of Rs. 30 by BSNL,80 mins local/STD onnet calls
-5685,42,,21 days,Recharge of Rs. 42 by BSNL,For Per Min Plan: a. 10ps/min for On-Net voice calls (Local/STD)b. 30ps/min for Off-Net voice calls (Local/STD) -- For Per Sec Plan: a. 1ps/3secs for On-Net voice calls (Local/STD)b. 2ps/3 secs for Off-Net voice calls (Local/STD)
-5686,44,,25 days,Recharge of Rs. 44 by BSNL,Local any net 1.4P per 2Sec
-5687,58,,8 days,Recharge of Rs. 58 by BSNL,5600 Seconds Loc or STD to any network
-5688,65,,27 days,Recharge of Rs. 65 by BSNL,STV Voice local onnet at 13p/min
-5689,69,,30 days,Recharge of Rs. 69 by BSNL,Local Call Anynet at 1 ps per 2 sec
-5690,88,,48 days,Recharge of Rs. 88 by BSNL,For Per Min Plan: a. 10ps/min for On-Net voice calls (Local/STD)b. 30ps/min for Off-Net voice calls (Local/STD) -- For Per Sec Plan: a. 1ps/3secs for On-Net voice calls (Local/STD)b. 2ps/3 secs for Off-Net voice calls (Local/STD)
-5691,121,,30 days,Recharge of Rs. 121 by BSNL,1800 mins local or STD onnet night(11PM to 6AM)
-5692,122,,75 days,Recharge of Rs. 122 by BSNL,Local any net 1.4P per 2Sec
-5693,135,,28 days,Recharge of Rs. 135 by BSNL,275 min free to any network (Local/STD)
-5694,142,,30 days,Recharge of Rs. 142 by BSNL,U/L On net (local/STD) voice calls + U/L Off-net  (local/STD) voice calls (in Home LSA Only). The Free off-net (Local/STD) voice calls is limited to 20min/day -- This STV is applicable only for all free plan-149 customers.
-5695,159,,28 days,Recharge of Rs. 159 by BSNL,Free 20300 Sec Loc or STD calls to any network
-5696,164,,5 days,Recharge of Rs. 164 by BSNL,Unlimited(Local plus STD)onnet calls
-5697,175,,20 days,Recharge of Rs. 175 by BSNL,Local Onnet mobile unlimited free
-5698,181,,30 days,Recharge of Rs. 181 by BSNL,23800 Sec Local/STD Voice Calls to Any N/w
-5699,201,,28 days,Recharge of Rs. 201 by BSNL,Free 26800 Secs  to Any Network Local and STD Calls
-5700,343,,24 days,Recharge of Rs. 343 by BSNL,UNLIMITED Local Onnet free
-5701,359,,60 days,Recharge of Rs. 359 by BSNL,52000 sec free to any network (Local/STD)
-5702,449,,84 days,Recharge of Rs. 449 by BSNL,1400 min free to any network (Local/STD)
-5703,574,,30 days,Recharge of Rs. 574 by BSNL,Unlimited Local on-Net Calls and 500 Minutes Free Local /STD Calls Any-Net
-5704,699,,28 days,Recharge of Rs. 699 by BSNL,UNLIMITED LOCAL and STD ONNET CALLS
-5705,894,,81 days,Recharge of Rs. 894 by BSNL,Unlimited Local OnNet calls
-5706,1494,,90 days,Recharge of Rs. 1494 by BSNL,Unlimited Local on-Net Calls and 1500 Minutes Free Local /STD Calls Any-Net
+id,cost,talktime,validity,comments
+5683,28,,90 days,All local Onnet calls at 49p per Min -- Not applicable for lifetime & Saral Anant customers
+5684,30,,1 day,80 mins local/STD onnet calls
+5685,42,,21 days,For Per Min Plan: a. 10ps/min for On-Net voice calls (Local/STD)b. 30ps/min for Off-Net voice calls (Local/STD) -- For Per Sec Plan: a. 1ps/3secs for On-Net voice calls (Local/STD)b. 2ps/3 secs for Off-Net voice calls (Local/STD)
+5686,44,,25 days,Local any net 1.4P per 2Sec
+5687,58,,8 days,5600 Seconds Loc or STD to any network
+5688,65,,27 days,STV Voice local onnet at 13p/min
+5689,69,,30 days,Local Call Anynet at 1 ps per 2 sec
+5690,88,,48 days,For Per Min Plan: a. 10ps/min for On-Net voice calls (Local/STD)b. 30ps/min for Off-Net voice calls (Local/STD) -- For Per Sec Plan: a. 1ps/3secs for On-Net voice calls (Local/STD)b. 2ps/3 secs for Off-Net voice calls (Local/STD)
+5691,121,,30 days,1800 mins local or STD onnet night(11PM to 6AM)
+5692,122,,75 days,Local any net 1.4P per 2Sec
+5693,135,,28 days,275 min free to any network (Local/STD)
+5694,142,,30 days,U/L On net (local/STD) voice calls + U/L Off-net  (local/STD) voice calls (in Home LSA Only). The Free off-net (Local/STD) voice calls is limited to 20min/day -- This STV is applicable only for all free plan-149 customers.
+5695,159,,28 days,Free 20300 Sec Loc or STD calls to any network
+5696,164,,5 days,Unlimited(Local plus STD)onnet calls
+5697,175,,20 days,Local Onnet mobile unlimited free
+5698,181,,30 days,23800 Sec Local/STD Voice Calls to Any N/w
+5699,201,,28 days,Free 26800 Secs  to Any Network Local and STD Calls
+5700,343,,24 days,UNLIMITED Local Onnet free
+5701,359,,60 days,52000 sec free to any network (Local/STD)
+5702,449,,84 days,1400 min free to any network (Local/STD)
+5703,574,,30 days,Unlimited Local on-Net Calls and 500 Minutes Free Local /STD Calls Any-Net
+5704,699,,28 days,UNLIMITED LOCAL and STD ONNET CALLS
+5705,894,,81 days,Unlimited Local OnNet calls
+5706,1494,,90 days,Unlimited Local on-Net Calls and 1500 Minutes Free Local /STD Calls Any-Net

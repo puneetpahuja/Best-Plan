@@ -1,18 +1,18 @@
-id,cost,talktime,validity,short description,long description
-18733,16,,2 days,Recharge of Rs. 16 by Vodafone,70 Local VF Mins
-18734,28,,28 days,Recharge of Rs. 28 by Vodafone,Local V2V calls @10p/Min (10PM - 5PM) & @1p/sec (5PM - 10PM)
-18735,34,,4 days,Recharge of Rs. 34 by Vodafone,120 Local VF minutes for 4 days
-18736,36,,28 days,Recharge of Rs. 36 by Vodafone,Local calls @ 30p/Min
-18737,41,,30 days,Recharge of Rs. 41 by Vodafone,All Outgoing Local and STD calls @1p/sec for in National Roaming and Home Network
-18738,61,,28 days,Recharge of Rs. 61 by Vodafone,Local Vodafone calls @ 10p/Min
-18739,64,,28 days,Recharge of Rs. 64 by Vodafone,All Local & STD Calls @ 30p/min
-18740,77,,60 days,Recharge of Rs. 77 by Vodafone,Local calls @ 30p/Min
-18741,92,,28 days,Recharge of Rs. 92 by Vodafone,Local V2V calls @10p/Min & Other Local mobile calls @ 30p/ Min
-18742,98,,45 days,Recharge of Rs. 98 by Vodafone,Local VF calls @10p/min
-18743,101,,28 days,Recharge of Rs. 101 by Vodafone,180 Local/STD minutes for 28 days
-18744,111,,28 days,Recharge of Rs. 111 by Vodafone,220 Local Mins
-18745,115,,14 days,Recharge of Rs. 115 by Vodafone,375 Local VF Mins For 14 Days
-18746,119,,60 days,Recharge of Rs. 119 by Vodafone,Local VFcalls @ 10p/Min
-18747,145,,28 days,Recharge of Rs. 145 by Vodafone,16800 Local Seconds for 28 Days
-18748,201,,28 days,Recharge of Rs. 201 by Vodafone,450 Local/STD Mins for 28 Days
-18749,225,,28 days,Recharge of Rs. 225 by Vodafone,575 Local Minutes valid for 28 Days
+id,cost,talktime,validity,comments
+18733,16,,2 days,70 Local VF Mins
+18734,28,,28 days,Local V2V calls @10p/Min (10PM - 5PM) & @1p/sec (5PM - 10PM)
+18735,34,,4 days,120 Local VF minutes for 4 days
+18736,36,,28 days,Local calls @ 30p/Min
+18737,41,,30 days,All Outgoing Local and STD calls @1p/sec for in National Roaming and Home Network
+18738,61,,28 days,Local Vodafone calls @ 10p/Min
+18739,64,,28 days,All Local & STD Calls @ 30p/min
+18740,77,,60 days,Local calls @ 30p/Min
+18741,92,,28 days,Local V2V calls @10p/Min & Other Local mobile calls @ 30p/ Min
+18742,98,,45 days,Local VF calls @10p/min
+18743,101,,28 days,180 Local/STD minutes for 28 days
+18744,111,,28 days,220 Local Mins
+18745,115,,14 days,375 Local VF Mins For 14 Days
+18746,119,,60 days,Local VFcalls @ 10p/Min
+18747,145,,28 days,16800 Local Seconds for 28 Days
+18748,201,,28 days,450 Local/STD Mins for 28 Days
+18749,225,,28 days,575 Local Minutes valid for 28 Days

@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-6038,49,,180 days,Recharge of Rs. 49 by BSNL,Plan: NewMithram_49
-6039,75,,180 days,Recharge of Rs. 75 by BSNL,Plan: Pyari Jodi 75
-6040,96,,365 days,Recharge of Rs. 96 by BSNL,Plan: Data_96
-6041,199,,180 days,Recharge of Rs. 199 by BSNL,Plan Migration: Roam free_199
+id,cost,talktime,validity,comments
+6038,49,,180 days,Plan: NewMithram_49
+6039,75,,180 days,Plan: Pyari Jodi 75
+6040,96,,365 days,Plan: Data_96
+6041,199,,180 days,Plan Migration: Roam free_199

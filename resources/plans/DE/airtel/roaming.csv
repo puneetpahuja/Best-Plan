@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-2133,21,,90 days,Recharge of Rs. 21 by Airtel,National Roaming Benefit: Local & STD outgoing calls @60p/min
-2134,52,,28 days,Recharge of Rs. 52 by Airtel,All roaming outgoing calls at home circle rate 
+id,cost,talktime,validity,comments
+2133,21,,90 days,National Roaming Benefit: Local & STD outgoing calls @60p/min
+2134,52,,28 days,All roaming outgoing calls at home circle rate 

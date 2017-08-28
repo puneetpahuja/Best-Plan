@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-444,249,,28 days,Recharge of Rs. 249 by Aircel,"Unlimited Local/STD On-net mobile Calls + 1200 Local/STD Off-net Mins (post 1200 Mins all off-net mobile calls@20p/min till validity) -- 1 GB 2G Data per day -- Applicable as FRC & normal RC, for FRC 249,after 28 days, all mobile calls @25p/min for next 60 days -- Applicable only for new subscribers as FRC/SRC"
+id,cost,talktime,validity,comments
+444,249,,28 days,"Unlimited Local/STD On-net mobile Calls + 1200 Local/STD Off-net Mins (post 1200 Mins all off-net mobile calls@20p/min till validity) -- 1 GB 2G Data per day -- Applicable as FRC & normal RC, for FRC 249,after 28 days, all mobile calls @25p/min for next 60 days -- Applicable only for new subscribers as FRC/SRC"

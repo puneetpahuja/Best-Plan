@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-3820,330,330,N.A,Recharge of Rs. 330 by Airtel,Talktime of Rs. 330 for Rs. 330 recharge by Airtel
-3821,400,400,N.A,Recharge of Rs. 400 by Airtel,Talktime of Rs. 400 for Rs. 400 recharge by Airtel
-3822,1000,1000,N.A,Recharge of Rs. 1000 by Airtel,Talktime of Rs. 1000 for Rs. 1000 recharge by Airtel
-3823,2000,2000,N.A,Recharge of Rs. 2000 by Airtel,Talktime of Rs. 2000 for Rs. 2000 recharge by Airtel
-3824,3000,3000,N.A,Recharge of Rs. 3000 by Airtel,Talktime of Rs. 3000 for Rs. 3000 recharge by Airtel
+id,cost,talktime,validity,comments
+3820,330,330,N.A,Talktime of Rs. 330 for Rs. 330 recharge by Airtel
+3821,400,400,N.A,Talktime of Rs. 400 for Rs. 400 recharge by Airtel
+3822,1000,1000,N.A,Talktime of Rs. 1000 for Rs. 1000 recharge by Airtel
+3823,2000,2000,N.A,Talktime of Rs. 2000 for Rs. 2000 recharge by Airtel
+3824,3000,3000,N.A,Talktime of Rs. 3000 for Rs. 3000 recharge by Airtel

@@ -1,18 +1,18 @@
-id,cost,talktime,validity,short description,long description
-16917,333,333,N.A,Recharge of Rs. 333 by Vodafone,1 Night Vodafone to Vodafone min (10pm to 8 am)
-16919,351,351,N.A,Recharge of Rs. 351 by Vodafone,10 Night Vodafone to Vodafone Night Minute (10pm to 8 am)
-16923,555,555,N.A,Recharge of Rs. 555 by Vodafone,1 Night Vodafone to Vodafone min (10pm to 8 am)
-16926,666,666,N.A,Recharge of Rs. 666 by Vodafone,1 Night Vodafone to Vodafone min (10pm to 8 am)
-16927,786,786,30 days,Recharge of Rs. 786 by Vodafone,All Local & STD mobile calls 1p/sec and 250 Local Vodafone to Vodafone night minutes (10PM-8AM).
-16943,54,40.76,N.A,Recharge of Rs. 54 by Vodafone,1 Local Vodafone to Vodafone Night Minute (10PM-8AM) valid for 1 day
-16945,64,49.24,N.A,Recharge of Rs. 64 by Vodafone,1 Local Vodafone to Vodafone Night Minute (10PM-8AM) valid for 1 day 
-16947,77,60.25,N.A,Recharge of Rs. 77 by Vodafone,1 Local Vodafone to Vodafone Night Minute (10PM-8AM) valid for 1 day
-16949,84,66.19,N.A,Recharge of Rs. 84 by Vodafone,1 Local Vodafone to Vodafone Night Minute (10PM-8AM) valid for 1 day
-16951,94,74.66,N.A,Recharge of Rs. 94 by Vodafone,4 Local Vodafone to Vodafone Night Minute (10PM-8AM) valid for 2 days
-16953,114,90.61,N.A,Recharge of Rs. 114 by Vodafone,6 Night Vodafone to Vodafone min (10pm to 8 am)
-16954,124,99.08,N.A,Recharge of Rs. 124 by Vodafone,1 Night Vodafone to Vodafone Night Minute (10pm to 8 am)
-16956,164,132.98,N.A,Recharge of Rs. 164 by Vodafone,1 Night Vodafone to Vodafone Night Minute (10pm to 8 am)
-16958,112,30,28 days,Recharge of Rs. 112 by Vodafone,250 MB data -- Special features included: call 1 local Vodafone buddy @10p/min -- option of 60MB data loan -- T&C Apply
-16959,177,30,28 days,Recharge of Rs. 177 by Vodafone,500 MB data --  Special features included: call 1 local Vodafone buddy @10p/min -- option of 60 MB data loan -- T&C Apply
-17077,128,,30 days,Recharge of Rs. 128 by Vodafone,Blackberry BBM for 30 days and 300 SMS
-17078,399,,30 days,Recharge of Rs. 399 by Vodafone,Blackberry Unlimited (BIS)
+id,cost,talktime,validity,comments
+16917,333,333,N.A,1 Night Vodafone to Vodafone min (10pm to 8 am)
+16919,351,351,N.A,10 Night Vodafone to Vodafone Night Minute (10pm to 8 am)
+16923,555,555,N.A,1 Night Vodafone to Vodafone min (10pm to 8 am)
+16926,666,666,N.A,1 Night Vodafone to Vodafone min (10pm to 8 am)
+16927,786,786,30 days,All Local & STD mobile calls 1p/sec and 250 Local Vodafone to Vodafone night minutes (10PM-8AM).
+16943,54,40.76,N.A,1 Local Vodafone to Vodafone Night Minute (10PM-8AM) valid for 1 day
+16945,64,49.24,N.A,1 Local Vodafone to Vodafone Night Minute (10PM-8AM) valid for 1 day 
+16947,77,60.25,N.A,1 Local Vodafone to Vodafone Night Minute (10PM-8AM) valid for 1 day
+16949,84,66.19,N.A,1 Local Vodafone to Vodafone Night Minute (10PM-8AM) valid for 1 day
+16951,94,74.66,N.A,4 Local Vodafone to Vodafone Night Minute (10PM-8AM) valid for 2 days
+16953,114,90.61,N.A,6 Night Vodafone to Vodafone min (10pm to 8 am)
+16954,124,99.08,N.A,1 Night Vodafone to Vodafone Night Minute (10pm to 8 am)
+16956,164,132.98,N.A,1 Night Vodafone to Vodafone Night Minute (10pm to 8 am)
+16958,112,30,28 days,250 MB data -- Special features included: call 1 local Vodafone buddy @10p/min -- option of 60MB data loan -- T&C Apply
+16959,177,30,28 days,500 MB data --  Special features included: call 1 local Vodafone buddy @10p/min -- option of 60 MB data loan -- T&C Apply
+17077,128,,30 days,Blackberry BBM for 30 days and 300 SMS
+17078,399,,30 days,Blackberry Unlimited (BIS)

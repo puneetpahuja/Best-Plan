@@ -1,9 +1,9 @@
-id,cost,talktime,validity,short description,long description
-16149,9,,2 days,Recharge of Rs. 9 by Uninor,50 MB Data
-16150,14,,3 days,Recharge of Rs. 14 by Uninor,120 MB Data
-16151,24,,3 days,Recharge of Rs. 24 by Uninor,Unlimited 2G/4G Data
-16152,29,,28 days,Recharge of Rs. 29 by Uninor,150 MB Data
-16153,47,,14 days,Recharge of Rs. 47 by Uninor,500 MB Data
-16154,67,,28 days,Recharge of Rs. 67 by Uninor,1024 MB Data
-16155,97,,28 days,Recharge of Rs. 97 by Uninor,1536 MB Data
-16156,127,,28 days,Recharge of Rs. 127 by Uninor,Unlimited 2G/4G Data
+id,cost,talktime,validity,comments
+16149,9,,2 days,50 MB Data
+16150,14,,3 days,120 MB Data
+16151,24,,3 days,Unlimited 2G/4G Data
+16152,29,,28 days,150 MB Data
+16153,47,,14 days,500 MB Data
+16154,67,,28 days,1024 MB Data
+16155,97,,28 days,1536 MB Data
+16156,127,,28 days,Unlimited 2G/4G Data

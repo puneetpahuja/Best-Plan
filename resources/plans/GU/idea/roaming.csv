@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-9963,6,,1 day,Recharge of Rs. 6 by Idea,All roaming outgoing calls (Local + STD) @60p/min. Valid Nationwide on idea network -- 
-9964,16,,7 days,Recharge of Rs. 16 by Idea,All roaming outgoing calls (Local + STD) at 60p/min. Valid Nationwide on idea network -- 
-9965,26,,28 days,Recharge of Rs. 26 by Idea,All roaming outgoing calls (Local + STD) at 50p/min. Valid Nationwide on idea network -- 
-9966,53,,28 days,Recharge of Rs. 53 by Idea,Get normal calling tariff even on Roaming -- Applicable only onto Idea Network 
+id,cost,talktime,validity,comments
+9963,6,,1 day,All roaming outgoing calls (Local + STD) @60p/min. Valid Nationwide on idea network -- 
+9964,16,,7 days,All roaming outgoing calls (Local + STD) at 60p/min. Valid Nationwide on idea network -- 
+9965,26,,28 days,All roaming outgoing calls (Local + STD) at 50p/min. Valid Nationwide on idea network -- 
+9966,53,,28 days,Get normal calling tariff even on Roaming -- Applicable only onto Idea Network 

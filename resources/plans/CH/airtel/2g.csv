@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-1907,25,,4 days,Recharge of Rs. 25 by Airtel,140 MB 2G Data
-1910,44,,6 days,Recharge of Rs. 44 by Airtel,250 MB 2G Data
-1916,96,,14 days,Recharge of Rs. 96 by Airtel,540 MB 2G Data
+id,cost,talktime,validity,comments
+1907,25,,4 days,140 MB 2G Data
+1910,44,,6 days,250 MB 2G Data
+1916,96,,14 days,540 MB 2G Data

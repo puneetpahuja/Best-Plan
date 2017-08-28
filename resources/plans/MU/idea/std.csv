@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-11008,21,,21 days,Recharge of Rs. 21 by Idea,STD mobile calls @ 35p/min
-11009,37,,28 days,Recharge of Rs. 37 by Idea,STD mobile calls @ 30p/min
-11010,49,,28 days,Recharge of Rs. 49 by Idea,STD mobile calls @ 25p/min
-11011,67,,84 days,Recharge of Rs. 67 by Idea,STD mobile calls @ 30p/min
+id,cost,talktime,validity,comments
+11008,21,,21 days,STD mobile calls @ 35p/min
+11009,37,,28 days,STD mobile calls @ 30p/min
+11010,49,,28 days,STD mobile calls @ 25p/min
+11011,67,,84 days,STD mobile calls @ 30p/min

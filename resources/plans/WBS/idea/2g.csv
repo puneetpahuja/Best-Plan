@@ -1,12 +1,12 @@
-id,cost,talktime,validity,short description,long description
-12299,5,,1 day,Recharge of Rs. 5 by Idea,25 MB Data -- Overage: 4p/10KB -- 
-12300,5,,1 Hour,Recharge of Rs. 5 by Idea,Unlimited 2G Data -- 
-12301,18,,4 hours,Recharge of Rs. 18 by Idea,Unlimited 2G Data -- 
-12302,35,,28 days,Recharge of Rs. 35 by Idea,100 MB Main Data + 100 MB Night Data (12 midnight to 6 am morning) -- Overage: 4p/10KB
-12303,53,,28 days,Recharge of Rs. 53 by Idea,1 GB 2G Data -- Overage: 4p/10KB  -- Available only after Long Term Plan Recharge of MRP 749
-12304,73,,28 days,Recharge of Rs. 73 by Idea,1 GB 2G data -- Overage: 4p/10KB -- Available only after Long Term Plan Recharge of MRP 499
-12305,77,,28 days,Recharge of Rs. 77 by Idea,1 GB 2G Data -- Overage: 4p/10KB -- Mode Of Recharge: E Recharge -- Available only after Long Term Plan Recharge of MRP 248
-12306,147,,21 days,Recharge of Rs. 147 by Idea,750 MB -- Overage: 4p/10KB
-12308,199,,28 days,Recharge of Rs. 199 by Idea,"Unlimited (2 GB FUP) -- FUP limit: Post consumption of 2 GB, FUP applicable -40 Kbps till 3GB, and 10 Kbps thereafter"
-12314,499,,6 months,Recharge of Rs. 499 by Idea,Instant 2 GB 2G Data (28 Days) -- For 6 Months enjoy 1 GB 2G data (28 Days) @Rs.73 -- Overage: 4p/10KB
-12315,749,,12 months,Recharge of Rs. 749 by Idea,Instant 5 GB 2G data benefit valid for 28days -- For 12 months customer gets 1GB 2G data with 28 Days Validity @Rs. 53 -- Overage: 4p/10KB
+id,cost,talktime,validity,comments
+12299,5,,1 day,25 MB Data -- Overage: 4p/10KB -- 
+12300,5,,1 Hour,Unlimited 2G Data -- 
+12301,18,,4 hours,Unlimited 2G Data -- 
+12302,35,,28 days,100 MB Main Data + 100 MB Night Data (12 midnight to 6 am morning) -- Overage: 4p/10KB
+12303,53,,28 days,1 GB 2G Data -- Overage: 4p/10KB  -- Available only after Long Term Plan Recharge of MRP 749
+12304,73,,28 days,1 GB 2G data -- Overage: 4p/10KB -- Available only after Long Term Plan Recharge of MRP 499
+12305,77,,28 days,1 GB 2G Data -- Overage: 4p/10KB -- Mode Of Recharge: E Recharge -- Available only after Long Term Plan Recharge of MRP 248
+12306,147,,21 days,750 MB -- Overage: 4p/10KB
+12308,199,,28 days,"Unlimited (2 GB FUP) -- FUP limit: Post consumption of 2 GB, FUP applicable -40 Kbps till 3GB, and 10 Kbps thereafter"
+12314,499,,6 months,Instant 2 GB 2G Data (28 Days) -- For 6 Months enjoy 1 GB 2G data (28 Days) @Rs.73 -- Overage: 4p/10KB
+12315,749,,12 months,Instant 5 GB 2G data benefit valid for 28days -- For 12 months customer gets 1GB 2G data with 28 Days Validity @Rs. 53 -- Overage: 4p/10KB

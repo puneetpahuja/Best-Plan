@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-5713,9,,1 day,Recharge of Rs. 9 by BSNL,OG(Local and STD) while in roaming at 70paisa per min
-5714,34,,7 days,Recharge of Rs. 34 by BSNL,Roam free STV
-5715,77,,28 days,Recharge of Rs. 77 by BSNL,OG(Local and STD) while in roaming at 70paisa per min
-5716,91,,30 days,Recharge of Rs. 91 by BSNL,Free OG Voice Calls 120minutes on any network in Roaming and Free SMS 40SMS on any network in Roaming
+id,cost,talktime,validity,comments
+5713,9,,1 day,OG(Local and STD) while in roaming at 70paisa per min
+5714,34,,7 days,Roam free STV
+5715,77,,28 days,OG(Local and STD) while in roaming at 70paisa per min
+5716,91,,30 days,Free OG Voice Calls 120minutes on any network in Roaming and Free SMS 40SMS on any network in Roaming

@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-7070,220,220,N.A,Recharge of Rs. 220 by BSNL,Talktime of Rs. 220 for Rs. 220 recharge by BSNL
-7078,1100,1200,N.A,Recharge of Rs. 1100 by BSNL,Talktime of Rs. 1200 for Rs. 1100 recharge by BSNL
+id,cost,talktime,validity,comments
+7070,220,220,N.A,Talktime of Rs. 220 for Rs. 220 recharge by BSNL
+7078,1100,1200,N.A,Talktime of Rs. 1200 for Rs. 1100 recharge by BSNL

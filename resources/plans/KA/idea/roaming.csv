@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-10444,6,,1 day,Recharge of Rs. 6 by Idea,All outgoing roaming Local & STD @ 60p/min on IDEA network -- 
-10445,16,,7 days,Recharge of Rs. 16 by Idea,All outgoing roaming Local & STD @ 60p/min on IDEA network -- 
-10446,27,,30 days,Recharge of Rs. 27 by Idea,All outgoing roaming Local & STD @ 50p/min on IDEA network. Applicable only onto Idea Network
-10447,71,,90 days,Recharge of Rs. 71 by Idea,All outgoing roaming Local & STD @ 50p/min on IDEA network. Applicable only onto Idea Network
-10448,92,,90 days,Recharge of Rs. 92 by Idea,"Roaming Incoming Free, 120 Local & STD Outgoing Minutes Free, post Free usage 50p/min on IDEA network. Applicable only onto Idea Network"
+id,cost,talktime,validity,comments
+10444,6,,1 day,All outgoing roaming Local & STD @ 60p/min on IDEA network -- 
+10445,16,,7 days,All outgoing roaming Local & STD @ 60p/min on IDEA network -- 
+10446,27,,30 days,All outgoing roaming Local & STD @ 50p/min on IDEA network. Applicable only onto Idea Network
+10447,71,,90 days,All outgoing roaming Local & STD @ 50p/min on IDEA network. Applicable only onto Idea Network
+10448,92,,90 days,"Roaming Incoming Free, 120 Local & STD Outgoing Minutes Free, post Free usage 50p/min on IDEA network. Applicable only onto Idea Network"

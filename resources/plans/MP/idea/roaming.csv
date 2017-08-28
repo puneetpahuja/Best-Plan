@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-10801,6,,1 day,Recharge of Rs. 6 by Idea,Roaming OG Local/STD calls @Rs0.60/min  -- 
-10802,16,,7 days,Recharge of Rs. 16 by Idea,Roaming outgoing Local/STD calls @ Re.0.60/min -- 
-10803,34,,28 days,Recharge of Rs. 34 by Idea,Roaming outgoing Local/STD calls @ Re.0.50/min
+id,cost,talktime,validity,comments
+10801,6,,1 day,Roaming OG Local/STD calls @Rs0.60/min  -- 
+10802,16,,7 days,Roaming outgoing Local/STD calls @ Re.0.60/min -- 
+10803,34,,28 days,Roaming outgoing Local/STD calls @ Re.0.50/min

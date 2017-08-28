@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-12008,148,,28 days,Recharge of Rs. 148 by Idea,"Unlimited idea to idea local/STD mobile calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable -- 50 MB 2G/3G/4G data (4G handset users will get additional 250 MB 2G/3G/4G data) -- "
-12009,248,,28 days,Recharge of Rs. 248 by Idea,"Unlimited Local Calls with FUP, 50 MB 2G/3G data (4G handset users will get additional 250 MB 2G/3G data^)"
-12019,54,,6 days,Recharge of Rs. 54 by Idea,290 MB Data -- Overage: 4p/10Kb
-12022,93,,10 days,Recharge of Rs. 93 by Idea,370 MB 3G Data -- Overage: 4p/10KB 
-12028,115,,10 days,Recharge of Rs. 115 by Idea,660 MB Data -- Overage: 4p/10Kb -- 
-12041,254,,28 days,Recharge of Rs. 254 by Idea,1240 MB Data -- Overage: 4p/10KB
+id,cost,talktime,validity,comments
+12008,148,,28 days,"Unlimited idea to idea local/STD mobile calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable -- 50 MB 2G/3G/4G data (4G handset users will get additional 250 MB 2G/3G/4G data) -- "
+12009,248,,28 days,"Unlimited Local Calls with FUP, 50 MB 2G/3G data (4G handset users will get additional 250 MB 2G/3G data^)"
+12019,54,,6 days,290 MB Data -- Overage: 4p/10Kb
+12022,93,,10 days,370 MB 3G Data -- Overage: 4p/10KB 
+12028,115,,10 days,660 MB Data -- Overage: 4p/10Kb -- 
+12041,254,,28 days,1240 MB Data -- Overage: 4p/10KB

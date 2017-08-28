@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-16114,7,,28 days,Recharge of Rs. 7 by Uninor,STD Telenor to Telenor Calls @15P/Min(Home + Roam) & other STD Calls @30P/Min
-16115,21,,14 days,Recharge of Rs. 21 by Uninor,50 Mins STD Free 
-16116,41,,28 days,Recharge of Rs. 41 by Uninor,100 STD Mins Free
+id,cost,talktime,validity,comments
+16114,7,,28 days,STD Telenor to Telenor Calls @15P/Min(Home + Roam) & other STD Calls @30P/Min
+16115,21,,14 days,50 Mins STD Free 
+16116,41,,28 days,100 STD Mins Free

@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-9175,5,,1 day,Recharge of Rs. 5 by Idea,50 Local/ National SMS -- 
-9176,26,,28 days,Recharge of Rs. 26 by Idea,300 Local/National SMS -- 
-9177,46,,28 days,Recharge of Rs. 46 by Idea,510 Local/National SMS -- 
-9178,62,,28 days,Recharge of Rs. 62 by Idea,700 Local/National SMS -- 
-9179,63,,28 days,Recharge of Rs. 63 by Idea,Daily 100 Local/National sms free
-9180,77,,28 days,Recharge of Rs. 77 by Idea,850 Local/National SMS -- 
-9181,98,,90 days,Recharge of Rs. 98 by Idea,1100 Local/ National SMS -- 
+id,cost,talktime,validity,comments
+9175,5,,1 day,50 Local/ National SMS -- 
+9176,26,,28 days,300 Local/National SMS -- 
+9177,46,,28 days,510 Local/National SMS -- 
+9178,62,,28 days,700 Local/National SMS -- 
+9179,63,,28 days,Daily 100 Local/National sms free
+9180,77,,28 days,850 Local/National SMS -- 
+9181,98,,90 days,1100 Local/ National SMS -- 

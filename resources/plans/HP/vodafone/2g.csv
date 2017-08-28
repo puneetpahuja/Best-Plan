@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-17100,14,,2 days,Recharge of Rs. 14 by Vodafone,80 MB data Usage
-17101,36,,5 days,Recharge of Rs. 36 by Vodafone,200 MB 2G DATA
-17102,41,,28 days,Recharge of Rs. 41 by Vodafone,140 MB 2G Data
-17103,58,,7 days,Recharge of Rs. 58 by Vodafone,330 MB 2G DATA
-17104,75,,9 days,Recharge of Rs. 75 by Vodafone,425 MB data Usage
-17105,123,,15 days,Recharge of Rs. 123 by Vodafone,700 MB 2G DATA
-17107,155,,21 days,Recharge of Rs. 155 by Vodafone,900 MB data Usage
-17108,178,,30 days,Recharge of Rs. 178 by Vodafone,1GB 2G 
-17109,296,,60 days,Recharge of Rs. 296 by Vodafone,2GB 2G Data Usage
+id,cost,talktime,validity,comments
+17100,14,,2 days,80 MB data Usage
+17101,36,,5 days,200 MB 2G DATA
+17102,41,,28 days,140 MB 2G Data
+17103,58,,7 days,330 MB 2G DATA
+17104,75,,9 days,425 MB data Usage
+17105,123,,15 days,700 MB 2G DATA
+17107,155,,21 days,900 MB data Usage
+17108,178,,30 days,1GB 2G 
+17109,296,,60 days,2GB 2G Data Usage

@@ -1,41 +1,41 @@
-id,cost,talktime,validity,short description,long description
-14235,18,,2 days,Recharge of Rs. 18 by RelianceGSM,70 MB Data -- Applicable for Smartphone Users Only
-14236,23,,2 days,Recharge of Rs. 23 by RelianceGSM,1 GB 3G  Data -- Applicable for Smartphone Users Only
-14237,31,,28 days,Recharge of Rs. 31 by RelianceGSM,100 MB 3G Data -- Applicable for Smartphone Users Only
-14238,38,,5 days,Recharge of Rs. 38 by RelianceGSM,135 MB Data -- Applicable for Smartphone Users Only
-14239,64,,60 days,Recharge of Rs. 64 by RelianceGSM,150 MB 3G  Data -- Applicable for Smartphone Users Only
-14240,76,,5 days,Recharge of Rs. 76 by RelianceGSM,250 MB 3G  Data -- Applicable for Smartphone Users Only
-14241,86,,3 days,Recharge of Rs. 86 by RelianceGSM,400 MB
-14242,89,,28 days,Recharge of Rs. 89 by RelianceGSM,1 GB/ Day 3G Data
-14243,95,,28 days,Recharge of Rs. 95 by RelianceGSM,300 MB 3G Data -- Applicable for Smartphone Users Only
-14244,123,,7 days,Recharge of Rs. 123 by RelianceGSM,1 GB 3G Data -- Applicable for Smartphone Users Only
-14245,143,,7 days,Recharge of Rs. 143 by RelianceGSM,750MB 3G data. Unused data quota will be forfeited.
-14246,152,,28 days,Recharge of Rs. 152 by RelianceGSM,Unltd Local & STD R-R Calls -- 3 GB 3G Data -- All R -Others calls @1p/sec -- Free Incoming Roaming
-14247,153,,14 days,Recharge of Rs. 153 by RelianceGSM,1 GB 3G Data -- 60 mins calls to any network/Day 
-14248,177,,14 days,Recharge of Rs. 177 by RelianceGSM,1 GB Data -- Applicable for Smartphone Users Only
-14249,192,,21 days,Recharge of Rs. 192 by RelianceGSM,1GB Data
-14250,198,,28 days,Recharge of Rs. 198 by RelianceGSM,1 GB Data -- Applicable for Smartphone Users Only
-14251,209,,28 days,Recharge of Rs. 209 by RelianceGSM,1.1 GB 3G Data -- Applicable for Smartphone Users Only
-14252,243,,28 days,Recharge of Rs. 243 by RelianceGSM,1.25 GB 3G Data. Unused data quota will be forfeited.
-14253,246,,28 days,Recharge of Rs. 246 by RelianceGSM,1.5 GB Data -- Applicable for Smartphone Users Only
-14254,252,,28 days,Recharge of Rs. 252 by RelianceGSM,1GB Data
-14255,255,,28 days,Recharge of Rs. 255 by RelianceGSM,2 GB 3G All time + 2 GB 3G Night data (12-6am) -- Applicable for Smartphone Users Only
-14256,299,,28 days,Recharge of Rs. 299 by RelianceGSM,3 GB 3G All time + 3 GB 3G Night data (12-6am) -- Applicable for Smartphone Users Only
-14257,303,,28 days,Recharge of Rs. 303 by RelianceGSM,1 GB 3G Data -- 60 mins calls to any network/Day
-14258,343,,28 days,Recharge of Rs. 343 by RelianceGSM,2GB 3G Data. Unused data quota will be forfeited.
-14259,375,,30 days,Recharge of Rs. 375 by RelianceGSM,2.75 GB Data -- Applicable for Dongle users only
-14260,442,,60 days,Recharge of Rs. 442 by RelianceGSM,3 GB Data -- Applicable for Smartphone Users Only
-14261,492,,28 days,Recharge of Rs. 492 by RelianceGSM,4 GB Data -- Applicable for Smartphone Users Only
-14262,493,,28 days,Recharge of Rs. 493 by RelianceGSM,3GB 3G Data. Unused data quota will be forfeited.
-14263,495,,28 days,Recharge of Rs. 495 by RelianceGSM,5 GB 3G Data -- Data can be used with Dongle/smartphone -- Applicable for Dongle users only
-14264,499,,30 days,Recharge of Rs. 499 by RelianceGSM,4 GB Data -- Applicable for Dongle users only
-14265,555,,90 days,Recharge of Rs. 555 by RelianceGSM,1GB 3G Data + 60 mins calls to any network / Day
-14266,649,,60 days,Recharge of Rs. 649 by RelianceGSM,5 GB Data -- Applicable for Dongle users only
-14267,693,,28 days,Recharge of Rs. 693 by RelianceGSM,5GB 3G Data. Unused data quota will be forfeited.
-14268,786,,180 days,Recharge of Rs. 786 by RelianceGSM,Get 1GB/ DAY 3G Data 
-14269,849,,30 days,Recharge of Rs. 849 by RelianceGSM,Unlimited 5 GB Data -- Applicable for Dongle users only
-14270,1297,,28 days,Recharge of Rs. 1297 by RelianceGSM,10Gb 3G Data. Unused data quota will be forfeited.
-14271,1399,,30 days,Recharge of Rs. 1399 by RelianceGSM,Unlimited 10 GB Data -- Applicable for Dongle users only
-14272,1499,,90 days,Recharge of Rs. 1499 by RelianceGSM,10 GB Data -- Applicable for Dongle users only
-14273,1749,,30 days,Recharge of Rs. 1749 by RelianceGSM,Unlimited 15 GB Data -- Applicable for Dongle users only
-14274,2999,,180 days,Recharge of Rs. 2999 by RelianceGSM,20 GB Data -- Applicable for Dongle users only
+id,cost,talktime,validity,comments
+14235,18,,2 days,70 MB Data -- Applicable for Smartphone Users Only
+14236,23,,2 days,1 GB 3G  Data -- Applicable for Smartphone Users Only
+14237,31,,28 days,100 MB 3G Data -- Applicable for Smartphone Users Only
+14238,38,,5 days,135 MB Data -- Applicable for Smartphone Users Only
+14239,64,,60 days,150 MB 3G  Data -- Applicable for Smartphone Users Only
+14240,76,,5 days,250 MB 3G  Data -- Applicable for Smartphone Users Only
+14241,86,,3 days,400 MB
+14242,89,,28 days,1 GB/ Day 3G Data
+14243,95,,28 days,300 MB 3G Data -- Applicable for Smartphone Users Only
+14244,123,,7 days,1 GB 3G Data -- Applicable for Smartphone Users Only
+14245,143,,7 days,750MB 3G data. Unused data quota will be forfeited.
+14246,152,,28 days,Unltd Local & STD R-R Calls -- 3 GB 3G Data -- All R -Others calls @1p/sec -- Free Incoming Roaming
+14247,153,,14 days,1 GB 3G Data -- 60 mins calls to any network/Day 
+14248,177,,14 days,1 GB Data -- Applicable for Smartphone Users Only
+14249,192,,21 days,1GB Data
+14250,198,,28 days,1 GB Data -- Applicable for Smartphone Users Only
+14251,209,,28 days,1.1 GB 3G Data -- Applicable for Smartphone Users Only
+14252,243,,28 days,1.25 GB 3G Data. Unused data quota will be forfeited.
+14253,246,,28 days,1.5 GB Data -- Applicable for Smartphone Users Only
+14254,252,,28 days,1GB Data
+14255,255,,28 days,2 GB 3G All time + 2 GB 3G Night data (12-6am) -- Applicable for Smartphone Users Only
+14256,299,,28 days,3 GB 3G All time + 3 GB 3G Night data (12-6am) -- Applicable for Smartphone Users Only
+14257,303,,28 days,1 GB 3G Data -- 60 mins calls to any network/Day
+14258,343,,28 days,2GB 3G Data. Unused data quota will be forfeited.
+14259,375,,30 days,2.75 GB Data -- Applicable for Dongle users only
+14260,442,,60 days,3 GB Data -- Applicable for Smartphone Users Only
+14261,492,,28 days,4 GB Data -- Applicable for Smartphone Users Only
+14262,493,,28 days,3GB 3G Data. Unused data quota will be forfeited.
+14263,495,,28 days,5 GB 3G Data -- Data can be used with Dongle/smartphone -- Applicable for Dongle users only
+14264,499,,30 days,4 GB Data -- Applicable for Dongle users only
+14265,555,,90 days,1GB 3G Data + 60 mins calls to any network / Day
+14266,649,,60 days,5 GB Data -- Applicable for Dongle users only
+14267,693,,28 days,5GB 3G Data. Unused data quota will be forfeited.
+14268,786,,180 days,Get 1GB/ DAY 3G Data 
+14269,849,,30 days,Unlimited 5 GB Data -- Applicable for Dongle users only
+14270,1297,,28 days,10Gb 3G Data. Unused data quota will be forfeited.
+14271,1399,,30 days,Unlimited 10 GB Data -- Applicable for Dongle users only
+14272,1499,,90 days,10 GB Data -- Applicable for Dongle users only
+14273,1749,,30 days,Unlimited 15 GB Data -- Applicable for Dongle users only
+14274,2999,,180 days,20 GB Data -- Applicable for Dongle users only

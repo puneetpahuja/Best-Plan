@@ -1,35 +1,35 @@
-id,cost,talktime,validity,short description,long description
-17325,11,,1 day,Recharge of Rs. 11 by Vodafone,30MB @3G/4G speed. Post 30 MB you will be charged 4p/10kb
-17326,16,,1 day,Recharge of Rs. 16 by Vodafone,60 MB 3G/4G Data 
-17327,18,,1 hour,Recharge of Rs. 18 by Vodafone,Unlimited 4G/3G data
-17328,29,,3 days,Recharge of Rs. 29 by Vodafone,110 MB 3G/4G Data 
-17329,31,,28 days,Recharge of Rs. 31 by Vodafone,100 MB for 3G/4G Data
-17330,32,,1 day,Recharge of Rs. 32 by Vodafone,Unlimited 3G/4G Night data (from 1am to 6am)
-17331,39,,4 days,Recharge of Rs. 39 by Vodafone,155 MB 3G/4G Data 
-17332,49,,5 days,Recharge of Rs. 49 by Vodafone,200MB 3G/4G data
-17333,51,,1 day,Recharge of Rs. 51 by Vodafone,1 GB  3G/4G Data
-17334,69,,7 days,Recharge of Rs. 69 by Vodafone,280 MB 3G/4G Data 
-17335,89,,10 days,Recharge of Rs. 89 by Vodafone,350 MB 3G/4G Data 
-17336,94,,5 days,Recharge of Rs. 94 by Vodafone,1 GB  3G/4G Data
-17337,101,,28 days,Recharge of Rs. 101 by Vodafone,250 MB 3G/4G Data
-17338,148,,28 days,Recharge of Rs. 148 by Vodafone,Local + STD Vodafone to Vodafone mobile calls free -- 2 GB 3G/4G data ( 4G H/s + 4G Sim ) / 300 MB 3G/4G Data for 4G Handset / 50MB 3G/4G data for Non 4G
-17339,149,,14 days,Recharge of Rs. 149 by Vodafone,600 MB 3G/4G Data
-17340,151,,28 days,Recharge of Rs. 151 by Vodafone,500 MB 3G/4G Data 
-17341,177,,28 days,Recharge of Rs. 177 by Vodafone,450MB 3G/4G .Post 450 MB you will be charged 4p/10kb
-17342,179,,28 days,Recharge of Rs. 179 by Vodafone,1GB @2G/3G/4G speed. Post 1 GB you will be charged 4p/10kb
-17344,198,,21 days,Recharge of Rs. 198 by Vodafone,800 MB 3G/4G Data
-17345,251,,28 days,Recharge of Rs. 251 by Vodafone,2 GB 3G/4G Speed. Post 2GB you will be charged 4p/10kb
-17346,254,,28 days,Recharge of Rs. 254 by Vodafone,1.5 GB 3G/4G Data Speed. Post 1.5GB you will be charged 4p/10kb
-17347,299,,28 days,Recharge of Rs. 299 by Vodafone,Get assured benefit of 1.75GB and upto 10GB 3G/4G Internet with hero recharge.
-17348,348,,28 days,Recharge of Rs. 348 by Vodafone,1GB/Day 4G/3G Data -- Unlimited ALL Mobile & Landline Calls. Limited Period Offer for ALL Handsets
-17349,349,,28 days,Recharge of Rs. 349 by Vodafone,3 GB 3G/4G data 
-17350,355,,28 days,Recharge of Rs. 355 by Vodafone,2.5 GB 3G/4G Data Speed. Post 2.5GB you will be charged 4p/10kb
-17351,449,,28 days,Recharge of Rs. 449 by Vodafone,4 GB 3G/4G data
-17352,499,,28 days,Recharge of Rs. 499 by Vodafone,Instant 2 GB 4G/3G Data (28 Days) -- For next 6 months get 1 GB 3G/4G data with 28 days validity @ just Rs 121
-17353,649,,28 days,Recharge of Rs. 649 by Vodafone,6.6 GB 3G/4G data 
-17354,989,,28 days,Recharge of Rs. 989 by Vodafone,11 GB 3G/4G data 
-17355,1499,,28 days,Recharge of Rs. 1499 by Vodafone,16 GB 3G/4G data
-17356,1999,,28 days,Recharge of Rs. 1999 by Vodafone,20 GB of 3G/4G Data
-17357,23,,1 day,Recharge of Rs. 23 by Vodafone,"Unlimited local + std V2V calls -- 100 MB 3G/4G Data (4G Handset), 50 MB for Other Handset"
-17358,55,,7 days,Recharge of Rs. 55 by Vodafone,"Unlimited local + std V2V calls -- 250 MB 3G/4G Data (4G Handset), 50 MB for Other Handset"
-17359,93,,7 days,Recharge of Rs. 93 by Vodafone,"Unlimited local + std V2V + 100 Min V2O local + std calls -- 250 MB 3G/4G Data (4G Handset), 50 MB for Other Handset"
+id,cost,talktime,validity,comments
+17325,11,,1 day,30MB @3G/4G speed. Post 30 MB you will be charged 4p/10kb
+17326,16,,1 day,60 MB 3G/4G Data 
+17327,18,,1 hour,Unlimited 4G/3G data
+17328,29,,3 days,110 MB 3G/4G Data 
+17329,31,,28 days,100 MB for 3G/4G Data
+17330,32,,1 day,Unlimited 3G/4G Night data (from 1am to 6am)
+17331,39,,4 days,155 MB 3G/4G Data 
+17332,49,,5 days,200MB 3G/4G data
+17333,51,,1 day,1 GB  3G/4G Data
+17334,69,,7 days,280 MB 3G/4G Data 
+17335,89,,10 days,350 MB 3G/4G Data 
+17336,94,,5 days,1 GB  3G/4G Data
+17337,101,,28 days,250 MB 3G/4G Data
+17338,148,,28 days,Local + STD Vodafone to Vodafone mobile calls free -- 2 GB 3G/4G data ( 4G H/s + 4G Sim ) / 300 MB 3G/4G Data for 4G Handset / 50MB 3G/4G data for Non 4G
+17339,149,,14 days,600 MB 3G/4G Data
+17340,151,,28 days,500 MB 3G/4G Data 
+17341,177,,28 days,450MB 3G/4G .Post 450 MB you will be charged 4p/10kb
+17342,179,,28 days,1GB @2G/3G/4G speed. Post 1 GB you will be charged 4p/10kb
+17344,198,,21 days,800 MB 3G/4G Data
+17345,251,,28 days,2 GB 3G/4G Speed. Post 2GB you will be charged 4p/10kb
+17346,254,,28 days,1.5 GB 3G/4G Data Speed. Post 1.5GB you will be charged 4p/10kb
+17347,299,,28 days,Get assured benefit of 1.75GB and upto 10GB 3G/4G Internet with hero recharge.
+17348,348,,28 days,1GB/Day 4G/3G Data -- Unlimited ALL Mobile & Landline Calls. Limited Period Offer for ALL Handsets
+17349,349,,28 days,3 GB 3G/4G data 
+17350,355,,28 days,2.5 GB 3G/4G Data Speed. Post 2.5GB you will be charged 4p/10kb
+17351,449,,28 days,4 GB 3G/4G data
+17352,499,,28 days,Instant 2 GB 4G/3G Data (28 Days) -- For next 6 months get 1 GB 3G/4G data with 28 days validity @ just Rs 121
+17353,649,,28 days,6.6 GB 3G/4G data 
+17354,989,,28 days,11 GB 3G/4G data 
+17355,1499,,28 days,16 GB 3G/4G data
+17356,1999,,28 days,20 GB of 3G/4G Data
+17357,23,,1 day,"Unlimited local + std V2V calls -- 100 MB 3G/4G Data (4G Handset), 50 MB for Other Handset"
+17358,55,,7 days,"Unlimited local + std V2V calls -- 250 MB 3G/4G Data (4G Handset), 50 MB for Other Handset"
+17359,93,,7 days,"Unlimited local + std V2V + 100 Min V2O local + std calls -- 250 MB 3G/4G Data (4G Handset), 50 MB for Other Handset"

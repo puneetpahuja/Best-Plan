@@ -1,17 +1,17 @@
-id,cost,talktime,validity,short description,long description
-13532,9,,1 day,Recharge of Rs. 9 by RelianceGSM,50 MB 2G valid for 1 Day (Same Day)
-13533,18,,3 days,Recharge of Rs. 18 by RelianceGSM,100 MB Data
-13534,27,,4 days,Recharge of Rs. 27 by RelianceGSM,150 MB 2G Data
-13536,44,,7 days,Recharge of Rs. 44 by RelianceGSM,250 MB 2G Data
-13537,48,,28 days,Recharge of Rs. 48 by RelianceGSM,125 MB 2G Data
-13538,56,,7 days,Recharge of Rs. 56 by RelianceGSM,300 MB
-13539,62,,10 days,Recharge of Rs. 62 by RelianceGSM,350 MB 2G Data
-13540,88,,10 days,Recharge of Rs. 88 by RelianceGSM,500 MB 2G Data
-13541,93,,7 days,Recharge of Rs. 93 by RelianceGSM,500 MB
-13542,99,,14 days,Recharge of Rs. 99 by RelianceGSM,500 MB 2G Data
-13543,125,,18 days,Recharge of Rs. 125 by RelianceGSM,700 MB 2G Data
-13544,147,,28 days,Recharge of Rs. 147 by RelianceGSM,1 GB/ Day 2G Data
-13545,151,,21 days,Recharge of Rs. 151 by RelianceGSM,600 MB
-13546,175,,28 days,Recharge of Rs. 175 by RelianceGSM,1 GB 2G Data
-13548,195,,28 days,Recharge of Rs. 195 by RelianceGSM,1.5 GB 2G Data
-13551,365,,366 days,Recharge of Rs. 365 by RelianceGSM,1GB 2G Data Per Day
+id,cost,talktime,validity,comments
+13532,9,,1 day,50 MB 2G valid for 1 Day (Same Day)
+13533,18,,3 days,100 MB Data
+13534,27,,4 days,150 MB 2G Data
+13536,44,,7 days,250 MB 2G Data
+13537,48,,28 days,125 MB 2G Data
+13538,56,,7 days,300 MB
+13539,62,,10 days,350 MB 2G Data
+13540,88,,10 days,500 MB 2G Data
+13541,93,,7 days,500 MB
+13542,99,,14 days,500 MB 2G Data
+13543,125,,18 days,700 MB 2G Data
+13544,147,,28 days,1 GB/ Day 2G Data
+13545,151,,21 days,600 MB
+13546,175,,28 days,1 GB 2G Data
+13548,195,,28 days,1.5 GB 2G Data
+13551,365,,366 days,1GB 2G Data Per Day

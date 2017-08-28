@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-2798,76,76,7 days,Recharge of Rs. 76 by Airtel,2 Local Airtel to Airtel Night SMS (Val 2 days)
-2799,222,222,N.A,Recharge of Rs. 222 by Airtel,2 Local Airtel to Airtel Night SMS (2 days)
-2801,333,333,N.A,Recharge of Rs. 333 by Airtel,2 Local Airtel to Airtel Night SMS (2 Days)
-2804,555,555,N.A,Recharge of Rs. 555 by Airtel,2 Local Airtel to Airtel Night SMS (2 Days)
-2805,779,779,7 days,Recharge of Rs. 779 by Airtel,Outgoing Rs 40/min and Incoming Rs 30/min. Applicable only on selected countries and Operators
-2814,24,17.94,N.A,Recharge of Rs. 24 by Airtel,2 Night Local A2A Minutes (Valid 2 days)
-2817,45,43,7 days,Recharge of Rs. 45 by Airtel,10 Night Local A2A SMS 
-2819,56,44.46,N.A,Recharge of Rs. 56 by Airtel,2 Night Local A2A Minutes (Valid 2 days)
-2842,23,,1 day,Recharge of Rs. 23 by Airtel,Unlimited Local +STD A2A calls -- 100 MB Data for 4G HS /other HS 50 MB 
-2843,53,,7 days,Recharge of Rs. 53 by Airtel,Unlimited Local +STD A2A calls -- 250 MB Data for 4G HS /other HS 50 MB 
-2844,93,,7 days,Recharge of Rs. 93 by Airtel,Unlimited Local +STD A2A + 100 OFFNET MINS -- 250 MB Data for 4G HS /other HS 50 MB 
-2845,244,,28 days,Recharge of Rs. 244 by Airtel,"Unlimited Local + STD Airtel to Airtel Mobile calls -- 50 MB data.For 4G Handset+ 4G SIM,extra 1GB Data -- T&C apply"
-2924,103,,7 days,Recharge of Rs. 103 by Airtel,BlackBerry Messager 70MB
+id,cost,talktime,validity,comments
+2798,76,76,7 days,2 Local Airtel to Airtel Night SMS (Val 2 days)
+2799,222,222,N.A,2 Local Airtel to Airtel Night SMS (2 days)
+2801,333,333,N.A,2 Local Airtel to Airtel Night SMS (2 Days)
+2804,555,555,N.A,2 Local Airtel to Airtel Night SMS (2 Days)
+2805,779,779,7 days,Outgoing Rs 40/min and Incoming Rs 30/min. Applicable only on selected countries and Operators
+2814,24,17.94,N.A,2 Night Local A2A Minutes (Valid 2 days)
+2817,45,43,7 days,10 Night Local A2A SMS 
+2819,56,44.46,N.A,2 Night Local A2A Minutes (Valid 2 days)
+2842,23,,1 day,Unlimited Local +STD A2A calls -- 100 MB Data for 4G HS /other HS 50 MB 
+2843,53,,7 days,Unlimited Local +STD A2A calls -- 250 MB Data for 4G HS /other HS 50 MB 
+2844,93,,7 days,Unlimited Local +STD A2A + 100 OFFNET MINS -- 250 MB Data for 4G HS /other HS 50 MB 
+2845,244,,28 days,"Unlimited Local + STD Airtel to Airtel Mobile calls -- 50 MB data.For 4G Handset+ 4G SIM,extra 1GB Data -- T&C apply"
+2924,103,,7 days,BlackBerry Messager 70MB

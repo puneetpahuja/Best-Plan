@@ -1,21 +1,21 @@
-id,cost,talktime,validity,short description,long description
-16251,23,,3 days,Recharge of Rs. 23 by Vodafone,90 MB 3G Data
-16252,43,,5 days,Recharge of Rs. 43 by Vodafone,170 MB 3G data
-16253,64,,7 days,Recharge of Rs. 64 by Vodafone,260 MB 3G Data 
-16254,99,,28 days,Recharge of Rs. 99 by Vodafone,250 MB 3G data
-16255,102,,10 days,Recharge of Rs. 102 by Vodafone,410 MB free 3G data
-16256,147,,14 days,Recharge of Rs. 147 by Vodafone,575 MB 3G data
-16257,176,,28 days,Recharge of Rs. 176 by Vodafone,1GB 3G DATA
-16258,251,,28 days,Recharge of Rs. 251 by Vodafone,2 GB free 3G data 
-16259,252,,28 days,Recharge of Rs. 252 by Vodafone,1 GB free 3G Data -- 1 V2V min
-16260,297,,28 days,Recharge of Rs. 297 by Vodafone,1.25 GB 3G Data
-16261,345,,28 days,Recharge of Rs. 345 by Vodafone,1 GB 3G Data in Day + Extra 2GB 3G Night Data (12AM to 6AM)
-16262,348,,28 days,Recharge of Rs. 348 by Vodafone,3 GB free 3G data
-16263,375,,28 days,Recharge of Rs. 375 by Vodafone,1.5 GB 3G data
-16264,449,,28 days,Recharge of Rs. 449 by Vodafone,4 GB free 3G data
-16265,545,,28 days,Recharge of Rs. 545 by Vodafone,2 GB 3G Data in Day + Extra 3 GB 3G Night Data (12AM to 6AM)
-16266,649,,28 days,Recharge of Rs. 649 by Vodafone,6.5 GB free 3G data
-16268,749,,28 days,Recharge of Rs. 749 by Vodafone,7.5 GB free 3G data
-16270,849,,28 days,Recharge of Rs. 849 by Vodafone,8.5 GB free 3G data
-16271,899,,28 days,Recharge of Rs. 899 by Vodafone,5GB 3G Data in Day + Extra 5GB 3G Night Data (12AM to 6AM)
-16272,998,,28 days,Recharge of Rs. 998 by Vodafone,11 GB free 3G data
+id,cost,talktime,validity,comments
+16251,23,,3 days,90 MB 3G Data
+16252,43,,5 days,170 MB 3G data
+16253,64,,7 days,260 MB 3G Data 
+16254,99,,28 days,250 MB 3G data
+16255,102,,10 days,410 MB free 3G data
+16256,147,,14 days,575 MB 3G data
+16257,176,,28 days,1GB 3G DATA
+16258,251,,28 days,2 GB free 3G data 
+16259,252,,28 days,1 GB free 3G Data -- 1 V2V min
+16260,297,,28 days,1.25 GB 3G Data
+16261,345,,28 days,1 GB 3G Data in Day + Extra 2GB 3G Night Data (12AM to 6AM)
+16262,348,,28 days,3 GB free 3G data
+16263,375,,28 days,1.5 GB 3G data
+16264,449,,28 days,4 GB free 3G data
+16265,545,,28 days,2 GB 3G Data in Day + Extra 3 GB 3G Night Data (12AM to 6AM)
+16266,649,,28 days,6.5 GB free 3G data
+16268,749,,28 days,7.5 GB free 3G data
+16270,849,,28 days,8.5 GB free 3G data
+16271,899,,28 days,5GB 3G Data in Day + Extra 5GB 3G Night Data (12AM to 6AM)
+16272,998,,28 days,11 GB free 3G data

@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-10937,11,,90 days,Recharge of Rs. 11 by Idea,Local I2I call @ 10p/min -- Applicable only for new subscribers as FRC/SRC
-10938,52,,28 days,Recharge of Rs. 52 by Idea,1 GB 4G/3G. Applicable ONE TIME for new customers for first 15 days of activation -- Overage: 4p/10KB -- Applicable only for new subscribers as FRC/SRC
+id,cost,talktime,validity,comments
+10937,11,,90 days,Local I2I call @ 10p/min -- Applicable only for new subscribers as FRC/SRC
+10938,52,,28 days,1 GB 4G/3G. Applicable ONE TIME for new customers for first 15 days of activation -- Overage: 4p/10KB -- Applicable only for new subscribers as FRC/SRC

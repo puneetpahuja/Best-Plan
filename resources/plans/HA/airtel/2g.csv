@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-2300,26,,4 days,Recharge of Rs. 26 by Airtel,"150 MB 2G Data -- (Data share/cashback excluded,3G/4G data accumulation not applicable)"
-2302,98,,14 days,Recharge of Rs. 98 by Airtel,"560 MB 2G Data -- Data share/cashback excluded, 3G/4G data accumulation not applicable"
-2303,245,,27 days,Recharge of Rs. 245 by Airtel,Unlimited 2 GB 2G Data
-2304,296,,28 days,Recharge of Rs. 296 by Airtel,"3 GB 2G Unlimited @40 Kbps -- Data share/cashback excluded,3G/4G data accumulation not applicable"
+id,cost,talktime,validity,comments
+2300,26,,4 days,"150 MB 2G Data -- (Data share/cashback excluded,3G/4G data accumulation not applicable)"
+2302,98,,14 days,"560 MB 2G Data -- Data share/cashback excluded, 3G/4G data accumulation not applicable"
+2303,245,,27 days,Unlimited 2 GB 2G Data
+2304,296,,28 days,"3 GB 2G Unlimited @40 Kbps -- Data share/cashback excluded,3G/4G data accumulation not applicable"

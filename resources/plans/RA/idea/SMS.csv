@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-11604,9,,7 days,Recharge of Rs. 9 by Idea,90 Local/National SMS
-11605,18,,30 days,Recharge of Rs. 18 by Idea,200 Local/National SMS
-11606,21,,30 days,Recharge of Rs. 21 by Idea,230 Local/National SMS
-11607,34,,30 days,Recharge of Rs. 34 by Idea,375 Local/National SMS
-11608,45,,30 days,Recharge of Rs. 45 by Idea,500 Local/National SMS
-11609,63,,28 days,Recharge of Rs. 63 by Idea,100 Local/National SMS/Day
-11610,68,,30 days,Recharge of Rs. 68 by Idea,FREE 750 Local/National SMS
-11611,85,,30 days,Recharge of Rs. 85 by Idea,FREE 950 Local/National SMS
-11612,103,,30 days,Recharge of Rs. 103 by Idea,FREE 1150 Local/National SMS
+id,cost,talktime,validity,comments
+11604,9,,7 days,90 Local/National SMS
+11605,18,,30 days,200 Local/National SMS
+11606,21,,30 days,230 Local/National SMS
+11607,34,,30 days,375 Local/National SMS
+11608,45,,30 days,500 Local/National SMS
+11609,63,,28 days,100 Local/National SMS/Day
+11610,68,,30 days,FREE 750 Local/National SMS
+11611,85,,30 days,FREE 950 Local/National SMS
+11612,103,,30 days,FREE 1150 Local/National SMS

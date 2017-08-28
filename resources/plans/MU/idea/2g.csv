@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-10977,17,,2 days,Recharge of Rs. 17 by Idea,100 MB Data -- Overage: 4p/10KB  -- 
-10978,28,,4 days,Recharge of Rs. 28 by Idea,160 MB Data -- Overage: 4p/10kb -- 
-10979,38,,28 days,Recharge of Rs. 38 by Idea,200 MB Data -- Overage: 4p/10kb -- 
-10980,52,,7 days,Recharge of Rs. 52 by Idea,300 MB Data -- Overage: 4p/10kb  -- 
-10981,79,,28 days,Recharge of Rs. 79 by Idea,1GB 2G data for 28 Days -- Overage: 4p/10KB --  -- Available only after Long Term Plan Recharge of MRP 499 and MRP 255. Applicable for next 6 months
-10982,98,,14 days,Recharge of Rs. 98 by Idea,550 MB Data -- Overage: 4p/10Kb -- 
-10983,199,,28 days,Recharge of Rs. 199 by Idea,2 GB Unlimited -- FUP limit: Speed 2GB-3GB: 40 kbps; 20 kbps thereafter -- 
-10984,249,,28 days,Recharge of Rs. 249 by Idea,3 GB Unlimited -- FUP limit: Speed 3GB-4GB: 40 kbps; 20 kbps thereafter
-10986,499,,6 months,Recharge of Rs. 499 by Idea,Instant 2.5 GB 2G Data (28 Days) -- For 6 Months enjoy 1 GB 2G data (28 Days) @Rs.79 -- Overage: 4p/10KB
+id,cost,talktime,validity,comments
+10977,17,,2 days,100 MB Data -- Overage: 4p/10KB  -- 
+10978,28,,4 days,160 MB Data -- Overage: 4p/10kb -- 
+10979,38,,28 days,200 MB Data -- Overage: 4p/10kb -- 
+10980,52,,7 days,300 MB Data -- Overage: 4p/10kb  -- 
+10981,79,,28 days,1GB 2G data for 28 Days -- Overage: 4p/10KB --  -- Available only after Long Term Plan Recharge of MRP 499 and MRP 255. Applicable for next 6 months
+10982,98,,14 days,550 MB Data -- Overage: 4p/10Kb -- 
+10983,199,,28 days,2 GB Unlimited -- FUP limit: Speed 2GB-3GB: 40 kbps; 20 kbps thereafter -- 
+10984,249,,28 days,3 GB Unlimited -- FUP limit: Speed 3GB-4GB: 40 kbps; 20 kbps thereafter
+10986,499,,6 months,Instant 2.5 GB 2G Data (28 Days) -- For 6 Months enjoy 1 GB 2G data (28 Days) @Rs.79 -- Overage: 4p/10KB

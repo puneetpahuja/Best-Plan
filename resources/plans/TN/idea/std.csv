@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-11867,5,,7 days,Recharge of Rs. 5 by Idea,STD Mob calling @ 30p/min
-11868,28,,30 days,Recharge of Rs. 28 by Idea,STD Mobile calling @ 25p/min
-11869,38,,30 days,Recharge of Rs. 38 by Idea,STD Mobile calling @ 25p/min
-11870,42,,60 days,Recharge of Rs. 42 by Idea,STD Mob calling @ 30p/min
-11871,57,,90 days,Recharge of Rs. 57 by Idea,STD Mob calling @ 30p/min
-11872,84,,90 days,Recharge of Rs. 84 by Idea,STD Mob calling @ 25p/min
+id,cost,talktime,validity,comments
+11867,5,,7 days,STD Mob calling @ 30p/min
+11868,28,,30 days,STD Mobile calling @ 25p/min
+11869,38,,30 days,STD Mobile calling @ 25p/min
+11870,42,,60 days,STD Mob calling @ 30p/min
+11871,57,,90 days,STD Mob calling @ 30p/min
+11872,84,,90 days,STD Mob calling @ 25p/min

@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-11544,5,,3 days,Recharge of Rs. 5 by Idea,Roaming OG Calls (Local +STD) @ Rs 0.60/min & Incoming calls FREE
-11545,32,,30 days,Recharge of Rs. 32 by Idea,Roaming OG Calls (Local +STD) @ Rs 0.50/min & Incoming calls FREE 
-11546,71,,90 days,Recharge of Rs. 71 by Idea,Roaming OG Calls (Local +STD) @ Rs 0.50/min & Incoming calls FREE 
+id,cost,talktime,validity,comments
+11544,5,,3 days,Roaming OG Calls (Local +STD) @ Rs 0.60/min & Incoming calls FREE
+11545,32,,30 days,Roaming OG Calls (Local +STD) @ Rs 0.50/min & Incoming calls FREE 
+11546,71,,90 days,Roaming OG Calls (Local +STD) @ Rs 0.50/min & Incoming calls FREE 

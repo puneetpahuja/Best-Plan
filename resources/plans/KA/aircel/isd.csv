@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-581,27,,28 days,Recharge of Rs. 27 by Aircel,"US/Canada/UK(F) @ 1p/secNepal @ 12p/sec( Nepal 977980 series@15p/s)Bangladesh @ 3p/secChina/Malaysia(F)/Singapore/South Korea(F) @ 1.5p/secSaudi Arabia/Sri Lanka/ Pakistan/Kuwait @ 12p/secFrance(F)/Hungary(F)/Italy(F),Sweden (F)/Ireland (F) @1p/secNigeria@16p/sCongo DR@59p/sSudan@27p/s"
+id,cost,talktime,validity,comments
+581,27,,28 days,"US/Canada/UK(F) @ 1p/secNepal @ 12p/sec( Nepal 977980 series@15p/s)Bangladesh @ 3p/secChina/Malaysia(F)/Singapore/South Korea(F) @ 1.5p/secSaudi Arabia/Sri Lanka/ Pakistan/Kuwait @ 12p/secFrance(F)/Hungary(F)/Italy(F),Sweden (F)/Ireland (F) @1p/secNigeria@16p/sCongo DR@59p/sSudan@27p/s"

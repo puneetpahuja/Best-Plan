@@ -1,19 +1,19 @@
-id,cost,talktime,validity,short description,long description
-9490,7,,1 day,Recharge of Rs. 7 by Idea,40 MB Data -- Overage: 4p/10Kb -- 
-9492,14,,2 days,Recharge of Rs. 14 by Idea,80 MB Data -- Overage: 4p/10Kb -- 
-9493,19,,3 days,Recharge of Rs. 19 by Idea,90 MB Data -- Overage: 4p/10Kb
-9495,28,,3 days,Recharge of Rs. 28 by Idea,160 MB Data -- Overage: 4p/10Kb  -- 
-9496,36,,28 days,Recharge of Rs. 36 by Idea,180 MB Data -- Overage: 4p/10Kb
-9499,51,,2 days,Recharge of Rs. 51 by Idea,1GB 4G/2G -- Overage: 4p/10KB
-9501,56,,28 days,Recharge of Rs. 56 by Idea,1 GB 2G data -- Overage: 4p/10KB  -- Available only after Long Term Plan Recharge of MRP 747
-9503,74,,28 days,Recharge of Rs. 74 by Idea,1 GB 2G Data -- Overage: 4p/10KB -- Available only after Long Term Plan Recharge of MRP 489
-9504,74,,28 days,Recharge of Rs. 74 by Idea,1 GB 2G Data Data -- Overage: 4p/10KB -- Available only after Long Term Plan Recharge of MRP 247
-9505,96,,14 days,Recharge of Rs. 96 by Idea,500 MB Data -- Overage: 4p/10Kb
-9506,98,,28 days,Recharge of Rs. 98 by Idea,300 MB 2G -- Overage: 4p/10KB
-9508,125,,15 days,Recharge of Rs. 125 by Idea,500 MB -- Overage: 4p/10Kb -- 
-9509,144,,15 days,Recharge of Rs. 144 by Idea,900 MB Data (Get 5% of MRP as TT on recharges through My Idea App and Idea Website) -- Overage: 4p/10Kb
-9510,148,,21 days,Recharge of Rs. 148 by Idea,920 MB Data -- Overage: 4p/10Kb
-9512,154,,20 days,Recharge of Rs. 154 by Idea,950 MB Data -- Overage: 4p/10Kb
-9514,197,,28 days,Recharge of Rs. 197 by Idea,Unlimited (2 GB) -- FUP limit: Speed post 2GB @ 40kbps -- 
-9522,599,,28 days,Recharge of Rs. 599 by Idea,Unlimited (8 GB) -- FUP limit: Speed post 8GB @ 40kbps
-9524,747,,28 days,Recharge of Rs. 747 by Idea,Instant 5 GB 2G Data -- For 12 months customer gets 1GB 2G data with 28 Days Validity @Rs. 56 -- Overage: 4p/10KB
+id,cost,talktime,validity,comments
+9490,7,,1 day,40 MB Data -- Overage: 4p/10Kb -- 
+9492,14,,2 days,80 MB Data -- Overage: 4p/10Kb -- 
+9493,19,,3 days,90 MB Data -- Overage: 4p/10Kb
+9495,28,,3 days,160 MB Data -- Overage: 4p/10Kb  -- 
+9496,36,,28 days,180 MB Data -- Overage: 4p/10Kb
+9499,51,,2 days,1GB 4G/2G -- Overage: 4p/10KB
+9501,56,,28 days,1 GB 2G data -- Overage: 4p/10KB  -- Available only after Long Term Plan Recharge of MRP 747
+9503,74,,28 days,1 GB 2G Data -- Overage: 4p/10KB -- Available only after Long Term Plan Recharge of MRP 489
+9504,74,,28 days,1 GB 2G Data Data -- Overage: 4p/10KB -- Available only after Long Term Plan Recharge of MRP 247
+9505,96,,14 days,500 MB Data -- Overage: 4p/10Kb
+9506,98,,28 days,300 MB 2G -- Overage: 4p/10KB
+9508,125,,15 days,500 MB -- Overage: 4p/10Kb -- 
+9509,144,,15 days,900 MB Data (Get 5% of MRP as TT on recharges through My Idea App and Idea Website) -- Overage: 4p/10Kb
+9510,148,,21 days,920 MB Data -- Overage: 4p/10Kb
+9512,154,,20 days,950 MB Data -- Overage: 4p/10Kb
+9514,197,,28 days,Unlimited (2 GB) -- FUP limit: Speed post 2GB @ 40kbps -- 
+9522,599,,28 days,Unlimited (8 GB) -- FUP limit: Speed post 8GB @ 40kbps
+9524,747,,28 days,Instant 5 GB 2G Data -- For 12 months customer gets 1GB 2G data with 28 Days Validity @Rs. 56 -- Overage: 4p/10KB

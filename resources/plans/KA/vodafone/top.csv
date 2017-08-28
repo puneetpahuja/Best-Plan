@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-17178,30,22.42,N.A,Recharge of Rs. 30 by Vodafone,Talktime of Rs. 22.42 for Rs. 30 recharge by Vodafone
-17179,50,39.37,N.A,Recharge of Rs. 50 by Vodafone,Talktime of Rs. 39.37 for Rs. 50 recharge by Vodafone
-17180,100,81.75,N.A,Recharge of Rs. 100 by Vodafone,Talktime of Rs. 81.75 for Rs. 100 recharge by Vodafone
-17181,150,124.12,N.A,Recharge of Rs. 150 by Vodafone,Talktime of Rs. 124.12 for Rs. 150 recharge by Vodafone
-17182,200,169.49,N.A,Recharge of Rs. 200 by Vodafone,Talktime of Rs. 169.49 for Rs. 200 recharge by Vodafone
-17183,250,238,N.A,Recharge of Rs. 250 by Vodafone,Talktime of Rs. 238 for Rs. 250 recharge by Vodafone
+id,cost,talktime,validity,comments
+17178,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by Vodafone
+17179,50,39.37,N.A,Talktime of Rs. 39.37 for Rs. 50 recharge by Vodafone
+17180,100,81.75,N.A,Talktime of Rs. 81.75 for Rs. 100 recharge by Vodafone
+17181,150,124.12,N.A,Talktime of Rs. 124.12 for Rs. 150 recharge by Vodafone
+17182,200,169.49,N.A,Talktime of Rs. 169.49 for Rs. 200 recharge by Vodafone
+17183,250,238,N.A,Talktime of Rs. 238 for Rs. 250 recharge by Vodafone

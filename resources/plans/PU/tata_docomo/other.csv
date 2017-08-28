@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-8663,65,68,7 days,Recharge of Rs. 65 by Docomo,5 Local Onnet SMS 
-8665,158,175,28 days,Recharge of Rs. 158 by Docomo,5 Local On-Net mins
-8666,198,198,28 days,Recharge of Rs. 198 by Docomo,1 GB 3G Data -- Talktime: Unlimited Validity
-8670,299,299,28 days,Recharge of Rs. 299 by Docomo,1 GB 3G data
-8674,499,499,56 days,Recharge of Rs. 499 by Docomo,2 GB 3G Data
-8681,998,999,56 days,Recharge of Rs. 998 by Docomo,5 GB 3G Data
-8682,999,999,56 days,Recharge of Rs. 999 by Docomo,2 GB 3G Data -- Talktime unrestricted Validity
-8698,152,90,28 days,Recharge of Rs. 152 by Docomo,1 GB 3G Data -- Talktime: Unlimited
-8703,128,60,90 days,Recharge of Rs. 128 by Docomo,Local On-Net mobile calls @ 30p/ min. -- Local Off-Net mobile calls @ 30p/ min. -- STD On-Net mobile calls @ 30p/ min. -- STD Off-Net mobile calls @ 30p/ min. -- 500 MB 3G Data (250 MB/ month* 2 months) -- Other Benefits: Accidental Insurance cover of Rs.300000 valid for 12 months -- Applicable only for new subscribers as FRC/SRC
+id,cost,talktime,validity,comments
+8663,65,68,7 days,5 Local Onnet SMS 
+8665,158,175,28 days,5 Local On-Net mins
+8666,198,198,28 days,1 GB 3G Data -- Talktime: Unlimited Validity
+8670,299,299,28 days,1 GB 3G data
+8674,499,499,56 days,2 GB 3G Data
+8681,998,999,56 days,5 GB 3G Data
+8682,999,999,56 days,2 GB 3G Data -- Talktime unrestricted Validity
+8698,152,90,28 days,1 GB 3G Data -- Talktime: Unlimited
+8703,128,60,90 days,Local On-Net mobile calls @ 30p/ min. -- Local Off-Net mobile calls @ 30p/ min. -- STD On-Net mobile calls @ 30p/ min. -- STD Off-Net mobile calls @ 30p/ min. -- 500 MB 3G Data (250 MB/ month* 2 months) -- Other Benefits: Accidental Insurance cover of Rs.300000 valid for 12 months -- Applicable only for new subscribers as FRC/SRC

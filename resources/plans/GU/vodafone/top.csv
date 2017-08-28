@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-16823,10,7.47,N.A,Recharge of Rs. 10 by Vodafone,Talktime of Rs. 7.47 for Rs. 10 recharge by Vodafone
-16824,20,14.95,N.A,Recharge of Rs. 20 by Vodafone,Talktime of Rs. 14.95 for Rs. 20 recharge by Vodafone
-16825,30,22.42,N.A,Recharge of Rs. 30 by Vodafone,Talktime of Rs. 22.42 for Rs. 30 recharge by Vodafone
-16826,50,39.37,N.A,Recharge of Rs. 50 by Vodafone,Talktime of Rs. 39.37 for Rs. 50 recharge by Vodafone
-16827,70,57.87,N.A,Recharge of Rs. 70 by Vodafone,Surprise Talktime between 58 upto 110
-16828,100,81.75,N.A,Recharge of Rs. 100 by Vodafone,Talktime of Rs. 81.75 for Rs. 100 recharge by Vodafone
-16829,150,142,N.A,Recharge of Rs. 150 by Vodafone,Talktime of Rs. 142 for Rs. 150 recharge by Vodafone
-16830,220,209,N.A,Recharge of Rs. 220 by Vodafone,Talktime of Rs. 209 for Rs. 220 recharge by Vodafone
-16831,300,251.24,N.A,Recharge of Rs. 300 by Vodafone,Talktime of Rs. 251.24 for Rs. 300 recharge by Vodafone
+id,cost,talktime,validity,comments
+16823,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by Vodafone
+16824,20,14.95,N.A,Talktime of Rs. 14.95 for Rs. 20 recharge by Vodafone
+16825,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by Vodafone
+16826,50,39.37,N.A,Talktime of Rs. 39.37 for Rs. 50 recharge by Vodafone
+16827,70,57.87,N.A,Surprise Talktime between 58 upto 110
+16828,100,81.75,N.A,Talktime of Rs. 81.75 for Rs. 100 recharge by Vodafone
+16829,150,142,N.A,Talktime of Rs. 142 for Rs. 150 recharge by Vodafone
+16830,220,209,N.A,Talktime of Rs. 209 for Rs. 220 recharge by Vodafone
+16831,300,251.24,N.A,Talktime of Rs. 251.24 for Rs. 300 recharge by Vodafone

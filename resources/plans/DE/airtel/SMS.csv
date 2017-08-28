@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-2054,26,,14 days,Recharge of Rs. 26 by Airtel,200 SMS(Loc+STD) Max 100 SMS per Day
-2055,34,,28 days,Recharge of Rs. 34 by Airtel,340 Local + STD SMS. Max 100 SMS per Day
-2056,88,,28 days,Recharge of Rs. 88 by Airtel,1000 Local +STD SMS. Max 100 SMS per Day
+id,cost,talktime,validity,comments
+2054,26,,14 days,200 SMS(Loc+STD) Max 100 SMS per Day
+2055,34,,28 days,340 Local + STD SMS. Max 100 SMS per Day
+2056,88,,28 days,1000 Local +STD SMS. Max 100 SMS per Day

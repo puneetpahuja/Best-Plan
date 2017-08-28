@@ -1,16 +1,16 @@
-id,cost,talktime,validity,short description,long description
-18876,125,125,N.A,Recharge of Rs. 125 by Vodafone,2 Local V2V Night Minutes (Night minutes validity 10Pm to 8am)
-18877,158,158,N.A,Recharge of Rs. 158 by Vodafone,120 Local V2V night Secs (Night Seconds validity 10Pm to 8am )
-18883,786,786,N.A,Recharge of Rs. 786 by Vodafone,120 Local V2V night Secs (Night Seconds validity 10Pm to 8am)
-18889,32,25.11,N.A,Recharge of Rs. 32 by Vodafone,Free 120 Local V2V Night Secs (10Pm to 8am validity 2 days)
-18892,55,43.61,N.A,Recharge of Rs. 55 by Vodafone,120 Local V2V night Secs(Night Seconds validity 10Pm to 8am)
-18893,60,50.85,N.A,Recharge of Rs. 60 by Vodafone,Talktime ranging between 50.85-100
-18895,77,62.25,N.A,Recharge of Rs. 77 by Vodafone,2 Local V2V night Minutes(Night minutes validity 10Pm to 8am)
-18897,100,81.75,N.A,Recharge of Rs. 100 by Vodafone,If recharge through Website will get 50 V2V night minutes
-18934,31,20,14 days,Recharge of Rs. 31 by Vodafone,"Vodafone to vodafone @10p/min,Vodafone to Other @30p/Min STD Calls @30p/min"
-18935,105,25,28 days,Recharge of Rs. 105 by Vodafone,"250 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60MB data loan -- T&C Apply"
-18936,179,30,28 days,Recharge of Rs. 179 by Vodafone,"500 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60 MB data loan -- T&C Apply"
-18937,299,50,28 days,Recharge of Rs. 299 by Vodafone,"1536 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60MB data loan -- T&C Apply"
-18950,146,,28 days,Recharge of Rs. 146 by Vodafone,Unlimited LocalSTD V2V calls -- 5 GB 2G Data: applicable as first Recharge Only
-18951,148,,28 days,Recharge of Rs. 148 by Vodafone,Unlimited V2V Local & STD -- 500 MB data -- T&C Daily 300mins and weekly 1200mins capping
-18957,298,,28 days,Recharge of Rs. 298 by Vodafone,Unlimited All Local & STD Calls -- 2 GB 2G Data -- T&C Daily 300mins and weekly 1200mins capping
+id,cost,talktime,validity,comments
+18876,125,125,N.A,2 Local V2V Night Minutes (Night minutes validity 10Pm to 8am)
+18877,158,158,N.A,120 Local V2V night Secs (Night Seconds validity 10Pm to 8am )
+18883,786,786,N.A,120 Local V2V night Secs (Night Seconds validity 10Pm to 8am)
+18889,32,25.11,N.A,Free 120 Local V2V Night Secs (10Pm to 8am validity 2 days)
+18892,55,43.61,N.A,120 Local V2V night Secs(Night Seconds validity 10Pm to 8am)
+18893,60,50.85,N.A,Talktime ranging between 50.85-100
+18895,77,62.25,N.A,2 Local V2V night Minutes(Night minutes validity 10Pm to 8am)
+18897,100,81.75,N.A,If recharge through Website will get 50 V2V night minutes
+18934,31,20,14 days,"Vodafone to vodafone @10p/min,Vodafone to Other @30p/Min STD Calls @30p/min"
+18935,105,25,28 days,"250 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60MB data loan -- T&C Apply"
+18936,179,30,28 days,"500 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60 MB data loan -- T&C Apply"
+18937,299,50,28 days,"1536 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60MB data loan -- T&C Apply"
+18950,146,,28 days,Unlimited LocalSTD V2V calls -- 5 GB 2G Data: applicable as first Recharge Only
+18951,148,,28 days,Unlimited V2V Local & STD -- 500 MB data -- T&C Daily 300mins and weekly 1200mins capping
+18957,298,,28 days,Unlimited All Local & STD Calls -- 2 GB 2G Data -- T&C Daily 300mins and weekly 1200mins capping

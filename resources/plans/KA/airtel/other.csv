@@ -1,16 +1,16 @@
-id,cost,talktime,validity,short description,long description
-2529,29,29,1 day,Recharge of Rs. 29 by Airtel,5 LOCAL AIRTEL TO AIRTEL SMS 
-2530,44,44,5 days,Recharge of Rs. 44 by Airtel,5 LOCAL A2A SMS 
-2531,49,49,5 days,Recharge of Rs. 49 by Airtel,5 LOCAL A2A SMS
-2532,59,59,7 days,Recharge of Rs. 59 by Airtel,10 NIGHT AIRTEL TO AIRTEL SMS (2 DAYS)
-2533,99,99,11 days,Recharge of Rs. 99 by Airtel,10 LOCAL A2A SMS (2 DAYS)
-2537,779,779,7 days,Recharge of Rs. 779 by Airtel,Outgoing Rs 40/min and Incoming Rs 30/min. Applicable only on selected countries and Operators
-2548,36,27.51,N.A,Recharge of Rs. 36 by Airtel, 5 Local A2A sms (Valid For 2 Days)
-2550,45,35.14,N.A,Recharge of Rs. 45 by Airtel,5 NIGHT A2A SMS FOR 2 DAYS
-2552,55,43.61,N.A,Recharge of Rs. 55 by Airtel,5 Local Airtel to Airtel SMS (valid for 2 days) -- Talktime: Unlimited validity
-2554,75,60.56,N.A,Recharge of Rs. 75 by Airtel,5 LOCAL AIRTEL TO AIRTEL SMS (VALID FOR 2 DAYS)
-2561,249,208,N.A,Recharge of Rs. 249 by Airtel,Daily 5 Local Airtel to Airtel night SMS for 2 days
-2564,412,366.68,30 days,Recharge of Rs. 412 by Airtel,All local and STD calls @ 1.2p/s
-2565,276,75,28 days,Recharge of Rs. 276 by Airtel,"1 GB 3G/4G Data -- 4G/3G data balance will be carried forward, if recharged again with same denomination before validity expiry. 1 GB Happy Hours Night data (3AM to 5AM)"
-2589,244,,28 days,Recharge of Rs. 244 by Airtel,"Unlimited Local + STD Airtel to Airtel mobile calls -- 50 MB data.For 4G Handset with 4G SIM,extra 1 GB.-- T&C apply. 1 GB Happy Hours night data for 4G H/S+4G SIM & 50 MB for others (3AM to 5AM)"
-2593,399,,28 days,Recharge of Rs. 399 by Airtel,Unlimited all Local+STD calls -- 250 MB data. For 4G Handset with 4G SIM extra 1 GB data. T&C apply. 1GB Happy Hours night data for 4G H/S+4G SIM & 250 MB for others (3AM to 5AM)
+id,cost,talktime,validity,comments
+2529,29,29,1 day,5 LOCAL AIRTEL TO AIRTEL SMS 
+2530,44,44,5 days,5 LOCAL A2A SMS 
+2531,49,49,5 days,5 LOCAL A2A SMS
+2532,59,59,7 days,10 NIGHT AIRTEL TO AIRTEL SMS (2 DAYS)
+2533,99,99,11 days,10 LOCAL A2A SMS (2 DAYS)
+2537,779,779,7 days,Outgoing Rs 40/min and Incoming Rs 30/min. Applicable only on selected countries and Operators
+2548,36,27.51,N.A, 5 Local A2A sms (Valid For 2 Days)
+2550,45,35.14,N.A,5 NIGHT A2A SMS FOR 2 DAYS
+2552,55,43.61,N.A,5 Local Airtel to Airtel SMS (valid for 2 days) -- Talktime: Unlimited validity
+2554,75,60.56,N.A,5 LOCAL AIRTEL TO AIRTEL SMS (VALID FOR 2 DAYS)
+2561,249,208,N.A,Daily 5 Local Airtel to Airtel night SMS for 2 days
+2564,412,366.68,30 days,All local and STD calls @ 1.2p/s
+2565,276,75,28 days,"1 GB 3G/4G Data -- 4G/3G data balance will be carried forward, if recharged again with same denomination before validity expiry. 1 GB Happy Hours Night data (3AM to 5AM)"
+2589,244,,28 days,"Unlimited Local + STD Airtel to Airtel mobile calls -- 50 MB data.For 4G Handset with 4G SIM,extra 1 GB.-- T&C apply. 1 GB Happy Hours night data for 4G H/S+4G SIM & 50 MB for others (3AM to 5AM)"
+2593,399,,28 days,Unlimited all Local+STD calls -- 250 MB data. For 4G Handset with 4G SIM extra 1 GB data. T&C apply. 1GB Happy Hours night data for 4G H/S+4G SIM & 250 MB for others (3AM to 5AM)

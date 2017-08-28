@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-11533,13,,7 days,Recharge of Rs. 13 by Idea,STD calls @ 25p/min (First 60 STD seconds at 2p/sec everyday)
-11534,28,,28 days,Recharge of Rs. 28 by Idea,Call STD @35p/min ( First STD minute every day would be charged @Rs1.50/min) -- 
-11535,34,,28 days,Recharge of Rs. 34 by Idea,STD calls @ 25p/min
-11536,72,,35 days,Recharge of Rs. 72 by Idea,All STD calls @25p/min
-11537,86,,56 days,Recharge of Rs. 86 by Idea,All STD calls @ 30p/min
-11538,118,,56 days,Recharge of Rs. 118 by Idea,All STD calls @ 25p/min
+id,cost,talktime,validity,comments
+11533,13,,7 days,STD calls @ 25p/min (First 60 STD seconds at 2p/sec everyday)
+11534,28,,28 days,Call STD @35p/min ( First STD minute every day would be charged @Rs1.50/min) -- 
+11535,34,,28 days,STD calls @ 25p/min
+11536,72,,35 days,All STD calls @25p/min
+11537,86,,56 days,All STD calls @ 30p/min
+11538,118,,56 days,All STD calls @ 25p/min

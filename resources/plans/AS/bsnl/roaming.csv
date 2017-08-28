@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-4961,13,,1 day,Recharge of Rs. 13 by BSNL,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan
-4962,32,,6 days,Recharge of Rs. 32 by BSNL,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan
-4963,79,,28 days,Recharge of Rs. 79 by BSNL,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan
-4964,92,,30 days,Recharge of Rs. 92 by BSNL,Free 120 minutes voice call and 40 nos of SMS to any network in roaming
+id,cost,talktime,validity,comments
+4961,13,,1 day,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan
+4962,32,,6 days,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan
+4963,79,,28 days,OG (local and STD) calls while in National roaming at 70 paisa per min. Rest calls as per Main plan
+4964,92,,30 days,Free 120 minutes voice call and 40 nos of SMS to any network in roaming

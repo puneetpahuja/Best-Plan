@@ -1,16 +1,16 @@
-id,cost,talktime,validity,short description,long description
-15570,11,,1 day,Recharge of Rs. 11 by Indicom,Local On-Net mobile calls @ 0p/min (Unlimited Local onnet calls)
-15571,28,,84 days,Recharge of Rs. 28 by Indicom,All STD calls @ 40p/min -- Local On-Net mobile calls @ 20p/min -- Local Off-Net mobile calls @ 30p/min -- Landline Local/STD @ Re1/min
-15572,33,,84 days,Recharge of Rs. 33 by Indicom,All STD calls @ 2p/3sec -- Local On-Net mobile calls @ 1p/3sec -- Local Off-Net mobile calls @ 1p/2sec -- Local/STD Mobile calls @ First 60sec of the day@ 1.2p/sec -- Landline Local/STD @ 1.5p/sec
-15573,67,,56 days,Recharge of Rs. 67 by Indicom,All STD calls @ 1.2p/2sec -- Local On-Net mobile calls @ 1.2p/6sec -- Local Off-Net mobile calls @ 1.2p/3sec -- Landline Local/STD @ 1.5p/sec
-15574,69,,28 days,Recharge of Rs. 69 by Indicom,500 Local T2T Minutes
-15575,103,,28 days,Recharge of Rs. 103 by Indicom,Unlimited Local/STD Onnet calls
-15576,124,,28 days,Recharge of Rs. 124 by Indicom,1000 Local T2T Minutes
-15577,125,,28 days,Recharge of Rs. 125 by Indicom,21000 secs (350 mins Local + STD)
-15578,148,,14 days,Recharge of Rs. 148 by Indicom,"750 Local/STD mins, post free mins all calls @30p/min"
-15579,246,,28 days,Recharge of Rs. 246 by Indicom,1500 mins of usage in Local and STD calls
-15580,298,,28 days,Recharge of Rs. 298 by Indicom,"2000 Local/STD mins, post free mins all calls @30p/min"
-15581,299,,28 days,Recharge of Rs. 299 by Indicom,Local On-Net mobile calls @ 0p/min ; STD On-Net mobile calls @ 0p/min (Till 2000 Min) -- STD Off-Net mobile calls @ 1.2p/sec -- Daily 20 mins. for Local Off-Net mobile calls -- Landline Local @ 2p/sec -- Landline STD @ 2p/sec -- Landline Local/STD @ 2p/sec
-15582,351,,30 days,Recharge of Rs. 351 by Indicom,All STD calls@ 30p/min -- Local On-Net mobile calls @ 0p/min -- 1500 mins for Local & STD Off-Net calls -- Landline Local/STD @ Re1/min
-15583,599,,28 days,Recharge of Rs. 599 by Indicom,Local On-Net mobile calls @ 0p/min ; STD On-Net mobile calls @ 0p/min (Till 3000 Min) -- Daily 30 mins. for Local Off-Net mobile calls -- Daily 30 mins. for STD Off-Net mobile calls
-15584,666,,28 days,Recharge of Rs. 666 by Indicom,2500 Minutes to any network
+id,cost,talktime,validity,comments
+15570,11,,1 day,Local On-Net mobile calls @ 0p/min (Unlimited Local onnet calls)
+15571,28,,84 days,All STD calls @ 40p/min -- Local On-Net mobile calls @ 20p/min -- Local Off-Net mobile calls @ 30p/min -- Landline Local/STD @ Re1/min
+15572,33,,84 days,All STD calls @ 2p/3sec -- Local On-Net mobile calls @ 1p/3sec -- Local Off-Net mobile calls @ 1p/2sec -- Local/STD Mobile calls @ First 60sec of the day@ 1.2p/sec -- Landline Local/STD @ 1.5p/sec
+15573,67,,56 days,All STD calls @ 1.2p/2sec -- Local On-Net mobile calls @ 1.2p/6sec -- Local Off-Net mobile calls @ 1.2p/3sec -- Landline Local/STD @ 1.5p/sec
+15574,69,,28 days,500 Local T2T Minutes
+15575,103,,28 days,Unlimited Local/STD Onnet calls
+15576,124,,28 days,1000 Local T2T Minutes
+15577,125,,28 days,21000 secs (350 mins Local + STD)
+15578,148,,14 days,"750 Local/STD mins, post free mins all calls @30p/min"
+15579,246,,28 days,1500 mins of usage in Local and STD calls
+15580,298,,28 days,"2000 Local/STD mins, post free mins all calls @30p/min"
+15581,299,,28 days,Local On-Net mobile calls @ 0p/min ; STD On-Net mobile calls @ 0p/min (Till 2000 Min) -- STD Off-Net mobile calls @ 1.2p/sec -- Daily 20 mins. for Local Off-Net mobile calls -- Landline Local @ 2p/sec -- Landline STD @ 2p/sec -- Landline Local/STD @ 2p/sec
+15582,351,,30 days,All STD calls@ 30p/min -- Local On-Net mobile calls @ 0p/min -- 1500 mins for Local & STD Off-Net calls -- Landline Local/STD @ Re1/min
+15583,599,,28 days,Local On-Net mobile calls @ 0p/min ; STD On-Net mobile calls @ 0p/min (Till 3000 Min) -- Daily 30 mins. for Local Off-Net mobile calls -- Daily 30 mins. for STD Off-Net mobile calls
+15584,666,,28 days,2500 Minutes to any network

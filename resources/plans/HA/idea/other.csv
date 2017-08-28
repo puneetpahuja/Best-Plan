@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-9969,34,34,5 days,Recharge of Rs. 34 by Idea,5 local idea night minutes -- Talktime Validity (Days): 5 -- Tariff Validity (Days): 1
-9970,65,65,10 days,Recharge of Rs. 65 by Idea,5 local idea night minutes -- Tariff Validity (Days): 1
-9971,115,115,15 days,Recharge of Rs. 115 by Idea,5 local idea night minutes -- Tariff Validity (Days): 1
-9991,44,35.43,2 days,Recharge of Rs. 44 by Idea,5 Local Idea Night SMS -- Talktime Validity (Days): Unrestricted 
-9998,105,91.3,28 days,Recharge of Rs. 105 by Idea,All Calls( Local +STD) 1p/Sec -- Talktime Validity (Days): Unrestricted 
-10006,209,150,28 days,Recharge of Rs. 209 by Idea,1 GB 2G/3G/4G Data -- Talktime Validity (Days): Unrestricted
-10007,402,50,28 days,Recharge of Rs. 402 by Idea,"Unlimited Local/STD Calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable. -- 1 GB 2G/3G/4G Data Daily  -- Get additional 5% of MRP as Talktime on recharge through My Idea App and Idea Website) -- Talktime Validity (Days): Unrestricted -- This STV should not be used for any commercial activity."
-10010,6,,1 day,Recharge of Rs. 6 by Idea,"Roaming outgoing calls @ 60p/Min, Local SMS @ 25 p, STD SMS @ 38p -- "
-10014,17,,60 days,Recharge of Rs. 17 by Idea,"Roaming outgoing calls @ 60p/min -- Local SMS @25p, STD SMS @ 38p -- "
-10017,58,,28 days,Recharge of Rs. 58 by Idea,"Roaming outgoing calls @ 1p/sec, Local SMS @25p, STD SMS @ 38p -- "
-10021,343,,30 days,Recharge of Rs. 343 by Idea,1GB 4G/3G & 200 Local/STD minutes & SMS -- Overage: 4p/10KB -- 
-10022,494,,30 days,Recharge of Rs. 494 by Idea,1.5GB 4G/3G & 300 Local/STD minutes & SMS -- Overage: 4p/10KB -- 
-10025,7,,1 Night,Recharge of Rs. 7 by Idea,Unlimited 2G from 12midnight to 6am -- Overage: 4P/10KB -- 
+id,cost,talktime,validity,comments
+9969,34,34,5 days,5 local idea night minutes -- Talktime Validity (Days): 5 -- Tariff Validity (Days): 1
+9970,65,65,10 days,5 local idea night minutes -- Tariff Validity (Days): 1
+9971,115,115,15 days,5 local idea night minutes -- Tariff Validity (Days): 1
+9991,44,35.43,2 days,5 Local Idea Night SMS -- Talktime Validity (Days): Unrestricted 
+9998,105,91.3,28 days,All Calls( Local +STD) 1p/Sec -- Talktime Validity (Days): Unrestricted 
+10006,209,150,28 days,1 GB 2G/3G/4G Data -- Talktime Validity (Days): Unrestricted
+10007,402,50,28 days,"Unlimited Local/STD Calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable. -- 1 GB 2G/3G/4G Data Daily  -- Get additional 5% of MRP as Talktime on recharge through My Idea App and Idea Website) -- Talktime Validity (Days): Unrestricted -- This STV should not be used for any commercial activity."
+10010,6,,1 day,"Roaming outgoing calls @ 60p/Min, Local SMS @ 25 p, STD SMS @ 38p -- "
+10014,17,,60 days,"Roaming outgoing calls @ 60p/min -- Local SMS @25p, STD SMS @ 38p -- "
+10017,58,,28 days,"Roaming outgoing calls @ 1p/sec, Local SMS @25p, STD SMS @ 38p -- "
+10021,343,,30 days,1GB 4G/3G & 200 Local/STD minutes & SMS -- Overage: 4p/10KB -- 
+10022,494,,30 days,1.5GB 4G/3G & 300 Local/STD minutes & SMS -- Overage: 4p/10KB -- 
+10025,7,,1 Night,Unlimited 2G from 12midnight to 6am -- Overage: 4P/10KB -- 

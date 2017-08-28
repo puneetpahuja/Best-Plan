@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-2701,14,,5 days,Recharge of Rs. 14 by Airtel,150 Local+National SMS
-2702,21,,7 days,Recharge of Rs. 21 by Airtel,230 Local+National SMS
-2703,54,,28 days,Recharge of Rs. 54 by Airtel,600 Local+National SMS
+id,cost,talktime,validity,comments
+2701,14,,5 days,150 Local+National SMS
+2702,21,,7 days,230 Local+National SMS
+2703,54,,28 days,600 Local+National SMS

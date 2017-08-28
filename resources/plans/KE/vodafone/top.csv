@@ -1,16 +1,16 @@
-id,cost,talktime,validity,short description,long description
-17289,10,7.47,N.A,Recharge of Rs. 10 by Vodafone,Talktime of Rs. 7.47 for Rs. 10 recharge by Vodafone
-17290,20,14.95,N.A,Recharge of Rs. 20 by Vodafone,Talktime of Rs. 14.95 for Rs. 20 recharge by Vodafone
-17291,30,22.42,N.A,Recharge of Rs. 30 by Vodafone,Talktime of Rs. 22.42 for Rs. 30 recharge by Vodafone
-17292,40,30.9,N.A,Recharge of Rs. 40 by Vodafone,Talktime of Rs. 30.9 for Rs. 40 recharge by Vodafone
-17293,50,39.37,N.A,Recharge of Rs. 50 by Vodafone,Talktime of Rs. 39.37 for Rs. 50 recharge by Vodafone
-17295,60,47.85,N.A,Recharge of Rs. 60 by Vodafone,Talktime of Rs. 47.85 for Rs. 60 recharge by Vodafone
-17296,70,56.32,N.A,Recharge of Rs. 70 by Vodafone,Talktime of Rs. 56.32 for Rs. 70 recharge by Vodafone
-17297,80,64.8,N.A,Recharge of Rs. 80 by Vodafone,Talktime of Rs. 64.8 for Rs. 80 recharge by Vodafone
-17298,90,73.27,N.A,Recharge of Rs. 90 by Vodafone,Talktime of Rs. 73.27 for Rs. 90 recharge by Vodafone
-17299,96,78.36,N.A,Recharge of Rs. 96 by Vodafone,Talktime of Rs. 78.36 for Rs. 96 recharge by Vodafone
-17300,100,81.75,N.A,Recharge of Rs. 100 by Vodafone,Talktime of Rs. 81.75 for Rs. 100 recharge by Vodafone
-17302,130,107.17,N.A,Recharge of Rs. 130 by Vodafone,Talktime of Rs. 107.17 for Rs. 130 recharge by Vodafone
-17303,137,113.1,N.A,Recharge of Rs. 137 by Vodafone,Talktime of Rs. 113.1 for Rs. 137 recharge by Vodafone
-17304,160,132.59,N.A,Recharge of Rs. 160 by Vodafone,Talktime of Rs. 132.59 for Rs. 160 recharge by Vodafone
-17306,200,166.49,N.A,Recharge of Rs. 200 by Vodafone,Talktime of Rs. 166.49 for Rs. 200 recharge by Vodafone
+id,cost,talktime,validity,comments
+17289,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by Vodafone
+17290,20,14.95,N.A,Talktime of Rs. 14.95 for Rs. 20 recharge by Vodafone
+17291,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by Vodafone
+17292,40,30.9,N.A,Talktime of Rs. 30.9 for Rs. 40 recharge by Vodafone
+17293,50,39.37,N.A,Talktime of Rs. 39.37 for Rs. 50 recharge by Vodafone
+17295,60,47.85,N.A,Talktime of Rs. 47.85 for Rs. 60 recharge by Vodafone
+17296,70,56.32,N.A,Talktime of Rs. 56.32 for Rs. 70 recharge by Vodafone
+17297,80,64.8,N.A,Talktime of Rs. 64.8 for Rs. 80 recharge by Vodafone
+17298,90,73.27,N.A,Talktime of Rs. 73.27 for Rs. 90 recharge by Vodafone
+17299,96,78.36,N.A,Talktime of Rs. 78.36 for Rs. 96 recharge by Vodafone
+17300,100,81.75,N.A,Talktime of Rs. 81.75 for Rs. 100 recharge by Vodafone
+17302,130,107.17,N.A,Talktime of Rs. 107.17 for Rs. 130 recharge by Vodafone
+17303,137,113.1,N.A,Talktime of Rs. 113.1 for Rs. 137 recharge by Vodafone
+17304,160,132.59,N.A,Talktime of Rs. 132.59 for Rs. 160 recharge by Vodafone
+17306,200,166.49,N.A,Talktime of Rs. 166.49 for Rs. 200 recharge by Vodafone

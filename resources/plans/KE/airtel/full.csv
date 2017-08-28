@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-2669,250,250,N.A,Recharge of Rs. 250 by Airtel,Talktime of Rs. 250 for Rs. 250 recharge by Airtel
-2670,300,300,N.A,Recharge of Rs. 300 by Airtel,Talktime of Rs. 300 for Rs. 300 recharge by Airtel
-2671,500,500,N.A,Recharge of Rs. 500 by Airtel,Talktime of Rs. 500 for Rs. 500 recharge by Airtel
-2673,990,990,N.A,Recharge of Rs. 990 by Airtel,Talktime of Rs. 990 for Rs. 990 recharge by Airtel
+id,cost,talktime,validity,comments
+2669,250,250,N.A,Talktime of Rs. 250 for Rs. 250 recharge by Airtel
+2670,300,300,N.A,Talktime of Rs. 300 for Rs. 300 recharge by Airtel
+2671,500,500,N.A,Talktime of Rs. 500 for Rs. 500 recharge by Airtel
+2673,990,990,N.A,Talktime of Rs. 990 for Rs. 990 recharge by Airtel

@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-17313,9,,1 day,Recharge of Rs. 9 by Vodafone,35MB @2G speed. Post 35 MB you will be charged 4p/10kb
-17314,14,,2 days,Recharge of Rs. 14 by Vodafone,80 MB 2G Data
-17315,27,,4 days,Recharge of Rs. 27 by Vodafone,150 MB for 2G Data 
-17316,38,,28 days,Recharge of Rs. 38 by Vodafone,120 MB 2G Data 
-17317,47,,7 days,Recharge of Rs. 47 by Vodafone,250 MB 2G Data
-17318,71,,10 days,Recharge of Rs. 71 by Vodafone,400 MB 2G Data
-17319,77,,28 days,Recharge of Rs. 77 by Vodafone,250 MB 2G Data
-17320,104,,28 days,Recharge of Rs. 104 by Vodafone,420 MB 3G/4G Data
-17321,124,,15 days,Recharge of Rs. 124 by Vodafone,500 MB 2G. Post 500 MB you will be charged 4p/10kb
-17322,155,,28 days,Recharge of Rs. 155 by Vodafone,525MB @2G speed. Post 525 MB you will be charged 4p/10kb
-17323,199,,28 days,Recharge of Rs. 199 by Vodafone,1.25GB @2G speed. Post 1.25GB your speed will be reduced up to 40 kbps.
-17324,245,,28 days,Recharge of Rs. 245 by Vodafone,3GB Internet 2G. Post FUP speed @40kbps
+id,cost,talktime,validity,comments
+17313,9,,1 day,35MB @2G speed. Post 35 MB you will be charged 4p/10kb
+17314,14,,2 days,80 MB 2G Data
+17315,27,,4 days,150 MB for 2G Data 
+17316,38,,28 days,120 MB 2G Data 
+17317,47,,7 days,250 MB 2G Data
+17318,71,,10 days,400 MB 2G Data
+17319,77,,28 days,250 MB 2G Data
+17320,104,,28 days,420 MB 3G/4G Data
+17321,124,,15 days,500 MB 2G. Post 500 MB you will be charged 4p/10kb
+17322,155,,28 days,525MB @2G speed. Post 525 MB you will be charged 4p/10kb
+17323,199,,28 days,1.25GB @2G speed. Post 1.25GB your speed will be reduced up to 40 kbps.
+17324,245,,28 days,3GB Internet 2G. Post FUP speed @40kbps

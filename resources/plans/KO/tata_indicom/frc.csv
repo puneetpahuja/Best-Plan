@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-15301,5,,1 (till midnight),Recharge of Rs. 5 by Indicom,25 MB 2G -- Applicable only for new subscribers as FRC/SRC
-15302,14,,3 days,Recharge of Rs. 14 by Indicom,75 MB 2G -- Applicable only for new subscribers as FRC/SRC
-15303,48,,10 days,Recharge of Rs. 48 by Indicom,250 MB 2G -- Applicable only for new subscribers as FRC/SRC
-15304,95,,30 days,Recharge of Rs. 95 by Indicom,500 MB 2G -- Applicable only for new subscribers as FRC/SRC
-15305,126,,30 days,Recharge of Rs. 126 by Indicom,1 GB 2G -- Applicable only for new subscribers as FRC/SRC
-15306,222,207,28 days,Recharge of Rs. 222 by Indicom,Local/STD Mobile calls @ 45p/min ( per second pulse 1.5p/2second for first 30 second next 30 second 0p/second) -- Landline Local/STD @ 120p/min ( per second pulse 2p/sec ) -- Applicable only for new subscribers as FRC/SRC
-15307,256,,30 days,Recharge of Rs. 256 by Indicom,2 GB 2G Data -- Applicable only for new subscribers as FRC/SRC
+id,cost,talktime,validity,comments
+15301,5,,1 (till midnight),25 MB 2G -- Applicable only for new subscribers as FRC/SRC
+15302,14,,3 days,75 MB 2G -- Applicable only for new subscribers as FRC/SRC
+15303,48,,10 days,250 MB 2G -- Applicable only for new subscribers as FRC/SRC
+15304,95,,30 days,500 MB 2G -- Applicable only for new subscribers as FRC/SRC
+15305,126,,30 days,1 GB 2G -- Applicable only for new subscribers as FRC/SRC
+15306,222,207,28 days,Local/STD Mobile calls @ 45p/min ( per second pulse 1.5p/2second for first 30 second next 30 second 0p/second) -- Landline Local/STD @ 120p/min ( per second pulse 2p/sec ) -- Applicable only for new subscribers as FRC/SRC
+15307,256,,30 days,2 GB 2G Data -- Applicable only for new subscribers as FRC/SRC

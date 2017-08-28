@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-723,9,,28 days,Recharge of Rs. 9 by Aircel,All Local & STD call @ 25p/min
-724,27,,28 days,Recharge of Rs. 27 by Aircel,"Aircel to Aircel all (Local/STD) Calls at 15p/min, Other Local/STD(M) Calls at 25p/min"
-725,36,,56 days,Recharge of Rs. 36 by Aircel,"All other local, STD & Roaming (M) Calls @ 25p/min, Incoming Free on Roaming -- Applicable on Aircel Network"
-726,44,,56 days,Recharge of Rs. 44 by Aircel,"Unlimited Local Free A2A(5am to 5pm),Rest A-A & A2O @ 1.6p/2sec"
-727,49,,21 days,Recharge of Rs. 49 by Aircel,7500 Local Seconds
-728,53,,14 days,Recharge of Rs. 53 by Aircel,Unlimited Aircel to Aircel Local calls. Call conference facility not available on this pack
-729,57,,90 days,Recharge of Rs. 57 by Aircel,All local (M) + STD (M) calls at 1.2p/2sec or 30p/min
-730,67,,21 days,Recharge of Rs. 67 by Aircel,Unlimited Aircel to Aircel Local calls. Call conference facility not available on this pack
-731,87,,28 days,Recharge of Rs. 87 by Aircel,FREE Unlimited Aircel to Aircel Local calling
-732,97,,28 days,Recharge of Rs. 97 by Aircel,9700 Aircel to Aircel seconds and 9700 Aircel to Other seconds
-733,156,,90 days,Recharge of Rs. 156 by Aircel,FREE Unlimited Local Aircel to Aircel calling
-734,249,,28 days,Recharge of Rs. 249 by Aircel,45000 Local & STD Seconds
+id,cost,talktime,validity,comments
+723,9,,28 days,All Local & STD call @ 25p/min
+724,27,,28 days,"Aircel to Aircel all (Local/STD) Calls at 15p/min, Other Local/STD(M) Calls at 25p/min"
+725,36,,56 days,"All other local, STD & Roaming (M) Calls @ 25p/min, Incoming Free on Roaming -- Applicable on Aircel Network"
+726,44,,56 days,"Unlimited Local Free A2A(5am to 5pm),Rest A-A & A2O @ 1.6p/2sec"
+727,49,,21 days,7500 Local Seconds
+728,53,,14 days,Unlimited Aircel to Aircel Local calls. Call conference facility not available on this pack
+729,57,,90 days,All local (M) + STD (M) calls at 1.2p/2sec or 30p/min
+730,67,,21 days,Unlimited Aircel to Aircel Local calls. Call conference facility not available on this pack
+731,87,,28 days,FREE Unlimited Aircel to Aircel Local calling
+732,97,,28 days,9700 Aircel to Aircel seconds and 9700 Aircel to Other seconds
+733,156,,90 days,FREE Unlimited Local Aircel to Aircel calling
+734,249,,28 days,45000 Local & STD Seconds

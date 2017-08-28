@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-15491,23,,30 days,Recharge of Rs. 23 by Indicom,Local/STD Mobile calls @ 35p/min (min pulse)
-15492,29,,30 days,Recharge of Rs. 29 by Indicom,"Local/STD Mobile calls @ 36p/min (sec pulse, 1.2p/2s)"
-15493,53,,90 days,Recharge of Rs. 53 by Indicom,Local/STD Mobile calls @ 35p/min (min pulse)
-15494,85,,180 days,Recharge of Rs. 85 by Indicom,"Local/STD Mobile calls @ 36p/min (sec pulse, 1.2p/2s)"
-15495,99,,28 days,Recharge of Rs. 99 by Indicom,180000 Local On-Net Secs
-15496,199,,28 days,Recharge of Rs. 199 by Indicom,40320 Local On-Net Secs
-15497,299,,28 days,Recharge of Rs. 299 by Indicom,Unlimited Local On-Net Mins
+id,cost,talktime,validity,comments
+15491,23,,30 days,Local/STD Mobile calls @ 35p/min (min pulse)
+15492,29,,30 days,"Local/STD Mobile calls @ 36p/min (sec pulse, 1.2p/2s)"
+15493,53,,90 days,Local/STD Mobile calls @ 35p/min (min pulse)
+15494,85,,180 days,"Local/STD Mobile calls @ 36p/min (sec pulse, 1.2p/2s)"
+15495,99,,28 days,180000 Local On-Net Secs
+15496,199,,28 days,40320 Local On-Net Secs
+15497,299,,28 days,Unlimited Local On-Net Mins

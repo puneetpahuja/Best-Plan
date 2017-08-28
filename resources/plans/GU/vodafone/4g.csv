@@ -1,32 +1,32 @@
-id,cost,talktime,validity,short description,long description
-16854,8,,1 day,Recharge of Rs. 8 by Vodafone,30 MB 3G/4G Data @ Rs 8 for 1 day
-16855,24,,1 day,Recharge of Rs. 24 by Vodafone,"Unlimited local + std V2V calls -- 100 MB 3G/4G Data (4G Handset), 50 MB for Other Handset"
-16856,28,,28 days,Recharge of Rs. 28 by Vodafone,75 MB 4G/3G Data 
-16857,29,,3 days,Recharge of Rs. 29 by Vodafone,120 MB 3G/4G Data
-16858,31,,1 Night,Recharge of Rs. 31 by Vodafone,Unlimited 3G/4G Night data (1am to 6am)
-16859,46,,7 days,Recharge of Rs. 46 by Vodafone,"Unlimited local + std V2V calls -- 250 MB 3G/4G Data (4G Handset), 50 MB for Other Handset "
-16860,49,,5 days,Recharge of Rs. 49 by Vodafone,190 MB 3G/4G Data
-16861,52,,1 day,Recharge of Rs. 52 by Vodafone,1 GB 4G/3G Data
-16862,68,,7 days,Recharge of Rs. 68 by Vodafone,275 MB 3G/4G Data
-16863,89,,7 days,Recharge of Rs. 89 by Vodafone,Unlimited local + std V2V + 100 Min V2O local +std calls -- 250 MB 3G/4G Data (4G Handset) 50 MB for Other Handset 
-16864,97,,28 days,Recharge of Rs. 97 by Vodafone,250 MB 3G/4G Data
-16865,99,,5 days,Recharge of Rs. 99 by Vodafone,1 GB 4G/3G Data
-16866,128,,28 days,Recharge of Rs. 128 by Vodafone,1 GB 3G/4G Night Data applicable from 12 am to 6 am 
-16867,149,,28 days,Recharge of Rs. 149 by Vodafone,"Unlimited Local +STD calls,Vodafone to Vodafone -- Upto 2 GB 4G/3G Data -- 2 GB - For 4G Handset and 4G SIM, 300 MB - For 4G handset and Non 4G SIM, 50 MB - For Non-4G handset. T&C Apply"
-16868,169,,28 days,Recharge of Rs. 169 by Vodafone,1.5 GB 3G/4G Night Data applicable from 12 am to 6 am 
-16869,175,,28 days,Recharge of Rs. 175 by Vodafone,1 GB @4G/3G speed. Post 1 GB you will be charged 4p/10kb.
-16870,188,,21 days,Recharge of Rs. 188 by Vodafone,750 MB 3G/4G Data
-16871,297,,28 days,Recharge of Rs. 297 by Vodafone,2.25GB to 10GB 3G/4G Internet with hero recharge.
-16872,348,,28 days,Recharge of Rs. 348 by Vodafone,1 GB/Day 4G/3G Data -- Unlimited ALL Mobile & Landline Calls. Limited Period Offer for ALL Handsets
-16873,397,,28 days,Recharge of Rs. 397 by Vodafone,2.5 GB 3G/4G Data
-16874,497,,28 days,Recharge of Rs. 497 by Vodafone,2.25 GB 3G/4G Data
-16875,498,,28 days,Recharge of Rs. 498 by Vodafone,Instant 2 GB 3G/4G Data -- For Next 6 months 1 GB 3G/4G Data benefit valid for 28 Day @118 Rs
-16876,749,,28 days,Recharge of Rs. 749 by Vodafone,Instant 3 GB 3G/4G Data -- For Next 6 months 1 GB 3G/4G Data benefit valid for 28 Day @112 Rs
-16877,848,,28 days,Recharge of Rs. 848 by Vodafone,9 GB 3G/4G Data @ Rs 848 for 28 days
-16878,1198,,28 days,Recharge of Rs. 1198 by Vodafone,13 GB 3G/4G Data 
-16879,1249,,28 days,Recharge of Rs. 1249 by Vodafone,9 GB 3G/4G Unlimited Data (Post 9 GB speed @ 64 kbps)
-16880,1501,,28 days,Recharge of Rs. 1501 by Vodafone,"Instant 15 GB 3G/4G Data -- For Next 12 months 1GB 3G/4G Data benefit valid for 28 Days @ 55 Rs, 2GB 3G/4G Data benefit valid for 28 Days @ 103 Rs, 5GB 3G/4G Data benefit valid for 28 Days @ 254 Rs"
-16881,1998,,28 days,Recharge of Rs. 1998 by Vodafone,22 GB 3G/4G Data 
-16882,3299,,28 days,Recharge of Rs. 3299 by Vodafone,20 GB day & night + 20 GB 3G/4G night data (12 am- 6 am)
-16883,3998,,90 days,Recharge of Rs. 3998 by Vodafone,30 GB 3G/4G Data
-16884,3999,,28 days,Recharge of Rs. 3999 by Vodafone,44 GB 3G/4G Data 
+id,cost,talktime,validity,comments
+16854,8,,1 day,30 MB 3G/4G Data @ Rs 8 for 1 day
+16855,24,,1 day,"Unlimited local + std V2V calls -- 100 MB 3G/4G Data (4G Handset), 50 MB for Other Handset"
+16856,28,,28 days,75 MB 4G/3G Data 
+16857,29,,3 days,120 MB 3G/4G Data
+16858,31,,1 Night,Unlimited 3G/4G Night data (1am to 6am)
+16859,46,,7 days,"Unlimited local + std V2V calls -- 250 MB 3G/4G Data (4G Handset), 50 MB for Other Handset "
+16860,49,,5 days,190 MB 3G/4G Data
+16861,52,,1 day,1 GB 4G/3G Data
+16862,68,,7 days,275 MB 3G/4G Data
+16863,89,,7 days,Unlimited local + std V2V + 100 Min V2O local +std calls -- 250 MB 3G/4G Data (4G Handset) 50 MB for Other Handset 
+16864,97,,28 days,250 MB 3G/4G Data
+16865,99,,5 days,1 GB 4G/3G Data
+16866,128,,28 days,1 GB 3G/4G Night Data applicable from 12 am to 6 am 
+16867,149,,28 days,"Unlimited Local +STD calls,Vodafone to Vodafone -- Upto 2 GB 4G/3G Data -- 2 GB - For 4G Handset and 4G SIM, 300 MB - For 4G handset and Non 4G SIM, 50 MB - For Non-4G handset. T&C Apply"
+16868,169,,28 days,1.5 GB 3G/4G Night Data applicable from 12 am to 6 am 
+16869,175,,28 days,1 GB @4G/3G speed. Post 1 GB you will be charged 4p/10kb.
+16870,188,,21 days,750 MB 3G/4G Data
+16871,297,,28 days,2.25GB to 10GB 3G/4G Internet with hero recharge.
+16872,348,,28 days,1 GB/Day 4G/3G Data -- Unlimited ALL Mobile & Landline Calls. Limited Period Offer for ALL Handsets
+16873,397,,28 days,2.5 GB 3G/4G Data
+16874,497,,28 days,2.25 GB 3G/4G Data
+16875,498,,28 days,Instant 2 GB 3G/4G Data -- For Next 6 months 1 GB 3G/4G Data benefit valid for 28 Day @118 Rs
+16876,749,,28 days,Instant 3 GB 3G/4G Data -- For Next 6 months 1 GB 3G/4G Data benefit valid for 28 Day @112 Rs
+16877,848,,28 days,9 GB 3G/4G Data @ Rs 848 for 28 days
+16878,1198,,28 days,13 GB 3G/4G Data 
+16879,1249,,28 days,9 GB 3G/4G Unlimited Data (Post 9 GB speed @ 64 kbps)
+16880,1501,,28 days,"Instant 15 GB 3G/4G Data -- For Next 12 months 1GB 3G/4G Data benefit valid for 28 Days @ 55 Rs, 2GB 3G/4G Data benefit valid for 28 Days @ 103 Rs, 5GB 3G/4G Data benefit valid for 28 Days @ 254 Rs"
+16881,1998,,28 days,22 GB 3G/4G Data 
+16882,3299,,28 days,20 GB day & night + 20 GB 3G/4G night data (12 am- 6 am)
+16883,3998,,90 days,30 GB 3G/4G Data
+16884,3999,,28 days,44 GB 3G/4G Data 

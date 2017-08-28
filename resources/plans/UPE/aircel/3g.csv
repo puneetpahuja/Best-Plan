@@ -1,32 +1,32 @@
-id,cost,talktime,validity,short description,long description
-1211,22,,3 days,Recharge of Rs. 22 by Aircel,110 MB 2G/3G Data
-1213,37,,5 days,Recharge of Rs. 37 by Aircel,175 MB 2G/3G Data
-1215,49,,14 days,Recharge of Rs. 49 by Aircel,5 GB 3G/2G Data Night
-1218,79,,2 days,Recharge of Rs. 79 by Aircel,1 GB Data
-1219,85,,1 day,Recharge of Rs. 85 by Aircel,2 GB 3G/2G Data
-1225,144,,28 days,Recharge of Rs. 144 by Aircel,750 MB 2G/3G Data
-1226,151,,28 days,Recharge of Rs. 151 by Aircel,1 GB 3G/2G Data
-1227,399,,28 days,Recharge of Rs. 399 by Aircel,3 GB Data (2G/3G)
-1228,498,,60 days,Recharge of Rs. 498 by Aircel,10 GB 3G/2G Data -- FREE Local A2A (12AM to 5 AM)
-1229,499,,30 days,Recharge of Rs. 499 by Aircel,20 GB 3G/2G Data -- FREE Local A2A (12AM to 5 AM)
-1230,41,,1 day,Recharge of Rs. 41 by Aircel,Unlimited (L+S) A2A + (L+S) A2O 300 min -- 1 GB 3G/2G data
-1231,299,,28 days,Recharge of Rs. 299 by Aircel,"Unlimited Local+STD Calls -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 300 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1200 mins in a week -- 1 GB 3G/2G Data"
-1232,349,,28 days,Recharge of Rs. 349 by Aircel,"Unlimited Local + STD Calls -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 300 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1200 mins in a week -- 3 GB 3G/2G Data"
-1233,53,,3 days,Recharge of Rs. 53 by Aircel,1 GB 3G Data
-1234,58,,28 days,Recharge of Rs. 58 by Aircel,1.5 GB 3G Data
-1235,67,,5 days,Recharge of Rs. 67 by Aircel,2 GB 3G Data
-1236,73,,7 days,Recharge of Rs. 73 by Aircel,1 GB 3G Data
-1237,89,,7 days,Recharge of Rs. 89 by Aircel,1 GB 3G Data
-1238,94,,28 days,Recharge of Rs. 94 by Aircel,10 GB 3G (Night pack) Data
-1239,102,,28 days,Recharge of Rs. 102 by Aircel,5 GB 3G (2.5GB Day + 2.5GB Night) Data
-1240,128,,21 days,Recharge of Rs. 128 by Aircel,600 MB Data (3G)
-1241,147,,28 days,Recharge of Rs. 147 by Aircel,UL(L+S) -- 1 GB 3G Data
-1242,155,,28 days,Recharge of Rs. 155 by Aircel,10 GB 3G Data (5 GB Day + 5 GB Night)
-1243,185,,30 days,Recharge of Rs. 185 by Aircel,10 GB 3G (350 MB/Day) Data
-1244,198,,28 days,Recharge of Rs. 198 by Aircel,20 GB 3G (10GB Day + 10GB Night)
-1245,249,,28 days,Recharge of Rs. 249 by Aircel,UL Local A2A + Local A2O (200 min/day+ 900min /weekly) -- 100 MB 3G Data
-1246,251,,28 days,Recharge of Rs. 251 by Aircel,25 GB 3G (12.5GB Day + 12.5GB Night)
-1247,289,,28 days,Recharge of Rs. 289 by Aircel,30 GB 3G (15GB Day + 15GB Night)
-1248,295,,28 days,Recharge of Rs. 295 by Aircel,1 GB 3G Data/Day
-1249,351,,28 days,Recharge of Rs. 351 by Aircel,10 GB Data
-1250,551,,28 days,Recharge of Rs. 551 by Aircel,15 GB Data
+id,cost,talktime,validity,comments
+1211,22,,3 days,110 MB 2G/3G Data
+1213,37,,5 days,175 MB 2G/3G Data
+1215,49,,14 days,5 GB 3G/2G Data Night
+1218,79,,2 days,1 GB Data
+1219,85,,1 day,2 GB 3G/2G Data
+1225,144,,28 days,750 MB 2G/3G Data
+1226,151,,28 days,1 GB 3G/2G Data
+1227,399,,28 days,3 GB Data (2G/3G)
+1228,498,,60 days,10 GB 3G/2G Data -- FREE Local A2A (12AM to 5 AM)
+1229,499,,30 days,20 GB 3G/2G Data -- FREE Local A2A (12AM to 5 AM)
+1230,41,,1 day,Unlimited (L+S) A2A + (L+S) A2O 300 min -- 1 GB 3G/2G data
+1231,299,,28 days,"Unlimited Local+STD Calls -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 300 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1200 mins in a week -- 1 GB 3G/2G Data"
+1232,349,,28 days,"Unlimited Local + STD Calls -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 300 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1200 mins in a week -- 3 GB 3G/2G Data"
+1233,53,,3 days,1 GB 3G Data
+1234,58,,28 days,1.5 GB 3G Data
+1235,67,,5 days,2 GB 3G Data
+1236,73,,7 days,1 GB 3G Data
+1237,89,,7 days,1 GB 3G Data
+1238,94,,28 days,10 GB 3G (Night pack) Data
+1239,102,,28 days,5 GB 3G (2.5GB Day + 2.5GB Night) Data
+1240,128,,21 days,600 MB Data (3G)
+1241,147,,28 days,UL(L+S) -- 1 GB 3G Data
+1242,155,,28 days,10 GB 3G Data (5 GB Day + 5 GB Night)
+1243,185,,30 days,10 GB 3G (350 MB/Day) Data
+1244,198,,28 days,20 GB 3G (10GB Day + 10GB Night)
+1245,249,,28 days,UL Local A2A + Local A2O (200 min/day+ 900min /weekly) -- 100 MB 3G Data
+1246,251,,28 days,25 GB 3G (12.5GB Day + 12.5GB Night)
+1247,289,,28 days,30 GB 3G (15GB Day + 15GB Night)
+1248,295,,28 days,1 GB 3G Data/Day
+1249,351,,28 days,10 GB Data
+1250,551,,28 days,15 GB Data

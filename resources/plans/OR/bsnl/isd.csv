@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-6589,18,,30 days,Recharge of Rs. 18 by BSNL,Nepal Voice calls at Rs8.50 per Min and SMS Rs3 per SMS
-6590,23,,30 days,Recharge of Rs. 23 by BSNL,ISD outgoing voice call Rs.6.49/min -- International SMS at Rs3/SMS -- Countries covered are Australia Bahrain Indonesia Kuwait
-6591,28,,30 days,Recharge of Rs. 28 by BSNL,"ISD OG Voice call at Rs2.99 per min and International SMS at Rs3 per sms. Countries covered are Bangladesh, Malaysia, Hongkong and Thailand"
+id,cost,talktime,validity,comments
+6589,18,,30 days,Nepal Voice calls at Rs8.50 per Min and SMS Rs3 per SMS
+6590,23,,30 days,ISD outgoing voice call Rs.6.49/min -- International SMS at Rs3/SMS -- Countries covered are Australia Bahrain Indonesia Kuwait
+6591,28,,30 days,"ISD OG Voice call at Rs2.99 per min and International SMS at Rs3 per sms. Countries covered are Bangladesh, Malaysia, Hongkong and Thailand"

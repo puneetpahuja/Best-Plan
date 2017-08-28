@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-10323,10,7.47,N.A,Recharge of Rs. 10 by Idea,Talktime of Rs. 7.47 for Rs. 10 recharge by Idea
-10324,20,14.95,N.A,Recharge of Rs. 20 by Idea,Talktime of Rs. 14.95 for Rs. 20 recharge by Idea
-10326,30,22.42,N.A,Recharge of Rs. 30 by Idea,Talktime of Rs. 22.42 for Rs. 30 recharge by Idea
-10327,40,30.9,N.A,Recharge of Rs. 40 by Idea,Talktime of Rs. 30.9 for Rs. 40 recharge by Idea
-10330,60,47.85,N.A,Recharge of Rs. 60 by Idea,Magic Recharge. Customer gets surprise talktime between Rs.51 to Rs.100
-10331,70,56.32,N.A,Recharge of Rs. 70 by Idea,Talktime of Rs. 56.32 for Rs. 70 recharge by Idea
-10333,80,64.8,N.A,Recharge of Rs. 80 by Idea,Talktime of Rs. 64.8 for Rs. 80 recharge by Idea
-10334,90,73.27,N.A,Recharge of Rs. 90 by Idea,Magic Recharge. Customer gets surprise talktime between Rs.81 to Rs.120
-10337,110,90.22,N.A,Recharge of Rs. 110 by Idea,Talktime of Rs. 90.22 for Rs. 110 recharge by Idea
-10338,120,98.69,N.A,Recharge of Rs. 120 by Idea,Talktime of Rs. 98.69 for Rs. 120 recharge by Idea
-10339,130,107.17,N.A,Recharge of Rs. 130 by Idea,Talktime of Rs. 107.17 for Rs. 130 recharge by Idea
-10340,150,143,N.A,Recharge of Rs. 150 by Idea,Talktime of Rs. 143 for Rs. 150 recharge by Idea
+id,cost,talktime,validity,comments
+10323,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by Idea
+10324,20,14.95,N.A,Talktime of Rs. 14.95 for Rs. 20 recharge by Idea
+10326,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by Idea
+10327,40,30.9,N.A,Talktime of Rs. 30.9 for Rs. 40 recharge by Idea
+10330,60,47.85,N.A,Magic Recharge. Customer gets surprise talktime between Rs.51 to Rs.100
+10331,70,56.32,N.A,Talktime of Rs. 56.32 for Rs. 70 recharge by Idea
+10333,80,64.8,N.A,Talktime of Rs. 64.8 for Rs. 80 recharge by Idea
+10334,90,73.27,N.A,Magic Recharge. Customer gets surprise talktime between Rs.81 to Rs.120
+10337,110,90.22,N.A,Talktime of Rs. 90.22 for Rs. 110 recharge by Idea
+10338,120,98.69,N.A,Talktime of Rs. 98.69 for Rs. 120 recharge by Idea
+10339,130,107.17,N.A,Talktime of Rs. 107.17 for Rs. 130 recharge by Idea
+10340,150,143,N.A,Talktime of Rs. 143 for Rs. 150 recharge by Idea

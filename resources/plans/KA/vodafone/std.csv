@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-17252,14,,28 days,Recharge of Rs. 14 by Vodafone,STD calls to mobile @25p/m
-17253,27,,56 days,Recharge of Rs. 27 by Vodafone,STD calls to mobile @25p/m
+id,cost,talktime,validity,comments
+17252,14,,28 days,STD calls to mobile @25p/m
+17253,27,,56 days,STD calls to mobile @25p/m

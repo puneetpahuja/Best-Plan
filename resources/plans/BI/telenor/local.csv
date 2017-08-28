@@ -1,30 +1,30 @@
-id,cost,talktime,validity,short description,long description
-15834,6,,1 day,Recharge of Rs. 6 by Uninor,Unlimited Local Telenor to Telenor calls
-15835,8,,28 days,Recharge of Rs. 8 by Uninor,All Local calls @25p/Min -- STD calls @30p/min
-15836,11,,28 days,Recharge of Rs. 11 by Uninor,All Local calls @ 1.2p/2 sec
-15837,12,,2 days,Recharge of Rs. 12 by Uninor,Unlimited local Telenor to Telenor calls
-15838,13,,28 days,Recharge of Rs. 13 by Uninor,Local Telenor to Telenor calls @8p/min
-15839,15,,28 days,Recharge of Rs. 15 by Uninor,All Local/STD calls@20p/min
-15840,19,,60 days,Recharge of Rs. 19 by Uninor,All Local calls @25P/Min & All STD Calls @30P/Min -- Local Telenor to Telenor Calls Free from 12 AM to 6 AM
-15841,22,,60 days,Recharge of Rs. 22 by Uninor,All Local calls @1.2p/2 sec
-15842,24,,45 days,Recharge of Rs. 24 by Uninor,All local/STD calls @ 20p/min
-15843,29,,28 days,Recharge of Rs. 29 by Uninor,Local Telenor to Telenor calls @3p/min
-15844,35,,14 days,Recharge of Rs. 35 by Uninor,4800 Local seconds
-15845,36,,45 days,Recharge of Rs. 36 by Uninor,All Local calls @1p/2 sec
-15846,37,,90 days,Recharge of Rs. 37 by Uninor,All Local Calls @ 25p/min & STD Calls @ 30p/min (Local Telenor to Telenor Calls Free from 12 AM to 6 AM)
-15847,38,,28 days,Recharge of Rs. 38 by Uninor,"15,000 Local Telenor to Telenor Seconds"
-15848,48,,28 days,Recharge of Rs. 48 by Uninor,Unlimited Local + STD Telenor to Telenor calls
-15849,55,,21 days,Recharge of Rs. 55 by Uninor,9600 Local seconds
-15850,58,,60 days,Recharge of Rs. 58 by Uninor,All Local calls @ 1p/2 sec
-15851,67,,90 days,Recharge of Rs. 67 by Uninor,All Local calls @25p/min
-15852,68,,28 days,Recharge of Rs. 68 by Uninor,"66,000 Local Telenor to Telenor Seconds"
-15853,69,,7 days,Recharge of Rs. 69 by Uninor,Unlimited Local Telenor to Telenor Calls
-15854,79,,90 days,Recharge of Rs. 79 by Uninor,All Local calls @1p/2Sec
-15855,81,,28 days,Recharge of Rs. 81 by Uninor,"14,000 Local/STD secs"
-15856,82,,30 days,Recharge of Rs. 82 by Uninor,60000 Local Telenor to Telenor seconds and 6000 Local Telenor to others seconds post that All Local Telenor to Telenor and Telenor to others calls @ 1p/sec
-15857,88,,56 days,Recharge of Rs. 88 by Uninor,Unlimited Local + STD Telenor to Telenor calls
-15858,96,,28 days,Recharge of Rs. 96 by Uninor,"15,000 Local Telenor to others Secs + 30,000 Local Telenor to Telenor Secs and All Local +STD at 1.2p/sec"
-15859,99,,21 days,Recharge of Rs. 99 by Uninor,Unlimited Local Telenor to Telenor calls 
-15860,111,,28 days,Recharge of Rs. 111 by Uninor,"30,000 Sec Local Telenor to Telenor + 15,000 Sec All India Calls"
-15861,198,,28 days,Recharge of Rs. 198 by Uninor,120000 sec Local Telenor to Telenor & 36000 sec Local Telenor to others post that All Local/STD calls @1.2p/sec
-15862,221,,28 days,Recharge of Rs. 221 by Uninor,"36,000 Local Telenor to others/All STD Seconds"
+id,cost,talktime,validity,comments
+15834,6,,1 day,Unlimited Local Telenor to Telenor calls
+15835,8,,28 days,All Local calls @25p/Min -- STD calls @30p/min
+15836,11,,28 days,All Local calls @ 1.2p/2 sec
+15837,12,,2 days,Unlimited local Telenor to Telenor calls
+15838,13,,28 days,Local Telenor to Telenor calls @8p/min
+15839,15,,28 days,All Local/STD calls@20p/min
+15840,19,,60 days,All Local calls @25P/Min & All STD Calls @30P/Min -- Local Telenor to Telenor Calls Free from 12 AM to 6 AM
+15841,22,,60 days,All Local calls @1.2p/2 sec
+15842,24,,45 days,All local/STD calls @ 20p/min
+15843,29,,28 days,Local Telenor to Telenor calls @3p/min
+15844,35,,14 days,4800 Local seconds
+15845,36,,45 days,All Local calls @1p/2 sec
+15846,37,,90 days,All Local Calls @ 25p/min & STD Calls @ 30p/min (Local Telenor to Telenor Calls Free from 12 AM to 6 AM)
+15847,38,,28 days,"15,000 Local Telenor to Telenor Seconds"
+15848,48,,28 days,Unlimited Local + STD Telenor to Telenor calls
+15849,55,,21 days,9600 Local seconds
+15850,58,,60 days,All Local calls @ 1p/2 sec
+15851,67,,90 days,All Local calls @25p/min
+15852,68,,28 days,"66,000 Local Telenor to Telenor Seconds"
+15853,69,,7 days,Unlimited Local Telenor to Telenor Calls
+15854,79,,90 days,All Local calls @1p/2Sec
+15855,81,,28 days,"14,000 Local/STD secs"
+15856,82,,30 days,60000 Local Telenor to Telenor seconds and 6000 Local Telenor to others seconds post that All Local Telenor to Telenor and Telenor to others calls @ 1p/sec
+15857,88,,56 days,Unlimited Local + STD Telenor to Telenor calls
+15858,96,,28 days,"15,000 Local Telenor to others Secs + 30,000 Local Telenor to Telenor Secs and All Local +STD at 1.2p/sec"
+15859,99,,21 days,Unlimited Local Telenor to Telenor calls 
+15860,111,,28 days,"30,000 Sec Local Telenor to Telenor + 15,000 Sec All India Calls"
+15861,198,,28 days,120000 sec Local Telenor to Telenor & 36000 sec Local Telenor to others post that All Local/STD calls @1.2p/sec
+15862,221,,28 days,"36,000 Local Telenor to others/All STD Seconds"

@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-10163,25,18.7,N.A,Recharge of Rs. 25 by Idea,1 Local Night I2I Min (10pm to 6am) -- Tariff Validity (Days): 1
-10165,39,30,N.A,Recharge of Rs. 39 by Idea,1 Local Night I2I Min (10pm to 6am) -- Tariff Validity (Days): 1
-10167,49,38.5,N.A,Recharge of Rs. 49 by Idea,1 Local Night I2I Min (10pm to 6am) -- Tariff Validity (Days): 1
-10170,65,52,N.A,Recharge of Rs. 65 by Idea,1 Local Night I2I Min (10pm to 6am) -- Tariff Validity (Days): 1
-10172,79,63,N.A,Recharge of Rs. 79 by Idea,1 Local Night I2I Min (10pm to 6am) -- Tariff Validity (Days): 1
-10176,102,83,N.A,Recharge of Rs. 102 by Idea,1 Local Night I2I Min (10pm to 6am) -- Tariff Validity (Days): 1
-10204,1003,872.98,N.A,Recharge of Rs. 1003 by Idea,5 Idea Local Night SMS (10pm to 6am) -- Tariff Validity (Days): 2 
-10211,2249,,28 days,Recharge of Rs. 2249 by Idea,"Voice: Unlimited local, STD , Roaming -- 7GB 3G Data -- SMS: 100 SMS/day -- Data is not unlimited and will be charged @ 4p/10 Kb after Free Usage; SMS will be for Local/STD and will be charged @ Rs 1/1.5 post 100 SMS;Roaming is free only on Idea Network and includes Local & STD calls only; Landline calls are excluded"
-10212,3249,,28 days,Recharge of Rs. 3249 by Idea,"Voice: Unlimited local, STD, Roaming calls -- 15 GB 3G Data -- SMS: 100 SMS/day -- Data is not unlimited and will be charged @ 4p/10 Kb after Free Usage; SMS will be for Local/STD and will be charged @ Rs 1/1.5 post 100 SMS;Roaming is free only on Idea Network and includes Local & STD calls only; Landline calls are excluded"
+id,cost,talktime,validity,comments
+10163,25,18.7,N.A,1 Local Night I2I Min (10pm to 6am) -- Tariff Validity (Days): 1
+10165,39,30,N.A,1 Local Night I2I Min (10pm to 6am) -- Tariff Validity (Days): 1
+10167,49,38.5,N.A,1 Local Night I2I Min (10pm to 6am) -- Tariff Validity (Days): 1
+10170,65,52,N.A,1 Local Night I2I Min (10pm to 6am) -- Tariff Validity (Days): 1
+10172,79,63,N.A,1 Local Night I2I Min (10pm to 6am) -- Tariff Validity (Days): 1
+10176,102,83,N.A,1 Local Night I2I Min (10pm to 6am) -- Tariff Validity (Days): 1
+10204,1003,872.98,N.A,5 Idea Local Night SMS (10pm to 6am) -- Tariff Validity (Days): 2 
+10211,2249,,28 days,"Voice: Unlimited local, STD , Roaming -- 7GB 3G Data -- SMS: 100 SMS/day -- Data is not unlimited and will be charged @ 4p/10 Kb after Free Usage; SMS will be for Local/STD and will be charged @ Rs 1/1.5 post 100 SMS;Roaming is free only on Idea Network and includes Local & STD calls only; Landline calls are excluded"
+10212,3249,,28 days,"Voice: Unlimited local, STD, Roaming calls -- 15 GB 3G Data -- SMS: 100 SMS/day -- Data is not unlimited and will be charged @ 4p/10 Kb after Free Usage; SMS will be for Local/STD and will be charged @ Rs 1/1.5 post 100 SMS;Roaming is free only on Idea Network and includes Local & STD calls only; Landline calls are excluded"

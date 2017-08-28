@@ -1,28 +1,28 @@
-id,cost,talktime,validity,short description,long description
-2170,29,,28 days,Recharge of Rs. 29 by Airtel,115 MB 2G/3G/4G Data
-2172,55,,1 day,Recharge of Rs. 55 by Airtel,1 GB 2G/3G/4G Data
-2175,145,,7 days,Recharge of Rs. 145 by Airtel,1 GB 2G/3G/4G Data
-2178,179,,28 days,Recharge of Rs. 179 by Airtel,1 GB 2G/3G/4G Data
-2183,498,,28 days,Recharge of Rs. 498 by Airtel,4 GB 2G/3G/4G Data. 4GB Happy Hours Night data (3AM to 5AM)
-2184,598,,28 days,Recharge of Rs. 598 by Airtel,5 GB 2G/3G/4G Data. 5 GB Happy Hours Night data(3AM to 5AM)
-2188,19,,2 days,Recharge of Rs. 19 by Airtel,75 MB 3G Data
-2189,46,,5 days,Recharge of Rs. 46 by Airtel,175 MB 3G Data
-2190,47,,28 days,Recharge of Rs. 47 by Airtel,120 MB 3G Data
-2191,51,,1 day,Recharge of Rs. 51 by Airtel,1 GB 3G Data (12AM-6AM)
-2193,95,,14 days,Recharge of Rs. 95 by Airtel,380 MB 3G Data
-2195,97,,28 days,Recharge of Rs. 97 by Airtel,250 MB 3G Data
-2196,117,,28 days,Recharge of Rs. 117 by Airtel,250 MB 3G Day/Night + 250 MB Night ( 12AM - 6AM)
-2197,121,,28 days,Recharge of Rs. 121 by Airtel,1 GB 3G (12AM-6AM) Data
-2198,185,,28 days,Recharge of Rs. 185 by Airtel,400 MB 3G Day/Night + 400 MB Night ( 12AM - 6AM)
-2199,227,,28 days,Recharge of Rs. 227 by Airtel,700 MB 3G Data
-2200,247,,28 days,Recharge of Rs. 247 by Airtel,1.5GB 3G Data
-2201,259,,28 days,Recharge of Rs. 259 by Airtel,1 GB 3G + 50 MB Night
-2202,297,,28 days,Recharge of Rs. 297 by Airtel,1 GB 3G Day/Night + 1 GB 3G Night (12AM - 6AM) . 1 GB Happy Hours Night data (3AM to 5AM).
-2203,298,,28 days,Recharge of Rs. 298 by Airtel,1.25 GB 3G Data. 1.25 GB Happy Hours Night data (3AM to 5AM)
-2206,348,,28 days,Recharge of Rs. 348 by Airtel,2.5 GB 3G Data
-2209,445,,28 days,Recharge of Rs. 445 by Airtel,3.5 GB 3G Data
-2211,545,,28 days,Recharge of Rs. 545 by Airtel,3 GB 3G Day/Night + 2 GB Night ( 12AM - 6AM) . 3 GB Happy Hours Night data (3AM to 5AM)
-2219,1245,,28 days,Recharge of Rs. 1245 by Airtel,12 GB 3G Day/Night + 1 GB Night(12AM - 6AM) . 12 GB Happy Hours Night data (3AM to 5AM)
-2220,1845,,28 days,Recharge of Rs. 1845 by Airtel,15 GB 3G Day/Night + 7GB Night ( 12AM - 6AM)
-2221,3345,,28 days,Recharge of Rs. 3345 by Airtel,22 GB 3G Day/ Night + 23 GB Night ( 12AM - 6AM)
-2223,748,,28 days,Recharge of Rs. 748 by Airtel,1650 Local Mobile Mins -- 1 GB 3G Data
+id,cost,talktime,validity,comments
+2170,29,,28 days,115 MB 2G/3G/4G Data
+2172,55,,1 day,1 GB 2G/3G/4G Data
+2175,145,,7 days,1 GB 2G/3G/4G Data
+2178,179,,28 days,1 GB 2G/3G/4G Data
+2183,498,,28 days,4 GB 2G/3G/4G Data. 4GB Happy Hours Night data (3AM to 5AM)
+2184,598,,28 days,5 GB 2G/3G/4G Data. 5 GB Happy Hours Night data(3AM to 5AM)
+2188,19,,2 days,75 MB 3G Data
+2189,46,,5 days,175 MB 3G Data
+2190,47,,28 days,120 MB 3G Data
+2191,51,,1 day,1 GB 3G Data (12AM-6AM)
+2193,95,,14 days,380 MB 3G Data
+2195,97,,28 days,250 MB 3G Data
+2196,117,,28 days,250 MB 3G Day/Night + 250 MB Night ( 12AM - 6AM)
+2197,121,,28 days,1 GB 3G (12AM-6AM) Data
+2198,185,,28 days,400 MB 3G Day/Night + 400 MB Night ( 12AM - 6AM)
+2199,227,,28 days,700 MB 3G Data
+2200,247,,28 days,1.5GB 3G Data
+2201,259,,28 days,1 GB 3G + 50 MB Night
+2202,297,,28 days,1 GB 3G Day/Night + 1 GB 3G Night (12AM - 6AM) . 1 GB Happy Hours Night data (3AM to 5AM).
+2203,298,,28 days,1.25 GB 3G Data. 1.25 GB Happy Hours Night data (3AM to 5AM)
+2206,348,,28 days,2.5 GB 3G Data
+2209,445,,28 days,3.5 GB 3G Data
+2211,545,,28 days,3 GB 3G Day/Night + 2 GB Night ( 12AM - 6AM) . 3 GB Happy Hours Night data (3AM to 5AM)
+2219,1245,,28 days,12 GB 3G Day/Night + 1 GB Night(12AM - 6AM) . 12 GB Happy Hours Night data (3AM to 5AM)
+2220,1845,,28 days,15 GB 3G Day/Night + 7GB Night ( 12AM - 6AM)
+2221,3345,,28 days,22 GB 3G Day/ Night + 23 GB Night ( 12AM - 6AM)
+2223,748,,28 days,1650 Local Mobile Mins -- 1 GB 3G Data

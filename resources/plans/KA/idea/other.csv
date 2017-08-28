@@ -1,21 +1,21 @@
-id,cost,talktime,validity,short description,long description
-10305,15,15,N.A,Recharge of Rs. 15 by Idea,2 Local Idea Night mins.Local Idea Night Mins valid from 12AM to 6AM -- Talktime Validity (Days): 2 -- Tariff Validity (Days): 2
-10306,35,35,N.A,Recharge of Rs. 35 by Idea,2 Local Idea Night mins.Local Idea Night Mins valid from 12AM to 6AM -- Talktime Validity (Days): 5 -- Tariff Validity (Days): 5
-10307,55,55,N.A,Recharge of Rs. 55 by Idea,2 Local Idea Night mins.Local Idea Night Mins valid from 12AM to 6AM -- Talktime Validity (Days): 7 -- Tariff Validity (Days): 7
-10308,85,85,N.A,Recharge of Rs. 85 by Idea,"2 Local Idea Night mins, Local Idea Night Mins valid from 12AM to 6AM -- Talktime Validity (Days): 12 -- Tariff Validity (Days): 12"
-10325,25,18.69,N.A,Recharge of Rs. 25 by Idea,2 Local Idea Night mins. Local Idea Night Mins valid from 12AM to 6AM -- Tariff Validity (Days): 2
-10328,50,39.37,N.A,Recharge of Rs. 50 by Idea,"Rs 50 Talktime, if recharged through Idea Website or Idea App"
-10329,52,41.07,N.A,Recharge of Rs. 52 by Idea,2 Local Idea Night mins.Local Idea Night Mins valid from 12AM to 6AM -- Tariff Validity (Days): 2
-10332,75,60.56,N.A,Recharge of Rs. 75 by Idea,2 Local Idea Night mins.Local Idea Night Mins valid from 12AM to 6AM -- Tariff Validity (Days): 2
-10335,95,77.51,N.A,Recharge of Rs. 95 by Idea,2 Local Idea Night mins.Local Idea Night Mins valid from 12AM to 6AM -- Tariff Validity (Days): 2
-10336,100,81.74,N.A,Recharge of Rs. 100 by Idea,"Rs 100 Talktime, if recharged through Idea Website or Idea App"
-10341,185,153.78,N.A,Recharge of Rs. 185 by Idea,2 Local Idea Night mins.Local Idea Night Mins valid from 12AM to 6AM -- Tariff Validity (Days): 2
-10342,209,174.1,N.A,Recharge of Rs. 209 by Idea,174.10 TT + 5 Local I2I Minutes -- For Requests from Webportal / MPORTAL / IdeaMap ( 150.00 TT +1 GB 4G/2G Data Valid for 28 days) -- Validity (Days): 1
-10343,255,100,28 days,Recharge of Rs. 255 by Idea,500 MB 4G/2G -- Overage: 4p/10KB
-10344,257,100,28 days,Recharge of Rs. 257 by Idea,500 MB 4G/3G Data
-10345,355,100,N.A,Recharge of Rs. 355 by Idea,1 GB 4G/2G  for 28 days -- Overage: 4p/10KB
-10346,455,100,28 days,Recharge of Rs. 455 by Idea,1.5 GB 4G/2G Data 
-10358,998,,28 days,Recharge of Rs. 998 by Idea,Unlimited local mobile calling -- Additional 5GB 2G Internet -- 100 L/N SMS/day
-10376,124,,28 nights,Recharge of Rs. 124 by Idea,1GB night 4G/2G (12am-6am) -- Overage: 4p/10KB
-10382,246,,28 days,Recharge of Rs. 246 by Idea,"Unlimited Local calls --  Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable -- 50 MB 2G/4G data (Only 4G handset users will get additional 974 2G/4G data) -- Only 4G Handset customers will get 1 GB 4G/2G Data -- This STV should not be used for any commercial activity"
-10393,145,,28 days,Recharge of Rs. 145 by Idea,Unlimited On Net local/STD mobile calls --  50 MB 2G/4G data (4G handset users will get additional 250 MB 2G/4G data^) -- Commercial activity will mean customers using the said product for making 100 unique calls in a week and 1500 minutes in a week. Customers found violating the said norm shall be shifted to limited pack of 5000 minutes for RC 698 for the rest of the validity. -- This STV should not be used for any commercial activity. 
+id,cost,talktime,validity,comments
+10305,15,15,N.A,2 Local Idea Night mins.Local Idea Night Mins valid from 12AM to 6AM -- Talktime Validity (Days): 2 -- Tariff Validity (Days): 2
+10306,35,35,N.A,2 Local Idea Night mins.Local Idea Night Mins valid from 12AM to 6AM -- Talktime Validity (Days): 5 -- Tariff Validity (Days): 5
+10307,55,55,N.A,2 Local Idea Night mins.Local Idea Night Mins valid from 12AM to 6AM -- Talktime Validity (Days): 7 -- Tariff Validity (Days): 7
+10308,85,85,N.A,"2 Local Idea Night mins, Local Idea Night Mins valid from 12AM to 6AM -- Talktime Validity (Days): 12 -- Tariff Validity (Days): 12"
+10325,25,18.69,N.A,2 Local Idea Night mins. Local Idea Night Mins valid from 12AM to 6AM -- Tariff Validity (Days): 2
+10328,50,39.37,N.A,"Rs 50 Talktime, if recharged through Idea Website or Idea App"
+10329,52,41.07,N.A,2 Local Idea Night mins.Local Idea Night Mins valid from 12AM to 6AM -- Tariff Validity (Days): 2
+10332,75,60.56,N.A,2 Local Idea Night mins.Local Idea Night Mins valid from 12AM to 6AM -- Tariff Validity (Days): 2
+10335,95,77.51,N.A,2 Local Idea Night mins.Local Idea Night Mins valid from 12AM to 6AM -- Tariff Validity (Days): 2
+10336,100,81.74,N.A,"Rs 100 Talktime, if recharged through Idea Website or Idea App"
+10341,185,153.78,N.A,2 Local Idea Night mins.Local Idea Night Mins valid from 12AM to 6AM -- Tariff Validity (Days): 2
+10342,209,174.1,N.A,174.10 TT + 5 Local I2I Minutes -- For Requests from Webportal / MPORTAL / IdeaMap ( 150.00 TT +1 GB 4G/2G Data Valid for 28 days) -- Validity (Days): 1
+10343,255,100,28 days,500 MB 4G/2G -- Overage: 4p/10KB
+10344,257,100,28 days,500 MB 4G/3G Data
+10345,355,100,N.A,1 GB 4G/2G  for 28 days -- Overage: 4p/10KB
+10346,455,100,28 days,1.5 GB 4G/2G Data 
+10358,998,,28 days,Unlimited local mobile calling -- Additional 5GB 2G Internet -- 100 L/N SMS/day
+10376,124,,28 nights,1GB night 4G/2G (12am-6am) -- Overage: 4p/10KB
+10382,246,,28 days,"Unlimited Local calls --  Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.30/min will be applicable -- 50 MB 2G/4G data (Only 4G handset users will get additional 974 2G/4G data) -- Only 4G Handset customers will get 1 GB 4G/2G Data -- This STV should not be used for any commercial activity"
+10393,145,,28 days,Unlimited On Net local/STD mobile calls --  50 MB 2G/4G data (4G handset users will get additional 250 MB 2G/4G data^) -- Commercial activity will mean customers using the said product for making 100 unique calls in a week and 1500 minutes in a week. Customers found violating the said norm shall be shifted to limited pack of 5000 minutes for RC 698 for the rest of the validity. -- This STV should not be used for any commercial activity. 

@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-5793,13,,7 days,Recharge of Rs. 13 by BSNL,Free 130 SMS local or national anynet
-5794,20,,15 days,Recharge of Rs. 20 by BSNL,Free 265 SMS local or national anynet
-5795,34,,30 days,Recharge of Rs. 34 by BSNL,Free 385 SMS local or national anynet
-5796,53,,30 days,Recharge of Rs. 53 by BSNL,Free 860 SMS local or national anynet
-5797,54,,30 days,Recharge of Rs. 54 by BSNL,Free onnet SMS 100 nos and Off Net SMS 13p sms.STV features are available for maximum 100 nos of SMS day and in National roaming also but in BSNL network only.Maximum SMS limit is 200 nos. day.
-5798,83,,30 days,Recharge of Rs. 83 by BSNL,Free 1650 SMS local or national anynet
-5799,147,,60 days,Recharge of Rs. 147 by BSNL,Free 3000 Local or National Anyynet SMS
+id,cost,talktime,validity,comments
+5793,13,,7 days,Free 130 SMS local or national anynet
+5794,20,,15 days,Free 265 SMS local or national anynet
+5795,34,,30 days,Free 385 SMS local or national anynet
+5796,53,,30 days,Free 860 SMS local or national anynet
+5797,54,,30 days,Free onnet SMS 100 nos and Off Net SMS 13p sms.STV features are available for maximum 100 nos of SMS day and in National roaming also but in BSNL network only.Maximum SMS limit is 200 nos. day.
+5798,83,,30 days,Free 1650 SMS local or national anynet
+5799,147,,60 days,Free 3000 Local or National Anyynet SMS

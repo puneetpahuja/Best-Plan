@@ -1,12 +1,12 @@
-id,cost,talktime,validity,short description,long description
-17430,12,,2 days,Recharge of Rs. 12 by Vodafone,70 MB 2G Data
-17431,21,,3 days,Recharge of Rs. 21 by Vodafone,120 MB 2G Data
-17432,34,,5 days,Recharge of Rs. 34 by Vodafone,200 MB 2G Data
-17433,52,,28 days,Recharge of Rs. 52 by Vodafone,175 MB 2G Data
-17434,69,,10 days,Recharge of Rs. 69 by Vodafone,375 MB 2G Data
-17435,101,,14 days,Recharge of Rs. 101 by Vodafone,550MB Data
-17436,155,,21 days,Recharge of Rs. 155 by Vodafone,850 MB 2G Data
-17437,196,,28 days,Recharge of Rs. 196 by Vodafone,1.25GB then Unlimted
-17438,198,,28 days,Recharge of Rs. 198 by Vodafone,1.25 GB and upto 3 GB 2G Data
-17439,246,,28 days,Recharge of Rs. 246 by Vodafone,3 GB
-17440,591,,90 days,Recharge of Rs. 591 by Vodafone,2G Data Pack: 6GB Internet for 90 days
+id,cost,talktime,validity,comments
+17430,12,,2 days,70 MB 2G Data
+17431,21,,3 days,120 MB 2G Data
+17432,34,,5 days,200 MB 2G Data
+17433,52,,28 days,175 MB 2G Data
+17434,69,,10 days,375 MB 2G Data
+17435,101,,14 days,550MB Data
+17436,155,,21 days,850 MB 2G Data
+17437,196,,28 days,1.25GB then Unlimted
+17438,198,,28 days,1.25 GB and upto 3 GB 2G Data
+17439,246,,28 days,3 GB
+17440,591,,90 days,2G Data Pack: 6GB Internet for 90 days

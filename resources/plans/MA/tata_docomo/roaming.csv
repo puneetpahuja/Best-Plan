@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-8500,46,,56 days,Recharge of Rs. 46 by Docomo,Free incoming while roaming on Tata Network
-8501,61,,7 days,Recharge of Rs. 61 by Docomo,Roaming Tariff: All Outgoing Local & STD calls @ 50p/ min. on all networks. Incoming Free
+id,cost,talktime,validity,comments
+8500,46,,56 days,Free incoming while roaming on Tata Network
+8501,61,,7 days,Roaming Tariff: All Outgoing Local & STD calls @ 50p/ min. on all networks. Incoming Free

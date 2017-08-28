@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-5865,12,,2 days,Recharge of Rs. 12 by BSNL,STD any net at 20paisa per Min
-5866,23,,3 days,Recharge of Rs. 23 by BSNL,2000 sec Local or STD on-net Free
-5867,84,,84 days,Recharge of Rs. 84 by BSNL,STD any net at 40paisa per Min -- 
+id,cost,talktime,validity,comments
+5865,12,,2 days,STD any net at 20paisa per Min
+5866,23,,3 days,2000 sec Local or STD on-net Free
+5867,84,,84 days,STD any net at 40paisa per Min -- 

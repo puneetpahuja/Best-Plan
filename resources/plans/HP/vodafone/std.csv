@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-17152,25,,15 days,Recharge of Rs. 25 by Vodafone,STD Calls @ 40p/min
-17153,28,,28 days,Recharge of Rs. 28 by Vodafone,STD Mobile Calls @ 25p/min
-17154,91,,28 days,Recharge of Rs. 91 by Vodafone,Free 255 STD mins
+id,cost,talktime,validity,comments
+17152,25,,15 days,STD Calls @ 40p/min
+17153,28,,28 days,STD Mobile Calls @ 25p/min
+17154,91,,28 days,Free 255 STD mins

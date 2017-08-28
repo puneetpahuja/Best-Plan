@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-6643,11,,7 days,Recharge of Rs. 11 by BSNL,130 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
-6644,22,,15 days,Recharge of Rs. 22 by BSNL,265 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
-6645,33,,30 days,Recharge of Rs. 33 by BSNL,385 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
-6646,52,,30 days,Recharge of Rs. 52 by BSNL,860 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
-6647,53,,30 days,Recharge of Rs. 53 by BSNL,Free onnet SMS 100 nos and Off Net SMS 13p sms.STV features are available for maximum 100 nos of SMS day and in National roaming also but in BSNL network only.Maximum SMS limit is 200 nos. day.
-6648,83,,30 days,Recharge of Rs. 83 by BSNL,1650 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
-6650,147,,60 days,Recharge of Rs. 147 by BSNL,3000 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
+id,cost,talktime,validity,comments
+6643,11,,7 days,130 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
+6644,22,,15 days,265 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
+6645,33,,30 days,385 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
+6646,52,,30 days,860 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
+6647,53,,30 days,Free onnet SMS 100 nos and Off Net SMS 13p sms.STV features are available for maximum 100 nos of SMS day and in National roaming also but in BSNL network only.Maximum SMS limit is 200 nos. day.
+6648,83,,30 days,1650 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.
+6650,147,,60 days,3000 Local and National SMS -- Upto 100 SMS/day only. Beyond that all SMS charged at 50p/SMS or base SMS tariff whichever is higher.

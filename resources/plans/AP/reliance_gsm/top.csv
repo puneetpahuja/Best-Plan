@@ -1,11 +1,11 @@
-id,cost,talktime,validity,short description,long description
-12475,10,7.47,N.A,Recharge of Rs. 10 by RelianceGSM,Talktime of Rs. 7.47 for Rs. 10 recharge by Reliance GSM
-12476,20,14.95,N.A,Recharge of Rs. 20 by RelianceGSM,Talktime of Rs. 14.95 for Rs. 20 recharge by Reliance GSM
-12477,30,22.42,N.A,Recharge of Rs. 30 by RelianceGSM,Talktime of Rs. 22.42 for Rs. 30 recharge by Reliance GSM
-12479,50,39.37,N.A,Recharge of Rs. 50 by RelianceGSM,Talktime of Rs. 39.37 for Rs. 50 recharge by Reliance GSM
-12481,60,47.85,N.A,Recharge of Rs. 60 by RelianceGSM,Talktime of Rs. 47.85 for Rs. 60 recharge by Reliance GSM
-12484,90,73.27,N.A,Recharge of Rs. 90 by RelianceGSM,Talktime of Rs. 73.27 for Rs. 90 recharge by Reliance GSM
-12485,100,81.75,N.A,Recharge of Rs. 100 by RelianceGSM,Talktime of Rs. 81.75 for Rs. 100 recharge by Reliance GSM
-12488,150,124.12,N.A,Recharge of Rs. 150 by RelianceGSM,Talktime of Rs. 124.12 for Rs. 150 recharge by Reliance GSM
-12491,250,208.86,N.A,Recharge of Rs. 250 by RelianceGSM,Talktime of Rs. 208.86 for Rs. 250 recharge by Reliance GSM
-12492,400,335.98,N.A,Recharge of Rs. 400 by RelianceGSM,Talktime of Rs. 335.98 for Rs. 400 recharge by Reliance GSM
+id,cost,talktime,validity,comments
+12475,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by Reliance GSM
+12476,20,14.95,N.A,Talktime of Rs. 14.95 for Rs. 20 recharge by Reliance GSM
+12477,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by Reliance GSM
+12479,50,39.37,N.A,Talktime of Rs. 39.37 for Rs. 50 recharge by Reliance GSM
+12481,60,47.85,N.A,Talktime of Rs. 47.85 for Rs. 60 recharge by Reliance GSM
+12484,90,73.27,N.A,Talktime of Rs. 73.27 for Rs. 90 recharge by Reliance GSM
+12485,100,81.75,N.A,Talktime of Rs. 81.75 for Rs. 100 recharge by Reliance GSM
+12488,150,124.12,N.A,Talktime of Rs. 124.12 for Rs. 150 recharge by Reliance GSM
+12491,250,208.86,N.A,Talktime of Rs. 208.86 for Rs. 250 recharge by Reliance GSM
+12492,400,335.98,N.A,Talktime of Rs. 335.98 for Rs. 400 recharge by Reliance GSM

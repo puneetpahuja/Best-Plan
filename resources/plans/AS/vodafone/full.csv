@@ -1,9 +1,9 @@
-id,cost,talktime,validity,short description,long description
-16308,220,220,N.A,Recharge of Rs. 220 by Vodafone,Talktime of Rs. 220 for Rs. 220 recharge by Vodafone
-16309,230,230,N.A,Recharge of Rs. 230 by Vodafone,Talktime of Rs. 230 for Rs. 230 recharge by Vodafone
-16310,340,340,N.A,Recharge of Rs. 340 by Vodafone,Talktime of Rs. 340 for Rs. 340 recharge by Vodafone
-16311,350,350,N.A,Recharge of Rs. 350 by Vodafone,Talktime of Rs. 350 for Rs. 350 recharge by Vodafone
-16312,450,450,N.A,Recharge of Rs. 450 by Vodafone,Talktime of Rs. 450 for Rs. 450 recharge by Vodafone
-16313,500,500,N.A,Recharge of Rs. 500 by Vodafone,Talktime of Rs. 500 for Rs. 500 recharge by Vodafone
-16314,750,750,N.A,Recharge of Rs. 750 by Vodafone,Talktime of Rs. 750 for Rs. 750 recharge by Vodafone
-16315,1000,1000,N.A,Recharge of Rs. 1000 by Vodafone,Talktime of Rs. 1000 for Rs. 1000 recharge by Vodafone
+id,cost,talktime,validity,comments
+16308,220,220,N.A,Talktime of Rs. 220 for Rs. 220 recharge by Vodafone
+16309,230,230,N.A,Talktime of Rs. 230 for Rs. 230 recharge by Vodafone
+16310,340,340,N.A,Talktime of Rs. 340 for Rs. 340 recharge by Vodafone
+16311,350,350,N.A,Talktime of Rs. 350 for Rs. 350 recharge by Vodafone
+16312,450,450,N.A,Talktime of Rs. 450 for Rs. 450 recharge by Vodafone
+16313,500,500,N.A,Talktime of Rs. 500 for Rs. 500 recharge by Vodafone
+16314,750,750,N.A,Talktime of Rs. 750 for Rs. 750 recharge by Vodafone
+16315,1000,1000,N.A,Talktime of Rs. 1000 for Rs. 1000 recharge by Vodafone

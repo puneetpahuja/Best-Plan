@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-10205,5,,4 days,Recharge of Rs. 5 by Idea,50 Local/National SMS
-10206,14,,10 days,Recharge of Rs. 14 by Idea,200 Local/National SMS
-10207,33,,28 days,Recharge of Rs. 33 by Idea,360 Local/National SMS
-10208,54,,28 days,Recharge of Rs. 54 by Idea,600 Local/National SMS
-10209,63,,28 days,Recharge of Rs. 63 by Idea,100 Local/National SMS Free/Day
-10210,78,,28 days,Recharge of Rs. 78 by Idea,900 Local/National SMS
+id,cost,talktime,validity,comments
+10205,5,,4 days,50 Local/National SMS
+10206,14,,10 days,200 Local/National SMS
+10207,33,,28 days,360 Local/National SMS
+10208,54,,28 days,600 Local/National SMS
+10209,63,,28 days,100 Local/National SMS Free/Day
+10210,78,,28 days,900 Local/National SMS

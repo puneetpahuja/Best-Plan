@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-5868,18,,30 days,Recharge of Rs. 18 by BSNL,All voice calls to Nepal at Rs 8.50 per Min -- 
-5869,22,,30 days,Recharge of Rs. 22 by BSNL,"ISD calls to Australia ,Bahrain , Indonesia, Kuwait @ Rs. 6.49/min -- International SMS @ Rs.3/SMS"
-5870,27,,30 days,Recharge of Rs. 27 by BSNL,"ISD calls to Bangladesh, Malaysia, Hong Kong, Thailand @ Rs. 2.99/min -- International SMS @ Rs.3/SMS"
-5871,38,,30 days,Recharge of Rs. 38 by BSNL,"ISD calls to France , Germany, U.K** @ Rs. 4.49/min -- International SMS @ Rs.3/SMS -- **Not applicable for ISD code 004470 to 004479 of UK "
-5872,43,,30 days,Recharge of Rs. 43 by BSNL,"ISD calls to Canada , U.S.A. , Singapore , China @ Rs. 1.49/min -- International SMS @ Rs.3/SMS"
+id,cost,talktime,validity,comments
+5868,18,,30 days,All voice calls to Nepal at Rs 8.50 per Min -- 
+5869,22,,30 days,"ISD calls to Australia ,Bahrain , Indonesia, Kuwait @ Rs. 6.49/min -- International SMS @ Rs.3/SMS"
+5870,27,,30 days,"ISD calls to Bangladesh, Malaysia, Hong Kong, Thailand @ Rs. 2.99/min -- International SMS @ Rs.3/SMS"
+5871,38,,30 days,"ISD calls to France , Germany, U.K** @ Rs. 4.49/min -- International SMS @ Rs.3/SMS -- **Not applicable for ISD code 004470 to 004479 of UK "
+5872,43,,30 days,"ISD calls to Canada , U.S.A. , Singapore , China @ Rs. 1.49/min -- International SMS @ Rs.3/SMS"

@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-13034,31,,28 days,Recharge of Rs. 31 by RelianceGSM,All STD @ 25p/Min
-13035,55,,28 days,Recharge of Rs. 55 by RelianceGSM,All STD Calls @ 25p/Min
+id,cost,talktime,validity,comments
+13034,31,,28 days,All STD @ 25p/Min
+13035,55,,28 days,All STD Calls @ 25p/Min

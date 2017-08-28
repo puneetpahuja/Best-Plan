@@ -1,20 +1,20 @@
-id,cost,talktime,validity,short description,long description
-4116,25,25,3 days,Recharge of Rs. 25 by Airtel,3 Local Airtel SMS (1 day)
-4117,27,27,6 days,Recharge of Rs. 27 by Airtel,3 SMS for 1 Day
-4118,55,55,6 days,Recharge of Rs. 55 by Airtel,3 Local Airtel SMS (1 day)
-4119,85,85,10 days,Recharge of Rs. 85 by Airtel,3 Local airtel SMS
-4120,88,88,10 days,Recharge of Rs. 88 by Airtel,3 SMS for 1 Day
-4122,254,254,N.A,Recharge of Rs. 254 by Airtel,3 Local Airtel SMS 1 day
-4124,306,306,28 days,Recharge of Rs. 306 by Airtel,National Roaming Benefits: FREE incoming calls in roaming -- Local & STD outgoing calls @60p/min
-4132,24,17.94,N.A,Recharge of Rs. 24 by Airtel,"3 Local Airtel SMS,1 day ."
-4135,49,38.53,N.A,Recharge of Rs. 49 by Airtel,3 Local Airtel SMS (1 day)
-4144,14,10,60 days,Recharge of Rs. 14 by Airtel,Home Roam benefits for UPE customer in UPW -- UPW SVVs applicable
-4150,244,,28 days,Recharge of Rs. 244 by Airtel,"Unlimited Local + STD Airtel to Airtel mobile calls -- 50 MB data.For 4G Handset with 4G SIM,extra 1 GB.-- T&C apply. 1 GB Happy Hours night data for 4G H/S+4G SIM & 50 MB for others (3AM to 5AM)"
-4151,399,,28 days,Recharge of Rs. 399 by Airtel,Unlimited all Local+STD calls with 250MB data. For 4G Handset with 4G SIM extra 1GB data. Validity 28 days. T&C apply. 1GB Happy Hours night data for 4G H/S+4G SIM & 250MB for others(3AM to 5AM)
-4152,499,,28 days,Recharge of Rs. 499 by Airtel,Unlimited Local & STD Calls -- 1.5 GB/Day for 4G HS+4G SIM (other HS 2GB )T&C Apply
-4153,648,,28 days,Recharge of Rs. 648 by Airtel,Unlimited Local & STD Calls -- 2.5 GB/Day for 4G HS+4G SIM (other HS 3.5GB )T&C Apply
-4154,899,,28 days,Recharge of Rs. 899 by Airtel,Unlimited All Local & STD Calls -- 3.5 GB/Day for 4G HS + 4G SIM (other HS 6GB ). T&C Apply
-4155,1198,,28 days,Recharge of Rs. 1198 by Airtel,Unlimited All Local & STD Calls -- 5 GB/Day for 4G HS + 4G SIM (other HS 9GB ). T&C Apply
-4156,23,,1 day,Recharge of Rs. 23 by Airtel,Unlimited Airtel Local+STD calls -- 100 data 4G HS (50 MB-Other HS) -- T&C Apply
-4157,54,,7 days,Recharge of Rs. 54 by Airtel,Unlimited Airtel Local + STD calls -- 250 data 4G HS (50 MB-Other HS)
-4158,93,,7 days,Recharge of Rs. 93 by Airtel,Unlimited Airtel Local + STD calls -- 100 Local & STD all mobile minute -- 250 data 4G HS (50 MB-Other HS) --  T&C Apply
+id,cost,talktime,validity,comments
+4116,25,25,3 days,3 Local Airtel SMS (1 day)
+4117,27,27,6 days,3 SMS for 1 Day
+4118,55,55,6 days,3 Local Airtel SMS (1 day)
+4119,85,85,10 days,3 Local airtel SMS
+4120,88,88,10 days,3 SMS for 1 Day
+4122,254,254,N.A,3 Local Airtel SMS 1 day
+4124,306,306,28 days,National Roaming Benefits: FREE incoming calls in roaming -- Local & STD outgoing calls @60p/min
+4132,24,17.94,N.A,"3 Local Airtel SMS,1 day ."
+4135,49,38.53,N.A,3 Local Airtel SMS (1 day)
+4144,14,10,60 days,Home Roam benefits for UPE customer in UPW -- UPW SVVs applicable
+4150,244,,28 days,"Unlimited Local + STD Airtel to Airtel mobile calls -- 50 MB data.For 4G Handset with 4G SIM,extra 1 GB.-- T&C apply. 1 GB Happy Hours night data for 4G H/S+4G SIM & 50 MB for others (3AM to 5AM)"
+4151,399,,28 days,Unlimited all Local+STD calls with 250MB data. For 4G Handset with 4G SIM extra 1GB data. Validity 28 days. T&C apply. 1GB Happy Hours night data for 4G H/S+4G SIM & 250MB for others(3AM to 5AM)
+4152,499,,28 days,Unlimited Local & STD Calls -- 1.5 GB/Day for 4G HS+4G SIM (other HS 2GB )T&C Apply
+4153,648,,28 days,Unlimited Local & STD Calls -- 2.5 GB/Day for 4G HS+4G SIM (other HS 3.5GB )T&C Apply
+4154,899,,28 days,Unlimited All Local & STD Calls -- 3.5 GB/Day for 4G HS + 4G SIM (other HS 6GB ). T&C Apply
+4155,1198,,28 days,Unlimited All Local & STD Calls -- 5 GB/Day for 4G HS + 4G SIM (other HS 9GB ). T&C Apply
+4156,23,,1 day,Unlimited Airtel Local+STD calls -- 100 data 4G HS (50 MB-Other HS) -- T&C Apply
+4157,54,,7 days,Unlimited Airtel Local + STD calls -- 250 data 4G HS (50 MB-Other HS)
+4158,93,,7 days,Unlimited Airtel Local + STD calls -- 100 Local & STD all mobile minute -- 250 data 4G HS (50 MB-Other HS) --  T&C Apply

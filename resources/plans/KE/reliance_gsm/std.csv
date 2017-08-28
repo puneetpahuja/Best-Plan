@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-13488,34,,28 days,Recharge of Rs. 34 by RelianceGSM,STD Mobile calls at 1.2p/2 Seconds
-13489,38,,28 days,Recharge of Rs. 38 by RelianceGSM,All STD Mobile calls @ 30p/Min
-13490,78,,84 days,Recharge of Rs. 78 by RelianceGSM,All STD mobile calls at 30ps/min
+id,cost,talktime,validity,comments
+13488,34,,28 days,STD Mobile calls at 1.2p/2 Seconds
+13489,38,,28 days,All STD Mobile calls @ 30p/Min
+13490,78,,84 days,All STD mobile calls at 30ps/min

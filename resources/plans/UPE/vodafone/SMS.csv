@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-18564,12,,10 days,Recharge of Rs. 12 by Vodafone,120 Local + National SMS
-18565,23,,15 days,Recharge of Rs. 23 by Vodafone,250 Local + National SMS
-18566,37,,28 days,Recharge of Rs. 37 by Vodafone,400 Local + National SMS
-18567,63,,28 days,Recharge of Rs. 63 by Vodafone,700 Local + National SMS
+id,cost,talktime,validity,comments
+18564,12,,10 days,120 Local + National SMS
+18565,23,,15 days,250 Local + National SMS
+18566,37,,28 days,400 Local + National SMS
+18567,63,,28 days,700 Local + National SMS

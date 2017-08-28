@@ -1,20 +1,20 @@
-id,cost,talktime,validity,short description,long description
-8911,8,,Upto midnight,Recharge of Rs. 8 by Docomo,100 MB Data Validity - Up to midnight (11: 59)
-8912,15,,3 days,Recharge of Rs. 15 by Docomo,200 MB 2G data -- 
-8913,31,,7 days,Recharge of Rs. 31 by Docomo,500 MB 2G data -- 
-8914,39,,14 days,Recharge of Rs. 39 by Docomo,500 MB 2G data -- 
-8915,43,,21 days,Recharge of Rs. 43 by Docomo,500 MB 2G data -- 
-8916,54,,28 days,Recharge of Rs. 54 by Docomo,500 MB 2G data -- 
-8917,61,,28 days,Recharge of Rs. 61 by Docomo,"400MB 2G Data -- New customers whose age on network lies between 0-90 days will get 1GB(2G), valid for 28 days. Rest of the customers whose age on network lies above 90 days will get 400 MB (2G)"
-8918,69,,14 days,Recharge of Rs. 69 by Docomo,1 GB 2G data -- 
-8919,78,,21 days,Recharge of Rs. 78 by Docomo,1 GB 2G data  -- 
-8920,98,,28 days,Recharge of Rs. 98 by Docomo,1 GB 2G data
-8921,126,,14 days,Recharge of Rs. 126 by Docomo,2 GB 2G data
-8922,131,,28 days,Recharge of Rs. 131 by Docomo,3 GB 2G Data
-8924,239,,28 days,Recharge of Rs. 239 by Docomo,4 GB
-8925,248,,56 days,Recharge of Rs. 248 by Docomo,2 GB 2G data
-8926,269,,28 days,Recharge of Rs. 269 by Docomo,5 GB
-8927,289,,28 days,Recharge of Rs. 289 by Docomo,3 GB
-8929,349,,28 days,Recharge of Rs. 349 by Docomo,5 GB
-8930,502,,365 days,Recharge of Rs. 502 by Docomo,5 GB 2G Data -- 
-8931,599,,28 days,Recharge of Rs. 599 by Docomo,10 GB
+id,cost,talktime,validity,comments
+8911,8,,Upto midnight,100 MB Data Validity - Up to midnight (11: 59)
+8912,15,,3 days,200 MB 2G data -- 
+8913,31,,7 days,500 MB 2G data -- 
+8914,39,,14 days,500 MB 2G data -- 
+8915,43,,21 days,500 MB 2G data -- 
+8916,54,,28 days,500 MB 2G data -- 
+8917,61,,28 days,"400MB 2G Data -- New customers whose age on network lies between 0-90 days will get 1GB(2G), valid for 28 days. Rest of the customers whose age on network lies above 90 days will get 400 MB (2G)"
+8918,69,,14 days,1 GB 2G data -- 
+8919,78,,21 days,1 GB 2G data  -- 
+8920,98,,28 days,1 GB 2G data
+8921,126,,14 days,2 GB 2G data
+8922,131,,28 days,3 GB 2G Data
+8924,239,,28 days,4 GB
+8925,248,,56 days,2 GB 2G data
+8926,269,,28 days,5 GB
+8927,289,,28 days,3 GB
+8929,349,,28 days,5 GB
+8930,502,,365 days,5 GB 2G Data -- 
+8931,599,,28 days,10 GB

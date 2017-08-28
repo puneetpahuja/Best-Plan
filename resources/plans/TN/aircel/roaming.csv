@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-1182,13,,3 days,Recharge of Rs. 13 by Aircel,Roaming Incoming Free on Aircel and Selected network and OG - Loc mob calls @ 0.80p/m + STD Mob calls @1.15 p/m.
-1183,49,,28 days,Recharge of Rs. 49 by Aircel,Roaming Incoming Free on Aircel and Selected network and Loc+STD Mob calls@60 p/m on Aircel network & Loc mob@0.80p/m + STD Mob@1.15 p/m on Other network .
-1184,88,,28 days,Recharge of Rs. 88 by Aircel,Free Incoming calls while on National Roaming (Aircel & other select Networks only).
+id,cost,talktime,validity,comments
+1182,13,,3 days,Roaming Incoming Free on Aircel and Selected network and OG - Loc mob calls @ 0.80p/m + STD Mob calls @1.15 p/m.
+1183,49,,28 days,Roaming Incoming Free on Aircel and Selected network and Loc+STD Mob calls@60 p/m on Aircel network & Loc mob@0.80p/m + STD Mob@1.15 p/m on Other network .
+1184,88,,28 days,Free Incoming calls while on National Roaming (Aircel & other select Networks only).

@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-11225,2,,1 day,Recharge of Rs. 2 by Idea,20 SMS  -- 
-11226,3,,2 days,Recharge of Rs. 3 by Idea,30 SMS  -- 
-11227,11,,7 days,Recharge of Rs. 11 by Idea,220 SMS L/N
-11228,17,,15 days,Recharge of Rs. 17 by Idea,250 SMS L/N
-11229,33,,30 days,Recharge of Rs. 33 by Idea,450 SMS L/N
-11231,72,,30 days,Recharge of Rs. 72 by Idea,1000 Local/National SMS
-11232,88,,90 days,Recharge of Rs. 88 by Idea,1200 Local/National SMS
+id,cost,talktime,validity,comments
+11225,2,,1 day,20 SMS  -- 
+11226,3,,2 days,30 SMS  -- 
+11227,11,,7 days,220 SMS L/N
+11228,17,,15 days,250 SMS L/N
+11229,33,,30 days,450 SMS L/N
+11231,72,,30 days,1000 Local/National SMS
+11232,88,,90 days,1200 Local/National SMS

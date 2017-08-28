@@ -1,11 +1,11 @@
-id,cost,talktime,validity,short description,long description
-17395,35,35,3 days,Recharge of Rs. 35 by Vodafone,2 local V2V night minutes
-17396,76,76,7 days,Recharge of Rs. 76 by Vodafone,2 local V2V night minutes (mins Validity 2 days)
-17397,111,111,14 days,Recharge of Rs. 111 by Vodafone,2 local V2V night minutes (Validity 2 days)
-17399,333,333,N.A,Recharge of Rs. 333 by Vodafone,2 local V2V night minutes (mins Validity 2 days)
-17400,444,444,N.A,Recharge of Rs. 444 by Vodafone,2 local V2V night minutes (mins Validity 2 days)
-17402,555,555,N.A,Recharge of Rs. 555 by Vodafone,2 local V2V night minutes (mins Validity 2 days)
-17412,60,47.85,N.A,Recharge of Rs. 60 by Vodafone,Get Surprise TT between Rs 47.85 to Rs.100
-17421,222,211,N.A,Recharge of Rs. 222 by Vodafone,2 local V2V night minutes (2 days)
-17423,182,30,28 days,Recharge of Rs. 182 by Vodafone,500 MB data -- Special features included: call 1 local Vodafone buddy @10p/min -- option of 60 MB data loan -- T&C Apply
-17424,296,50,28 days,Recharge of Rs. 296 by Vodafone,"1536 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60MB data loan -- T&C Apply"
+id,cost,talktime,validity,comments
+17395,35,35,3 days,2 local V2V night minutes
+17396,76,76,7 days,2 local V2V night minutes (mins Validity 2 days)
+17397,111,111,14 days,2 local V2V night minutes (Validity 2 days)
+17399,333,333,N.A,2 local V2V night minutes (mins Validity 2 days)
+17400,444,444,N.A,2 local V2V night minutes (mins Validity 2 days)
+17402,555,555,N.A,2 local V2V night minutes (mins Validity 2 days)
+17412,60,47.85,N.A,Get Surprise TT between Rs 47.85 to Rs.100
+17421,222,211,N.A,2 local V2V night minutes (2 days)
+17423,182,30,28 days,500 MB data -- Special features included: call 1 local Vodafone buddy @10p/min -- option of 60 MB data loan -- T&C Apply
+17424,296,50,28 days,"1536 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60MB data loan -- T&C Apply"

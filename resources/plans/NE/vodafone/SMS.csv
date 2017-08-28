@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-17931,11,,7 days,Recharge of Rs. 11 by Vodafone,120 Local & National SMS.
-17932,33,,28 days,Recharge of Rs. 33 by Vodafone,Super Economy Sms Pack: V2V @5p & V2O @10p Local & National SMS.
-17933,75,,28 days,Recharge of Rs. 75 by Vodafone,1000 Local & National SMS
+id,cost,talktime,validity,comments
+17931,11,,7 days,120 Local & National SMS.
+17932,33,,28 days,Super Economy Sms Pack: V2V @5p & V2O @10p Local & National SMS.
+17933,75,,28 days,1000 Local & National SMS

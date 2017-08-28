@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-8602,26,26,4 days,Recharge of Rs. 26 by Docomo,Local SMS: 5
-8604,68,85,5 days,Recharge of Rs. 68 by Docomo,Local SMS: 1
-8606,101,110,18 days,Recharge of Rs. 101 by Docomo,Local SMS: 10
-8609,197,197,28 days,Recharge of Rs. 197 by Docomo,Rs 197 Main TT + 1 GB 2G Data
-8616,29,25,10 days,Recharge of Rs. 29 by Docomo,Local SMS: 1
-8618,45,40,14 days,Recharge of Rs. 45 by Docomo,Local SMS: 1
-8619,71,51,14 days,Recharge of Rs. 71 by Docomo,50 MB (2G data)
-8620,146,90,28 days,Recharge of Rs. 146 by Docomo,1 GB 2G Data
-8621,175,90,28 days,Recharge of Rs. 175 by Docomo,1 GB (2G data)
-8622,76,25,7 days,Recharge of Rs. 76 by Docomo,Incoming Roaming @ 0p/ min. Local Outgoing calls @ 30p/ min. STD Outgoing calls @ 30p/ min.
-8637,149,,28 days,Recharge of Rs. 149 by Docomo,"Unlimited Local & STD Tata to Tata mobile calls & 1 GB/Day (post 1GB/Day, VBC rate 10p/1MB will be applicable"
-8641,348,,28 days,Recharge of Rs. 348 by Docomo,Loc+Std Unltd Calls till 3000 Min; then L+S Calls@30p/m on TD Network; Loc/STD Calls@1p/s on ICR Network -- 2 GB 2G data
-8642,349,,28 days,Recharge of Rs. 349 by Docomo,Unlimited Local On-Net Mins + 250 MB data 
+id,cost,talktime,validity,comments
+8602,26,26,4 days,Local SMS: 5
+8604,68,85,5 days,Local SMS: 1
+8606,101,110,18 days,Local SMS: 10
+8609,197,197,28 days,Rs 197 Main TT + 1 GB 2G Data
+8616,29,25,10 days,Local SMS: 1
+8618,45,40,14 days,Local SMS: 1
+8619,71,51,14 days,50 MB (2G data)
+8620,146,90,28 days,1 GB 2G Data
+8621,175,90,28 days,1 GB (2G data)
+8622,76,25,7 days,Incoming Roaming @ 0p/ min. Local Outgoing calls @ 30p/ min. STD Outgoing calls @ 30p/ min.
+8637,149,,28 days,"Unlimited Local & STD Tata to Tata mobile calls & 1 GB/Day (post 1GB/Day, VBC rate 10p/1MB will be applicable"
+8641,348,,28 days,Loc+Std Unltd Calls till 3000 Min; then L+S Calls@30p/m on TD Network; Loc/STD Calls@1p/s on ICR Network -- 2 GB 2G data
+8642,349,,28 days,Unlimited Local On-Net Mins + 250 MB data 

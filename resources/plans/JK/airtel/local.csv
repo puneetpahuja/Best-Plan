@@ -1,33 +1,33 @@
-id,cost,talktime,validity,short description,long description
-4659,3,,84 days,Recharge of Rs. 3 by Airtel,LOCAL calls @30P/MIN
-4660,6,,1 day,Recharge of Rs. 6 by Airtel,All Local calls @30p/min
-4661,7,,1 day,Recharge of Rs. 7 by Airtel,Local Airtel to Airtel calls @10p/min
-4662,11,,84 days,Recharge of Rs. 11 by Airtel,A2A 10P/MIN calls
-4663,14,,7 days,Recharge of Rs. 14 by Airtel,All Local Calls @1p/sec 
-4664,21,,5 days,Recharge of Rs. 21 by Airtel,Local Airtel to Airtel calls @10p/min
-4665,22,,27 days,Recharge of Rs. 22 by Airtel,A2A calls @10P/MIN (FIRST 120 SEC AT 2P)
-4666,25,,3 days,Recharge of Rs. 25 by Airtel,All LN 50 Min 
-4667,26,,27 days,Recharge of Rs. 26 by Airtel,30P/MIN LN (Days FIRST 120 SEC AT 2P) 
-4668,31,,27 days,Recharge of Rs. 31 by Airtel,All LOCAL calls @30P 
-4669,33,,2 days,Recharge of Rs. 33 by Airtel,A2A calls @209 MIN
-4670,36,,56 days,Recharge of Rs. 36 by Airtel,All Local calls @1.75p/2sec
-4671,42,,27 days,Recharge of Rs. 42 by Airtel,LOCAL All @25P/ MIN 
-4672,43,,52 days,Recharge of Rs. 43 by Airtel,Local mobile calls @1p/sec
-4673,45,,28 days,Recharge of Rs. 45 by Airtel,All Local & STD Calls @ 45p/min 
-4674,47,,27 days,Recharge of Rs. 47 by Airtel,Local A2A calls @10P/MIN
-4675,52,,7 days,Recharge of Rs. 52 by Airtel,LOCAL All 80 MIN
-4676,55,,27 days,Recharge of Rs. 55 by Airtel,All LN calls @30P/MIN 
-4677,59,,5 days,Recharge of Rs. 59 by Airtel,A2A callls @259 MIN
-4678,69,,42 days,Recharge of Rs. 69 by Airtel,All local Airtel to Airtel Calls @10p/min
-4679,75,,14 days,Recharge of Rs. 75 by Airtel,200 All Local & STD min
-4680,94,,14 days,Recharge of Rs. 94 by Airtel,LOCAL All 145 MIN
-4681,99,,27 days,Recharge of Rs. 99 by Airtel,LOCAL & STD (A2A) CALLS @15P/MIN 
-4682,122,,42 days,Recharge of Rs. 122 by Airtel,Local Airtel to Airtel calls @15p/min
-4683,135,,14 days,Recharge of Rs. 135 by Airtel,250 All Local & STD min
-4684,159,,21 days,Recharge of Rs. 159 by Airtel,All Local + STD 13800 Sec
-4685,194,,28 days,Recharge of Rs. 194 by Airtel,All Local + STD 430 Min calls
-4686,199,,2 days,Recharge of Rs. 199 by Airtel,Unlimited free Local + STD all calls -- TnC Apply
-4687,208,,28 days,Recharge of Rs. 208 by Airtel,520 local mobile mins 
-4688,248,,5 days,Recharge of Rs. 248 by Airtel,Unlimited Local mobile Calls
-4689,299,,4 days,Recharge of Rs. 299 by Airtel,Unlimited all Local & STD Calls (mobile &LL).
-4690,545,,90 days,Recharge of Rs. 545 by Airtel,Unlimited A2A (Local + STD) 
+id,cost,talktime,validity,comments
+4659,3,,84 days,LOCAL calls @30P/MIN
+4660,6,,1 day,All Local calls @30p/min
+4661,7,,1 day,Local Airtel to Airtel calls @10p/min
+4662,11,,84 days,A2A 10P/MIN calls
+4663,14,,7 days,All Local Calls @1p/sec 
+4664,21,,5 days,Local Airtel to Airtel calls @10p/min
+4665,22,,27 days,A2A calls @10P/MIN (FIRST 120 SEC AT 2P)
+4666,25,,3 days,All LN 50 Min 
+4667,26,,27 days,30P/MIN LN (Days FIRST 120 SEC AT 2P) 
+4668,31,,27 days,All LOCAL calls @30P 
+4669,33,,2 days,A2A calls @209 MIN
+4670,36,,56 days,All Local calls @1.75p/2sec
+4671,42,,27 days,LOCAL All @25P/ MIN 
+4672,43,,52 days,Local mobile calls @1p/sec
+4673,45,,28 days,All Local & STD Calls @ 45p/min 
+4674,47,,27 days,Local A2A calls @10P/MIN
+4675,52,,7 days,LOCAL All 80 MIN
+4676,55,,27 days,All LN calls @30P/MIN 
+4677,59,,5 days,A2A callls @259 MIN
+4678,69,,42 days,All local Airtel to Airtel Calls @10p/min
+4679,75,,14 days,200 All Local & STD min
+4680,94,,14 days,LOCAL All 145 MIN
+4681,99,,27 days,LOCAL & STD (A2A) CALLS @15P/MIN 
+4682,122,,42 days,Local Airtel to Airtel calls @15p/min
+4683,135,,14 days,250 All Local & STD min
+4684,159,,21 days,All Local + STD 13800 Sec
+4685,194,,28 days,All Local + STD 430 Min calls
+4686,199,,2 days,Unlimited free Local + STD all calls -- TnC Apply
+4687,208,,28 days,520 local mobile mins 
+4688,248,,5 days,Unlimited Local mobile Calls
+4689,299,,4 days,Unlimited all Local & STD Calls (mobile &LL).
+4690,545,,90 days,Unlimited A2A (Local + STD) 

@@ -1,12 +1,12 @@
-id,cost,talktime,validity,short description,long description
-8403,55,55,5 days,Recharge of Rs. 55 by Docomo,15 Local On-Net SMS (2 Days)
-8406,168,168,N.A,Recharge of Rs. 168 by Docomo,10 Local On-Net SMS (5 Days)
-8408,222,222,N.A,Recharge of Rs. 222 by Docomo,Local/STD Mobile calls @ 45p/min
-8409,251,265,N.A,Recharge of Rs. 251 by Docomo,10 On-Net SMS; 3 days Validity
-8413,786,850,N.A,Recharge of Rs. 786 by Docomo,25 Onnet SMS valid for 5 Days
-8422,73,50,30 days,Recharge of Rs. 73 by Docomo,Local/STD Mobile calls @ 30p/ min. -- National SMS (Local/STD SMS): Daily 98 SMS 1st 2 Local/ National SMS of day @ Rs.1.5/ SMS -- 50 MB 3G/2G Data -- Landline Local/STD @ 2p/ sec
-8428,255,200,28 days,Recharge of Rs. 255 by Docomo,Local On-Net Mins: Unlimited -- Data: 1 GB 2G
-8429,86,10,28 days,Recharge of Rs. 86 by Docomo,Local On-Net mobile calls @ 0p/s -- Local Off-Net mobile calls @ 1p/s -- STD On-Net mobile calls @ 1p/s -- STD Off-Net mobile calls @ 1p/s
-8430,196,75,28 days,Recharge of Rs. 196 by Docomo,1 GB 2G Data -- Talktime has core validity.
-8445,119,,28 days,Recharge of Rs. 119 by Docomo,180000 Local T2T Mobile seconds and 6000 Local + STD Mobile Seconds --  200 MB 3G/2G Data every month for 3 months (30 days data validity)
-8452,103,,28 days,Recharge of Rs. 103 by Docomo,Unlimited On-Net (Local +STD) Mobile calls -- 50 MB Data 
+id,cost,talktime,validity,comments
+8403,55,55,5 days,15 Local On-Net SMS (2 Days)
+8406,168,168,N.A,10 Local On-Net SMS (5 Days)
+8408,222,222,N.A,Local/STD Mobile calls @ 45p/min
+8409,251,265,N.A,10 On-Net SMS; 3 days Validity
+8413,786,850,N.A,25 Onnet SMS valid for 5 Days
+8422,73,50,30 days,Local/STD Mobile calls @ 30p/ min. -- National SMS (Local/STD SMS): Daily 98 SMS 1st 2 Local/ National SMS of day @ Rs.1.5/ SMS -- 50 MB 3G/2G Data -- Landline Local/STD @ 2p/ sec
+8428,255,200,28 days,Local On-Net Mins: Unlimited -- Data: 1 GB 2G
+8429,86,10,28 days,Local On-Net mobile calls @ 0p/s -- Local Off-Net mobile calls @ 1p/s -- STD On-Net mobile calls @ 1p/s -- STD Off-Net mobile calls @ 1p/s
+8430,196,75,28 days,1 GB 2G Data -- Talktime has core validity.
+8445,119,,28 days,180000 Local T2T Mobile seconds and 6000 Local + STD Mobile Seconds --  200 MB 3G/2G Data every month for 3 months (30 days data validity)
+8452,103,,28 days,Unlimited On-Net (Local +STD) Mobile calls -- 50 MB Data 

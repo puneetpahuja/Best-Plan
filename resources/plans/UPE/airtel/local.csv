@@ -1,24 +1,24 @@
-id,cost,talktime,validity,short description,long description
-4187,6,,27 days,Recharge of Rs. 6 by Airtel,"Local Airtel Mobile Calls @ 10p/m, daily first 90 secs @ 2p/s"
-4188,8,,7 days,Recharge of Rs. 8 by Airtel,Local mobile calls 30p/min.
-4189,9,,8 days,Recharge of Rs. 9 by Airtel,Local MOB Calls @30 paisa/minutes
-4190,15,,9 days,Recharge of Rs. 15 by Airtel,Local Airtel Mobile Calls @10p/m
-4191,16,,14 days,Recharge of Rs. 16 by Airtel,Local A2A calls 10p/min (Daily 1st 60 Sec 1p/s ki dar se) for 14 Days
-4192,17,,7 days,Recharge of Rs. 17 by Airtel,Local & STD Mobile Calls @30 paisa/minutes
-4193,18,,7 days,Recharge of Rs. 18 by Airtel,Local mobile calls @25p/min.
-4194,21,,27 days,Recharge of Rs. 21 by Airtel,Local Mobile Calls @ 30p/m 
-4195,34,,27 days,Recharge of Rs. 34 by Airtel,Local Airtel Mobile Calls @ 10p/m 
-4196,35,,27 days,Recharge of Rs. 35 by Airtel,Local + STD mobile calls @ 30p/m
-4197,38,,28 days,Recharge of Rs. 38 by Airtel,Local Airtel Calls 10 paisa/minutes
-4198,41,,5 days,Recharge of Rs. 41 by Airtel,70 All Local Minutes
-4199,98,,7 days,Recharge of Rs. 98 by Airtel,150 All Local + STD Minutes.
-4200,197,,27 days,Recharge of Rs. 197 by Airtel,500 Local + STD Mobile & LL Minutes
-4201,198,,3 days,Recharge of Rs. 198 by Airtel,Unlimited Free All Local Calls -- T&C Apply
-4202,207,,27 days,Recharge of Rs. 207 by Airtel,525 All Local + STD Min
-4203,208,,4 days,Recharge of Rs. 208 by Airtel,Unlimited Local ALL Calls 
-4204,219,,27 days,Recharge of Rs. 219 by Airtel,550 All Local+STD Minunites
-4205,249,,3 days,Recharge of Rs. 249 by Airtel,Free All Local + STD calls -- T&C Apply
-4206,259,,4 days,Recharge of Rs. 259 by Airtel,Unlimited ALL Local & STD Calls 
-4207,295,,56 days,Recharge of Rs. 295 by Airtel,Unlimited Airtel (Local & STD) Calls 
-4208,345,,60 days,Recharge of Rs. 345 by Airtel,Unlimited Airtel (Local & STD) Calls
-4209,395,,75 days,Recharge of Rs. 395 by Airtel,Unlimited Airtel (Local & STD) Calls
+id,cost,talktime,validity,comments
+4187,6,,27 days,"Local Airtel Mobile Calls @ 10p/m, daily first 90 secs @ 2p/s"
+4188,8,,7 days,Local mobile calls 30p/min.
+4189,9,,8 days,Local MOB Calls @30 paisa/minutes
+4190,15,,9 days,Local Airtel Mobile Calls @10p/m
+4191,16,,14 days,Local A2A calls 10p/min (Daily 1st 60 Sec 1p/s ki dar se) for 14 Days
+4192,17,,7 days,Local & STD Mobile Calls @30 paisa/minutes
+4193,18,,7 days,Local mobile calls @25p/min.
+4194,21,,27 days,Local Mobile Calls @ 30p/m 
+4195,34,,27 days,Local Airtel Mobile Calls @ 10p/m 
+4196,35,,27 days,Local + STD mobile calls @ 30p/m
+4197,38,,28 days,Local Airtel Calls 10 paisa/minutes
+4198,41,,5 days,70 All Local Minutes
+4199,98,,7 days,150 All Local + STD Minutes.
+4200,197,,27 days,500 Local + STD Mobile & LL Minutes
+4201,198,,3 days,Unlimited Free All Local Calls -- T&C Apply
+4202,207,,27 days,525 All Local + STD Min
+4203,208,,4 days,Unlimited Local ALL Calls 
+4204,219,,27 days,550 All Local+STD Minunites
+4205,249,,3 days,Free All Local + STD calls -- T&C Apply
+4206,259,,4 days,Unlimited ALL Local & STD Calls 
+4207,295,,56 days,Unlimited Airtel (Local & STD) Calls 
+4208,345,,60 days,Unlimited Airtel (Local & STD) Calls
+4209,395,,75 days,Unlimited Airtel (Local & STD) Calls

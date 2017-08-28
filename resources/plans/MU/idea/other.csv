@@ -1,9 +1,9 @@
-id,cost,talktime,validity,short description,long description
-10939,109,109,14 days,Recharge of Rs. 109 by Idea,1 Local Idea Night SMS (12am to 5am) 
-10941,210,210,N.A,Recharge of Rs. 210 by Idea,Available only on Idea app recharge
-10943,306,306,N.A,Recharge of Rs. 306 by Idea,"Roming Incoming Free , All Local calls at 80p/min & STD calls at Rs.1.15/min -- Tariff Validity (Days): 28"
-10946,510,510,N.A,Recharge of Rs. 510 by Idea,Available only on Idea app recharge
-10962,147,140,28 days,Recharge of Rs. 147 by Idea,Loc/STD calls @1.2p/2s 
-10963,160,140,N.A,Recharge of Rs. 160 by Idea,Surprise talktime between Rs.140 to Rs.200
-10970,71,20,30 days,Recharge of Rs. 71 by Idea,Roaming Incoming Free & Outgoing Local STD @ 80p/min  -- 
-10985,255,,6 months,Recharge of Rs. 255 by Idea,Instant 2 GB 2G Data (28 Days) and 500 I2I -- For 6 Months enjoy 1 GB 2G data for 28 Days at Rs.79. -- Overage: 4p/10KB
+id,cost,talktime,validity,comments
+10939,109,109,14 days,1 Local Idea Night SMS (12am to 5am) 
+10941,210,210,N.A,Available only on Idea app recharge
+10943,306,306,N.A,"Roming Incoming Free , All Local calls at 80p/min & STD calls at Rs.1.15/min -- Tariff Validity (Days): 28"
+10946,510,510,N.A,Available only on Idea app recharge
+10962,147,140,28 days,Loc/STD calls @1.2p/2s 
+10963,160,140,N.A,Surprise talktime between Rs.140 to Rs.200
+10970,71,20,30 days,Roaming Incoming Free & Outgoing Local STD @ 80p/min  -- 
+10985,255,,6 months,Instant 2 GB 2G Data (28 Days) and 500 I2I -- For 6 Months enjoy 1 GB 2G data for 28 Days at Rs.79. -- Overage: 4p/10KB

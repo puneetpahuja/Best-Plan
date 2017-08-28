@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-7559,37,,180 days,Recharge of Rs. 37 by BSNL,"Validity extension: PerMin_37 -- Reconfirm validity with customer care, as some users mentioned they got only 90 days"
-7560,75,,90 days,Recharge of Rs. 75 by BSNL,Validity extension: Pyari Jodi 75
-7561,99,,30 days,Recharge of Rs. 99 by BSNL,Validity Extension: Jai_Jawan_99
-7562,666,,180 days,Recharge of Rs. 666 by BSNL,BSNL_SIXER_666_validity-extension
+id,cost,talktime,validity,comments
+7559,37,,180 days,"Validity extension: PerMin_37 -- Reconfirm validity with customer care, as some users mentioned they got only 90 days"
+7560,75,,90 days,Validity extension: Pyari Jodi 75
+7561,99,,30 days,Validity Extension: Jai_Jawan_99
+7562,666,,180 days,BSNL_SIXER_666_validity-extension

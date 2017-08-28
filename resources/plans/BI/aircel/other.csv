@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-178,55,56,N.A,Recharge of Rs. 55 by Aircel,5 Local Aircel to Aircel SMS (2 days)
-181,83,83,28 days,Recharge of Rs. 83 by Aircel,"Local & STD @ 1.3p/sec , Roaming Incoming Free"
-182,85,100,28 days,Recharge of Rs. 85 by Aircel,U/l Local A2A (10pm-6am)
-183,135,150,28 days,Recharge of Rs. 135 by Aircel,150 MB Data
-184,149,149,28 days,Recharge of Rs. 149 by Aircel,1 GB/day + u/l A2A
-190,56,20,7 days,Recharge of Rs. 56 by Aircel,"Local & STD @ 1p/sec , Roaming Incoming Free"
-199,247,175,90 days,Recharge of Rs. 247 by Aircel,Local & STD @ 1p/sec -- Roaming Incoming Free
-200,16,16,28 days,Recharge of Rs. 16 by Aircel,L+S @20p/m
-201,95,10,28 days,Recharge of Rs. 95 by Aircel,"Local + STD: Aircel to Aircel : Free -- Talktime Aircel to Others: As per base Tariff Note: Post 5000 minute Local A2A usages will be charged @10p/min in 28 days time period (T&C) -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 300 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1200 mins in a week"
-202,115,30,28 days,Recharge of Rs. 115 by Aircel,"Local + STD Aircel Mobile Free -- Other: As per base Tariff -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 300 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1200 mins in a week"
-204,129,,14 days,Recharge of Rs. 129 by Aircel,"Local Aircel Mobile Free + 20 Local Mobile mins./day Post that Base Rate -- 300 MB 2G /3G Data -- 25 Local/National SMS -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 300 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1200 mins in a week"
-223,199,,28 days,Recharge of Rs. 199 by Aircel,U/l (L+S) -- 10 GB Data
+id,cost,talktime,validity,comments
+178,55,56,N.A,5 Local Aircel to Aircel SMS (2 days)
+181,83,83,28 days,"Local & STD @ 1.3p/sec , Roaming Incoming Free"
+182,85,100,28 days,U/l Local A2A (10pm-6am)
+183,135,150,28 days,150 MB Data
+184,149,149,28 days,1 GB/day + u/l A2A
+190,56,20,7 days,"Local & STD @ 1p/sec , Roaming Incoming Free"
+199,247,175,90 days,Local & STD @ 1p/sec -- Roaming Incoming Free
+200,16,16,28 days,L+S @20p/m
+201,95,10,28 days,"Local + STD: Aircel to Aircel : Free -- Talktime Aircel to Others: As per base Tariff Note: Post 5000 minute Local A2A usages will be charged @10p/min in 28 days time period (T&C) -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 300 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1200 mins in a week"
+202,115,30,28 days,"Local + STD Aircel Mobile Free -- Other: As per base Tariff -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 300 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1200 mins in a week"
+204,129,,14 days,"Local Aircel Mobile Free + 20 Local Mobile mins./day Post that Base Rate -- 300 MB 2G /3G Data -- 25 Local/National SMS -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 300 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1200 mins in a week"
+223,199,,28 days,U/l (L+S) -- 10 GB Data

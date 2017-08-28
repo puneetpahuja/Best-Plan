@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-9059,60,60,N.A,Recharge of Rs. 60 by Docomo,Talktime of Rs. 60 for Rs. 60 recharge by Tata DOCOMO
-9060,80,80,N.A,Recharge of Rs. 80 by Docomo,Talktime of Rs. 80 for Rs. 80 recharge by Tata DOCOMO
-9061,150,150,N.A,Recharge of Rs. 150 by Docomo,Talktime of Rs. 150 for Rs. 150 recharge by Tata DOCOMO
-9063,210,220,N.A,Recharge of Rs. 210 by Docomo,Talktime of Rs. 220 for Rs. 210 recharge by Tata DOCOMO
-9064,510,540,N.A,Recharge of Rs. 510 by Docomo,Talktime of Rs. 540 for Rs. 510 recharge by Tata DOCOMO
-9065,1100,1200,N.A,Recharge of Rs. 1100 by Docomo,Talktime of Rs. 1200 for Rs. 1100 recharge by Tata DOCOMO
+id,cost,talktime,validity,comments
+9059,60,60,N.A,Talktime of Rs. 60 for Rs. 60 recharge by Tata DOCOMO
+9060,80,80,N.A,Talktime of Rs. 80 for Rs. 80 recharge by Tata DOCOMO
+9061,150,150,N.A,Talktime of Rs. 150 for Rs. 150 recharge by Tata DOCOMO
+9063,210,220,N.A,Talktime of Rs. 220 for Rs. 210 recharge by Tata DOCOMO
+9064,510,540,N.A,Talktime of Rs. 540 for Rs. 510 recharge by Tata DOCOMO
+9065,1100,1200,N.A,Talktime of Rs. 1200 for Rs. 1100 recharge by Tata DOCOMO

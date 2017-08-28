@@ -1,4 +1,4 @@
-(ns best-plan.csv-gen
+(ns best-plan.gen-csv
   (:require [best-plan.save-jsons-dataweave :as save-json]
             [clojure.data.csv :as csv]
             [clojure.data.json :as json]
@@ -28,7 +28,7 @@
                    :recharge_talktime "talktime"
                    :recharge_validity "validity"
                    :recharge_short_desc "short description"
-                   :recharge_long_desc "long description"
+                   :recharge_long_desc "comments"
                    :recharge_type "type"})
 
 (defn plan->csv-row [plan columns]
@@ -62,4 +62,4 @@
   (map #(apply create-csv (concat % [columns]))
        (comb/cartesian-product operators circles recharge-types)))
 
-(make-csv-files operators (keys states) recharge-types [:id :recharge_amount :recharge_talktime :recharge_validity :recharge_short_desc :recharge_long_desc])
+(make-csv-files operators (keys states) recharge-types [:id :recharge_amount :recharge_talktime :recharge_validity :recharge_long_desc])

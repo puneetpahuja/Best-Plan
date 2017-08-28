@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-904,17,,3 days,Recharge of Rs. 17 by Aircel,100 MB 2G Data
-906,27,,7 days,Recharge of Rs. 27 by Aircel,250 MB 2G Data
-912,47,,28 days,Recharge of Rs. 47 by Aircel,1 GB 2G Data
-916,78,,28 days,Recharge of Rs. 78 by Aircel,4 GB 2G Data
-918,91,,28 days,Recharge of Rs. 91 by Aircel,4 GB 2G Data
-923,129,,28 days,Recharge of Rs. 129 by Aircel,129 GB 2G Data
-925,198,,28 days,Recharge of Rs. 198 by Aircel,5 GB Day + 2 GB Night (01:00 am to 06:00 am)
+id,cost,talktime,validity,comments
+904,17,,3 days,100 MB 2G Data
+906,27,,7 days,250 MB 2G Data
+912,47,,28 days,1 GB 2G Data
+916,78,,28 days,4 GB 2G Data
+918,91,,28 days,4 GB 2G Data
+923,129,,28 days,129 GB 2G Data
+925,198,,28 days,5 GB Day + 2 GB Night (01:00 am to 06:00 am)

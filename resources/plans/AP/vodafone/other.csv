@@ -1,17 +1,17 @@
-id,cost,talktime,validity,short description,long description
-16201,55,55,5 days,Recharge of Rs. 55 by Vodafone,120 Local Night V2V Second
-16204,333,333,N.A,Recharge of Rs. 333 by Vodafone,"Rs 333 Talktime in core balance and 300 Local Night V2V seconds, TT valid for lifetime and Seconds valid for 1 day"
-16206,555,555,N.A,Recharge of Rs. 555 by Vodafone,"Rs 555 Talktime in core balance and 300 Local Night V2V seconds, TT valid for lifetime and Seconds valid for 1 day"
-16207,999,999,N.A,Recharge of Rs. 999 by Vodafone,"Rs 999 Talktime in core balance and 300 Local Night V2V seconds, TT valid for lifetime and Seconds valid for 1 day"
-16223,222,220,N.A,Recharge of Rs. 222 by Vodafone,300 Local Night V2V seconds -- TT valid for lifetime and Seconds valid for 1 day
-16224,77,20,28 days,Recharge of Rs. 77 by Vodafone,All India Mobile Calls @ 1.2p/2s 
-16225,105,25,28 days,Recharge of Rs. 105 by Vodafone,"250 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60MB data loan -- T&C Apply"
-16226,152,5,15 days,Recharge of Rs. 152 by Vodafone,450 MB 3G data
-16227,179,30,28 days,Recharge of Rs. 179 by Vodafone,"500 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60 MB data loan -- T&C Apply"
-16228,299,50,28 days,Recharge of Rs. 299 by Vodafone,"1536 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60MB data loan -- T&C Apply"
-16232,25,,4 days,Recharge of Rs. 25 by Vodafone,2250 local sec & 1 Local + National SMS
-16246,19,,1 day,Recharge of Rs. 19 by Vodafone,Unlimited local + std V2V calls -- 100 MB 2G Data (1 day)
-16247,48,,7 days,Recharge of Rs. 48 by Vodafone,Unlimited local + std V2V calls -- 250 MB 2G Data 
-16248,91,,7 days,Recharge of Rs. 91 by Vodafone,Unlimited local + std V2V + 100 Min V2O local + std calls -- 250 MB 2G Data 
-16249,148,,28 days,Recharge of Rs. 148 by Vodafone,Unlimited Local + STD Vodafone to Vodafone Calls -- 500 MB 2G Data
-16250,295,,28 days,Recharge of Rs. 295 by Vodafone,Unlimited Local + STD on all Mobile & Landline Calls -- 2 GB 2G Data
+id,cost,talktime,validity,comments
+16201,55,55,5 days,120 Local Night V2V Second
+16204,333,333,N.A,"Rs 333 Talktime in core balance and 300 Local Night V2V seconds, TT valid for lifetime and Seconds valid for 1 day"
+16206,555,555,N.A,"Rs 555 Talktime in core balance and 300 Local Night V2V seconds, TT valid for lifetime and Seconds valid for 1 day"
+16207,999,999,N.A,"Rs 999 Talktime in core balance and 300 Local Night V2V seconds, TT valid for lifetime and Seconds valid for 1 day"
+16223,222,220,N.A,300 Local Night V2V seconds -- TT valid for lifetime and Seconds valid for 1 day
+16224,77,20,28 days,All India Mobile Calls @ 1.2p/2s 
+16225,105,25,28 days,"250 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60MB data loan -- T&C Apply"
+16226,152,5,15 days,450 MB 3G data
+16227,179,30,28 days,"500 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60 MB data loan -- T&C Apply"
+16228,299,50,28 days,"1536 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60MB data loan -- T&C Apply"
+16232,25,,4 days,2250 local sec & 1 Local + National SMS
+16246,19,,1 day,Unlimited local + std V2V calls -- 100 MB 2G Data (1 day)
+16247,48,,7 days,Unlimited local + std V2V calls -- 250 MB 2G Data 
+16248,91,,7 days,Unlimited local + std V2V + 100 Min V2O local + std calls -- 250 MB 2G Data 
+16249,148,,28 days,Unlimited Local + STD Vodafone to Vodafone Calls -- 500 MB 2G Data
+16250,295,,28 days,Unlimited Local + STD on all Mobile & Landline Calls -- 2 GB 2G Data

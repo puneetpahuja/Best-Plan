@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-11293,51,,28 days,Recharge of Rs. 51 by Idea,1 GB 3G/4G Data -- Overage: 4p/10KB -- Available only after Long Term Plan Recharge of MRP 1499
-11294,103,,28 days,Recharge of Rs. 103 by Idea,2 GB 3G/4G Data -- Overage: 4p/10KB -- Available only after Long Term Plan Recharge of MRP 1499
-11295,103,,28 days,Recharge of Rs. 103 by Idea,1 GB 3G/4G Data -- Overage: 4p/10KB  -- Available only after Long Term Plan Recharge of MRP 749
-11296,122,,28 days,Recharge of Rs. 122 by Idea,1 GB 3G/4G Data -- Overage: 4p/10KB -- Available only after Long Term Plan Recharge of MRP 485
-11297,253,,28 days,Recharge of Rs. 253 by Idea,2.5 GB 3G/4G Data -- Overage: 4p/10KB -- Available only after Long Term Plan Recharge of MRP 749
+id,cost,talktime,validity,comments
+11293,51,,28 days,1 GB 3G/4G Data -- Overage: 4p/10KB -- Available only after Long Term Plan Recharge of MRP 1499
+11294,103,,28 days,2 GB 3G/4G Data -- Overage: 4p/10KB -- Available only after Long Term Plan Recharge of MRP 1499
+11295,103,,28 days,1 GB 3G/4G Data -- Overage: 4p/10KB  -- Available only after Long Term Plan Recharge of MRP 749
+11296,122,,28 days,1 GB 3G/4G Data -- Overage: 4p/10KB -- Available only after Long Term Plan Recharge of MRP 485
+11297,253,,28 days,2.5 GB 3G/4G Data -- Overage: 4p/10KB -- Available only after Long Term Plan Recharge of MRP 749

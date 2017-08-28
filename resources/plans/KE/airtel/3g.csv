@@ -1,28 +1,28 @@
-id,cost,talktime,validity,short description,long description
-2705,24,,27 days,Recharge of Rs. 24 by Airtel,95MB 4G/3G/2G DATA
-2706,29,,3 days,Recharge of Rs. 29 by Airtel,165MB 4G/3G/2G DATA
-2707,48,,6 days,Recharge of Rs. 48 by Airtel,275MB 4G/3G/2G DATA
-2709,55,,6 days,Recharge of Rs. 55 by Airtel,315MB 4G/3G/2G DATA
-2710,56,,1 day,Recharge of Rs. 56 by Airtel,1.0 GB 4G/3G/2G Data
-2711,68,,14 days,Recharge of Rs. 68 by Airtel,280MB 4G/3G/2G DATA
-2712,96,,1 day,Recharge of Rs. 96 by Airtel,2 GB 2G/3G/4G Data
-2713,98,,5 days,Recharge of Rs. 98 by Airtel,1.0 GB 4G/3G/2G Data
-2714,104,,14 days,Recharge of Rs. 104 by Airtel,600 MB 4G/3G/2G Data
-2715,122,,14 days,Recharge of Rs. 122 by Airtel,700 MB 4G/3G/2G Data
-2716,147,,20 days,Recharge of Rs. 147 by Airtel,840MB 4G/3G/2G DATA
-2717,156,,28 days,Recharge of Rs. 156 by Airtel,"1 GB 4G/3G/2G DATA for 4G Handset customers, Other handset will get 600 MB DATA"
-2718,175,,28 days,Recharge of Rs. 175 by Airtel,1.0 GB 4G/3G/2G Data
-2721,253,,28 days,Recharge of Rs. 253 by Airtel,"4 GB 4G/3G/2G DATA for 4G Handset customers, Other handset will get 1.5 GB DATA"
-2722,298,,28 days,Recharge of Rs. 298 by Airtel,1.7 GB 4G/3G/2G Data. 1.7GB Happy Hours Night data(3AM to 5AM)
-2723,348,,28 days,Recharge of Rs. 348 by Airtel,2.5 GB 4G/3G/2G Data
-2724,399,,28 days,Recharge of Rs. 399 by Airtel,"Unlimited Local+STD Mobile & Landline Calls -- 1.25 GB 4G/3G/2G DATA,for 4G Handsets +USIM get 1GB/Day. T&C Apply"
-2725,448,,28 days,Recharge of Rs. 448 by Airtel,3.5 GB 4G/3G/2G Data
-2726,499,,28 days,Recharge of Rs. 499 by Airtel,"Unlimited Local + STD Mobile & Landline Calls -- 2 GB 4G/3G/2G DATA, for 4GHandsets +USIM get 1.5GB/Day.T&C Apply"
-2727,547,,28 days,Recharge of Rs. 547 by Airtel,4.5 GB 4G/3G/2G Data. 4.5GB Happy Hours Night data(3AM to 5AM)
-2728,648,,28 days,Recharge of Rs. 648 by Airtel,"Unlimited Local+STD Mobile & Landline Calls -- 3.5 GB 4G/3G/2G DATA, for 4GHandsets +USIM get 2.5GB/Day.T&C Apply"
-2729,655,,28 days,Recharge of Rs. 655 by Airtel,5.5 GB 4G/3G/2G Data
-2730,851,,28 days,Recharge of Rs. 851 by Airtel,8.0 GB 4G/3G/2G Data
-2731,899,,28 days,Recharge of Rs. 899 by Airtel,"Unlimited Local + STD Mobile & Landline Calls -- 6 GB 4G/3G/2G DATA, for 4GHandsets +USIM get 3.5GB/Day.T&C Apply"
-2732,992,,365 days,Recharge of Rs. 992 by Airtel,10 GB 4G/3G/2G data.
-2733,994,,28 days,Recharge of Rs. 994 by Airtel,"20 GB 4G/3G/2G DATA for 4G Handset customers, Other handset will get 10GB DATA"
-2734,1198,,28 days,Recharge of Rs. 1198 by Airtel,"Unlimited Local + STD Mobile & Landline Calls -- 9 GB 4G/3G/2G DATA, for 4GHandsets +USIM get 5GB/Day.T&C Apply"
+id,cost,talktime,validity,comments
+2705,24,,27 days,95MB 4G/3G/2G DATA
+2706,29,,3 days,165MB 4G/3G/2G DATA
+2707,48,,6 days,275MB 4G/3G/2G DATA
+2709,55,,6 days,315MB 4G/3G/2G DATA
+2710,56,,1 day,1.0 GB 4G/3G/2G Data
+2711,68,,14 days,280MB 4G/3G/2G DATA
+2712,96,,1 day,2 GB 2G/3G/4G Data
+2713,98,,5 days,1.0 GB 4G/3G/2G Data
+2714,104,,14 days,600 MB 4G/3G/2G Data
+2715,122,,14 days,700 MB 4G/3G/2G Data
+2716,147,,20 days,840MB 4G/3G/2G DATA
+2717,156,,28 days,"1 GB 4G/3G/2G DATA for 4G Handset customers, Other handset will get 600 MB DATA"
+2718,175,,28 days,1.0 GB 4G/3G/2G Data
+2721,253,,28 days,"4 GB 4G/3G/2G DATA for 4G Handset customers, Other handset will get 1.5 GB DATA"
+2722,298,,28 days,1.7 GB 4G/3G/2G Data. 1.7GB Happy Hours Night data(3AM to 5AM)
+2723,348,,28 days,2.5 GB 4G/3G/2G Data
+2724,399,,28 days,"Unlimited Local+STD Mobile & Landline Calls -- 1.25 GB 4G/3G/2G DATA,for 4G Handsets +USIM get 1GB/Day. T&C Apply"
+2725,448,,28 days,3.5 GB 4G/3G/2G Data
+2726,499,,28 days,"Unlimited Local + STD Mobile & Landline Calls -- 2 GB 4G/3G/2G DATA, for 4GHandsets +USIM get 1.5GB/Day.T&C Apply"
+2727,547,,28 days,4.5 GB 4G/3G/2G Data. 4.5GB Happy Hours Night data(3AM to 5AM)
+2728,648,,28 days,"Unlimited Local+STD Mobile & Landline Calls -- 3.5 GB 4G/3G/2G DATA, for 4GHandsets +USIM get 2.5GB/Day.T&C Apply"
+2729,655,,28 days,5.5 GB 4G/3G/2G Data
+2730,851,,28 days,8.0 GB 4G/3G/2G Data
+2731,899,,28 days,"Unlimited Local + STD Mobile & Landline Calls -- 6 GB 4G/3G/2G DATA, for 4GHandsets +USIM get 3.5GB/Day.T&C Apply"
+2732,992,,365 days,10 GB 4G/3G/2G data.
+2733,994,,28 days,"20 GB 4G/3G/2G DATA for 4G Handset customers, Other handset will get 10GB DATA"
+2734,1198,,28 days,"Unlimited Local + STD Mobile & Landline Calls -- 9 GB 4G/3G/2G DATA, for 4GHandsets +USIM get 5GB/Day.T&C Apply"

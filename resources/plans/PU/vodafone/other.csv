@@ -1,39 +1,39 @@
-id,cost,talktime,validity,short description,long description
-18082,65,65,5 days,Recharge of Rs. 65 by Vodafone,Talktime not applicable in roaming -- 1 Min Valid for 1 Day
-18086,351,351,N.A,Recharge of Rs. 351 by Vodafone,1 Local Vodafone Mins for 1 Day
-18090,501,501,N.A,Recharge of Rs. 501 by Vodafone,1 Local Vodafone Mins for 1 Day
-18091,599,600,N.A,Recharge of Rs. 599 by Vodafone,1 Local Vodafone Night Mins(1 Day Validity)
-18092,799,799,N.A,Recharge of Rs. 799 by Vodafone,1 Local Vodafone Night Mins(1 Day Validity)
-18093,999,999,N.A,Recharge of Rs. 999 by Vodafone,1 Local Vodafone Night Mins(1 Day Validity)
-18095,1001,1001,N.A,Recharge of Rs. 1001 by Vodafone,1 Local Vodafone Mins for 1 Day
-18096,1599,1599,N.A,Recharge of Rs. 1599 by Vodafone,1 Local Vodafone Night Mins(1 Day Validity)
-18097,1999,1999,N.A,Recharge of Rs. 1999 by Vodafone,1 Local Vodafone Night Mins(1 Day Validity)
-18098,2999,2999,N.A,Recharge of Rs. 2999 by Vodafone,1 Local Vodafone Night Mins(1 Day Validity)
-18099,4999,4999,N.A,Recharge of Rs. 4999 by Vodafone,1 Local Vodafone Night Mins(1 Day Validity)
-18103,34,25.81,N.A,Recharge of Rs. 34 by Vodafone,1 Local Vodafone Night Mins (1 Day)
-18104,44,34.29,N.A,Recharge of Rs. 44 by Vodafone,1 Local Vodafone Night Mins (1 Day)
-18106,54,42.76,N.A,Recharge of Rs. 54 by Vodafone,1 Local Vodafone Mins for 1 Day
-18107,55,43.61,N.A,Recharge of Rs. 55 by Vodafone,1 Local Vodafone Mins for 1 Day
-18109,85,69.03,N.A,Recharge of Rs. 85 by Vodafone,1 Local Vodafone Mins for 1 Day
-18111,105,85.98,N.A,Recharge of Rs. 105 by Vodafone,1 Local Vodafone Mins for 1 Day
-18112,115,94.46,N.A,Recharge of Rs. 115 by Vodafone,1 Local Vodafone Mins for 1 Day
-18113,135,111.41,N.A,Recharge of Rs. 135 by Vodafone,1 Local Vodafone Mins for 1 Day
-18114,157,130.05,N.A,Recharge of Rs. 157 by Vodafone,1 Local V2V Night Mins-1Day
-18115,175,145.31,N.A,Recharge of Rs. 175 by Vodafone,1 Local Vodafone Mins for 1 Day
-18116,189,157.17,N.A,Recharge of Rs. 189 by Vodafone,1 Local Vodafone Mins for 1 Day
-18117,239,202.54,N.A,Recharge of Rs. 239 by Vodafone,1 Local V2V Night Mins-1Day
-18119,289,244.92,N.A,Recharge of Rs. 289 by Vodafone,1 Local V2V Night Mins-1Day
-18120,357,302.54,N.A,Recharge of Rs. 357 by Vodafone,1 Local V2V Night Mins-1Day
-18122,365,306.32,N.A,Recharge of Rs. 365 by Vodafone,1 Local Vodafone Night Mins(1 Day Validity)
-18123,437,370.34,N.A,Recharge of Rs. 437 by Vodafone,1 Local V2V Night Mins-1Day
-18124,637,539.83,N.A,Recharge of Rs. 637 by Vodafone,1 Local V2V Night Mins-1Day
-18125,737,624.58,N.A,Recharge of Rs. 737 by Vodafone,1 Local V2V Night Mins-1Day
-18126,47,5.02,28 days,Recharge of Rs. 47 by Vodafone,"Call US,Canada,UK(F)@ 2.5p/sec,Malaysia,Australia(F),New Zealand (F),Singapore@5p/sec,Australia(M),Thailand,Hong Kong@10p/sec,Nepal,Pakistan,New Zealand(M), Saudi Arabia @12p/sec,UAE, Greece and Russia@15p/sec,Philipines,Germany,Qatar@20p/sec"
-18127,179,30,28 days,Recharge of Rs. 179 by Vodafone,"500 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60 MB data loan -- T&C Apply"
-18128,293,50,28 days,Recharge of Rs. 293 by Vodafone,1536 MB data -- Special features included: call 1 local Vodafone buddy @10p/min -- option of 60 MB data loan -- T&C Apply
-18131,81,,28 days,Recharge of Rs. 81 by Vodafone,FREE 6600 Seconds + 10 SMS FREE (Local + STD+ Roaming outgoing)
-18133,141,,28 days,Recharge of Rs. 141 by Vodafone,FREE 12000 Seconds + 20 SMS FREE (Local + STD+ Roaming outgoing)
-18135,8,,1 day,Recharge of Rs. 8 by Vodafone,10GB 2G Night Data (12 to 6AM)
-18153,22,,1 day,Recharge of Rs. 22 by Vodafone,Unlimited local + std V2V calls -- 100 MB 2G Data
-18154,51,,7 days,Recharge of Rs. 51 by Vodafone,Unlimited local + std V2V calls -- 250MB 2G Data
-18155,89,,7 days,Recharge of Rs. 89 by Vodafone,"Unlimited local + std V2V calls, 100 Min V2O local + std calls -- 250 MB 2G Data"
+id,cost,talktime,validity,comments
+18082,65,65,5 days,Talktime not applicable in roaming -- 1 Min Valid for 1 Day
+18086,351,351,N.A,1 Local Vodafone Mins for 1 Day
+18090,501,501,N.A,1 Local Vodafone Mins for 1 Day
+18091,599,600,N.A,1 Local Vodafone Night Mins(1 Day Validity)
+18092,799,799,N.A,1 Local Vodafone Night Mins(1 Day Validity)
+18093,999,999,N.A,1 Local Vodafone Night Mins(1 Day Validity)
+18095,1001,1001,N.A,1 Local Vodafone Mins for 1 Day
+18096,1599,1599,N.A,1 Local Vodafone Night Mins(1 Day Validity)
+18097,1999,1999,N.A,1 Local Vodafone Night Mins(1 Day Validity)
+18098,2999,2999,N.A,1 Local Vodafone Night Mins(1 Day Validity)
+18099,4999,4999,N.A,1 Local Vodafone Night Mins(1 Day Validity)
+18103,34,25.81,N.A,1 Local Vodafone Night Mins (1 Day)
+18104,44,34.29,N.A,1 Local Vodafone Night Mins (1 Day)
+18106,54,42.76,N.A,1 Local Vodafone Mins for 1 Day
+18107,55,43.61,N.A,1 Local Vodafone Mins for 1 Day
+18109,85,69.03,N.A,1 Local Vodafone Mins for 1 Day
+18111,105,85.98,N.A,1 Local Vodafone Mins for 1 Day
+18112,115,94.46,N.A,1 Local Vodafone Mins for 1 Day
+18113,135,111.41,N.A,1 Local Vodafone Mins for 1 Day
+18114,157,130.05,N.A,1 Local V2V Night Mins-1Day
+18115,175,145.31,N.A,1 Local Vodafone Mins for 1 Day
+18116,189,157.17,N.A,1 Local Vodafone Mins for 1 Day
+18117,239,202.54,N.A,1 Local V2V Night Mins-1Day
+18119,289,244.92,N.A,1 Local V2V Night Mins-1Day
+18120,357,302.54,N.A,1 Local V2V Night Mins-1Day
+18122,365,306.32,N.A,1 Local Vodafone Night Mins(1 Day Validity)
+18123,437,370.34,N.A,1 Local V2V Night Mins-1Day
+18124,637,539.83,N.A,1 Local V2V Night Mins-1Day
+18125,737,624.58,N.A,1 Local V2V Night Mins-1Day
+18126,47,5.02,28 days,"Call US,Canada,UK(F)@ 2.5p/sec,Malaysia,Australia(F),New Zealand (F),Singapore@5p/sec,Australia(M),Thailand,Hong Kong@10p/sec,Nepal,Pakistan,New Zealand(M), Saudi Arabia @12p/sec,UAE, Greece and Russia@15p/sec,Philipines,Germany,Qatar@20p/sec"
+18127,179,30,28 days,"500 MB data -- Special features included: call 1 local Vodafone buddy @10p/min, option of 60 MB data loan -- T&C Apply"
+18128,293,50,28 days,1536 MB data -- Special features included: call 1 local Vodafone buddy @10p/min -- option of 60 MB data loan -- T&C Apply
+18131,81,,28 days,FREE 6600 Seconds + 10 SMS FREE (Local + STD+ Roaming outgoing)
+18133,141,,28 days,FREE 12000 Seconds + 20 SMS FREE (Local + STD+ Roaming outgoing)
+18135,8,,1 day,10GB 2G Night Data (12 to 6AM)
+18153,22,,1 day,Unlimited local + std V2V calls -- 100 MB 2G Data
+18154,51,,7 days,Unlimited local + std V2V calls -- 250MB 2G Data
+18155,89,,7 days,"Unlimited local + std V2V calls, 100 Min V2O local + std calls -- 250 MB 2G Data"

@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-4229,5,,1 day,Recharge of Rs. 5 by Airtel,National Roaming Benefit: Local & STD outgoing calls @60p/min
-4230,43,,15 days,Recharge of Rs. 43 by Airtel,National Roaming Benefit: Local & STD outgoing calls @60p/min
-4231,72,,30 days,Recharge of Rs. 72 by Airtel,National Roaming Benefit: Local & STD outgoing calls @60p/min
+id,cost,talktime,validity,comments
+4229,5,,1 day,National Roaming Benefit: Local & STD outgoing calls @60p/min
+4230,43,,15 days,National Roaming Benefit: Local & STD outgoing calls @60p/min
+4231,72,,30 days,National Roaming Benefit: Local & STD outgoing calls @60p/min

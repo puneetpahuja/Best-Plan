@@ -1,25 +1,25 @@
-id,cost,talktime,validity,short description,long description
-10674,10,7.47,N.A,Recharge of Rs. 10 by Idea,Talktime of Rs. 7.47 for Rs. 10 recharge by Idea
-10675,20,14.95,N.A,Recharge of Rs. 20 by Idea,Talktime of Rs. 14.95 for Rs. 20 recharge by Idea
-10677,30,22.42,N.A,Recharge of Rs. 30 by Idea,Talktime of Rs. 22.42 for Rs. 30 recharge by Idea
-10678,40,30.9,N.A,Recharge of Rs. 40 by Idea,Talktime of Rs. 30.9 for Rs. 40 recharge by Idea
-10679,50,39.37,N.A,Recharge of Rs. 50 by Idea,Talktime of Rs. 39.37 for Rs. 50 recharge by Idea
-10681,60,47.85,N.A,Recharge of Rs. 60 by Idea,Talktime of Rs. 47.85 for Rs. 60 recharge by Idea
-10683,70,58,N.A,Recharge of Rs. 70 by Idea,Surprise talk time from Rs. 58 to Rs.100(Magic Recharge)
-10684,80,68,N.A,Recharge of Rs. 80 by Idea,Surprise talk time from Rs. 68 to Rs.110(Magic Recharge)
-10686,90,73.27,N.A,Recharge of Rs. 90 by Idea,Talktime of Rs. 73.27 for Rs. 90 recharge by Idea
-10688,110,90.22,N.A,Recharge of Rs. 110 by Idea,Talktime of Rs. 90.22 for Rs. 110 recharge by Idea
-10689,120,107,N.A,Recharge of Rs. 120 by Idea,Surprise talk time from Rs. 107 to Rs.150(Magic Recharge)
-10690,130,107.17,N.A,Recharge of Rs. 130 by Idea,Talktime of Rs. 107.17 for Rs. 130 recharge by Idea
-10691,140,115.64,N.A,Recharge of Rs. 140 by Idea,Talktime of Rs. 115.64 for Rs. 140 recharge by Idea
-10692,150,144,N.A,Recharge of Rs. 150 by Idea,Talktime of Rs. 144 for Rs. 150 recharge by Idea
-10693,170,141.07,N.A,Recharge of Rs. 170 by Idea,Talktime of Rs. 141.07 for Rs. 170 recharge by Idea
-10694,180,149.54,N.A,Recharge of Rs. 180 by Idea,Talktime of Rs. 149.54 for Rs. 180 recharge by Idea
-10695,200,190,N.A,Recharge of Rs. 200 by Idea,Talktime of Rs. 190 for Rs. 200 recharge by Idea
-10696,210,174.97,N.A,Recharge of Rs. 210 by Idea,Talktime of Rs. 174.97 for Rs. 210 recharge by Idea
-10697,230,191.92,N.A,Recharge of Rs. 230 by Idea,Talktime of Rs. 191.92 for Rs. 230 recharge by Idea
-10698,300,251.24,N.A,Recharge of Rs. 300 by Idea,Talktime of Rs. 251.24 for Rs. 300 recharge by Idea
-10699,340,285.14,N.A,Recharge of Rs. 340 by Idea,Talktime of Rs. 285.14 for Rs. 340 recharge by Idea
-10700,400,335.98,N.A,Recharge of Rs. 400 by Idea,Talktime of Rs. 335.98 for Rs. 400 recharge by Idea
-10701,600,505.47,N.A,Recharge of Rs. 600 by Idea,Talktime of Rs. 505.47 for Rs. 600 recharge by Idea
-10731,69,,15 to 28 days,Recharge of Rs. 69 by Idea,250 MB to 1 GB 3G/4G data( Magic Recharge) -- Overage: 4ps/10KB
+id,cost,talktime,validity,comments
+10674,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by Idea
+10675,20,14.95,N.A,Talktime of Rs. 14.95 for Rs. 20 recharge by Idea
+10677,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by Idea
+10678,40,30.9,N.A,Talktime of Rs. 30.9 for Rs. 40 recharge by Idea
+10679,50,39.37,N.A,Talktime of Rs. 39.37 for Rs. 50 recharge by Idea
+10681,60,47.85,N.A,Talktime of Rs. 47.85 for Rs. 60 recharge by Idea
+10683,70,58,N.A,Surprise talk time from Rs. 58 to Rs.100(Magic Recharge)
+10684,80,68,N.A,Surprise talk time from Rs. 68 to Rs.110(Magic Recharge)
+10686,90,73.27,N.A,Talktime of Rs. 73.27 for Rs. 90 recharge by Idea
+10688,110,90.22,N.A,Talktime of Rs. 90.22 for Rs. 110 recharge by Idea
+10689,120,107,N.A,Surprise talk time from Rs. 107 to Rs.150(Magic Recharge)
+10690,130,107.17,N.A,Talktime of Rs. 107.17 for Rs. 130 recharge by Idea
+10691,140,115.64,N.A,Talktime of Rs. 115.64 for Rs. 140 recharge by Idea
+10692,150,144,N.A,Talktime of Rs. 144 for Rs. 150 recharge by Idea
+10693,170,141.07,N.A,Talktime of Rs. 141.07 for Rs. 170 recharge by Idea
+10694,180,149.54,N.A,Talktime of Rs. 149.54 for Rs. 180 recharge by Idea
+10695,200,190,N.A,Talktime of Rs. 190 for Rs. 200 recharge by Idea
+10696,210,174.97,N.A,Talktime of Rs. 174.97 for Rs. 210 recharge by Idea
+10697,230,191.92,N.A,Talktime of Rs. 191.92 for Rs. 230 recharge by Idea
+10698,300,251.24,N.A,Talktime of Rs. 251.24 for Rs. 300 recharge by Idea
+10699,340,285.14,N.A,Talktime of Rs. 285.14 for Rs. 340 recharge by Idea
+10700,400,335.98,N.A,Talktime of Rs. 335.98 for Rs. 400 recharge by Idea
+10701,600,505.47,N.A,Talktime of Rs. 505.47 for Rs. 600 recharge by Idea
+10731,69,,15 to 28 days,250 MB to 1 GB 3G/4G data( Magic Recharge) -- Overage: 4ps/10KB

@@ -1,14 +1,14 @@
-id,cost,talktime,validity,short description,long description
-1596,345,345,28 days,Recharge of Rs. 345 by Airtel,100 Local Airtel SMS
-1615,158,100,28 days,Recharge of Rs. 158 by Airtel,120 MB 3G Data
-1628,2249,,28 days,Recharge of Rs. 2249 by Airtel,Unlimited LOCAL + STD + ROAMING (MOBILE + LL) CALLS -- 7 GB 3G data -- 100 SMS/DAY (LOCAL+NATIONAL) -- Wynk Music & Movie 
-1643,399,,28 days,Recharge of Rs. 399 by Airtel,Unlimited ALL Local & STD calls -- 1.25 GB Data (For 4G HS 1GB/Day for 28 days) and 1.25GB Happy Hours night data(3AM to 5AM)
-1644,499,,28 days,Recharge of Rs. 499 by Airtel,Unlimited All Local & STD calls -- 2 GB Data (For 4G HS 1.5 GB/Day) -- T&C
-1645,648,,28 days,Recharge of Rs. 648 by Airtel,Unlimited All Local & STD calls -- 3.5 GB Data (For 4G HS 2.5GB/Day for 28 days) -- T&C
-1646,899,,28 days,Recharge of Rs. 899 by Airtel,Unlimited All Local & STD calls -- 6 GB Data (For 4G HS 3.5GB/Day for 28 days)
-1647,999,,28 days,Recharge of Rs. 999 by Airtel,Unlimited ALL Local & STD calls -- 7 GB Data (For 4G HS 2GB/Day for 28 days) and 7GB Happy Hours night data(3AM to 5AM)
-1648,1198,,28 days,Recharge of Rs. 1198 by Airtel,Unlimited All Local & STD calls -- 9 GB Data (For 4G HS 5GB/Day for 28 days)
-1649,23,,1 day,Recharge of Rs. 23 by Airtel,Unlimited Local & STD Airtel Calls -- 100 MB (4G HS) / 50 MB (Other HS)
-1650,54,,7 days,Recharge of Rs. 54 by Airtel,Unlimited Local & STD Airtel calls -- 250 MB (4G HS) / 50 MB (Other HS)
-1651,93,,7 days,Recharge of Rs. 93 by Airtel,Unlimited Local & STD Airtel Calls & 100 Local & STD Mobile Mins -- 250 MB (4G HS) / 50 MB (Other HS)
-1652,244,,28 days,Recharge of Rs. 244 by Airtel,"Unlimited Local + STD Airtel to Airtel Mobile calls -- 50 MB data.For 4G Handset + 4G SIM, extra 1 GB Data -- T&C apply."
+id,cost,talktime,validity,comments
+1596,345,345,28 days,100 Local Airtel SMS
+1615,158,100,28 days,120 MB 3G Data
+1628,2249,,28 days,Unlimited LOCAL + STD + ROAMING (MOBILE + LL) CALLS -- 7 GB 3G data -- 100 SMS/DAY (LOCAL+NATIONAL) -- Wynk Music & Movie 
+1643,399,,28 days,Unlimited ALL Local & STD calls -- 1.25 GB Data (For 4G HS 1GB/Day for 28 days) and 1.25GB Happy Hours night data(3AM to 5AM)
+1644,499,,28 days,Unlimited All Local & STD calls -- 2 GB Data (For 4G HS 1.5 GB/Day) -- T&C
+1645,648,,28 days,Unlimited All Local & STD calls -- 3.5 GB Data (For 4G HS 2.5GB/Day for 28 days) -- T&C
+1646,899,,28 days,Unlimited All Local & STD calls -- 6 GB Data (For 4G HS 3.5GB/Day for 28 days)
+1647,999,,28 days,Unlimited ALL Local & STD calls -- 7 GB Data (For 4G HS 2GB/Day for 28 days) and 7GB Happy Hours night data(3AM to 5AM)
+1648,1198,,28 days,Unlimited All Local & STD calls -- 9 GB Data (For 4G HS 5GB/Day for 28 days)
+1649,23,,1 day,Unlimited Local & STD Airtel Calls -- 100 MB (4G HS) / 50 MB (Other HS)
+1650,54,,7 days,Unlimited Local & STD Airtel calls -- 250 MB (4G HS) / 50 MB (Other HS)
+1651,93,,7 days,Unlimited Local & STD Airtel Calls & 100 Local & STD Mobile Mins -- 250 MB (4G HS) / 50 MB (Other HS)
+1652,244,,28 days,"Unlimited Local + STD Airtel to Airtel Mobile calls -- 50 MB data.For 4G Handset + 4G SIM, extra 1 GB Data -- T&C apply."

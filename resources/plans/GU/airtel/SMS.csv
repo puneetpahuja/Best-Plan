@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-2165,14,,28 days,Recharge of Rs. 14 by Airtel,Unlimited Local + STD SMS @10p/SMS
-2166,21,,28 days,Recharge of Rs. 21 by Airtel,225 ALL Local + STD SMS
-2167,32,,28 days,Recharge of Rs. 32 by Airtel,375 ALL Local + STD SMS
-2168,58,,28 days,Recharge of Rs. 58 by Airtel,650 Local + national SMS
-2169,102,,28 days,Recharge of Rs. 102 by Airtel,1150 Local + National SMS
+id,cost,talktime,validity,comments
+2165,14,,28 days,Unlimited Local + STD SMS @10p/SMS
+2166,21,,28 days,225 ALL Local + STD SMS
+2167,32,,28 days,375 ALL Local + STD SMS
+2168,58,,28 days,650 Local + national SMS
+2169,102,,28 days,1150 Local + National SMS

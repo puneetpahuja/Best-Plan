@@ -1,2 +1,2 @@
-id,cost,talktime,validity,short description,long description
-16901,35,,28 days,Recharge of Rs. 35 by Vodafone,STD Mobile Calls @ 25p/min
+id,cost,talktime,validity,comments
+16901,35,,28 days,STD Mobile Calls @ 25p/min

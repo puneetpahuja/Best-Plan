@@ -1,12 +1,12 @@
-id,cost,talktime,validity,short description,long description
-2954,10,7.47,N.A,Recharge of Rs. 10 by Airtel,Talktime of Rs. 7.47 for Rs. 10 recharge by Airtel
-2955,20,14.95,N.A,Recharge of Rs. 20 by Airtel,Talktime of Rs. 14.95 for Rs. 20 recharge by Airtel
-2956,30,22.42,N.A,Recharge of Rs. 30 by Airtel,Talktime of Rs. 22.42 for Rs. 30 recharge by Airtel
-2958,40,30.9,N.A,Recharge of Rs. 40 by Airtel,Talktime of Rs. 30.9 for Rs. 40 recharge by Airtel
-2959,50,39.37,N.A,Recharge of Rs. 50 by Airtel,Talktime of Rs. 39.37 for Rs. 50 recharge by Airtel
-2961,60,47.85,N.A,Recharge of Rs. 60 by Airtel,Talktime of Rs. 47.85 for Rs. 60 recharge by Airtel
-2965,90,73.27,N.A,Recharge of Rs. 90 by Airtel,Talktime of Rs. 73.27 for Rs. 90 recharge by Airtel
-2966,100,81.75,N.A,Recharge of Rs. 100 by Airtel,Talktime of Rs. 81.75 for Rs. 100 recharge by Airtel
-2967,110,90.22,N.A,Recharge of Rs. 110 by Airtel,Talktime of Rs. 90.22 for Rs. 110 recharge by Airtel
-2970,150,144,N.A,Recharge of Rs. 150 by Airtel,Talktime of Rs. 144 for Rs. 150 recharge by Airtel
-2971,200,190,N.A,Recharge of Rs. 200 by Airtel,Talktime of Rs. 190 for Rs. 200 recharge by Airtel
+id,cost,talktime,validity,comments
+2954,10,7.47,N.A,Talktime of Rs. 7.47 for Rs. 10 recharge by Airtel
+2955,20,14.95,N.A,Talktime of Rs. 14.95 for Rs. 20 recharge by Airtel
+2956,30,22.42,N.A,Talktime of Rs. 22.42 for Rs. 30 recharge by Airtel
+2958,40,30.9,N.A,Talktime of Rs. 30.9 for Rs. 40 recharge by Airtel
+2959,50,39.37,N.A,Talktime of Rs. 39.37 for Rs. 50 recharge by Airtel
+2961,60,47.85,N.A,Talktime of Rs. 47.85 for Rs. 60 recharge by Airtel
+2965,90,73.27,N.A,Talktime of Rs. 73.27 for Rs. 90 recharge by Airtel
+2966,100,81.75,N.A,Talktime of Rs. 81.75 for Rs. 100 recharge by Airtel
+2967,110,90.22,N.A,Talktime of Rs. 90.22 for Rs. 110 recharge by Airtel
+2970,150,144,N.A,Talktime of Rs. 144 for Rs. 150 recharge by Airtel
+2971,200,190,N.A,Talktime of Rs. 190 for Rs. 200 recharge by Airtel

@@ -1,21 +1,21 @@
-id,cost,talktime,validity,short description,long description
-8344,8,,1 day,Recharge of Rs. 8 by Docomo,100 MB 3G Data -- 
-8345,22,,2 days,Recharge of Rs. 22 by Docomo,100 MB 3G data -- 
-8346,38,,4 days,Recharge of Rs. 38 by Docomo,300 MB 3G data -- 
-8347,49,,1 day,Recharge of Rs. 49 by Docomo,1 GB Night data  -- 
-8348,56,,28 days,Recharge of Rs. 56 by Docomo,250 MB 3G data
-8349,63,,7 days,Recharge of Rs. 63 by Docomo,300 MB 3G data
-8350,97,,28 days,Recharge of Rs. 97 by Docomo,500 MB 3G data
-8351,98,,28 days,Recharge of Rs. 98 by Docomo,1 GB data
-8352,109,,28 days,Recharge of Rs. 109 by Docomo,1 GB Night data  -- 
-8353,114,,28 days,Recharge of Rs. 114 by Docomo,300 MB 3G data + 300 MB Night Data  -- 
-8354,154,,21 days,Recharge of Rs. 154 by Docomo,750 MB 3G data -- 
-8355,189,,28 days,Recharge of Rs. 189 by Docomo,2 GB 3G data -- 
-8356,208,,28 days,Recharge of Rs. 208 by Docomo,1.1 GB to 10 GB 3G Data -- 
-8357,249,,28 days,Recharge of Rs. 249 by Docomo,28GB 3G Data (1GB 3G Data Daily)
-8358,255,,28 days,Recharge of Rs. 255 by Docomo,1.5 GB 3G data -- 
-8359,269,,28 days,Recharge of Rs. 269 by Docomo,5 GB 3G data
-8360,348,,28 days,Recharge of Rs. 348 by Docomo,2 GB 3G Data -- 1500 Local STD Mobile mins. Post 1500 mins calls will be charged @ 30p/min
-8361,445,,28 days,Recharge of Rs. 445 by Docomo,4 GB 3G data -- 
-8362,501,,365 days,Recharge of Rs. 501 by Docomo,5 GB 3G data
-8363,995,,28 days,Recharge of Rs. 995 by Docomo,10 GB 3G data -- 
+id,cost,talktime,validity,comments
+8344,8,,1 day,100 MB 3G Data -- 
+8345,22,,2 days,100 MB 3G data -- 
+8346,38,,4 days,300 MB 3G data -- 
+8347,49,,1 day,1 GB Night data  -- 
+8348,56,,28 days,250 MB 3G data
+8349,63,,7 days,300 MB 3G data
+8350,97,,28 days,500 MB 3G data
+8351,98,,28 days,1 GB data
+8352,109,,28 days,1 GB Night data  -- 
+8353,114,,28 days,300 MB 3G data + 300 MB Night Data  -- 
+8354,154,,21 days,750 MB 3G data -- 
+8355,189,,28 days,2 GB 3G data -- 
+8356,208,,28 days,1.1 GB to 10 GB 3G Data -- 
+8357,249,,28 days,28GB 3G Data (1GB 3G Data Daily)
+8358,255,,28 days,1.5 GB 3G data -- 
+8359,269,,28 days,5 GB 3G data
+8360,348,,28 days,2 GB 3G Data -- 1500 Local STD Mobile mins. Post 1500 mins calls will be charged @ 30p/min
+8361,445,,28 days,4 GB 3G data -- 
+8362,501,,365 days,5 GB 3G data
+8363,995,,28 days,10 GB 3G data -- 

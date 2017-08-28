@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-14448,15,,30 days,Recharge of Rs. 15 by RelianceGSM,Local R-R at 5p others at 15p per SMS
-14449,42,,21 days,Recharge of Rs. 42 by RelianceGSM,800 local or National SMS
+id,cost,talktime,validity,comments
+14448,15,,30 days,Local R-R at 5p others at 15p per SMS
+14449,42,,21 days,800 local or National SMS

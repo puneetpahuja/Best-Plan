@@ -1,9 +1,9 @@
-id,cost,talktime,validity,short description,long description
-8708,15,,2 days,Recharge of Rs. 15 by Docomo,90 MB Data -- Applicable for prepay CIMO customers.
-8710,26,,4 days,Recharge of Rs. 26 by Docomo,150 MB Data -- Applicable for prepay CIMO customers.
-8711,33,,5 days,Recharge of Rs. 33 by Docomo,185 MB Data -- Applicable for prepay CIMO customers.
-8712,56,,8 days,Recharge of Rs. 56 by Docomo,325 MB Data -- Applicable for prepay CIMO customers.
-8713,86,,28 days,Recharge of Rs. 86 by Docomo,400 MB
-8716,95,,14 days,Recharge of Rs. 95 by Docomo,550 MB Data -- Applicable for prepay CIMO customers.
-8718,126,,21 days,Recharge of Rs. 126 by Docomo,625 MB
-8719,143,,28 days,Recharge of Rs. 143 by Docomo,1 GB 2G Data
+id,cost,talktime,validity,comments
+8708,15,,2 days,90 MB Data -- Applicable for prepay CIMO customers.
+8710,26,,4 days,150 MB Data -- Applicable for prepay CIMO customers.
+8711,33,,5 days,185 MB Data -- Applicable for prepay CIMO customers.
+8712,56,,8 days,325 MB Data -- Applicable for prepay CIMO customers.
+8713,86,,28 days,400 MB
+8716,95,,14 days,550 MB Data -- Applicable for prepay CIMO customers.
+8718,126,,21 days,625 MB
+8719,143,,28 days,1 GB 2G Data

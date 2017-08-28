@@ -1,11 +1,11 @@
-id,cost,talktime,validity,short description,long description
-4973,8,,90 days,Recharge of Rs. 8 by BSNL,LifeTime Plan Voucher -- For New Customers Only
-4974,75,,90 days,Recharge of Rs. 75 by BSNL,Plan: Pyari Jodi 75
-4975,91,,90 days,Recharge of Rs. 91 by BSNL,Plan Migration: RTP_FR_91
-4976,96,,90 days,Recharge of Rs. 96 by BSNL,Plan: Data_Pan_96
-4977,97,,90 days,Recharge of Rs. 97 by BSNL,"60 min any net voice call for 30 days reduced call rate to 03 BSNL and 02 non BSNL local numbersonnet at 20per min, offnet at 40p per min -- Reduced SMS charges for all(including F and F numbers) Local SMS at 10p per SMS and STD SMS at 50p per SMS -- Subscriber can change F and F numbers with a charge of Rs5 per change per number.STV benefit is avilable in home LSA only."
-4978,99,,30 days,Recharge of Rs. 99 by BSNL,Plan: Jai_Jawan_99
-4979,106,100,90 days,Recharge of Rs. 106 by BSNL,Per sec plan:Full talk value of Rs 100 in Main account -- Local + STD Call Onnet (2p/Sec) & Offnet (2.4p/Sec) -- SMS Charges Local Rs 0.80p and National Re 1.2 -- *Local + STD Call Onnet (1p/Sec) & Offnet (2p/Sec) reduced call rate avail for first 60 days 
-4980,107,100,90 days,Recharge of Rs. 107 by BSNL,Per min plan:Local + STD Call Onnet (Rs 1/Sec) & Offnet (Rs 1.3/Sec) -- SMS Charges Local Rs 0.80p and National Re 1.2 -- *Local + STD Call Onnet (Rs 0.1/Sec) & Offnet (Rs 0.3/Sec) reduced call rate avail for first 60 days 
-4981,118,,90 days,Recharge of Rs. 118 by BSNL,StudentSpecialPlan_118_migration
-4982,666,,180 days,Recharge of Rs. 666 by BSNL,"BSNL SIXER_migration: Unlimited data (Speed reduced to 80 Kbps after 2GB/day) + Unlimited voice calls for 60 days. -- After 60 days: ALL calls (Local/STD) (On-net/Off-net) @ 50 Paisa/Minute -- SMS (while in Home & National Roaming): Local @25 Paisa/SMS, National @35 Paisa/SMS -- All other charges As per Per Minute plan"
+id,cost,talktime,validity,comments
+4973,8,,90 days,LifeTime Plan Voucher -- For New Customers Only
+4974,75,,90 days,Plan: Pyari Jodi 75
+4975,91,,90 days,Plan Migration: RTP_FR_91
+4976,96,,90 days,Plan: Data_Pan_96
+4977,97,,90 days,"60 min any net voice call for 30 days reduced call rate to 03 BSNL and 02 non BSNL local numbersonnet at 20per min, offnet at 40p per min -- Reduced SMS charges for all(including F and F numbers) Local SMS at 10p per SMS and STD SMS at 50p per SMS -- Subscriber can change F and F numbers with a charge of Rs5 per change per number.STV benefit is avilable in home LSA only."
+4978,99,,30 days,Plan: Jai_Jawan_99
+4979,106,100,90 days,Per sec plan:Full talk value of Rs 100 in Main account -- Local + STD Call Onnet (2p/Sec) & Offnet (2.4p/Sec) -- SMS Charges Local Rs 0.80p and National Re 1.2 -- *Local + STD Call Onnet (1p/Sec) & Offnet (2p/Sec) reduced call rate avail for first 60 days 
+4980,107,100,90 days,Per min plan:Local + STD Call Onnet (Rs 1/Sec) & Offnet (Rs 1.3/Sec) -- SMS Charges Local Rs 0.80p and National Re 1.2 -- *Local + STD Call Onnet (Rs 0.1/Sec) & Offnet (Rs 0.3/Sec) reduced call rate avail for first 60 days 
+4981,118,,90 days,StudentSpecialPlan_118_migration
+4982,666,,180 days,"BSNL SIXER_migration: Unlimited data (Speed reduced to 80 Kbps after 2GB/day) + Unlimited voice calls for 60 days. -- After 60 days: ALL calls (Local/STD) (On-net/Off-net) @ 50 Paisa/Minute -- SMS (while in Home & National Roaming): Local @25 Paisa/SMS, National @35 Paisa/SMS -- All other charges As per Per Minute plan"

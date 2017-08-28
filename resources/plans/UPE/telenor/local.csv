@@ -1,40 +1,40 @@
-id,cost,talktime,validity,short description,long description
-16075,2,,2 days,Recharge of Rs. 2 by Uninor,All Local calls@25p/min
-16076,4,,3 days,Recharge of Rs. 4 by Uninor,12 Local Mins
-16077,8,,28 days,Recharge of Rs. 8 by Uninor,Local Telenor to Telenor Calls @ 10p/min
-16078,15,,28 days,Recharge of Rs. 15 by Uninor,All Local calls @ 25p/min
-16079,16,,3 days,Recharge of Rs. 16 by Uninor,40 Local & STD mins
-16080,26,,7 days,Recharge of Rs. 26 by Uninor,60 Local mins
-16081,27,,28 days,Recharge of Rs. 27 by Uninor,All Local + STD calls @25 P/Min
-16082,31,,14 days,Recharge of Rs. 31 by Uninor,400 Local Telenor to Telenor mins
-16083,32,,21 days,Recharge of Rs. 32 by Uninor,600 Local Telenor to Telenor mins -- Peak hour charging from 5pm to 10 pm Local Telenor to Telenor calls @20p/min
-16084,33,,90 days,Recharge of Rs. 33 by Uninor,All Local calls @ 25p/min
-16085,35,,28 days,Recharge of Rs. 35 by Uninor,"Local Telenor to Telenor Calls @10P/Min,Local Telenor to others @25P/Min and All STD Calls @30P/Min"
-16086,36,,7 days,Recharge of Rs. 36 by Uninor,100 Local and STD Mins
-16087,42,,56 days,Recharge of Rs. 42 by Uninor,All Local/STD calls@20p/min
-16088,45,,14 days,Recharge of Rs. 45 by Uninor,125 Local Telenor to Telenor mins and 125 Local Telenor to others mins
-16089,46,,28 days,Recharge of Rs. 46 by Uninor,500 min Local Telenor to Telenor
-16090,51,,7 days,Recharge of Rs. 51 by Uninor,Unlimited Local Telenor to Telenor calls
-16091,55,,21 days,Recharge of Rs. 55 by Uninor,130 Min All Local Calls
-16092,62,,21 days,Recharge of Rs. 62 by Uninor,165 Min All local calls 
-16093,66,,21 days,Recharge of Rs. 66 by Uninor,1000 min Local Telenor to Telenor
-16094,72,,90 days,Recharge of Rs. 72 by Uninor,"Local Telenor to Telenor @10P/Min, Local Telenor to Other @25P/Min and STD @30P/Min"
-16095,73,,10 days,Recharge of Rs. 73 by Uninor,Unlimited Local Telenor to Telenor call
-16096,74,,21 days,Recharge of Rs. 74 by Uninor,200 Local & STD mins  Free
-16097,76,,28 days,Recharge of Rs. 76 by Uninor,1200 Local Telenor to Telenor mins
-16098,97,,21 days,Recharge of Rs. 97 by Uninor,300 Local Telenor to others mins and 550 Local Telenor to Telenor Mins
-16099,98,,28 days,Recharge of Rs. 98 by Uninor,Unlimited Local Telenor to Telenor calls
-16100,99,,21 days,Recharge of Rs. 99 by Uninor,300 Local +National min
-16101,115,,28 days,Recharge of Rs. 115 by Uninor,350 Local Telenor to others + 350 Local Telenor to Telenor
-16102,121,,28 days,Recharge of Rs. 121 by Uninor,Unlimited Local & STD Telenor to Telenor Calls + 121 Local/National minutes
-16103,147,,14 days,Recharge of Rs. 147 by Uninor,Unlimited Local & STD Telenor to Telenor Free* Local/STD Telenor to other. (*100 Telenor to other min/day or 500 Telenor to other minutes in a week. Post that fixed tariff of 25p/min for Telenor to other calls will apply for the remainder of day/week)
-16104,148,,28 days,Recharge of Rs. 148 by Uninor,475 Local Telenor to other+ 475 Local Telenor to Telenor minutes
-16105,149,,28 days,Recharge of Rs. 149 by Uninor,All Local calls @25p/m + All STD calls @30p/m -- 1 GB 4G Data
-16106,197,,28 days,Recharge of Rs. 197 by Uninor,1000 mins Local Telenor to Telenor and 1000 mins Local Telenor to others
-16107,211,,28 days,Recharge of Rs. 211 by Uninor,Unlimited Local Telenor to Telenor & 500 Local Telenor to others mins
-16108,219,,28 days,Recharge of Rs. 219 by Uninor,All local calls @25p/m + All STD calls @30p/m -- 2 GB 4G Data
-16109,221,,28 days,Recharge of Rs. 221 by Uninor,2000 Local Telenor to Telenor mins and 800 Local Telenor to others mins
-16110,249,,28 days,Recharge of Rs. 249 by Uninor,500 Local/STD Mins -- 1 GB 4G Data
-16111,319,,28 days,Recharge of Rs. 319 by Uninor,500 Local/STD Mins -- 2 GB 4G Data
-16112,322,,90 days,Recharge of Rs. 322 by Uninor,Unlimited Local Telenor to Telenor calls
-16113,777,,28 days,Recharge of Rs. 777 by Uninor,First 3000 Local & STD mins free and then @ 30P/min
+id,cost,talktime,validity,comments
+16075,2,,2 days,All Local calls@25p/min
+16076,4,,3 days,12 Local Mins
+16077,8,,28 days,Local Telenor to Telenor Calls @ 10p/min
+16078,15,,28 days,All Local calls @ 25p/min
+16079,16,,3 days,40 Local & STD mins
+16080,26,,7 days,60 Local mins
+16081,27,,28 days,All Local + STD calls @25 P/Min
+16082,31,,14 days,400 Local Telenor to Telenor mins
+16083,32,,21 days,600 Local Telenor to Telenor mins -- Peak hour charging from 5pm to 10 pm Local Telenor to Telenor calls @20p/min
+16084,33,,90 days,All Local calls @ 25p/min
+16085,35,,28 days,"Local Telenor to Telenor Calls @10P/Min,Local Telenor to others @25P/Min and All STD Calls @30P/Min"
+16086,36,,7 days,100 Local and STD Mins
+16087,42,,56 days,All Local/STD calls@20p/min
+16088,45,,14 days,125 Local Telenor to Telenor mins and 125 Local Telenor to others mins
+16089,46,,28 days,500 min Local Telenor to Telenor
+16090,51,,7 days,Unlimited Local Telenor to Telenor calls
+16091,55,,21 days,130 Min All Local Calls
+16092,62,,21 days,165 Min All local calls 
+16093,66,,21 days,1000 min Local Telenor to Telenor
+16094,72,,90 days,"Local Telenor to Telenor @10P/Min, Local Telenor to Other @25P/Min and STD @30P/Min"
+16095,73,,10 days,Unlimited Local Telenor to Telenor call
+16096,74,,21 days,200 Local & STD mins  Free
+16097,76,,28 days,1200 Local Telenor to Telenor mins
+16098,97,,21 days,300 Local Telenor to others mins and 550 Local Telenor to Telenor Mins
+16099,98,,28 days,Unlimited Local Telenor to Telenor calls
+16100,99,,21 days,300 Local +National min
+16101,115,,28 days,350 Local Telenor to others + 350 Local Telenor to Telenor
+16102,121,,28 days,Unlimited Local & STD Telenor to Telenor Calls + 121 Local/National minutes
+16103,147,,14 days,Unlimited Local & STD Telenor to Telenor Free* Local/STD Telenor to other. (*100 Telenor to other min/day or 500 Telenor to other minutes in a week. Post that fixed tariff of 25p/min for Telenor to other calls will apply for the remainder of day/week)
+16104,148,,28 days,475 Local Telenor to other+ 475 Local Telenor to Telenor minutes
+16105,149,,28 days,All Local calls @25p/m + All STD calls @30p/m -- 1 GB 4G Data
+16106,197,,28 days,1000 mins Local Telenor to Telenor and 1000 mins Local Telenor to others
+16107,211,,28 days,Unlimited Local Telenor to Telenor & 500 Local Telenor to others mins
+16108,219,,28 days,All local calls @25p/m + All STD calls @30p/m -- 2 GB 4G Data
+16109,221,,28 days,2000 Local Telenor to Telenor mins and 800 Local Telenor to others mins
+16110,249,,28 days,500 Local/STD Mins -- 1 GB 4G Data
+16111,319,,28 days,500 Local/STD Mins -- 2 GB 4G Data
+16112,322,,90 days,Unlimited Local Telenor to Telenor calls
+16113,777,,28 days,First 3000 Local & STD mins free and then @ 30P/min

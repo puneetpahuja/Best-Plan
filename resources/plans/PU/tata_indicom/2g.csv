@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-15531,5,,Till Midnight on day of recharge,Recharge of Rs. 5 by Indicom,25 MB
-15532,12,,3 days,Recharge of Rs. 12 by Indicom,75 MB
-15533,48,,10 days,Recharge of Rs. 48 by Indicom,250 MB
-15534,95,,30 days,Recharge of Rs. 95 by Indicom,500 MB
-15535,126,,30 days,Recharge of Rs. 126 by Indicom,1 GB
-15536,256,,30 days,Recharge of Rs. 256 by Indicom,2 GB
+id,cost,talktime,validity,comments
+15531,5,,Till Midnight on day of recharge,25 MB
+15532,12,,3 days,75 MB
+15533,48,,10 days,250 MB
+15534,95,,30 days,500 MB
+15535,126,,30 days,1 GB
+15536,256,,30 days,2 GB

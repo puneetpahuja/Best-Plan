@@ -1,16 +1,16 @@
-id,cost,talktime,validity,short description,long description
-7745,65,66,24 days,Recharge of Rs. 65 by Docomo,Local On-Net Mins: 600 (night mins) -- Other Benefits: 1 Local On-Net SMS (valid for 1 day)
-7749,199,199,28 days,Recharge of Rs. 199 by Docomo,1 GB 3G Data
-7757,34,30,15 days,Recharge of Rs. 34 by Docomo,1 Local On-Net SMS (valid for 1 day)
-7758,49,30,28 days,Recharge of Rs. 49 by Docomo,100 MB 3G Data 
-7760,71,30,15 days,Recharge of Rs. 71 by Docomo,"200 MB (2G Data, Post Free Data Usage Charges 10p/ 10KB)"
-7761,79,40,28 days,Recharge of Rs. 79 by Docomo,300 MB 3G Data 
-7763,88,40,21 days,Recharge of Rs. 88 by Docomo,Local SMS @ Re.1 -- STD SMS @ Rs.1.5 -- Unlimited Incoming Roaming Local/STD On-Net/Off-Net Outgoing calls @ 50p/ min.
-7769,251,100,28 days,Recharge of Rs. 251 by Docomo,"1 GB (3G Data, Post Free Data Usage Charges 10p/ 10KB)"
-7770,299,200,28 days,Recharge of Rs. 299 by Docomo,2 GB 3G Data
-7772,399,300,28 days,Recharge of Rs. 399 by Docomo,3 GB 3G Data
-7775,499,300,56 days,Recharge of Rs. 499 by Docomo,"2 GB (3G Data, Post Free Data Usage Charges 10p/ 10KB)"
-7783,32,,30 days,Recharge of Rs. 32 by Docomo,Unlimited Incoming on On-Net RoamingAll Incoming calls @ 45p/ min. on Off-Net Roaming All Local Outgoing calls @ 80p/ min. on Roaming All STD Outgoing calls @ Rs. 1.15/ sec. on On-Net RoamingAll STD Outgoing calls @ 1.50p/ min. on Off-Net Roaming -- All Local SMS @ 25p while on On-Net & Off-Net Roaming All STD SMS @ 38p while on On-Net & Off-Net Roaming
-7784,54,,7 days,Recharge of Rs. 54 by Docomo,Unlimited Incoming Roaming Local Outgoing calls @ 50p/ min. STD Outgoing calls @ 50p/ min -- Local SMS @ Re.1 STD SMS @ Rs.1.5
-7789,92,,21 days,Recharge of Rs. 92 by Docomo,Local On-Net mobile calls @ 0p/ sec -- 250 MB data
-7793,155,,28 days,Recharge of Rs. 155 by Docomo,Local On-Net mobile calls @ 0p/ sec --  500 MB data 
+id,cost,talktime,validity,comments
+7745,65,66,24 days,Local On-Net Mins: 600 (night mins) -- Other Benefits: 1 Local On-Net SMS (valid for 1 day)
+7749,199,199,28 days,1 GB 3G Data
+7757,34,30,15 days,1 Local On-Net SMS (valid for 1 day)
+7758,49,30,28 days,100 MB 3G Data 
+7760,71,30,15 days,"200 MB (2G Data, Post Free Data Usage Charges 10p/ 10KB)"
+7761,79,40,28 days,300 MB 3G Data 
+7763,88,40,21 days,Local SMS @ Re.1 -- STD SMS @ Rs.1.5 -- Unlimited Incoming Roaming Local/STD On-Net/Off-Net Outgoing calls @ 50p/ min.
+7769,251,100,28 days,"1 GB (3G Data, Post Free Data Usage Charges 10p/ 10KB)"
+7770,299,200,28 days,2 GB 3G Data
+7772,399,300,28 days,3 GB 3G Data
+7775,499,300,56 days,"2 GB (3G Data, Post Free Data Usage Charges 10p/ 10KB)"
+7783,32,,30 days,Unlimited Incoming on On-Net RoamingAll Incoming calls @ 45p/ min. on Off-Net Roaming All Local Outgoing calls @ 80p/ min. on Roaming All STD Outgoing calls @ Rs. 1.15/ sec. on On-Net RoamingAll STD Outgoing calls @ 1.50p/ min. on Off-Net Roaming -- All Local SMS @ 25p while on On-Net & Off-Net Roaming All STD SMS @ 38p while on On-Net & Off-Net Roaming
+7784,54,,7 days,Unlimited Incoming Roaming Local Outgoing calls @ 50p/ min. STD Outgoing calls @ 50p/ min -- Local SMS @ Re.1 STD SMS @ Rs.1.5
+7789,92,,21 days,Local On-Net mobile calls @ 0p/ sec -- 250 MB data
+7793,155,,28 days,Local On-Net mobile calls @ 0p/ sec --  500 MB data 

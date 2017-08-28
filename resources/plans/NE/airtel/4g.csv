@@ -1,22 +1,22 @@
-id,cost,talktime,validity,short description,long description
-3471,49,,1 day,Recharge of Rs. 49 by Airtel,1 GB 3G/4G Data
-3472,53,,1 Night,Recharge of Rs. 53 by Airtel,1 GB 3G/4G data (12AM to 6AM)
-3477,146,,28 days,Recharge of Rs. 146 by Airtel,1 GB Data for for 4G handsets & 600 MB data for other handsets
-3482,186,,28 days,Recharge of Rs. 186 by Airtel,400 MB 3G/4G day & night + 400 MB night ( 12AM - 6AM)
-3483,246,,28 days,Recharge of Rs. 246 by Airtel,4 GB Data for 4G Handset & 1.5 GB Data for other handsets
-3485,259,,28 days,Recharge of Rs. 259 by Airtel,1.5 GB 3G/4G data
-3486,265,,28 days,Recharge of Rs. 265 by Airtel,1 GB 3G/4G and wynk plus subscription (free songs streaming in wynk). 1 GB Happy Hours Night data(3AM to 5AM)
-3487,295,,28 days,Recharge of Rs. 295 by Airtel,1.2 GB to 10 GB 3G/4G Data
-3489,349,,28 days,Recharge of Rs. 349 by Airtel,Unlimited all Local + STD calls -- 1GB/day 3G/4G data -- T&C apply.
-3490,355,,28 days,Recharge of Rs. 355 by Airtel,2.5 GB 3G/4G data
-3492,459,,28 days,Recharge of Rs. 459 by Airtel,3.5 GB 3G/4G data
-3493,497,,28 days,Recharge of Rs. 497 by Airtel,10 GB Data for 4G Handset & 4 GB Data for other handsets
-3495,501,,28 days,Recharge of Rs. 501 by Airtel,4 GB 3G data. 4GB Happy Hours Night data (3AM to 5AM)
-3497,549,,28 days,Recharge of Rs. 549 by Airtel,Unlimited all Local + STD calls -- 2 GB/day 3G/4G data -- T&C apply.
-3498,555,,28 days,Recharge of Rs. 555 by Airtel,4.5 GB 3G/4G Data 4.5GB Happy Hours Night data (3AM to 5AM)
-3502,799,,28 days,Recharge of Rs. 799 by Airtel,Unlimited all Local + STD calls -- 3 GB/day 3G/4G data -- T&C apply.
-3504,995,,28 days,Recharge of Rs. 995 by Airtel,Unlimited all Local + STD calls -- 4 GB/day 3G/4G data -- T&C apply.
-3505,998,,28 days,Recharge of Rs. 998 by Airtel,20 GB Data for 4G Handset & 10 GB Data for other handsets
-3506,148,,28 days,Recharge of Rs. 148 by Airtel,"Free Local + STD Airtel calls (T&C apply) -- 50 MB 3G/4G data -- For 4G handset only, get 300 MB data."
-3507,649,,28 days,Recharge of Rs. 649 by Airtel,FREE All Local & STD Calls -- 3 GB 3G/4G data 
-3508,849,,28 days,Recharge of Rs. 849 by Airtel,FREE All Local & STD Calls -- 5 GB 3G/4G data 
+id,cost,talktime,validity,comments
+3471,49,,1 day,1 GB 3G/4G Data
+3472,53,,1 Night,1 GB 3G/4G data (12AM to 6AM)
+3477,146,,28 days,1 GB Data for for 4G handsets & 600 MB data for other handsets
+3482,186,,28 days,400 MB 3G/4G day & night + 400 MB night ( 12AM - 6AM)
+3483,246,,28 days,4 GB Data for 4G Handset & 1.5 GB Data for other handsets
+3485,259,,28 days,1.5 GB 3G/4G data
+3486,265,,28 days,1 GB 3G/4G and wynk plus subscription (free songs streaming in wynk). 1 GB Happy Hours Night data(3AM to 5AM)
+3487,295,,28 days,1.2 GB to 10 GB 3G/4G Data
+3489,349,,28 days,Unlimited all Local + STD calls -- 1GB/day 3G/4G data -- T&C apply.
+3490,355,,28 days,2.5 GB 3G/4G data
+3492,459,,28 days,3.5 GB 3G/4G data
+3493,497,,28 days,10 GB Data for 4G Handset & 4 GB Data for other handsets
+3495,501,,28 days,4 GB 3G data. 4GB Happy Hours Night data (3AM to 5AM)
+3497,549,,28 days,Unlimited all Local + STD calls -- 2 GB/day 3G/4G data -- T&C apply.
+3498,555,,28 days,4.5 GB 3G/4G Data 4.5GB Happy Hours Night data (3AM to 5AM)
+3502,799,,28 days,Unlimited all Local + STD calls -- 3 GB/day 3G/4G data -- T&C apply.
+3504,995,,28 days,Unlimited all Local + STD calls -- 4 GB/day 3G/4G data -- T&C apply.
+3505,998,,28 days,20 GB Data for 4G Handset & 10 GB Data for other handsets
+3506,148,,28 days,"Free Local + STD Airtel calls (T&C apply) -- 50 MB 3G/4G data -- For 4G handset only, get 300 MB data."
+3507,649,,28 days,FREE All Local & STD Calls -- 3 GB 3G/4G data 
+3508,849,,28 days,FREE All Local & STD Calls -- 5 GB 3G/4G data 

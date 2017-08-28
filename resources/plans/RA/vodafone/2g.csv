@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-18299,5,,1 hour,Recharge of Rs. 5 by Vodafone,Truly Unlimited 2G data for 1 hour -- 
-18300,7,,1 day,Recharge of Rs. 7 by Vodafone,30 MB 2G Data
-18301,16,,2 days,Recharge of Rs. 16 by Vodafone,90 MB 2G Data
-18302,28,,3 days,Recharge of Rs. 28 by Vodafone,160 MB 2G Data
-18303,46,,6 days,Recharge of Rs. 46 by Vodafone,260 MB 2G Data
-18304,54,,28 days,Recharge of Rs. 54 by Vodafone,150 MB 2G data + extra 150 MB night (12AM-6AM)
-18305,69,,9 days,Recharge of Rs. 69 by Vodafone,400 MB 2G Data
-18307,127,,18 days,Recharge of Rs. 127 by Vodafone,700 MB 2G Data
-18308,155,,21 days,Recharge of Rs. 155 by Vodafone,875 MB Data
-18310,196,,28 days,Recharge of Rs. 196 by Vodafone,1.25GB Unlimited 2G
-18312,248,,28 days,Recharge of Rs. 248 by Vodafone,2GB 2G for Dongle
-18313,296,,28 days,Recharge of Rs. 296 by Vodafone,4 GB 2G for Dongle
+id,cost,talktime,validity,comments
+18299,5,,1 hour,Truly Unlimited 2G data for 1 hour -- 
+18300,7,,1 day,30 MB 2G Data
+18301,16,,2 days,90 MB 2G Data
+18302,28,,3 days,160 MB 2G Data
+18303,46,,6 days,260 MB 2G Data
+18304,54,,28 days,150 MB 2G data + extra 150 MB night (12AM-6AM)
+18305,69,,9 days,400 MB 2G Data
+18307,127,,18 days,700 MB 2G Data
+18308,155,,21 days,875 MB Data
+18310,196,,28 days,1.25GB Unlimited 2G
+18312,248,,28 days,2GB 2G for Dongle
+18313,296,,28 days,4 GB 2G for Dongle

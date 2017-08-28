@@ -1,10 +1,10 @@
-id,cost,talktime,validity,short description,long description
-7186,36,,180 days,Recharge of Rs. 36 by BSNL,PerSec_36
-7187,37,,180 days,Recharge of Rs. 37 by BSNL,Validity extension: PerMin_37
-7188,53,,365 days,Recharge of Rs. 53 by BSNL,DATA_53_validity-extension
-7189,75,,180 days,Recharge of Rs. 75 by BSNL,Validity extension: Pyari Jodi 75
-7190,96,,365 days,Recharge of Rs. 96 by BSNL,Validity Extension: Data_bundle_96
-7191,99,,30 days,Recharge of Rs. 99 by BSNL,Validity extension: Jai_Jawan_99
-7192,136,,730 days,Recharge of Rs. 136 by BSNL,Freedom_136_validity-extension
-7193,199,,180 days,Recharge of Rs. 199 by BSNL,Validity extension: Roam_Free_199
-7194,666,,180 days,Recharge of Rs. 666 by BSNL,BSNL_SIXER_666_validity-extension
+id,cost,talktime,validity,comments
+7186,36,,180 days,PerSec_36
+7187,37,,180 days,Validity extension: PerMin_37
+7188,53,,365 days,DATA_53_validity-extension
+7189,75,,180 days,Validity extension: Pyari Jodi 75
+7190,96,,365 days,Validity Extension: Data_bundle_96
+7191,99,,30 days,Validity extension: Jai_Jawan_99
+7192,136,,730 days,Freedom_136_validity-extension
+7193,199,,180 days,Validity extension: Roam_Free_199
+7194,666,,180 days,BSNL_SIXER_666_validity-extension

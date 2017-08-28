@@ -1,15 +1,15 @@
-id,cost,talktime,validity,short description,long description
-936,8,,28 days,Recharge of Rs. 8 by Aircel,All calls @1.2p/2sec
-937,12,,28 days,Recharge of Rs. 12 by Aircel,Local A2A Call @15p/Min
-938,14,,1 day,Recharge of Rs. 14 by Aircel,"Unlimited local calls -- This STV should not be used for any Commercial Activity, else it will be deactivated. Post 200 mins/day, 30p/min applies. Commercial Activity means calling 100 or more unique callers in a week or 800 mins in a week"
-939,15,,28 days,Recharge of Rs. 15 by Aircel,All calls @ 1p/2sec
-940,18,,28 days,Recharge of Rs. 18 by Aircel,Local A2A calls 10p/min
-941,21,,28 days,Recharge of Rs. 21 by Aircel,All calls @ 20p/min
-942,32,,28 days,Recharge of Rs. 32 by Aircel,Free 120000 Local A2A Seconds Between (11PM to 6 AM)
-943,48,,4 days,Recharge of Rs. 48 by Aircel,Unlimited Local A2A Calls
-944,49,,45 days,Recharge of Rs. 49 by Aircel,All Local Calls at 1.2p/2sec + STD 1.2p/s for 45 days
-945,85,,60 days,Recharge of Rs. 85 by Aircel,All Local/STD Mobile Calls at 1.2p/2sec
-946,101,,14 days,Recharge of Rs. 101 by Aircel,Unlimited Local A2A Calls
-947,159,,7 days,Recharge of Rs. 159 by Aircel,"All Local & STD A2A mobile calls @ no charge -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 300 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1200 mins in a week -- All local and STD A2O mobile calls @ no charge"
-948,195,,28 days,Recharge of Rs. 195 by Aircel,Unlimited Local A2A Calls
-949,345,,28 days,Recharge of Rs. 345 by Aircel,"All local and STD mobile calls @ no charge -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 300 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1200 mins in a week"
+id,cost,talktime,validity,comments
+936,8,,28 days,All calls @1.2p/2sec
+937,12,,28 days,Local A2A Call @15p/Min
+938,14,,1 day,"Unlimited local calls -- This STV should not be used for any Commercial Activity, else it will be deactivated. Post 200 mins/day, 30p/min applies. Commercial Activity means calling 100 or more unique callers in a week or 800 mins in a week"
+939,15,,28 days,All calls @ 1p/2sec
+940,18,,28 days,Local A2A calls 10p/min
+941,21,,28 days,All calls @ 20p/min
+942,32,,28 days,Free 120000 Local A2A Seconds Between (11PM to 6 AM)
+943,48,,4 days,Unlimited Local A2A Calls
+944,49,,45 days,All Local Calls at 1.2p/2sec + STD 1.2p/s for 45 days
+945,85,,60 days,All Local/STD Mobile Calls at 1.2p/2sec
+946,101,,14 days,Unlimited Local A2A Calls
+947,159,,7 days,"All Local & STD A2A mobile calls @ no charge -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 300 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1200 mins in a week -- All local and STD A2O mobile calls @ no charge"
+948,195,,28 days,Unlimited Local A2A Calls
+949,345,,28 days,"All local and STD mobile calls @ no charge -- This STV should not be used for any Commercial Activity, in which case the pack will be deactivated without further notice. Also, post 300 mins/day, 30p/min applies. Commercial Activity will mean customers using the said product for calling 100 or more unique callers in a week or 1200 mins in a week"

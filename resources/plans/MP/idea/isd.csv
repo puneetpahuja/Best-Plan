@@ -1,4 +1,4 @@
-id,cost,talktime,validity,short description,long description
-10798,12,,28 days,Recharge of Rs. 12 by Idea,"USA & Canada 3 Ps/SecUK - Fixed, Singapore, China 4Ps/SecNepal, Pakistan 12Ps/secBangladesh 5p/secUAE 15p/secSaudi Arabia, Kuwait, Australia and Bahrain 13Ps/sec"
-10799,596,,10 days,Recharge of Rs. 596 by Idea,"International Roaming Pack for UAE:To avail discounts benefits choose our partner network/operator DU only. Standard Tariff apply on other networks/operators.Incoming calls at Rs. 30/min & Outgoing calls at Rs.30/min -- Outgoing SMS @Rs. 25 per SMS, Incoming SMS Free"
-10800,1496,,30 days,Recharge of Rs. 1496 by Idea,"International Roaming Pack for UAE** NO Talktime -- 30 minutes Incoming Free. Post Free minutes Incoming calls at Rs.30/min & Outgoing calls at Rs.30/min -- Outgoing SMS at Rs.25 per SMS, Incoming SMS Free"
+id,cost,talktime,validity,comments
+10798,12,,28 days,"USA & Canada 3 Ps/SecUK - Fixed, Singapore, China 4Ps/SecNepal, Pakistan 12Ps/secBangladesh 5p/secUAE 15p/secSaudi Arabia, Kuwait, Australia and Bahrain 13Ps/sec"
+10799,596,,10 days,"International Roaming Pack for UAE:To avail discounts benefits choose our partner network/operator DU only. Standard Tariff apply on other networks/operators.Incoming calls at Rs. 30/min & Outgoing calls at Rs.30/min -- Outgoing SMS @Rs. 25 per SMS, Incoming SMS Free"
+10800,1496,,30 days,"International Roaming Pack for UAE** NO Talktime -- 30 minutes Incoming Free. Post Free minutes Incoming calls at Rs.30/min & Outgoing calls at Rs.30/min -- Outgoing SMS at Rs.25 per SMS, Incoming SMS Free"

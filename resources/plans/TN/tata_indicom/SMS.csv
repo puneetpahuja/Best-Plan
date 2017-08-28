@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-15617,13,,15 days,Recharge of Rs. 13 by Indicom,National SMS (Local/STD SMS): 100 -- 1st SMS of the day @ 50p/SMS
-15618,26,,30 days,Recharge of Rs. 26 by Indicom,National SMS (Local/STD SMS): 100 -- 1st SMS of the day @ 50p/SMS
+id,cost,talktime,validity,comments
+15617,13,,15 days,National SMS (Local/STD SMS): 100 -- 1st SMS of the day @ 50p/SMS
+15618,26,,30 days,National SMS (Local/STD SMS): 100 -- 1st SMS of the day @ 50p/SMS

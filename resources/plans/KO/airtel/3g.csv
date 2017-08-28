@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-2846,22,,3 days,Recharge of Rs. 22 by Airtel,125 MB 3G Data
-2847,28,,1 day,Recharge of Rs. 28 by Airtel,Unlimited data from 12:00 AM to 6 AM
-2848,29,,30 days,Recharge of Rs. 29 by Airtel,115 MB 3G Data
-2850,48,,7 days,Recharge of Rs. 48 by Airtel,275 MB 3G Data
-2853,75,,8 days,Recharge of Rs. 75 by Airtel,300 MB 3G Data -- Data Share / Cash back does not apply
-2854,95,,5 days,Recharge of Rs. 95 by Airtel,1 GB 3G Data -- Data Share / Cash back does not apply
-2855,97,,28 days,Recharge of Rs. 97 by Airtel,300 MB 3G Data -- Data Share / Cash back does not apply
-2856,99,,14 days,Recharge of Rs. 99 by Airtel,400 MB 3G Data -- Data Share / Cash back does not apply
-2857,126,,14 days,Recharge of Rs. 126 by Airtel,500 MB 3G Data -- Data Share / Cash back does not apply
-2861,251,,28 days,Recharge of Rs. 251 by Airtel,2 GB 3G Data
-2865,298,,28 days,Recharge of Rs. 298 by Airtel,"1.5 GB 3G data. Data Share / Cash back does not apply, 1.5 GB Happy Hours Night data (3AM to 5AM)"
-2870,497,,28 days,Recharge of Rs. 497 by Airtel,2GB 3G data -- Data Share / Cash back does not apply. 2GB Happy Hours Night data(3AM to 5AM)
+id,cost,talktime,validity,comments
+2846,22,,3 days,125 MB 3G Data
+2847,28,,1 day,Unlimited data from 12:00 AM to 6 AM
+2848,29,,30 days,115 MB 3G Data
+2850,48,,7 days,275 MB 3G Data
+2853,75,,8 days,300 MB 3G Data -- Data Share / Cash back does not apply
+2854,95,,5 days,1 GB 3G Data -- Data Share / Cash back does not apply
+2855,97,,28 days,300 MB 3G Data -- Data Share / Cash back does not apply
+2856,99,,14 days,400 MB 3G Data -- Data Share / Cash back does not apply
+2857,126,,14 days,500 MB 3G Data -- Data Share / Cash back does not apply
+2861,251,,28 days,2 GB 3G Data
+2865,298,,28 days,"1.5 GB 3G data. Data Share / Cash back does not apply, 1.5 GB Happy Hours Night data (3AM to 5AM)"
+2870,497,,28 days,2GB 3G data -- Data Share / Cash back does not apply. 2GB Happy Hours Night data(3AM to 5AM)

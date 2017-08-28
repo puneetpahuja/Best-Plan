@@ -1,6 +1,6 @@
-id,cost,talktime,validity,short description,long description
-12950,80,80,N.A,Recharge of Rs. 80 by RelianceGSM,Talktime of Rs. 80 for Rs. 80 recharge by Reliance GSM
-12952,110,110,N.A,Recharge of Rs. 110 by RelianceGSM,Talktime of Rs. 110 for Rs. 110 recharge by Reliance GSM
-12953,200,200,N.A,Recharge of Rs. 200 by RelianceGSM,Talktime of Rs. 200 for Rs. 200 recharge by Reliance GSM
-12954,300,300,N.A,Recharge of Rs. 300 by RelianceGSM,Talktime of Rs. 300 for Rs. 300 recharge by Reliance GSM
-12955,500,500,N.A,Recharge of Rs. 500 by RelianceGSM,Talktime of Rs. 500 for Rs. 500 recharge by Reliance GSM
+id,cost,talktime,validity,comments
+12950,80,80,N.A,Talktime of Rs. 80 for Rs. 80 recharge by Reliance GSM
+12952,110,110,N.A,Talktime of Rs. 110 for Rs. 110 recharge by Reliance GSM
+12953,200,200,N.A,Talktime of Rs. 200 for Rs. 200 recharge by Reliance GSM
+12954,300,300,N.A,Talktime of Rs. 300 for Rs. 300 recharge by Reliance GSM
+12955,500,500,N.A,Talktime of Rs. 500 for Rs. 500 recharge by Reliance GSM

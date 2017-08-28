@@ -1,7 +1,7 @@
-id,cost,talktime,validity,short description,long description
-52,14,,3 days,Recharge of Rs. 14 by Aircel,150 MB 2G Data
-56,27,,7 days,Recharge of Rs. 27 by Aircel,300 MB 2G Data
-60,54,,28 days,Recharge of Rs. 54 by Aircel,1 GB 2G Data
-64,91,,28 days,Recharge of Rs. 91 by Aircel,2 GB 2G Data
-65,97,,28 days,Recharge of Rs. 97 by Aircel,2 GB 2G Data
-69,128,,28 days,Recharge of Rs. 128 by Aircel,Unlimited 2G Data
+id,cost,talktime,validity,comments
+52,14,,3 days,150 MB 2G Data
+56,27,,7 days,300 MB 2G Data
+60,54,,28 days,1 GB 2G Data
+64,91,,28 days,2 GB 2G Data
+65,97,,28 days,2 GB 2G Data
+69,128,,28 days,Unlimited 2G Data

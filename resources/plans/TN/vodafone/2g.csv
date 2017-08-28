@@ -1,16 +1,16 @@
-id,cost,talktime,validity,short description,long description
-18436,5,,1 hour,Recharge of Rs. 5 by Vodafone,Unlimited 2G data for 1 hour
-18437,8,,1 day,Recharge of Rs. 8 by Vodafone,"45 MB 2G data, Post free usage 4p/10KB"
-18438,17,,2 days,Recharge of Rs. 17 by Vodafone,"95 MB 2G data, Post free usage 4p/10KB"
-18439,25,,4 days,Recharge of Rs. 25 by Vodafone,"140 MB 2G data, Post free usage 4p/10KB "
-18440,33,,28 days,Recharge of Rs. 33 by Vodafone,"110 MB 2G data, Post free usage 4p/10KB"
-18441,49,,7 days,Recharge of Rs. 49 by Vodafone,"275 MB 2G data, Post free usage 4p/10KB"
-18442,63,,7 days,Recharge of Rs. 63 by Vodafone,"350 MB 2G data, Post free usage 4p/10KB"
-18443,98,,14 days,Recharge of Rs. 98 by Vodafone,"550 MB 2G data, Post free usage 4p/10KB"
-18444,124,,14 days,Recharge of Rs. 124 by Vodafone,"700 MB 2G data, Post free usage 4p/10KB"
-18445,148,,21 days,Recharge of Rs. 148 by Vodafone,"800 MB 2G data, Post free usage 4p/10KB"
-18446,196,,28 days,Recharge of Rs. 196 by Vodafone,Get assured benefit of 1.25GB and upto 3GB 2G Internet with hero recharge.
-18447,199,,25 days,Recharge of Rs. 199 by Vodafone,1.5 GB 2G Data. Post free usage speed throttled to 40 kbps
-18448,209,,28 days,Recharge of Rs. 209 by Vodafone,1.5 GB 2G Data. Post free usage speed throttled to 40 kbps
-18449,225,,28 days,Recharge of Rs. 225 by Vodafone,2GB 2G Data. Post free usage speed throttled to 40 kbps
-18450,248,,28 days,Recharge of Rs. 248 by Vodafone,2.5 GB 2G Data. Post free usage speed throttled to 40 kbps
+id,cost,talktime,validity,comments
+18436,5,,1 hour,Unlimited 2G data for 1 hour
+18437,8,,1 day,"45 MB 2G data, Post free usage 4p/10KB"
+18438,17,,2 days,"95 MB 2G data, Post free usage 4p/10KB"
+18439,25,,4 days,"140 MB 2G data, Post free usage 4p/10KB "
+18440,33,,28 days,"110 MB 2G data, Post free usage 4p/10KB"
+18441,49,,7 days,"275 MB 2G data, Post free usage 4p/10KB"
+18442,63,,7 days,"350 MB 2G data, Post free usage 4p/10KB"
+18443,98,,14 days,"550 MB 2G data, Post free usage 4p/10KB"
+18444,124,,14 days,"700 MB 2G data, Post free usage 4p/10KB"
+18445,148,,21 days,"800 MB 2G data, Post free usage 4p/10KB"
+18446,196,,28 days,Get assured benefit of 1.25GB and upto 3GB 2G Internet with hero recharge.
+18447,199,,25 days,1.5 GB 2G Data. Post free usage speed throttled to 40 kbps
+18448,209,,28 days,1.5 GB 2G Data. Post free usage speed throttled to 40 kbps
+18449,225,,28 days,2GB 2G Data. Post free usage speed throttled to 40 kbps
+18450,248,,28 days,2.5 GB 2G Data. Post free usage speed throttled to 40 kbps

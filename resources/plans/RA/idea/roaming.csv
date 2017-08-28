@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-11733,6,,1 day,Recharge of Rs. 6 by Idea,Roaming outgoing Local and STD 60ps/min -- 
-11734,16,,3 days,Recharge of Rs. 16 by Idea,Roaming outgoing Local and STD 60ps/min -- 
-11735,37,,28 days,Recharge of Rs. 37 by Idea,Roaming outgoing Local and STD 50ps/min -- 
-11736,71,,90 days,Recharge of Rs. 71 by Idea,Roaming outgoing Local and STD 50ps/min -- 
+id,cost,talktime,validity,comments
+11733,6,,1 day,Roaming outgoing Local and STD 60ps/min -- 
+11734,16,,3 days,Roaming outgoing Local and STD 60ps/min -- 
+11735,37,,28 days,Roaming outgoing Local and STD 50ps/min -- 
+11736,71,,90 days,Roaming outgoing Local and STD 50ps/min -- 

@@ -1,5 +1,5 @@
-id,cost,talktime,validity,short description,long description
-16463,6,,4 days,Recharge of Rs. 6 by Vodafone,55 Free Local/STD SMS to any Network
-16464,18,,14 days,Recharge of Rs. 18 by Vodafone,200 Free Local/STD SMS to any Network
-16465,26,,30 days,Recharge of Rs. 26 by Vodafone,275 Free Local/STD SMS to any Network
-16466,58,,75 days,Recharge of Rs. 58 by Vodafone,560 Free Local/STD SMS to any Network
+id,cost,talktime,validity,comments
+16463,6,,4 days,55 Free Local/STD SMS to any Network
+16464,18,,14 days,200 Free Local/STD SMS to any Network
+16465,26,,30 days,275 Free Local/STD SMS to any Network
+16466,58,,75 days,560 Free Local/STD SMS to any Network

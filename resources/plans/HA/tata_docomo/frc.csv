@@ -1,11 +1,11 @@
-id,cost,talktime,validity,short description,long description
-7989,63,50,180 days,Recharge of Rs. 63 by Docomo,Local & STD mobile calls @ 1p/Sec -- 1.5 GB 3G Data (250MB*6 months) -- Applicable only for new subscribers as FRC/SRC
-7990,73,,180 days,Recharge of Rs. 73 by Docomo,All Local & STD Mobile Calls @ 1p/sec -- 250 MB 3G Data (30 days) -- Applicable only for new subscribers as FRC/SRC
-7991,78,60,180 days,Recharge of Rs. 78 by Docomo,Local & STD mobile calls @ 1p/Sec -- 1.5 GB 3G Data (250MB*6 months) -- Applicable only for new subscribers as FRC/SRC
-7992,88,,180 days,Recharge of Rs. 88 by Docomo,All Local & STD Mobile Calls @ 1p/sec -- 250 MB 3G Data (30 days) -- Applicable only for new subscribers as FRC/SRC
-7993,97,40,60 days,Recharge of Rs. 97 by Docomo,Local On-Net mobile calls @ 10p/ min. -- Local Off-Net mobile calls @ 30p/ min. -- STD On-Net mobile calls @ 1.5p/ sec. -- STD Off-Net mobile calls @ 1.5p/ sec. -- 500 MB 3G Data (250 MB/ month* 2 months) -- Other Benefits: Accidental Insurance cover of Rs300000 valid for 12 months -- Applicable only for new subscribers as FRC/SRC
-7994,128,100,180 days,Recharge of Rs. 128 by Docomo,Local & STD mobile calls @ 30p/min -- 3 GB 3G Data (500 MB*6 months) -- Applicable only for new subscribers as FRC/SRC
-7995,249,40,90 days,Recharge of Rs. 249 by Docomo,All Local & STD mobile calls @ 1p/sec -- 1GB 3G Data per day (for 28 days) -- Applicable only for new subscribers as FRC/SRC
-7996,251,251,30 days,Recharge of Rs. 251 by Docomo,Local Off-Net mobile calls @ 1.5p/ sec. -- STD On-Net mobile calls @ 1.5p/ sec. -- STD Off-Net mobile calls @ 1.5p/ sec. -- 1 GB 3G Data -- Applicable only for new subscribers as FRC/SRC
-7997,269,40,180 days,Recharge of Rs. 269 by Docomo,Unlimited Onnet Local and STD calls for 28 days (post 28 days 1p/sec for next 152 days) and Others @1p/sec for 180 days and 1 GB 3G data per day for 28 days -- Applicable only for new subscribers as FRC/SRC
-7998,298,,90 days,Recharge of Rs. 298 by Docomo,"Unlimited Local+STD Onnet and 1500 mins for Local + STD Offnet (post 1500 offnet mins, Local + STD Offnet @ 30p/min) -- 1 GB 3G data/day (28 days). Post 28 days all Local+STD @ 30p/min for next 62 days -- Applicable only for new subscribers as FRC/SRC"
+id,cost,talktime,validity,comments
+7989,63,50,180 days,Local & STD mobile calls @ 1p/Sec -- 1.5 GB 3G Data (250MB*6 months) -- Applicable only for new subscribers as FRC/SRC
+7990,73,,180 days,All Local & STD Mobile Calls @ 1p/sec -- 250 MB 3G Data (30 days) -- Applicable only for new subscribers as FRC/SRC
+7991,78,60,180 days,Local & STD mobile calls @ 1p/Sec -- 1.5 GB 3G Data (250MB*6 months) -- Applicable only for new subscribers as FRC/SRC
+7992,88,,180 days,All Local & STD Mobile Calls @ 1p/sec -- 250 MB 3G Data (30 days) -- Applicable only for new subscribers as FRC/SRC
+7993,97,40,60 days,Local On-Net mobile calls @ 10p/ min. -- Local Off-Net mobile calls @ 30p/ min. -- STD On-Net mobile calls @ 1.5p/ sec. -- STD Off-Net mobile calls @ 1.5p/ sec. -- 500 MB 3G Data (250 MB/ month* 2 months) -- Other Benefits: Accidental Insurance cover of Rs300000 valid for 12 months -- Applicable only for new subscribers as FRC/SRC
+7994,128,100,180 days,Local & STD mobile calls @ 30p/min -- 3 GB 3G Data (500 MB*6 months) -- Applicable only for new subscribers as FRC/SRC
+7995,249,40,90 days,All Local & STD mobile calls @ 1p/sec -- 1GB 3G Data per day (for 28 days) -- Applicable only for new subscribers as FRC/SRC
+7996,251,251,30 days,Local Off-Net mobile calls @ 1.5p/ sec. -- STD On-Net mobile calls @ 1.5p/ sec. -- STD Off-Net mobile calls @ 1.5p/ sec. -- 1 GB 3G Data -- Applicable only for new subscribers as FRC/SRC
+7997,269,40,180 days,Unlimited Onnet Local and STD calls for 28 days (post 28 days 1p/sec for next 152 days) and Others @1p/sec for 180 days and 1 GB 3G data per day for 28 days -- Applicable only for new subscribers as FRC/SRC
+7998,298,,90 days,"Unlimited Local+STD Onnet and 1500 mins for Local + STD Offnet (post 1500 offnet mins, Local + STD Offnet @ 30p/min) -- 1 GB 3G data/day (28 days). Post 28 days all Local+STD @ 30p/min for next 62 days -- Applicable only for new subscribers as FRC/SRC"

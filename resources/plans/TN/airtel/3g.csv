@@ -1,39 +1,39 @@
-id,cost,talktime,validity,short description,long description
-3991,8,,1 day,Recharge of Rs. 8 by Airtel,45 MB 4G/3G/2G Data
-3992,17,,2 days,Recharge of Rs. 17 by Airtel,95 MB 4G/3G/2G Data
-3994,28,,3 days,Recharge of Rs. 28 by Airtel,160 MB 4G/3G/2G Data
-3995,29,,30 days,Recharge of Rs. 29 by Airtel,115 MB 4G/3G/2G Data
-3997,45,,4 days,Recharge of Rs. 45 by Airtel,250 MB 4G/3G/2G Data
-3998,53,,7 days,Recharge of Rs. 53 by Airtel,160 MB 4G/3G/2G Data
-3999,63,,N.A,Recharge of Rs. 63 by Airtel,"100MB (2G/3G/4G), Base Tariff-Local/STD mobile calls at 2p/s and landline at 2.5p/sec -- This recharge cannot be used to carry forward existing 3G Balance"
-4000,68,,7 days,Recharge of Rs. 68 by Airtel,390 MB 4G/3G/2G Data
-4001,95,,5 days,Recharge of Rs. 95 by Airtel,1 GB 2G/3G/4G (This recharge cannot be used to carry forward existing 3G balance) -- Data Sharing is not applicable
-4003,101,,10 days,Recharge of Rs. 101 by Airtel,560 MB 4G/3G/2G Data
-4004,147,,27 days,Recharge of Rs. 147 by Airtel,580MB 4G/3G/2G (This recharge cannot be used to carry forward existing Data balance)*
-4006,164,,14 days,Recharge of Rs. 164 by Airtel,900 MB 4G/3G/2G Data
-4007,168,,27 days,Recharge of Rs. 168 by Airtel,650 MB (4G/3G/2G) Data  + Extra 355 MB Only for 4G H/S + 4G SIM Customers
-4008,178,,27 days,Recharge of Rs. 178 by Airtel,1GB 4G/3G/2G
-4009,193,,27 days,Recharge of Rs. 193 by Airtel,1.05GB 4G/3G/2G
-4010,197,,27 days,Recharge of Rs. 197 by Airtel,1.10GB 4G/3G/2G
-4011,205,,27 days,Recharge of Rs. 205 by Airtel,1.15 GB 4G/3G/2G Data
-4012,225,,27 days,Recharge of Rs. 225 by Airtel,1.25 GB 4G/3G/2G Data
-4013,227,,27 days,Recharge of Rs. 227 by Airtel,1.30 GB 4G/3G/2G Data
-4014,243,,27 days,Recharge of Rs. 243 by Airtel,"1.40 GB 4G/3G/2G Data, 1.40B Happy Hours night data (3AM to 5AM)"
-4015,255,,25 days,Recharge of Rs. 255 by Airtel,1.50GB 4G/3G/2G
-4016,265,,27 days,Recharge of Rs. 265 by Airtel,1.50 GB (4G/3G/2G) Data  + Extra 2.50GB Only for 4G H/S + 4G SIM Customers
-4017,298,,27 days,Recharge of Rs. 298 by Airtel,1.70 GB 4G/3G/2G Data
-4018,359,,27 days,Recharge of Rs. 359 by Airtel,2.50 GB 4G/3G/2G Data
-4020,459,,27 days,Recharge of Rs. 459 by Airtel,3.50 GB 4G/3G/2G Data
-4021,498,,27 days,Recharge of Rs. 498 by Airtel,4.00 GB (4G/3G/2G) Data  + Extra 6.01GB Only for 4G H/S + 4G SIM Customers
-4023,601,,27 days,Recharge of Rs. 601 by Airtel,5 GB 4G/3G/2G Data. 5GB Happy Hours Night data(3AM to 5AM)
-4025,651,,27 days,Recharge of Rs. 651 by Airtel,6 GB 4G/3G/2G Data
-4026,751,,27 days,Recharge of Rs. 751 by Airtel,7 GB 4G/3G/2G Data
-4027,855,,27 days,Recharge of Rs. 855 by Airtel,8 GB 4G/3G/2G Data
-4029,992,,365 days,Recharge of Rs. 992 by Airtel,10 GB 4G/3G/2G Data
-4030,996,,27 days,Recharge of Rs. 996 by Airtel,10.00 GB (4G/3G/2G) Data  + Extra 12.00GB Only for 4G H/S + 4G SIM Customers
-4031,1155,,27 days,Recharge of Rs. 1155 by Airtel,11 GB 4G/3G/2G Data
-4033,1355,,27 days,Recharge of Rs. 1355 by Airtel,13 GB 4G/3G/2G Data
-4034,1555,,27 days,Recharge of Rs. 1555 by Airtel,15 GB 4G/3G/2G Data
-4039,695,,84 days,Recharge of Rs. 695 by Airtel,Unlimited Local+STD Airtel calls (T&C apply) -- 500 MB 4G/3G/2G Data
-4040,795,,84 days,Recharge of Rs. 795 by Airtel,Unlimited Local -- STD Airtel calls (T&C apply) -- 1 GB 4G/3G/2G Data
-4047,295,,27 days,Recharge of Rs. 295 by Airtel,1 GB 3G day & night + 1 GB night ( 12AM - 6AM)
+id,cost,talktime,validity,comments
+3991,8,,1 day,45 MB 4G/3G/2G Data
+3992,17,,2 days,95 MB 4G/3G/2G Data
+3994,28,,3 days,160 MB 4G/3G/2G Data
+3995,29,,30 days,115 MB 4G/3G/2G Data
+3997,45,,4 days,250 MB 4G/3G/2G Data
+3998,53,,7 days,160 MB 4G/3G/2G Data
+3999,63,,N.A,"100MB (2G/3G/4G), Base Tariff-Local/STD mobile calls at 2p/s and landline at 2.5p/sec -- This recharge cannot be used to carry forward existing 3G Balance"
+4000,68,,7 days,390 MB 4G/3G/2G Data
+4001,95,,5 days,1 GB 2G/3G/4G (This recharge cannot be used to carry forward existing 3G balance) -- Data Sharing is not applicable
+4003,101,,10 days,560 MB 4G/3G/2G Data
+4004,147,,27 days,580MB 4G/3G/2G (This recharge cannot be used to carry forward existing Data balance)*
+4006,164,,14 days,900 MB 4G/3G/2G Data
+4007,168,,27 days,650 MB (4G/3G/2G) Data  + Extra 355 MB Only for 4G H/S + 4G SIM Customers
+4008,178,,27 days,1GB 4G/3G/2G
+4009,193,,27 days,1.05GB 4G/3G/2G
+4010,197,,27 days,1.10GB 4G/3G/2G
+4011,205,,27 days,1.15 GB 4G/3G/2G Data
+4012,225,,27 days,1.25 GB 4G/3G/2G Data
+4013,227,,27 days,1.30 GB 4G/3G/2G Data
+4014,243,,27 days,"1.40 GB 4G/3G/2G Data, 1.40B Happy Hours night data (3AM to 5AM)"
+4015,255,,25 days,1.50GB 4G/3G/2G
+4016,265,,27 days,1.50 GB (4G/3G/2G) Data  + Extra 2.50GB Only for 4G H/S + 4G SIM Customers
+4017,298,,27 days,1.70 GB 4G/3G/2G Data
+4018,359,,27 days,2.50 GB 4G/3G/2G Data
+4020,459,,27 days,3.50 GB 4G/3G/2G Data
+4021,498,,27 days,4.00 GB (4G/3G/2G) Data  + Extra 6.01GB Only for 4G H/S + 4G SIM Customers
+4023,601,,27 days,5 GB 4G/3G/2G Data. 5GB Happy Hours Night data(3AM to 5AM)
+4025,651,,27 days,6 GB 4G/3G/2G Data
+4026,751,,27 days,7 GB 4G/3G/2G Data
+4027,855,,27 days,8 GB 4G/3G/2G Data
+4029,992,,365 days,10 GB 4G/3G/2G Data
+4030,996,,27 days,10.00 GB (4G/3G/2G) Data  + Extra 12.00GB Only for 4G H/S + 4G SIM Customers
+4031,1155,,27 days,11 GB 4G/3G/2G Data
+4033,1355,,27 days,13 GB 4G/3G/2G Data
+4034,1555,,27 days,15 GB 4G/3G/2G Data
+4039,695,,84 days,Unlimited Local+STD Airtel calls (T&C apply) -- 500 MB 4G/3G/2G Data
+4040,795,,84 days,Unlimited Local -- STD Airtel calls (T&C apply) -- 1 GB 4G/3G/2G Data
+4047,295,,27 days,1 GB 3G day & night + 1 GB night ( 12AM - 6AM)

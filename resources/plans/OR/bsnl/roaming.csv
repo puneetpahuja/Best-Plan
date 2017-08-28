@@ -1,3 +1,3 @@
-id,cost,talktime,validity,short description,long description
-6592,51,,10 days,Recharge of Rs. 51 by BSNL,All OG calls while Roaming at 30p per MIN
-6593,101,,30 days,Recharge of Rs. 101 by BSNL,All OG calls while Roaming at 30p per MIN
+id,cost,talktime,validity,comments
+6592,51,,10 days,All OG calls while Roaming at 30p per MIN
+6593,101,,30 days,All OG calls while Roaming at 30p per MIN

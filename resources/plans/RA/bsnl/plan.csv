@@ -1,8 +1,8 @@
-id,cost,talktime,validity,short description,long description
-6874,24,,30 days,Recharge of Rs. 24 by BSNL,STV for Life Time plan for Per Sec:Voice tariff Local On Net 1.2 P sec  Off net and STD On Net Off net 1.5 P secSTD On Net Off net 1.5 P sec
-6875,37,,180 days,Recharge of Rs. 37 by BSNL,Plan Migration: PerMin_37
-6876,96,,365 days,Recharge of Rs. 96 by BSNL,Plan Migration: Data_bundle_96
-6877,97,,90 days,Recharge of Rs. 97 by BSNL,Friends and Family plan
-6878,136,,730 days,Recharge of Rs. 136 by BSNL,Freedom_136_migration
-6879,199,,180 days,Recharge of Rs. 199 by BSNL,Plan: Roam_Free_199
-6880,666,,180 days,Recharge of Rs. 666 by BSNL,BSNL_SIXER_666_validity-extension
+id,cost,talktime,validity,comments
+6874,24,,30 days,STV for Life Time plan for Per Sec:Voice tariff Local On Net 1.2 P sec  Off net and STD On Net Off net 1.5 P secSTD On Net Off net 1.5 P sec
+6875,37,,180 days,Plan Migration: PerMin_37
+6876,96,,365 days,Plan Migration: Data_bundle_96
+6877,97,,90 days,Friends and Family plan
+6878,136,,730 days,Freedom_136_migration
+6879,199,,180 days,Plan: Roam_Free_199
+6880,666,,180 days,BSNL_SIXER_666_validity-extension

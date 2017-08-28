@@ -1,9 +1,9 @@
-id,cost,talktime,validity,short description,long description
-10537,110,110,N.A,Recharge of Rs. 110 by Idea,Talktime of Rs. 110 for Rs. 110 recharge by Idea
-10538,220,220,N.A,Recharge of Rs. 220 by Idea,Talktime of Rs. 220 for Rs. 220 recharge by Idea
-10540,330,330,N.A,Recharge of Rs. 330 by Idea,Talktime of Rs. 330 for Rs. 330 recharge by Idea
-10541,550,550,N.A,Recharge of Rs. 550 by Idea,Talktime of Rs. 550 for Rs. 550 recharge by Idea
-10542,1100,1100,N.A,Recharge of Rs. 1100 by Idea,Talktime of Rs. 1100 for Rs. 1100 recharge by Idea
-10543,1500,1500,N.A,Recharge of Rs. 1500 by Idea,Talktime of Rs. 1500 for Rs. 1500 recharge by Idea
-10544,2000,2000,N.A,Recharge of Rs. 2000 by Idea,Talktime of Rs. 2000 for Rs. 2000 recharge by Idea
-10545,2200,2200,N.A,Recharge of Rs. 2200 by Idea,Talktime of Rs. 2200 for Rs. 2200 recharge by Idea
+id,cost,talktime,validity,comments
+10537,110,110,N.A,Talktime of Rs. 110 for Rs. 110 recharge by Idea
+10538,220,220,N.A,Talktime of Rs. 220 for Rs. 220 recharge by Idea
+10540,330,330,N.A,Talktime of Rs. 330 for Rs. 330 recharge by Idea
+10541,550,550,N.A,Talktime of Rs. 550 for Rs. 550 recharge by Idea
+10542,1100,1100,N.A,Talktime of Rs. 1100 for Rs. 1100 recharge by Idea
+10543,1500,1500,N.A,Talktime of Rs. 1500 for Rs. 1500 recharge by Idea
+10544,2000,2000,N.A,Talktime of Rs. 2000 for Rs. 2000 recharge by Idea
+10545,2200,2200,N.A,Talktime of Rs. 2200 for Rs. 2200 recharge by Idea

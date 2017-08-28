@@ -1,13 +1,13 @@
-id,cost,talktime,validity,short description,long description
-10023,5,,1 Hour,Recharge of Rs. 5 by Idea,Unlimited 2G Data -- Overage: 4P/10KB -- 
-10024,5,,1 day,Recharge of Rs. 5 by Idea,20 MB -- Overage: 4P/10KB  -- 
-10026,7,,1 day,Recharge of Rs. 7 by Idea,30 MB Data -- Overage: 4P/10KB  -- 
-10027,13,,2 days,Recharge of Rs. 13 by Idea,75 MB Data -- Overage: 4P/10KB -- 
-10028,19,,2 days,Recharge of Rs. 19 by Idea,100 MB 2G Data -- Overage: 4P/10KB -- 
-10030,32,,28 days,Recharge of Rs. 32 by Idea,Freedom Pack- 150 MB 2G Data -- Overage: 4P/10KB -- 
-10031,76,,10 days,Recharge of Rs. 76 by Idea,430 MB Data -- Overage: 4P/10KB  -- 
-10032,125,,15 days,Recharge of Rs. 125 by Idea,700 MB Data -- Overage: 4P/10KB -- 
-10033,172,,21 days,Recharge of Rs. 172 by Idea,970 MB Data -- Overage: 4P/10KB -- 
-10034,205,,28 days,Recharge of Rs. 205 by Idea,Unlimited 2G: 1.25 GB FUP Data -- Speed after FUP limit and 40 KBPS -- 
-10036,255,,28 days,Recharge of Rs. 255 by Idea,Unlimited 2G: 2 GB FUP Data + Free Missed Call Alert for 30 days -- Free missed call alert service for 30 days. Offer valid only for Haryana circle. To be auto-deactivated post 30 days. Benefit could be availed only once in 3 months. Active MCI subscriber will be not be eligible for free service -- Speed after FUP limit and 40 KBPS -- 
-10038,399,,28 days,Recharge of Rs. 399 by Idea,Unlimited 2G: 4 GB FUP Data -- Speed after FUP limit and 40 KBPS -- 
+id,cost,talktime,validity,comments
+10023,5,,1 Hour,Unlimited 2G Data -- Overage: 4P/10KB -- 
+10024,5,,1 day,20 MB -- Overage: 4P/10KB  -- 
+10026,7,,1 day,30 MB Data -- Overage: 4P/10KB  -- 
+10027,13,,2 days,75 MB Data -- Overage: 4P/10KB -- 
+10028,19,,2 days,100 MB 2G Data -- Overage: 4P/10KB -- 
+10030,32,,28 days,Freedom Pack- 150 MB 2G Data -- Overage: 4P/10KB -- 
+10031,76,,10 days,430 MB Data -- Overage: 4P/10KB  -- 
+10032,125,,15 days,700 MB Data -- Overage: 4P/10KB -- 
+10033,172,,21 days,970 MB Data -- Overage: 4P/10KB -- 
+10034,205,,28 days,Unlimited 2G: 1.25 GB FUP Data -- Speed after FUP limit and 40 KBPS -- 
+10036,255,,28 days,Unlimited 2G: 2 GB FUP Data + Free Missed Call Alert for 30 days -- Free missed call alert service for 30 days. Offer valid only for Haryana circle. To be auto-deactivated post 30 days. Benefit could be availed only once in 3 months. Active MCI subscriber will be not be eligible for free service -- Speed after FUP limit and 40 KBPS -- 
+10038,399,,28 days,Unlimited 2G: 4 GB FUP Data -- Speed after FUP limit and 40 KBPS -- 

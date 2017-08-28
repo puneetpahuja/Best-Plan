@@ -1,15 +1,15 @@
-id,cost,talktime,validity,short description,long description
-18958,8,,1 day,Recharge of Rs. 8 by Vodafone,"30 MB 3G data -- Threshold balance should be Positive, Download charges as per content"
-18959,45,,7 days,Recharge of Rs. 45 by Vodafone,"180 MB Data @3G speed. Post 180 MB you will be charged 4p/10kb Threshold balance should be Positive,Download charges as per content"
-18960,101,,14 days,Recharge of Rs. 101 by Vodafone,400 MB 3G Data
-18961,245,,21 days,Recharge of Rs. 245 by Vodafone,1GB 3G Internet Post 1 GB you will be charged 4p/10Kb
-18962,250,,28 days,Recharge of Rs. 250 by Vodafone,"1GB 3G Data -- Threshold balance should be Positive, Download charges as per content"
-18963,297,,28 days,Recharge of Rs. 297 by Vodafone,1 GB Day Data + 1 GB Night 3G Data -- Post 2GB you will be charged 4p/10kb 
-18964,348,,28 days,Recharge of Rs. 348 by Vodafone,"2 GB 3G Internet Threshold balance should be Positive,Download charges as per content"
-18965,449,,28 days,Recharge of Rs. 449 by Vodafone,"3 GB 3G Internet -- Threshold balance should be Positive, Download charges as per content"
-18966,649,,28 days,Recharge of Rs. 649 by Vodafone,"5 GB 3G Internet Threshold balance should be Positive,Download charges as per content"
-18967,651,,30 days,Recharge of Rs. 651 by Vodafone,"3GB @3G speed. Post 3GB your speed will be reduced up to 64 kbps. Threshold balance should be Positive,Download charges as per content"
-18968,851,,28 days,Recharge of Rs. 851 by Vodafone,"7 GB 3G Internet Threshold balance should be Positive,Download charges as per content"
-18969,951,,28 days,Recharge of Rs. 951 by Vodafone,"8 GB 3G Internet Threshold balance should be Positive,Download charges as per content"
-18970,998,,28 days,Recharge of Rs. 998 by Vodafone,"9 GB 3G Internet Threshold balance should be Positive,Download charges as per content"
-18971,1499,,28 days,Recharge of Rs. 1499 by Vodafone,"10GB @3G speed. Post 10GB your speed will be reduced up to 64 kbps. Threshold balance should be Positive,Download charges as per content"
+id,cost,talktime,validity,comments
+18958,8,,1 day,"30 MB 3G data -- Threshold balance should be Positive, Download charges as per content"
+18959,45,,7 days,"180 MB Data @3G speed. Post 180 MB you will be charged 4p/10kb Threshold balance should be Positive,Download charges as per content"
+18960,101,,14 days,400 MB 3G Data
+18961,245,,21 days,1GB 3G Internet Post 1 GB you will be charged 4p/10Kb
+18962,250,,28 days,"1GB 3G Data -- Threshold balance should be Positive, Download charges as per content"
+18963,297,,28 days,1 GB Day Data + 1 GB Night 3G Data -- Post 2GB you will be charged 4p/10kb 
+18964,348,,28 days,"2 GB 3G Internet Threshold balance should be Positive,Download charges as per content"
+18965,449,,28 days,"3 GB 3G Internet -- Threshold balance should be Positive, Download charges as per content"
+18966,649,,28 days,"5 GB 3G Internet Threshold balance should be Positive,Download charges as per content"
+18967,651,,30 days,"3GB @3G speed. Post 3GB your speed will be reduced up to 64 kbps. Threshold balance should be Positive,Download charges as per content"
+18968,851,,28 days,"7 GB 3G Internet Threshold balance should be Positive,Download charges as per content"
+18969,951,,28 days,"8 GB 3G Internet Threshold balance should be Positive,Download charges as per content"
+18970,998,,28 days,"9 GB 3G Internet Threshold balance should be Positive,Download charges as per content"
+18971,1499,,28 days,"10GB @3G speed. Post 10GB your speed will be reduced up to 64 kbps. Threshold balance should be Positive,Download charges as per content"
