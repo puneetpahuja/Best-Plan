@@ -1,10 +1,11 @@
 (ns best-plan.save-jsons-datayuge
-  (:require [best-plan.save-jsons-dataweave :as json]
+  (:require [best-plan.env :as env]
+            [best-plan.save-jsons-dataweave :as json]
             [best-plan.api-datayuge :as api]
             [clojure.math.combinatorics :as comb]))
 
-(def dir "resources/raw_jsons_dy/")
-(def all-tuples (comb/cartesian-product api/all-operators api/all-states api/all-recharge-types))
+
+(def all-tuples (comb/cartesian-product env/operators env/circles env/recharge-types))
 
 (defn save-jsons
   ([api-key operator circle recharge-type] (save-jsons api-key operator circle recharge-type 1))
@@ -13,7 +14,7 @@
          json (slurp api)
          data (:data (json/read-json json))]
      (if data
-       (do (spit (str dir operator "_" circle
+       (do (spit (str env/json-dir operator "_" circle
                       (when recharge-type
                         (str "_" recharge-type))
                       "_" page ".json")

@@ -1,51 +1,38 @@
 (ns best-plan.recharge
-  (:require [best-plan.utils :as u]
-            [clojure.string :as s]))
+  (:require [best-plan.env :as env]
+            [best-plan.utils :as u]
+            [clojure.string :as s]
+            [best-plan.env :as env]))
 
 ;; call rates are in rupees per minute
 ;; usage is in minutes
 ;; validity is in days
-
-(def days-in-month 30)
-
 (defn monthly [thing validity]
-  (when validity (* thing (/ days-in-month validity))))
+  (when validity (* thing (/ env/days-in-month validity))))
 
 ;; nil means unlimited validity
-(defrecord BaseRecharge [cost validity monthly-cost details comments])
+(defrecord BaseRecharge [cost monthly-cost validity details comments])
 (defrecord TalktimeRecharge [talktime monthly-talktime])
 (defrecord CostCutterRecharge [local-rate std-rate])
 (defrecord MinutesRecharge [minutes monthly-minutes])
 (defrecord CostCutterTalktimeCombo [cost-cutter-recharge talktime-recharge cost
                                     details comments])
 
-(defn base-recharge [cost validity comments]
-  (let [monthly-cost (monthly cost validity)
-        details (str "Cost: Rs" cost " | Validity: "
-                     (if validity (str validity "days") "Unlimited"))]
-    (->BaseRecharge cost validity monthly-cost details comments)))
+(defn base-recharge [cost monthly-cost validity details comments]
+  (->BaseRecharge cost monthly-cost validity details comments))
 
-(defn talktime-recharge [cost talktime validity comments]
-  (let [monthly-talktime (monthly talktime validity)
-        base-recharge (base-recharge cost validity comments)]
-    (-> (->TalktimeRecharge talktime monthly-talktime)
-        (merge base-recharge
-               {:details (str (:details base-recharge)
-                              " | Talktime: " talktime)}))))
+(defn talktime-recharge [cost monthly-cost talktime monthly-talktime validity details comments]
+  (let [base-recharge (base-recharge cost monthly-cost validity details comments)
+        talktime-recharge (->TalktimeRecharge talktime monthly-talktime)]
+    (merge talktime-recharge base-recharge)))
 
-(defn cost-cutter-recharge [cost local-rate std-rate validity comments]
-  (let [base-recharge (base-recharge cost validity comments)]
-    (-> (->CostCutterRecharge local-rate std-rate)
-        (merge  base-recharge
-                {:details (str (:details base-recharge)
-                               (when local-rate (str " | Local Call Rate: "
-                                                     local-rate "Rs/min"))
-                               (when std-rate (str " | Std Call Rate: "
-                                                   std-rate "Rs/min")))}))))
+(defn cost-cutter-recharge [cost monthly-cost local-rate std-rate validity details comments]
+  (let [base-recharge (base-recharge cost monthly-cost validity details comments)
+        cost-cutter-recharge (->CostCutterRecharge local-rate std-rate)]
+    (merge cost-cutter-recharge base-recharge)))
 
 (defn minutes-recharge [cost minutes validity comments]
-  (let [monthly-minutes (monthly minutes validity)
-        base-recharge (base-recharge cost validity comments)]
+  (let [base-recharge (base-recharge cost validity comments)]
     (->  (->MinutesRecharge minutes monthly-minutes)
          (merge base-recharge
                 {:details (str (:details base-recharge)

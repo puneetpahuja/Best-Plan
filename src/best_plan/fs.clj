@@ -1,23 +1,28 @@
 (ns best-plan.fs
-  (:require [best-plan.recharge :as r]
+  (:require [best-plan.env :as env]
+            [best-plan.recharge :as r]
             [clojure.data.csv :as csv]
             [clojure.java.io :as io]
             [clojure.math.combinatorics :as comb]
             [clojure.string :as s]))
 
-(defn file-lines [{:keys [telecom-provider circle]} recharge-type]
-  (with-open [file (-> (s/join "/" ["plans" circle telecom-provider recharge-type])
-                       (str ".csv")
-                       io/resource
-                       io/reader)]
-    (doall (rest (csv/read-csv file)))))
+(defn read-csv [file]
+  (with-open [reader (io/reader file)]
+    (doall (rest (csv/read-csv reader)))))
 
-(defn process-csv [csv-row]
+(defn file-lines [{:keys [telecom-provider circle]} recharge-type]
+  (read-csv (str env/plans (s/join "/" [circle telecom-provider recharge-type])
+                 ".csv")))
+
+(defn process-csv-row [csv-row]
   (conj (vec (map read-string (butlast csv-row))) (last csv-row)))
+
+(defn get-csv-rows [file]
+  (map process-csv-row (read-csv file)))
 
 (defn get-recharges [user type init-fn]
   (->> (file-lines user type)
-       (map #(apply init-fn (process-csv %)))))
+       (map #(apply init-fn (process-csv-row %)))))
 
 (defn get-talktime-recharges [user]
   (get-recharges user "talktime" r/talktime-recharge))
