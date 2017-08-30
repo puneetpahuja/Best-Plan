@@ -7,9 +7,10 @@
   (:gen-class))
 
 (comment TODO
-         * combine cost-cutter-recharges for local and std slashes like one only
-         local and one only std
+         * convert top.csv and full.csv to talktime.csv
+         * convert minutes_edit.csv to minutes.csv
          * introduce local and std in minutes recharge
+         * add functionality to compare all telecom operators of a circle
          * introduce on-net off-net concept in cost-cutter and minutes
          * add ability to add the concept of first x mins at a costlier rate in
          cost cutter)
