@@ -14,8 +14,8 @@
                  [org.clojure/tools.trace "0.7.9"]
                  [ring "1.4.0"]
                  [selmer "1.0.2"]]
-  :resource-paths ["resources"]
-  :main ^:skip-aot best-plan.server
+  ;; :resource-paths ["resources"]
+  ;; :main ^:skip-aot best-plan.server
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all} :production {:env {:production true}}}
   :min-lein-version "2.0.0"
