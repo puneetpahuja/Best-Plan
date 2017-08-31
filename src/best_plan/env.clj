@@ -33,7 +33,13 @@
 (def days-in-month 30)
 
 (def input-cost-cutter-csv-format [:id :cost :local-rate :std-rate :validity :comments])
-(def output-cost-cutter-csv-format [:cost :monthly-cost :local-rate :std-rate :validity :details :comments])
+(def output-cost-cutter-csv-format [:cost :monthly-cost :local-rate :std-rate
+                                    :validity :details :comments])
 
 (def input-talktime-csv-format [:id :cost :talktime :validity :comments])
-(def output-talktime-csv-format [:cost :monthly-cost :talktime :monthly-talktime :validity :details :comments])
+(def output-talktime-csv-format [:cost :monthly-cost :talktime :monthly-talktime
+                                 :validity :details :comments])
+
+(def input-minutes-csv-format [:id :cost :minutes :validity :comments])
+(def output-minutes-csv-format [:cost :monthly-cost :minutes :monthly-minutes
+                                :validity :details :comments])

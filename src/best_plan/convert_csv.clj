@@ -90,14 +90,16 @@
         converted-output-rows (map stringify-nil raw-output-rows)]
     (write-csv output-csv-filepath converted-output-rows)))
 
-(defn process-talktime [[_ cost talktime validity comments]]
+(defn process-val [val-str [_ cost val validity comments]]
   (let [validity (if (string/starts-with? (string/lower-case validity) "n.a")
                    nil
                    validity)]
     [cost (recharge/monthly cost validity)
-     talktime (recharge/monthly talktime validity) validity
+     val (recharge/monthly val validity) validity
      (str (get-common-details cost validity)
-          (maybe " | Talktime: Rs" talktime)) comments]))
+          (maybe val-str val)) comments]))
+
+(def process-talktime (partial process-val " | Talktime: Rs"))
 
 (defn create-talktime-csv [top-csv-filepath full-csv-filepath output-csv-filepath]
   (let [input-csv-rows (concat (fs/get-csv-rows top-csv-filepath)
@@ -105,3 +107,14 @@
         output-csv-header-row (map name env/output-talktime-csv-format)
         output-csv-plan-rows (map process-talktime input-csv-rows)]
     (write-csv output-csv-filepath (map stringify-nil (concat [output-csv-header-row] output-csv-plan-rows)))))
+
+(def process-minutes (partial process-val " | Minutes: "))
+
+(defn create-minutes-csv [minutes-csv-path output-csv-filepath]
+  (let [input-csv-rows (fs/get-csv-rows minutes-csv-path)
+        output-csv-header-row (map name env/output-minutes-csv-format)
+        output-csv-plan-rows (map process-minutes input-csv-rows)]
+    (write-csv output-csv-filepath (map stringify-nil (concat [output-csv-header-row] output-csv-plan-rows)))))
+
+(defn apply-with-suffix [func suffix & args]
+  (apply func (map #(str suffix % ".csv") args)))

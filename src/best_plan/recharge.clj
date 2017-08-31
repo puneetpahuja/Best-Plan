@@ -31,12 +31,10 @@
         cost-cutter-recharge (->CostCutterRecharge local-rate std-rate)]
     (merge cost-cutter-recharge base-recharge)))
 
-(defn minutes-recharge [cost minutes validity comments]
-  (let [base-recharge (base-recharge cost validity comments)]
-    (->  (->MinutesRecharge minutes monthly-minutes)
-         (merge base-recharge
-                {:details (str (:details base-recharge)
-                               " | Minutes: " minutes)}))))
+(defn minutes-recharge [cost monthly-cost minutes monthly-minutes validity details comments]
+  (let [base-recharge (base-recharge cost monthly-cost validity details comments)
+        minutes-recharge (->MinutesRecharge minutes monthly-minutes)]
+    (merge minutes-recharge base-recharge)))
 
 (defn combine-property [property cost-cutter-recharge talktime-recharge]
   (let [val-c (property cost-cutter-recharge)

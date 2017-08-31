@@ -15,7 +15,7 @@
                  ".csv")))
 
 (defn process-csv-row [csv-row]
-  (conj (vec (map read-string (butlast csv-row))) (last csv-row)))
+  (concat (map read-string (drop-last 2 csv-row)) (take-last 2 csv-row)))
 
 (defn get-csv-rows [file]
   (map process-csv-row (read-csv file)))
