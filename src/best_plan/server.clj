@@ -3,6 +3,7 @@
             [best-plan.user :as user]
             [clojure.java.io :as io]
             [clojure.pprint :as pprint]
+            [environ.core :as environ]
             [hiccup.core :as hiccup]
             [ring.adapter.jetty :as jetty]
             [ring.middleware.params :as params]
@@ -66,5 +67,5 @@
       )))
 
 (defn -main [& [port]]
- (let [port (Integer. (or port (env :port) 3000))]
-  (jetty/run-jetty (params/wrap-params handler) {:port port :join? false})))
+  (let [port (Integer. (or port (environ/env :port) 3000))]
+    (jetty/run-jetty (params/wrap-params handler) {:port port :join? false})))
