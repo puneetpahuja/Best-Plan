@@ -42,7 +42,7 @@
                  [:style "table {border-collapse: collapse; border-spacing: 0px;}
                    table, th, td {padding: 5px; border: 1px solid black;}
                    td {text-align:right;}
-                   html {font-family: \"Segoe UI\", \"Roboto\", sans-serif;}"]]
+                   html {font-family: \"Roboto\", sans-serif;}"]]
                 [:body (vec (concat [:table {:border "1" :cellpadding "10"
                                              :border-collapse "collapse"}
                                      [:col {:width "47%"}]
@@ -65,5 +65,6 @@
       ;;(show-input-form)
       )))
 
-(defn -main []
-  (jetty/run-jetty (params/wrap-params handler) {:port 3000}))
+(defn -main [& [port]]
+ (let [port (Integer. (or port (env :port) 3000))]
+  (jetty/run-jetty (params/wrap-params handler) {:port port :join? false})))

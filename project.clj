@@ -17,4 +17,8 @@
   :resource-paths ["resources"]
   :main ^:skip-aot best-plan.server
   :target-path "target/%s"
-  :profiles {:uberjar {:aot :all}})
+  :profiles {:uberjar {:aot :all} :production {:env {:production true}}}
+  :min-lein-version "2.0.0"
+  :plugins [[environ/environ.lein "0.2.1"]]
+  :hooks [environ.leiningen.hooks]
+  :uberjar-name "best-plan-standalone.jar")
