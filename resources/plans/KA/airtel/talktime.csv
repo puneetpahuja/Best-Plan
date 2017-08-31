@@ -1,40 +1,25 @@
-cost,talktime,validity,comments
-9,9,1,Full Talk Time of  Rs.9 + 1 Local A2A SMS
-10,7.47,nil,Benefit: Talktime of 7.47 in main account.
-19,19,2,Full Talk Time of Rs.19 + 1 Local A2A SMS
-20,14.95,nil,Benefit: Talktime of 14.95 in main account.
-29,29,1,FULL TALKTIME OF RS.29 AND 5 LOCAL AIRTEL TO AIRTEL SMS VALID FOR 1 DAY
-30,22.42,nil,Benefit: Talktime of 22.42 in main account.
-36,27.51,nil,Talktime of Rs.27.51 + 5 Local A2A sms (Valid For 2 Days)
-40,30.9,nil,Talktime of Rs.30.9
-44,44,5,DA TALKTIME OF 44 AND 5 LOCAL A2A SMS WITH 5 DAYS VALIDITY. DIAL *121*2# TO CHECK BALANCE.
-45,35.14,nil,Benefit: RS 35.14 TALKTIME + 5 NIGHT A2A SMS FOR 2 DAYS
-49,49,5,BENEFIT: TALKTIME OF 49 AND 5 LOCAL A2A SMS WITH 5 DAYS VALIDITY. DIAL *121*2# TO CHECK BALANCE
-50,39.37,nil,Talktime of Rs.39.37
-55,43.61,nil,Benefit: TALKTIME OF RS.43.61 + 5 LOCAL AIRTEL TO AIRTEL SMS (VALID FOR 2 DAYS)
-59,59,7,TALKTIME OF RS.59 VALID FOR 7 DAYS + 10 NIGHT AIRTEL TO AIRTEL SMS FOR 2 DAYS
-60,47.85,nil,Benefit: Talktime of 47.85 in main account.
-70,56.32,nil,Talktime of Rs.56.32
-75,60.56,nil,Benefit: TALKTIME OF RS.60.56 + 5 LOCAL AIRTEL TO AIRTEL SMS (VALID FOR 2 DAYS)
-80,64.8,nil,Talktime of Rs.64.8
-99,99,11,BENEFIT:-RS99 FULL TALKTIME FOR 11 DAYS AND 10 LOCAL A2A SMS FOR 2 DAYS.
-100,81.75,nil,Talktime of Rs.81.75
-110,90.22,nil,Talktime of Rs.90.22
-120,98.69,nil,Talktime of Rs.98.69
-150,124.12,nil,Talktime of Rs.124.12.
-200,190,nil,Talktime of Rs.190
-249,208,nil,Benefit: Talktime of 208 in main account + Daily 5 Local Airtel to Airtel night SMS for 2 days. Dial *123# to check balance
-250,238,nil,Benefit: Talktime of 238 in main account. Dial *123# to check balance.
-300,290,nil,Talktime of Rs.290
-350,350,nil,Benefit: Talktime of 350 in main account. Dial *123# to check balance.
-412,366.68,30,Rs.366.68 Talktime in Main Account + All local and STD calls @ 1.2p/s for 30 days
-500,500,nil,Talktime of Rs.500
-700,700,nil,Talktime of Rs.700
-800,800,nil,Talktime of Rs.800
-1000,1000,nil,Talktime of Rs.1000
-1500,1500,nil,Benefit: Talktime of 1500 in main account. Dial *123# to check balance
-2000,2000,nil,Benefit: Talktime of 2000 in main account. Dial *123# to check balance
-2500,2600,nil,Talktime of Rs.2600
-3000,3000,nil,Benefit: Talktime of 3000 in main account. Dial *123# to check balance
-4000,4100,nil,Talktime of Rs.4100
-5000,5000,nil,Benefit: Talktime of 5000 in main account. Dial *123# to check balance
+cost,monthly-cost,talktime,monthly-talktime,validity,details,comments
+20,nil,14.95,nil,nil,Cost: Rs20 | Validity: Unlimited | Talktime: Rs14.95,Talktime of Rs. 14.95 for Rs. 20 recharge by Airtel
+30,nil,22.42,nil,nil,Cost: Rs30 | Validity: Unlimited | Talktime: Rs22.42,Talktime of Rs. 22.42 for Rs. 30 recharge by Airtel
+40,nil,30.9,nil,nil,Cost: Rs40 | Validity: Unlimited | Talktime: Rs30.9,Talktime of Rs. 30.9 for Rs. 40 recharge by Airtel
+50,nil,39.37,nil,nil,Cost: Rs50 | Validity: Unlimited | Talktime: Rs39.37,Talktime of Rs. 39.37 for Rs. 50 recharge by Airtel
+70,nil,56.32,nil,nil,Cost: Rs70 | Validity: Unlimited | Talktime: Rs56.32,Talktime of Rs. 56.32 for Rs. 70 recharge by Airtel
+80,nil,64.8,nil,nil,Cost: Rs80 | Validity: Unlimited | Talktime: Rs64.8,Talktime of Rs. 64.8 for Rs. 80 recharge by Airtel
+100,nil,81.75,nil,nil,Cost: Rs100 | Validity: Unlimited | Talktime: Rs81.75,Talktime of Rs. 81.75 for Rs. 100 recharge by Airtel
+110,nil,90.22,nil,nil,Cost: Rs110 | Validity: Unlimited | Talktime: Rs90.22,Talktime of Rs. 90.22 for Rs. 110 recharge by Airtel
+120,nil,98.69,nil,nil,Cost: Rs120 | Validity: Unlimited | Talktime: Rs98.69,Talktime of Rs. 98.69 for Rs. 120 recharge by Airtel
+150,nil,124.12,nil,nil,Cost: Rs150 | Validity: Unlimited | Talktime: Rs124.12,Talktime of Rs. 124.12 for Rs. 150 recharge by Airtel
+200,nil,190,nil,nil,Cost: Rs200 | Validity: Unlimited | Talktime: Rs190,Talktime of Rs. 190 for Rs. 200 recharge by Airtel
+250,nil,238,nil,nil,Cost: Rs250 | Validity: Unlimited | Talktime: Rs238,Talktime of Rs. 238 for Rs. 250 recharge by Airtel
+300,nil,290,nil,nil,Cost: Rs300 | Validity: Unlimited | Talktime: Rs290,Talktime of Rs. 290 for Rs. 300 recharge by Airtel
+350,nil,350,nil,nil,Cost: Rs350 | Validity: Unlimited | Talktime: Rs350,Talktime of Rs. 350 for Rs. 350 recharge by Airtel
+500,nil,500,nil,nil,Cost: Rs500 | Validity: Unlimited | Talktime: Rs500,Talktime of Rs. 500 for Rs. 500 recharge by Airtel
+700,nil,700,nil,nil,Cost: Rs700 | Validity: Unlimited | Talktime: Rs700,Talktime of Rs. 700 for Rs. 700 recharge by Airtel
+800,nil,800,nil,nil,Cost: Rs800 | Validity: Unlimited | Talktime: Rs800,Talktime of Rs. 800 for Rs. 800 recharge by Airtel
+1000,nil,1000,nil,nil,Cost: Rs1000 | Validity: Unlimited | Talktime: Rs1000,Talktime of Rs. 1000 for Rs. 1000 recharge by Airtel
+1500,nil,1550,nil,nil,Cost: Rs1500 | Validity: Unlimited | Talktime: Rs1550,Talktime of Rs. 1550 for Rs. 1500 recharge by Airtel
+2000,nil,2000,nil,nil,Cost: Rs2000 | Validity: Unlimited | Talktime: Rs2000,Talktime of Rs. 2000 for Rs. 2000 recharge by Airtel
+2500,nil,2600,nil,nil,Cost: Rs2500 | Validity: Unlimited | Talktime: Rs2600,Talktime of Rs. 2600 for Rs. 2500 recharge by Airtel
+3000,nil,3000,nil,nil,Cost: Rs3000 | Validity: Unlimited | Talktime: Rs3000,Talktime of Rs. 3000 for Rs. 3000 recharge by Airtel
+4000,nil,4100,nil,nil,Cost: Rs4000 | Validity: Unlimited | Talktime: Rs4100,Talktime of Rs. 4100 for Rs. 4000 recharge by Airtel
+5000,nil,5000,nil,nil,Cost: Rs5000 | Validity: Unlimited | Talktime: Rs5000,Talktime of Rs. 5000 for Rs. 5000 recharge by Airtel

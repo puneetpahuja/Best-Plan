@@ -1,16 +1,26 @@
-cost,local-rate,std-rate,validity,comments
-29,nil,0.25,28,All STD Calls @ 25p/min.Daily first 2mins @2p/sec
-5,0.3,nil,14,LOCAL MOBILE CALLS @ 30P/MIN WITH 1ST MIN CHARGING @ 2P/S 14 Days
-17,0.3,nil,27,BENEFIT: LOCAL MOBILE CALLS @ 30P/MIN WITH 1ST MIN CHARGING @ 2P/S 27 Days
-13,0.6,0.6,27,Benefit: Local +  STD mob calls @ 1p/s for 27 days
-14,nil,0.25,27,Benefit: STD mob calls @ 25p/min for 27 days
-19,0.6,0.6,54,Benefit: Local +  STD mob calls @ 1p/s for 54 days
-27,0.3,nil,27,Benefit: Local mob calls @ 30p/min for 27 days
-28,nil,0.25,54,Benefit: STD mob calls @ 25p/min
-13,0.6,0.6,27,Benefit: Local +  STD mob calls @ 1p/s for 27 days
-14,nil,0.25,27,Benefit: STD mob calls @ 25p/min for 27 days
-19,0.6,0.6,54,Benefit: Local +  STD mob calls @ 1p/s for 54 days
-27,0.3,nil,27,Benefit: Local mob calls @ 30p/min for 27 days
-28,nil,0.25,54,Benefit: STD mob calls @ 25p/min
-39,0.3,0.25,27,Benefit: Local mob calls @ 30p/min and  STD mob calls @ 25p/min for 27 days
-67,0.3,0.25,54,Benefit: Local mob calls @ 30p/min and  STD mob calls @ 25p/min for 54 days
+cost,monthly-cost,local-rate,std-rate,validity,details,comments
+5,75/7,0.3,nil,14,Cost: Rs5 | Validity: 14days | Local Call Rate: Rs0.3/minute,LOCAL MOBILE CALLS @ 30P/MIN WITH 1ST MIN CHARGING @ 2P/S
+13,130/9,0.6,0.6,27,Cost: Rs13 | Validity: 27days | Local Call Rate: Rs0.6/minute | STD Call Rate: Rs0.6/minute,Local + STD mob calls @ 1p/s
+17,170/9,0.3,nil,27,Cost: Rs17 | Validity: 27days | Local Call Rate: Rs0.3/minute,LOCAL MOBILE CALLS @ 30P/MIN WITH 1ST MIN CHARGING @ 2P/S
+19,95/9,0.6,0.6,54,Cost: Rs19 | Validity: 54days | Local Call Rate: Rs0.6/minute | STD Call Rate: Rs0.6/minute,Local + STD mob calls @ 1p/s
+27,30,0.3,nil,27,Cost: Rs27 | Validity: 27days | Local Call Rate: Rs0.3/minute,Local mob calls @ 30p/min
+14,140/9,nil,0.25,27,Cost: Rs14 | Validity: 27days | STD Call Rate: Rs0.25/minute,STD mob calls @ 25p/min
+28,140/9,nil,0.25,54,Cost: Rs28 | Validity: 54days | STD Call Rate: Rs0.25/minute,STD mob calls @ 25p/min
+33,1655/63,0.3,nil,30,"Local Cost Cutter -> Cost: Rs5 | Validity: 14days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter -> Cost: Rs28 | Validity: 54days | STD Call Rate: Rs0.25/minute","Local Cost Cutter -> LOCAL MOBILE CALLS @ 30P/MIN WITH 1ST MIN CHARGING @ 2P/S
+STD Cost Cutter -> STD mob calls @ 25p/min"
+19,1655/63,0.3,nil,30,"Local Cost Cutter -> Cost: Rs5 | Validity: 14days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter -> Cost: Rs14 | Validity: 27days | STD Call Rate: Rs0.25/minute","Local Cost Cutter -> LOCAL MOBILE CALLS @ 30P/MIN WITH 1ST MIN CHARGING @ 2P/S
+STD Cost Cutter -> STD mob calls @ 25p/min "
+45,310/9,0.3,nil,30,"Local Cost Cutter -> Cost: Rs17 | Validity: 27days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter -> Cost: Rs28 | Validity: 54days | STD Call Rate: Rs0.25/minute","Local Cost Cutter -> LOCAL MOBILE CALLS @ 30P/MIN WITH 1ST MIN CHARGING @ 2P/S
+STD Cost Cutter -> STD mob calls @ 25p/min"
+31,310/9,0.3,nil,30,"Local Cost Cutter -> Cost: Rs17 | Validity: 27days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter -> Cost: Rs14 | Validity: 27days | STD Call Rate: Rs0.25/minute","Local Cost Cutter -> LOCAL MOBILE CALLS @ 30P/MIN WITH 1ST MIN CHARGING @ 2P/S
+STD Cost Cutter -> STD mob calls @ 25p/min "
+55,410/9,0.3,nil,30,"Local Cost Cutter -> Cost: Rs27 | Validity: 27days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter -> Cost: Rs28 | Validity: 54days | STD Call Rate: Rs0.25/minute","Local Cost Cutter -> Local mob calls @ 30p/min
+STD Cost Cutter -> STD mob calls @ 25p/min"
+41,410/9,0.3,nil,30,"Local Cost Cutter -> Cost: Rs27 | Validity: 27days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter -> Cost: Rs14 | Validity: 27days | STD Call Rate: Rs0.25/minute","Local Cost Cutter -> Local mob calls @ 30p/min
+STD Cost Cutter -> STD mob calls @ 25p/min "

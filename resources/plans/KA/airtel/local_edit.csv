@@ -1,0 +1,6 @@
+id,cost,local-rate,std-rate,validity,long description
+2615,5,0.3,nil,14 days,LOCAL MOBILE CALLS @ 30P/MIN WITH 1ST MIN CHARGING @ 2P/S
+2617,13,0.6,0.6,27 days,Local + STD mob calls @ 1p/s
+2619,17,0.3,nil,27 days,LOCAL MOBILE CALLS @ 30P/MIN WITH 1ST MIN CHARGING @ 2P/S
+2620,19,0.6,0.6,54 days,Local + STD mob calls @ 1p/s
+2622,27,0.3,nil,27 days,Local mob calls @ 30p/min 

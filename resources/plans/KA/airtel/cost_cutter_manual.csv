@@ -1,0 +1,16 @@
+cost,local-rate,std-rate,validity,comments
+29,nil,0.25,28,All STD Calls @ 25p/min.Daily first 2mins @2p/sec
+5,0.3,nil,14,LOCAL MOBILE CALLS @ 30P/MIN WITH 1ST MIN CHARGING @ 2P/S 14 Days
+17,0.3,nil,27,BENEFIT: LOCAL MOBILE CALLS @ 30P/MIN WITH 1ST MIN CHARGING @ 2P/S 27 Days
+13,0.6,0.6,27,Benefit: Local +  STD mob calls @ 1p/s for 27 days
+14,nil,0.25,27,Benefit: STD mob calls @ 25p/min for 27 days
+19,0.6,0.6,54,Benefit: Local +  STD mob calls @ 1p/s for 54 days
+27,0.3,nil,27,Benefit: Local mob calls @ 30p/min for 27 days
+28,nil,0.25,54,Benefit: STD mob calls @ 25p/min
+13,0.6,0.6,27,Benefit: Local +  STD mob calls @ 1p/s for 27 days
+14,nil,0.25,27,Benefit: STD mob calls @ 25p/min for 27 days
+19,0.6,0.6,54,Benefit: Local +  STD mob calls @ 1p/s for 54 days
+27,0.3,nil,27,Benefit: Local mob calls @ 30p/min for 27 days
+28,nil,0.25,54,Benefit: STD mob calls @ 25p/min
+39,0.3,0.25,27,Benefit: Local mob calls @ 30p/min and  STD mob calls @ 25p/min for 27 days
+67,0.3,0.25,54,Benefit: Local mob calls @ 30p/min and  STD mob calls @ 25p/min for 54 days
