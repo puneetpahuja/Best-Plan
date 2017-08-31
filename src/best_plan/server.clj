@@ -7,7 +7,8 @@
             [hiccup.core :as hiccup]
             [ring.adapter.jetty :as jetty]
             [ring.middleware.params :as params]
-            [ring.util.response :as resp]))
+            [ring.util.response :as resp])
+  (:gen-class))
 
 (defn show-input-form []
   {:body (slurp (io/resource "public/input_vanilla.html"))

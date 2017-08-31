@@ -3,8 +3,7 @@
             [best-plan.recharge :as r]
             [best-plan.user :as u]
             [clojure.tools.trace :as t]
-            :reload)
-  (:gen-class))
+            :reload))
 
 (comment TODO
          * convert top.csv and full.csv to talktime.csv
