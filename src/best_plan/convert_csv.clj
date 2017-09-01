@@ -118,3 +118,5 @@
 
 (defn apply-with-suffix [func suffix & args]
   (apply func (map #(str suffix % ".csv") args)))
+
+;; (apply-with-suffix create-minutes-csv "resources/plans/KA/airtel/selected/" "raw_minutes" "minutes")

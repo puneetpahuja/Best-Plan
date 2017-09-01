@@ -38,4 +38,4 @@
   (map #(apply create-csv (concat % [columns]))
        (comb/cartesian-product operators circles recharge-types)))
 
-;; (make-csv-files env/operators (keys env/circle-codes) env/recharge-types [:id :recharge_amount :recharge_talktime :recharge_validity :recharge_long_desc])
+;; (make-csv-files env/operator-names (keys env/circle-codes) env/recharge-types [:id :recharge_amount :recharge_talktime :recharge_validity :recharge_long_desc])

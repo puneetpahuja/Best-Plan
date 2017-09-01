@@ -2,17 +2,17 @@
 
 (def res "resources/")
 (def plans (str res "plans/"))
+(def subfolder "selected")
 (def json-dir (str res "raw_jsons_dy/"))
-(def circles ["Andhra Pradesh" "Assam" "Bihar Jharkhand" "Chennai" "Delhi NCR"
-              "Gujarat" "Haryana" "Himachal Pradesh" "Jammu Kashmir" "Karnataka"
-              "Kerala" "Kolkata" "Madhya Pradesh Chhattisgarh" "Maharashtra"
-              "Mumbai" "North East" "Odisha" "Punjab" "Rajasthan" "Tamil Nadu"
-              "UP East" "UP West" "West Bengal"])
-(def operators ["Aircel" "Airtel" "BSNL" "Idea" "Loop Mobile" "MTNL" "MTS"
-                "Reliance CDMA" "Reliance GSM" "T24" "Tata Indicom"
-                "Tata Docomo" "Telenor" "Videocon" "Vodafone" "Jio"])
-(def recharge-types ["top" "full" "SMS" "2g" "3g" "4g" "local" "std" "isd"
-                     "roaming" "other" "validity" "plan" "frc"])
+
+(def circle-names ["Andhra Pradesh" "Assam" "Bihar Jharkhand" "Chennai" "Delhi NCR"
+                   "Gujarat" "Haryana" "Himachal Pradesh" "Jammu Kashmir" "Karnataka"
+                   "Kerala" "Kolkata" "Madhya Pradesh Chhattisgarh" "Maharashtra"
+                   "Mumbai" "North East" "Odisha" "Punjab" "Rajasthan" "Tamil Nadu"
+                   "UP East" "UP West" "West Bengal"])
+(def operator-names ["Aircel" "Airtel" "BSNL" "Idea" "Loop Mobile" "MTNL" "MTS"
+                     "Reliance CDMA" "Reliance GSM" "T24" "Tata Indicom"
+                     "Tata Docomo" "Telenor" "Videocon" "Vodafone" "Jio"])
 (def circle-codes {"Andhra Pradesh" "AP", "Assam" "AS", "Bihar Jharkhand" "BI",
                    "Chennai" "CH", "Delhi NCR" "DE", "Gujarat" "GU", "Haryana" "HA",
                    "Himachal Pradesh" "HP", "Jammu Kashmir" "JK", "Karnataka" "KA",
@@ -20,6 +20,15 @@
                    "Maharashtra" "MA", "Mumbai" "MU", "North East" "NE", "Odisha" "OR",
                    "Punjab" "PU", "Rajasthan" "RA", "Tamil Nadu" "TN", "UP East" "UPE",
                    "UP West" "UPW", "West Bengal" "WBS"})
+
+(def recharge-types ["top" "full" "SMS" "2g" "3g" "4g" "local" "std" "isd"
+                     "roaming" "other" "validity" "plan" "frc"])
+(def operators ["aircel" "airtel" "bsnl" "idea" "loop_mobile" "mtnl" "mts"
+                "reliance_cdma" "reliance_gsm" "t24" "tata_indicom" "tata_docomo"
+                "telenor" "videocon" "vodafone" "jio"])
+(def circles ["OR" "JK" "HA" "AS" "GU" "NE" "DE" "UPE" "TN" "CH" "KO" "HP" "KA"
+              "MA" "AP" "MU" "MP" "PU" "UPW" "KE" "BI" "WBS" "RA"])
+
 (def column-names {:id "id"
                    :operator_id "operator"
                    :circle_id "circle"
