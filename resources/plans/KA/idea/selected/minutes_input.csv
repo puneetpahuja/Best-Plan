@@ -1,0 +1,5 @@
+id,cost,minutes,validity,comments
+10428,39,2850/60,7 days,2850 Local/STD Secs
+10434,89,6000/60,10 days,6000 Local/STD Secs
+10435,199,35000/60,28 days,35000 Local/STD Secs
+10436,259,51000/60,28 days,51000 Local/STD Secs

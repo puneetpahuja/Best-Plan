@@ -5,7 +5,7 @@
             [clojure.math.combinatorics :as comb]))
 
 
-(def all-tuples (comb/cartesian-product env/operators env/circles env/recharge-types))
+(def all-tuples (comb/cartesian-product env/operator-names env/circle-names env/recharge-types))
 
 (defn save-jsons
   ([api-key operator circle recharge-type] (save-jsons api-key operator circle recharge-type 1))

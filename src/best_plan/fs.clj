@@ -11,7 +11,7 @@
     (doall (rest (csv/read-csv reader)))))
 
 (defn file-lines [{:keys [telecom-provider circle]} recharge-type]
-  (read-csv (str env/plans (s/join "/" [circle telecom-provider recharge-type])
+  (read-csv (str env/plans (s/join "/" [circle telecom-provider env/subfolder recharge-type])
                  ".csv")))
 
 (defn process-csv-row [csv-row]

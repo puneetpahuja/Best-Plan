@@ -1,7 +1,7 @@
 (ns best-plan.api-datayuge
   (:require [clojure.tools.html-utils :as html-utils]))
 
-(def api-key "FDFPPQTNWaH8HcVYBpiHIt72ZrIXSlMi")
+(def api-key "dummy")
 
 (def states ["Andhra Pradesh" "Chennai" "Delhi NCR" "Karnataka" "Kerala"
              "Kolkata" "Maharashtra" "Mumbai" "Tamil Nadu" "West Bengal"])
