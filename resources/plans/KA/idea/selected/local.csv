@@ -1,0 +1,8 @@
+id,cost,local-rate,std-rate,validity,comments
+10420,9,0.35,nil,28 days,Local mobile calls @35p/m -- 
+10422,17,0.3,nil,28 days,Local Mobile calls @30p/min -- 
+10423,18,0.6,0.6,28 days,Local/STD mobile calls at 1p/sec -- 
+10425,29,0.6,nil,60 days,Local Mobile calls @30p/m -- 
+10426,32,0.3,0.25,28 days,Local mobile @ 30p/m & STD mobile @ 25p/m -- 
+10430,49,0.3,nil,90 days,Local Mobile calls @30p/m
+10431,59,0.3,0.25,60 days,Local mobile @ 30p/m & STD mobile @ 25p/m
