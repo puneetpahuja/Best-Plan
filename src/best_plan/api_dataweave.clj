@@ -1,8 +1,8 @@
 (ns best-plan.api-dataweave
   (:require [clojure.tools.html-utils :as html-utils]))
 
-(def api-key "258fed6eab868042008a69905ed9e3e8")
-(def api-key-v1 "b20a79e582ee4953ceccf41ac28aa08d")
+(def api-key "dummy")
+(def api-key-v1 "dummy")
 
 (defn get-operators-api [api-key page]
   (str "http://api.dataweave.com/v1/telecom_data_v3/listUniqOperator/?api_key="
