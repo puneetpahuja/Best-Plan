@@ -3,16 +3,35 @@
     <title>Input</title>
     <!--Import Google Icon Font-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <!--Import materialize.css-->
-    <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+    <link type="text/css" rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css"
+          media="screen,projection"/>
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   </head>
 
   <body>
+    <style media="screen" type="text/css">
+      .container {
+      margin: 0 auto;
+      max-width: 1280px;
+      width: 40%;
+      }
+      @media only screen and (min-width: 601px)
+      .container {
+      width: 60%;
+      }
+      @media only screen and (min-width: 993px)
+      .container {
+      width: 50%;
+      }
+    </style>
+
     <div class="container">
       <br /> <br />
-      <h3 class="center-align">Get Best Talktime Plans</h3>
+      <h4 class="center-align">Get Best Talktime Plans</h4>
       <br /><br />
 
       <form action="" method="POST" class="center-align">
@@ -107,7 +126,7 @@
       </form>
 
       <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-      <script type="text/javascript" src="js/materialize.min.js"></script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
       <script>$(document).ready(function() {$('select').material_select();});</script>
 
     </div>

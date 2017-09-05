@@ -11,7 +11,7 @@
   (:gen-class))
 
 (defn show-input-form []
-  {:body (slurp (io/resource "public/input_vanilla.html"))
+  {:body (slurp (io/resource "public/input_materialize.html"))
    :status 200})
 
 (defn get-recharges [{:strs [telecom-provider circle local-rate std-rate
@@ -27,10 +27,11 @@
   (into [:tr] (map get-table-data cells)))
 
 (defn get-table-heading-data [data]
-  [:th {:scope "col"} data])
+  [:th ;; {:scope "col"}
+   data])
 
 (defn get-table-heading-row [& cells]
-  (into [:tr] (map get-table-heading-data cells)))
+  (into [:thead] [(into [:tr] (map get-table-heading-data cells))]))
 
 (defn get-table-row-user [{:keys [cost details comments monthly-bill]}]
   (get-table-row details comments cost monthly-bill))
@@ -39,21 +40,38 @@
   (hiccup/html [:html
                 [:head
                  [:title "Best Plans"]
+                 [:link {:href "https://fonts.googleapis.com/icon?family=Material+Icons"
+                         :rel "stylesheet"}]
                  [:link {:href "https://fonts.googleapis.com/css?family=Roboto"
                          :rel "stylesheet"}]
-                 [:style "table {border-collapse: collapse; border-spacing: 0px;}
-                   table, th, td {padding: 5px; border: 1px solid black;}
-                   td {text-align:right;}
-                   html {font-family: \"Roboto\", sans-serif;}"]]
-                [:body (vec (concat [:table {:border "1" :cellpadding "10"
-                                             :border-collapse "collapse"}
-                                     [:col {:width "47%"}]
-                                     [:col {:width "37%"}]
-                                     [:col {:width "6%" :align "right"}]
-                                     [:col {:width "10%" :align "right"}]
-                                     (get-table-heading-row "Details" "Comments" "Cost"
-                                                            "Monthly Bill")]
-                                    (map get-table-row-user (get-recharges user))))]]))
+                 [:link {:href "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css"
+                         :rel "stylesheet"
+                         :type "text/css"
+                         :media "screen,projection"}]
+                 [:meta {:name "viewport" :content "width=device-width, initial-scale=1.0"}]
+                 ;; [:style "table {border-collapse: collapse; border-spacing: 0px;}
+                 ;;   table, th, td {padding: 5px; border: 1px solid black;}
+                 ;;   td {text-align:right;}
+                 ;;   html {font-family: \"Roboto\", sans-serif;}"]
+                 ]
+                [:body
+                 (vec
+                   (concat [:table {:class "bordered striped"
+                                    :border "1" :cellpadding "10"
+                                    :border-collapse "collapse"}
+                            [:col {:width "47%"}]
+                            [:col {:width "37%"}]
+                            [:col {:width "6%" :align "right"}]
+                            [:col {:width "10%" :align "right"}]
+                            (get-table-heading-row "Details" "Comments" "Cost"
+                                                   "Monthly Bill")
+                            (into [:tbody]
+                                  (map get-table-row-user (get-recharges user)))]))
+                 [:script {:type "text/javascript"
+                           :src "https://code.jquery.com/jquery-3.2.1.min.js"}]
+                 [:script {:type "text/javascript"
+                           :src "https://code.jquery.com/jquery-3.2.1.min.jshttps://code.jquery.com/jquery-3.2.1.min.js"}]
+                 [:script "$(document).ready(function() {$('select').material_select();});"]]]))
 
 (defn show-plans [user]
   {:body (get-output-html user)
@@ -63,7 +81,7 @@
   (let [user (:form-params req)]
     (if (and user (not-empty user))
       (show-plans user)
-      (resp/resource-response "input_vanilla.html" {:root "public"})
+      (resp/resource-response "input_materialize.html" {:root "public"})
       ;;(show-input-form)
       )))
 
