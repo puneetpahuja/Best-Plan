@@ -1,0 +1,12 @@
+id,cost,talktime,validity,comments
+8102,21,,28 days,Local On-Net Mobile Calls @ 10p/min
+8106,36,,56 days,Local On-Net mobile calls @ 10p/ min
+8114,77,,28 days,667 Local On-Net mins
+8118,101,,28 days,Local On-Net & Off-Net calls @ 25p/ min -- STD On-Net calls @ 25p/ min
+8119,107,,14 days,Free 600 tata to tata and 200 tata to other local mobile mins
+8120,123,,21 days,"Free onnet local mobile calls in off peak hour between 10 pm to 6 pm, local onnet call peak hour 6pm to 10 pm 1p/sec, all other L+ N mobile"
+8122,163,,28 days,"Free onnet local mobile calls in off peak hour between 10 pm to 6 pm, local onnet call peak hour 6pm to 10 pm 1p/sec, all other L+ N mobile calls@1.2p/s"
+8123,197,,28 days,1200 LocalTata Mins and 400 Mins other local
+8124,242,,28 days,1500 Local TATA and 400 Local other calls
+8126,649,,28 days,Unlimited Local calls (FUP 3000) mins
+8127,666,,28 days,"150000 Local secs, After 150000 secs Local calls @ 1.5p/ sec."

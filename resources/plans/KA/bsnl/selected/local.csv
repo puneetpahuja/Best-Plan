@@ -1,0 +1,7 @@
+id,cost,Local-rate,Std-rate,validity,comments
+5843,11,0.3,nil,4 days,Local any net at 1paisa per 2 Sec
+5846,41,0.48,0.48,30 days,Local or STD any net at 0.8paisa per sec
+5847,44,0.42,nil,25 days,Local Any Net Call 1.4ps per 2 Sec
+5850,69,0.3,nil,30 days,Local calls any net at 1 piasa per 2 sec
+5851,88,0.48,0.48,90 days,Local/STD any net at 0.8paisa/sec
+5852,132,0.42,nil,75 days,Local Any Net Call 1.4ps per 2 Sec

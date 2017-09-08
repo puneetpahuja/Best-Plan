@@ -1,0 +1,10 @@
+id,cost,minutes,validity,comments
+5845,31,72,1 day,72 Mins Local or STD calls Anynet
+5848,58,5600/60,8 days,5600 Sec Loc or STD to any network
+5853,135,275,28 days,275 min free to any network (Local/STD)
+5854,145,20000/60,24 days,20000 Seconds Local or STD Anynet
+5855,159,20300/60,28 days,Free 20300 Secs.Local/STD any net
+5857,181,23800/602,30 days,23800 Sec Local/STD Voice Calls to Any N/w
+5858,201,26800/60,28 days,Free 26800 Secs  to Any Network Local and STD Calls
+5860,359,52000/60,60 days,Free 52000 Secs to Any Network Local and STD Calls
+5861,448,1400,84 days,Free 1400 Mins to Any Network Local and STD Calls

@@ -1,0 +1,33 @@
+cost,monthly-cost,local-rate,std-rate,validity,details,comments
+11,165/2,0.3,nil,4,Cost: Rs11 | Validity: 4days | Local Call Rate: Rs0.3/minute,Local any net at 1paisa per 2 Sec
+41,41,0.48,0.48,30,Cost: Rs41 | Validity: 30days | Local Call Rate: Rs0.48/minute | STD Call Rate: Rs0.48/minute,Local or STD any net at 0.8paisa per sec
+44,264/5,0.42,nil,25,Cost: Rs44 | Validity: 25days | Local Call Rate: Rs0.42/minute,Local Any Net Call 1.4ps per 2 Sec
+69,69,0.3,nil,30,Cost: Rs69 | Validity: 30days | Local Call Rate: Rs0.3/minute,Local calls any net at 1 piasa per 2 sec
+88,88/3,0.48,0.48,90,Cost: Rs88 | Validity: 90days | Local Call Rate: Rs0.48/minute | STD Call Rate: Rs0.48/minute,Local/STD any net at 0.8paisa/sec
+132,264/5,0.42,nil,75,Cost: Rs132 | Validity: 75days | Local Call Rate: Rs0.42/minute,Local Any Net Call 1.4ps per 2 Sec
+12,180,nil,0.2,2,Cost: Rs12 | Validity: 2days | STD Call Rate: Rs0.2/minute,STD any net at 20paisa per Min
+84,30,nil,0.4,84,Cost: Rs84 | Validity: 84days | STD Call Rate: Rs0.4/minute,STD any net at 40paisa per Min -- 
+144,1164/5,0.42,0.2,30,"Local Cost Cutter - Cost: Rs132 | Validity: 75days | Local Call Rate: Rs0.42/minute
+STD Cost Cutter - Cost: Rs12 | Validity: 2days | STD Call Rate: Rs0.2/minute","Local Cost Cutter - Local Any Net Call 1.4ps per 2 Sec
+STD Cost Cutter - STD any net at 20paisa per Min"
+216,414/5,0.42,0.4,30,"Local Cost Cutter - Cost: Rs132 | Validity: 75days | Local Call Rate: Rs0.42/minute
+STD Cost Cutter - Cost: Rs84 | Validity: 84days | STD Call Rate: Rs0.4/minute","Local Cost Cutter - Local Any Net Call 1.4ps per 2 Sec
+STD Cost Cutter - STD any net at 40paisa per Min -- "
+56,1164/5,0.42,0.2,30,"Local Cost Cutter - Cost: Rs44 | Validity: 25days | Local Call Rate: Rs0.42/minute
+STD Cost Cutter - Cost: Rs12 | Validity: 2days | STD Call Rate: Rs0.2/minute","Local Cost Cutter - Local Any Net Call 1.4ps per 2 Sec
+STD Cost Cutter - STD any net at 20paisa per Min"
+128,414/5,0.42,0.4,30,"Local Cost Cutter - Cost: Rs44 | Validity: 25days | Local Call Rate: Rs0.42/minute
+STD Cost Cutter - Cost: Rs84 | Validity: 84days | STD Call Rate: Rs0.4/minute","Local Cost Cutter - Local Any Net Call 1.4ps per 2 Sec
+STD Cost Cutter - STD any net at 40paisa per Min -- "
+23,525/2,0.3,0.2,30,"Local Cost Cutter - Cost: Rs11 | Validity: 4days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs12 | Validity: 2days | STD Call Rate: Rs0.2/minute","Local Cost Cutter - Local any net at 1paisa per 2 Sec
+STD Cost Cutter - STD any net at 20paisa per Min"
+95,225/2,0.3,0.4,30,"Local Cost Cutter - Cost: Rs11 | Validity: 4days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs84 | Validity: 84days | STD Call Rate: Rs0.4/minute","Local Cost Cutter - Local any net at 1paisa per 2 Sec
+STD Cost Cutter - STD any net at 40paisa per Min -- "
+81,249,0.3,0.2,30,"Local Cost Cutter - Cost: Rs69 | Validity: 30days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs12 | Validity: 2days | STD Call Rate: Rs0.2/minute","Local Cost Cutter - Local calls any net at 1 piasa per 2 sec
+STD Cost Cutter - STD any net at 20paisa per Min"
+153,99,0.3,0.4,30,"Local Cost Cutter - Cost: Rs69 | Validity: 30days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs84 | Validity: 84days | STD Call Rate: Rs0.4/minute","Local Cost Cutter - Local calls any net at 1 piasa per 2 sec
+STD Cost Cutter - STD any net at 40paisa per Min -- "
