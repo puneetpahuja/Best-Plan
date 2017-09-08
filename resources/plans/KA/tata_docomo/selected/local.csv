@@ -1,0 +1,13 @@
+id,cost,Local-rate,Std-rate,validity,comments
+8101,18,0.3,nil,28 days,Local mob calls at 1p/2sec
+8103,22,0.2,0.2,28 days,Local & STD calls @ 20p/ min
+8104,29,0.6,0.6,45 days,Local/STD Mobile calls @1p/ sec
+8105,33,0.3,nil,56 days,Local Mobile Calls @ 30p/min 
+8107,38,0.35,nil,21 days,Local Mobile Calls @35p/min
+8108,44,0.3,0.3,28 days,Local/STD Mobile calls @ 30p/min
+8109,51,0.25,nil,21 days,Local mob calls at 25p/min
+8110,58,0.3,0.3,56 days,Local/STD Mobile Calls @ 30p/min 
+8112,64,0.3,nil,28 days,Local mobile calls @ 1p/2s
+8113,69,0.35,0.35,56 days,Local/STD Mobile calls @ 35p/min
+8115,86,0.3,0.25,28 days,Local calls @ 30p/ min -- STD mobile calls @ 25p/ min.
+8117,99,0.3,0.3,28 days,Local/STD Mobile calls @ 1p/2 Secs 

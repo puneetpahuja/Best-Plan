@@ -2,7 +2,7 @@
   (:require [best-plan.env :as env]
             [best-plan.fs :as fs]
             [best-plan.recharge :as recharge]
-            [clojure.data.csv :as csv]
+            [best-plan.utils :as utils]
             [clojure.java.io :as io]
             [clojure.math.combinatorics :as comb]
             [clojure.string :as string]))
@@ -56,18 +56,13 @@
 
 (defn process-combo-cost-cutter [[{lcost :cost lmcost :monthly-cost lrate :local-rate
                                    ldetails :details lcomments :comments}
-                                  {scost :cost smcost :monthly-cost srate :local-rate
+                                  {scost :cost smcost :monthly-cost srate :std-rate
                                    sdetails :details scomments :comments}]]
   [(+ lcost scost) (+ lmcost smcost) lrate srate env/days-in-month
    (str "Local Cost Cutter - " ldetails
         "\nSTD Cost Cutter - " sdetails)
    (str "Local Cost Cutter - " lcomments
         "\nSTD Cost Cutter - " scomments)])
-
-(defn write-csv [filepath rows]
-  (io/make-parents filepath)
-  (with-open [writer (io/writer filepath)]
-    (csv/write-csv writer rows)))
 
 (defn maybe-nil [val]
   (if (nil? val) "nil" val))
@@ -76,8 +71,8 @@
   (map maybe-nil csv-row))
 
 (defn create-cost-cutter-csv [local-csv-filepath std-csv-filepath output-csv-filepath]
-  (let [input-csv-rows (concat (fs/get-csv-rows local-csv-filepath)
-                               (fs/get-csv-rows std-csv-filepath))
+  (let [input-csv-rows (concat (fs/get-csv-rows local-csv-filepath env/drop-cols-raw)
+                               (fs/get-csv-rows std-csv-filepath env/drop-cols-raw))
         input-records (map #(apply recharge/cost-cutter-recharge %)
                            (map convert-cost-cutter-row input-csv-rows))
         categorized-plans (categorize-plans input-records)
@@ -88,7 +83,7 @@
         raw-output-rows (concat [output-csv-header-row] output-csv-single-plan-rows
                                 output-csv-combo-plan-rows)
         converted-output-rows (map stringify-nil raw-output-rows)]
-    (write-csv output-csv-filepath converted-output-rows)))
+    (utils/write-csv output-csv-filepath converted-output-rows)))
 
 (defn process-val [val-str [_ cost val validity comments]]
   (let [validity (if (string/starts-with? (string/lower-case validity) "n.a")
@@ -102,21 +97,26 @@
 (def process-talktime (partial process-val " | Talktime: Rs"))
 
 (defn create-talktime-csv [top-csv-filepath full-csv-filepath output-csv-filepath]
-  (let [input-csv-rows (concat (fs/get-csv-rows top-csv-filepath)
-                               (fs/get-csv-rows full-csv-filepath))
+  (let [input-csv-rows (concat (fs/get-csv-rows top-csv-filepath env/drop-cols-raw)
+                               (fs/get-csv-rows full-csv-filepath env/drop-cols-raw))
         output-csv-header-row (map name env/output-talktime-csv-format)
         output-csv-plan-rows (map process-talktime input-csv-rows)]
-    (write-csv output-csv-filepath (map stringify-nil (concat [output-csv-header-row] output-csv-plan-rows)))))
+    (utils/write-csv output-csv-filepath (map stringify-nil (concat [output-csv-header-row] output-csv-plan-rows)))))
 
 (def process-minutes (partial process-val " | Minutes: "))
 
 (defn create-minutes-csv [minutes-csv-path output-csv-filepath]
-  (let [input-csv-rows (fs/get-csv-rows minutes-csv-path)
+  (let [input-csv-rows (fs/get-csv-rows minutes-csv-path env/drop-cols-raw)
         output-csv-header-row (map name env/output-minutes-csv-format)
         output-csv-plan-rows (map process-minutes input-csv-rows)]
-    (write-csv output-csv-filepath (map stringify-nil (concat [output-csv-header-row] output-csv-plan-rows)))))
+    (utils/write-csv output-csv-filepath (map stringify-nil (concat [output-csv-header-row] output-csv-plan-rows)))))
 
 (defn apply-with-suffix [func suffix & args]
   (apply func (map #(str suffix % ".csv") args)))
 
-;; (apply-with-suffix create-minutes-csv "resources/plans/KA/airtel/selected/" "raw_minutes" "minutes")
+(defn create-all-csvs [path]
+  (apply-with-suffix create-minutes-csv path "minutes_input" "minutes")
+  (apply-with-suffix create-talktime-csv path "top" "full" "talktime")
+  (apply-with-suffix create-cost-cutter-csv path "local" "std" "cost_cutter"))
+
+;; (create-all-csvs "resources/plans/KA/bsnl/selected/")

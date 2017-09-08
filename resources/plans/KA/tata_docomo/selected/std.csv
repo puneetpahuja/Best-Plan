@@ -1,0 +1,6 @@
+id,cost,Local-rate,Std-rate,validity,comments
+8128,16,nil,0.25,28 days,STD mobile calls @ 25p/ min
+8129,34,nil,0.25,56 days,STD mobile calls @ 25p/min
+8130,106,nil,0.3,90 days,STD mobile calls @ 1p/2s
+8100,14,nil,0.3,28 days,STD mobile calls @ 30p/min
+8111,61,nil,0.25,56 days,STD mobile calls @ 25p/min

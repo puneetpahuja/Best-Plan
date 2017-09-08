@@ -1,0 +1,26 @@
+id,cost,talktime,validity,comments
+1078,5,,1 day,Unlimited Local A2A calls
+1079,9,,28 days,"A2A Local mobile calls @10p , other local /std mobile calls @25p"
+1080,13,,28 days,"All Local Mobile calls @30p/min, 1st 60Sec of the day @1.2p/sec"
+1081,15,,1 day,Unlimited Local calls
+1082,17,,2 days,Unlimited Local/ STD Aircel to Aircel calls -- 
+1083,18,,1 day,Unlimited Local/STD calls
+1084,22,,28 days,Local calls @ 30p/m 
+1085,23,,28 days,All Local Mobile calls @ 30p/min
+1086,26,,56 days,Local A2A @10P/min
+1087,31,,24 days,Local A2A calls@10p/m; Other local@30p/m
+1088,42,,28 days,All Local Mobile calls @ 25p/min
+1089,45,,56 days,All Local Mobile call @1p/2sec
+1090,49,,10 days,Unlimited Local A2A calls
+1091,53,,56 days,Local + STD 25p/min
+1092,57,,84 days,"Local Aircel to Aircel @20p/Min,  Local Aircel to Mobile @30p/Min -- STD (m) @40p/Min"
+1093,59,,28 days,120 Local +STD Minute
+1094,61,,60 days,"Local A2A @ 15p/min, Local A2M @ 25p/min & STD(m) @ 60p/min"
+1095,62,,60 days,Local Aircel to Aircel Calls @10paise/min
+1096,76,,7 days,"5,000 Local A2A mins"
+1097,79,,84 days,Local + STD Calls @1p/2sec
+1098,89,,84 days,"A2A @25 p/m, A2M @25p/min -- STD A2A @30p/min -- Rest STD @60p/min"
+1099,96,,11 days,Unlimited Local A2A
+1100,102,,90 days,All Local/STD calls @ 25p/m
+1101,159,,28 days,450 Local +STD Minute
+1102,194,,28 days,Local +STD unlimited A2A

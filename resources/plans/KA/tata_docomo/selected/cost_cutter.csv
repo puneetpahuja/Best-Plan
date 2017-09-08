@@ -1,0 +1,93 @@
+cost,monthly-cost,local-rate,std-rate,validity,details,comments
+18,135/7,0.3,nil,28,Cost: Rs18 | Validity: 28days | Local Call Rate: Rs0.3/minute,Local mob calls at 1p/2sec
+22,165/7,0.2,0.2,28,Cost: Rs22 | Validity: 28days | Local Call Rate: Rs0.2/minute | STD Call Rate: Rs0.2/minute,Local & STD calls @ 20p/ min
+29,58/3,0.6,0.6,45,Cost: Rs29 | Validity: 45days | Local Call Rate: Rs0.6/minute | STD Call Rate: Rs0.6/minute,Local/STD Mobile calls @1p/ sec
+33,495/28,0.3,nil,56,Cost: Rs33 | Validity: 56days | Local Call Rate: Rs0.3/minute,Local Mobile Calls @ 30p/min 
+38,380/7,0.35,nil,21,Cost: Rs38 | Validity: 21days | Local Call Rate: Rs0.35/minute,Local Mobile Calls @35p/min
+44,330/7,0.3,0.3,28,Cost: Rs44 | Validity: 28days | Local Call Rate: Rs0.3/minute | STD Call Rate: Rs0.3/minute,Local/STD Mobile calls @ 30p/min
+51,510/7,0.25,nil,21,Cost: Rs51 | Validity: 21days | Local Call Rate: Rs0.25/minute,Local mob calls at 25p/min
+58,435/14,0.3,0.3,56,Cost: Rs58 | Validity: 56days | Local Call Rate: Rs0.3/minute | STD Call Rate: Rs0.3/minute,Local/STD Mobile Calls @ 30p/min 
+64,480/7,0.3,nil,28,Cost: Rs64 | Validity: 28days | Local Call Rate: Rs0.3/minute,Local mobile calls @ 1p/2s
+69,1035/28,0.35,0.35,56,Cost: Rs69 | Validity: 56days | Local Call Rate: Rs0.35/minute | STD Call Rate: Rs0.35/minute,Local/STD Mobile calls @ 35p/min
+86,645/7,0.3,0.25,28,Cost: Rs86 | Validity: 28days | Local Call Rate: Rs0.3/minute | STD Call Rate: Rs0.25/minute,Local calls @ 30p/ min -- STD mobile calls @ 25p/ min.
+99,1485/14,0.3,0.3,28,Cost: Rs99 | Validity: 28days | Local Call Rate: Rs0.3/minute | STD Call Rate: Rs0.3/minute,Local/STD Mobile calls @ 1p/2 Secs 
+16,120/7,nil,0.25,28,Cost: Rs16 | Validity: 28days | STD Call Rate: Rs0.25/minute,STD mobile calls @ 25p/ min
+34,255/14,nil,0.25,56,Cost: Rs34 | Validity: 56days | STD Call Rate: Rs0.25/minute,STD mobile calls @ 25p/min
+106,106/3,nil,0.3,90,Cost: Rs106 | Validity: 90days | STD Call Rate: Rs0.3/minute,STD mobile calls @ 1p/2s
+14,15,nil,0.3,28,Cost: Rs14 | Validity: 28days | STD Call Rate: Rs0.3/minute,STD mobile calls @ 30p/min
+61,915/28,nil,0.25,56,Cost: Rs61 | Validity: 56days | STD Call Rate: Rs0.25/minute,STD mobile calls @ 25p/min
+157,2272/21,0.25,0.3,30,"Local Cost Cutter - Cost: Rs51 | Validity: 21days | Local Call Rate: Rs0.25/minute
+STD Cost Cutter - Cost: Rs106 | Validity: 90days | STD Call Rate: Rs0.3/minute","Local Cost Cutter - Local mob calls at 25p/min
+STD Cost Cutter - STD mobile calls @ 1p/2s"
+112,2955/28,0.25,0.25,30,"Local Cost Cutter - Cost: Rs51 | Validity: 21days | Local Call Rate: Rs0.25/minute
+STD Cost Cutter - Cost: Rs61 | Validity: 56days | STD Call Rate: Rs0.25/minute","Local Cost Cutter - Local mob calls at 25p/min
+STD Cost Cutter - STD mobile calls @ 25p/min"
+67,90,0.25,0.25,30,"Local Cost Cutter - Cost: Rs51 | Validity: 21days | Local Call Rate: Rs0.25/minute
+STD Cost Cutter - Cost: Rs16 | Validity: 28days | STD Call Rate: Rs0.25/minute","Local Cost Cutter - Local mob calls at 25p/min
+STD Cost Cutter - STD mobile calls @ 25p/ min"
+85,1275/14,0.25,0.25,30,"Local Cost Cutter - Cost: Rs51 | Validity: 21days | Local Call Rate: Rs0.25/minute
+STD Cost Cutter - Cost: Rs34 | Validity: 56days | STD Call Rate: Rs0.25/minute","Local Cost Cutter - Local mob calls at 25p/min
+STD Cost Cutter - STD mobile calls @ 25p/min"
+65,615/7,0.25,0.3,30,"Local Cost Cutter - Cost: Rs51 | Validity: 21days | Local Call Rate: Rs0.25/minute
+STD Cost Cutter - Cost: Rs14 | Validity: 28days | STD Call Rate: Rs0.3/minute","Local Cost Cutter - Local mob calls at 25p/min
+STD Cost Cutter - STD mobile calls @ 30p/min"
+124,1147/21,0.3,0.3,30,"Local Cost Cutter - Cost: Rs18 | Validity: 28days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs106 | Validity: 90days | STD Call Rate: Rs0.3/minute","Local Cost Cutter - Local mob calls at 1p/2sec
+STD Cost Cutter - STD mobile calls @ 1p/2s"
+79,1455/28,0.3,0.25,30,"Local Cost Cutter - Cost: Rs18 | Validity: 28days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs61 | Validity: 56days | STD Call Rate: Rs0.25/minute","Local Cost Cutter - Local mob calls at 1p/2sec
+STD Cost Cutter - STD mobile calls @ 25p/min"
+34,255/7,0.3,0.25,30,"Local Cost Cutter - Cost: Rs18 | Validity: 28days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs16 | Validity: 28days | STD Call Rate: Rs0.25/minute","Local Cost Cutter - Local mob calls at 1p/2sec
+STD Cost Cutter - STD mobile calls @ 25p/ min"
+52,75/2,0.3,0.25,30,"Local Cost Cutter - Cost: Rs18 | Validity: 28days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs34 | Validity: 56days | STD Call Rate: Rs0.25/minute","Local Cost Cutter - Local mob calls at 1p/2sec
+STD Cost Cutter - STD mobile calls @ 25p/min"
+32,240/7,0.3,0.3,30,"Local Cost Cutter - Cost: Rs18 | Validity: 28days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs14 | Validity: 28days | STD Call Rate: Rs0.3/minute","Local Cost Cutter - Local mob calls at 1p/2sec
+STD Cost Cutter - STD mobile calls @ 30p/min"
+170,2182/21,0.3,0.3,30,"Local Cost Cutter - Cost: Rs64 | Validity: 28days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs106 | Validity: 90days | STD Call Rate: Rs0.3/minute","Local Cost Cutter - Local mobile calls @ 1p/2s
+STD Cost Cutter - STD mobile calls @ 1p/2s"
+125,405/4,0.3,0.25,30,"Local Cost Cutter - Cost: Rs64 | Validity: 28days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs61 | Validity: 56days | STD Call Rate: Rs0.25/minute","Local Cost Cutter - Local mobile calls @ 1p/2s
+STD Cost Cutter - STD mobile calls @ 25p/min"
+80,600/7,0.3,0.25,30,"Local Cost Cutter - Cost: Rs64 | Validity: 28days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs16 | Validity: 28days | STD Call Rate: Rs0.25/minute","Local Cost Cutter - Local mobile calls @ 1p/2s
+STD Cost Cutter - STD mobile calls @ 25p/ min"
+98,1215/14,0.3,0.25,30,"Local Cost Cutter - Cost: Rs64 | Validity: 28days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs34 | Validity: 56days | STD Call Rate: Rs0.25/minute","Local Cost Cutter - Local mobile calls @ 1p/2s
+STD Cost Cutter - STD mobile calls @ 25p/min"
+78,585/7,0.3,0.3,30,"Local Cost Cutter - Cost: Rs64 | Validity: 28days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs14 | Validity: 28days | STD Call Rate: Rs0.3/minute","Local Cost Cutter - Local mobile calls @ 1p/2s
+STD Cost Cutter - STD mobile calls @ 30p/min"
+144,1882/21,0.35,0.3,30,"Local Cost Cutter - Cost: Rs38 | Validity: 21days | Local Call Rate: Rs0.35/minute
+STD Cost Cutter - Cost: Rs106 | Validity: 90days | STD Call Rate: Rs0.3/minute","Local Cost Cutter - Local Mobile Calls @35p/min
+STD Cost Cutter - STD mobile calls @ 1p/2s"
+99,2435/28,0.35,0.25,30,"Local Cost Cutter - Cost: Rs38 | Validity: 21days | Local Call Rate: Rs0.35/minute
+STD Cost Cutter - Cost: Rs61 | Validity: 56days | STD Call Rate: Rs0.25/minute","Local Cost Cutter - Local Mobile Calls @35p/min
+STD Cost Cutter - STD mobile calls @ 25p/min"
+54,500/7,0.35,0.25,30,"Local Cost Cutter - Cost: Rs38 | Validity: 21days | Local Call Rate: Rs0.35/minute
+STD Cost Cutter - Cost: Rs16 | Validity: 28days | STD Call Rate: Rs0.25/minute","Local Cost Cutter - Local Mobile Calls @35p/min
+STD Cost Cutter - STD mobile calls @ 25p/ min"
+72,145/2,0.35,0.25,30,"Local Cost Cutter - Cost: Rs38 | Validity: 21days | Local Call Rate: Rs0.35/minute
+STD Cost Cutter - Cost: Rs34 | Validity: 56days | STD Call Rate: Rs0.25/minute","Local Cost Cutter - Local Mobile Calls @35p/min
+STD Cost Cutter - STD mobile calls @ 25p/min"
+52,485/7,0.35,0.3,30,"Local Cost Cutter - Cost: Rs38 | Validity: 21days | Local Call Rate: Rs0.35/minute
+STD Cost Cutter - Cost: Rs14 | Validity: 28days | STD Call Rate: Rs0.3/minute","Local Cost Cutter - Local Mobile Calls @35p/min
+STD Cost Cutter - STD mobile calls @ 30p/min"
+139,4453/84,0.3,0.3,30,"Local Cost Cutter - Cost: Rs33 | Validity: 56days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs106 | Validity: 90days | STD Call Rate: Rs0.3/minute","Local Cost Cutter - Local Mobile Calls @ 30p/min 
+STD Cost Cutter - STD mobile calls @ 1p/2s"
+94,705/14,0.3,0.25,30,"Local Cost Cutter - Cost: Rs33 | Validity: 56days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs61 | Validity: 56days | STD Call Rate: Rs0.25/minute","Local Cost Cutter - Local Mobile Calls @ 30p/min 
+STD Cost Cutter - STD mobile calls @ 25p/min"
+49,975/28,0.3,0.25,30,"Local Cost Cutter - Cost: Rs33 | Validity: 56days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs16 | Validity: 28days | STD Call Rate: Rs0.25/minute","Local Cost Cutter - Local Mobile Calls @ 30p/min 
+STD Cost Cutter - STD mobile calls @ 25p/ min"
+67,1005/28,0.3,0.25,30,"Local Cost Cutter - Cost: Rs33 | Validity: 56days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs34 | Validity: 56days | STD Call Rate: Rs0.25/minute","Local Cost Cutter - Local Mobile Calls @ 30p/min 
+STD Cost Cutter - STD mobile calls @ 25p/min"
+47,915/28,0.3,0.3,30,"Local Cost Cutter - Cost: Rs33 | Validity: 56days | Local Call Rate: Rs0.3/minute
+STD Cost Cutter - Cost: Rs14 | Validity: 28days | STD Call Rate: Rs0.3/minute","Local Cost Cutter - Local Mobile Calls @ 30p/min 
+STD Cost Cutter - STD mobile calls @ 30p/min"

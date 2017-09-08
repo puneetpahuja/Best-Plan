@@ -1,0 +1,7 @@
+id,cost,talktime,validity,comments
+625,19,,30 days,All Local+ STD mobile @ 1ps/sec
+626,39,,30 days,All Local+ STD mobile 30ps/min
+627,41,,30 days,Unlimited Onnet Calls (STD + Local)
+628,49,,30 days,"Local A2A @ 10p/Min, Local Off net @ 30ps/min"
+629,52,,90 days,All Local+ STD mobile @ 1ps/sec
+630,132,,90 days,"Local A2A @ 10p/Min, Local Off net @ 30ps/min"

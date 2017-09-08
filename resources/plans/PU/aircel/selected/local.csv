@@ -1,0 +1,18 @@
+id,cost,talktime,validity,comments
+991,7,,1 day,UL Local A2A Calls
+992,11,,90 Days,All Local and STD calls @ 1p/sec
+993,13,,90 days,Local A2A Mobile Calls @ 10p/min
+994,16,,3 days,1800 Local /STD seconds
+995,23,,90 days,All Local calls @ 30p/min
+996,24,,7 days,"2,500 Local /STD seconds"
+997,27,,7 days,"3,000 Local seconds"
+998,34,,28 days,UL Local A2A for 6 Days Thereafter Local A2A @ 10p
+999,43,,14 days,5000 Local /STD seconds
+1000,51,,45 days,All Local Calls @ 25p/min
+1001,55,,28 days,"7,000 Local seconds"
+1002,58,,14 days,Unlimited Local Aircel to Aircel calls
+1003,63,,84 days,All Local Mobile Calls @1p/2Sec
+1004,75,,28 days,"8,500 Local /STD seconds"
+1005,92,,28 days,Unlimited Local Aircel to Aircel calls
+1006,105,,28 days,12000 Local /STD seconds
+1007,129,,28 days,UL Local / STD A2A Calls

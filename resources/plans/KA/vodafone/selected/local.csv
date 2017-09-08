@@ -1,0 +1,7 @@
+id,cost,Local-rate,Std-rate,validity,comments
+17243,17,0.3,nil,28 days,Local calls to mobile @30p/m
+17244,18,0.6,0.6,28 days,Local and STD Mobile calls @1p/sec
+17245,25,0.3,0.3,28 days,Local & STD Mobile calls @30p/m
+17247,31,0.3,nil,56 days,Local calls to mobile  @30p/m
+17248,37,0.3,0.25,28 days,Local calls @30p/m and STD calls @25p/m
+17250,56,0.3,nil,84 days,Local calls to mobile  @30p/m

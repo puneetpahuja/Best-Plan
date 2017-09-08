@@ -1,0 +1,25 @@
+id,cost,talktime,validity,comments
+86,6,,28 days,Loc/STD A-A calls @ 10P/min
+87,8,,28 days,Local & STD mobile calls @ 1P/2sec
+88,11,,28 days,Local & STD mobile calls @ 25P/min
+89,12,,28 days,All Local & Other STD Calls @ 25p/min -- STD A-A Calls @ 10p/min
+90,13,,1 day,Unlimited Local & STD Calls (T & C)
+91,19,,5 days,Unlimited Local A2A
+92,28,,28 days,Local & STD Mobile Calls @ 1p/2sec
+93,29,,28 days,All Local & Other STD Calls @ 25p/min + STD A-A Calls @ 10p/min for 28 Days
+94,34,,56 days,Local Mobile calls @ 1p/2sec
+95,42,,14 days,Unlimited Local A2A
+96,43,,28 days,Local & STD A-A calls @ 10p/min -- Local & STD Other calls @ 1p/2sec
+97,53,,90 days,A2A Local & STD is @ 15p/min
+98,59,,7 days,Unlimited Local & STD A-A Calls
+99,62,,84 days,Local & STD Aircel-Aircel Calls @10p/min 
+100,63,,84 days,Local/STD Mobile calls @ 1p/2sec
+101,64,,28 days,Unlimited Local A2A calls
+102,66,,84 days,Local/STD Mobile calls @ 25ps/min
+103,84,,28 days,Unlimited Local & STD A-A Calls + Other Local & STD Calls @ 20p/min
+104,112,,84 days,Local & STD A-A calls @ 10p/min & Local & STD Other calls @ 1p/2sec
+105,135,,30 days,120000 Local A2A seconds + 15000 Local & STD seconds
+106,152,,1 day,Unlimited Local & STD Calls(T & C)
+107,169,,84 days,Unlimited Local A2A Calls
+108,194,,28 days,Unlimited Local & STD A-A Calls
+109,251,,28 days,UL Calls (T & C)

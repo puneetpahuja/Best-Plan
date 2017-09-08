@@ -1,0 +1,13 @@
+id,cost,talktime,validity,comments
+14411,8,,2 days,Local Reliance calls @15p/min and other Local and STD voice calls @30p/min
+14412,13,,3 days,Local Reliance calls at 15p/min and other Local and STD voice calls at 30p/min
+14413,17,,28 days,Local Onnet calls @ 10p/min
+14414,19,,28 days,All Local Mobile calls @ 30p/min
+14415,27,,90 days,Local Onnet calls @ 15p/min
+14416,36,,90 days,All Local & STD Calls @30p min
+14417,37,,5 days,4200 All calls sec
+14418,42,,21 days,6000 Local secs
+14419,46,,28 days,All local mobile calls @ 25p/min
+14420,83,,90 days,All Local mobile calls @ 25p/min
+14421,149,,28 days,Unlimited Free Calls on Local Onnet mobile and 500 onnet STD mobile minutes. ( Applicable for customers with AON less than 120 days only)
+14422,159,,28 days,24000 Sec(L+STD)

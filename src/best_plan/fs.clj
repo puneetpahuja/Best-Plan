@@ -14,24 +14,24 @@
   (read-csv (str env/plans (s/join "/" [circle telecom-provider env/subfolder recharge-type])
                  ".csv")))
 
-(defn process-csv-row [csv-row]
-  (concat (map read-string (drop-last 2 csv-row)) (take-last 2 csv-row)))
+(defn process-csv-row [csv-row drop-cols]
+  (concat (map read-string (drop-last drop-cols csv-row)) (take-last drop-cols csv-row)))
 
-(defn get-csv-rows [file]
-  (map process-csv-row (read-csv file)))
+(defn get-csv-rows [file drop-cols]
+  (map #(process-csv-row % drop-cols) (read-csv file)))
 
-(defn get-recharges [user type init-fn]
+(defn get-recharges [user type init-fn drop-cols]
   (->> (file-lines user type)
-       (map #(apply init-fn (process-csv-row %)))))
+       (map #(apply init-fn (process-csv-row % drop-cols)))))
 
 (defn get-talktime-recharges [user]
-  (get-recharges user "talktime" r/talktime-recharge))
+  (get-recharges user "talktime" r/talktime-recharge env/drop-cols-final))
 
 (defn get-minutes-recharges [user]
-  (get-recharges user "minutes" r/minutes-recharge))
+  (get-recharges user "minutes" r/minutes-recharge env/drop-cols-final))
 
 (defn get-cost-cutter-recharges [user]
-  (get-recharges user "cost_cutter" r/cost-cutter-recharge))
+  (get-recharges user "cost_cutter" r/cost-cutter-recharge env/drop-cols-final))
 
 (defn make-cost-cutter-talktime-pair [[cost-cutter talktime]]
   (r/cost-cutter-talktime-combo cost-cutter talktime))

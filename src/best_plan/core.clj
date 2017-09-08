@@ -6,13 +6,19 @@
             :reload))
 
 (comment TODO
+         * do input sanitizing
+         * add a link to instuctions to find out call rates
+         * add savings column
          * convert top.csv and full.csv to talktime.csv
          * convert minutes_edit.csv to minutes.csv
          * introduce local and std in minutes recharge
          * add functionality to compare all telecom operators of a circle
          * introduce on-net off-net concept in cost-cutter and minutes
          * add ability to add the concept of first x mins at a costlier rate in
-         cost cutter)
+         cost cutter
+         BUGS
+         * .5 in input gives error (read-string ".5") returns a symbol
+         * empty input gives error)
 
 ;; call rates are in rupees per minute
 ;; usage is in minutes

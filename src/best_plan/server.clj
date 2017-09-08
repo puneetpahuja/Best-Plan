@@ -81,9 +81,7 @@
   (let [user (:form-params req)]
     (if (and user (not-empty user))
       (show-plans user)
-      (resp/resource-response "input_materialize.html" {:root "public"})
-      ;;(show-input-form)
-      )))
+      (resp/resource-response "input_materialize.html" {:root "public"}))))
 
 (defn -main [& [port]]
   (let [port (Integer. (or port (environ/env :port) 3000))]

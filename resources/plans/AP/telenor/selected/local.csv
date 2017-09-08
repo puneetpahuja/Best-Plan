@@ -1,0 +1,37 @@
+id,cost,talktime,validity,comments
+15743,3,,1 day,Unlimited Local Telenor to Telenor calls
+15744,4,,2 days,ALL Local calls@25p/min
+15745,6,,28 days,All Local & STD calls @ 1p/sec  
+15746,8,,4 days,All Local & STD calls @25p/min  
+15747,12,,28 days,6000 Local Telenor to Telenor seconds
+15748,16,,28 days,All Local + STD calls @ 1p/2 sec
+15749,17,,28 days,All Local / Other STD calls @25p/min + Telenor to Telenor STD (Telenor Home + Roaming) @ 10p/min
+15750,18,,7 days,Unlimited Local Telenor to Telenor Calls
+15751,21,,28 days,12000 Local Telenor to Telenor seconds
+15752,22,,28 days,All Local/STD call @20p/min
+15753,26,,14 days,3000 Local & STD seconds
+15754,29,,84 days,All Local + STD calls @ 1p/2 sec
+15755,32,,14 days,Unlimited Local Telenor to Telenor calls
+15756,33,,90 days,All Local / Other STD calls @25p/min + Telenor to Telenor STD (Telenor Home + Roaming) @ 10p/min
+15757,38,,90 days,All Local/STD calls @ 20p/min
+15758,42,,28 days,5400 Local & STD seconds
+15759,64,,28 days,Unlimited Local Telenor to Telenor calls + All Local & STD calls @ 25p/min
+15760,66,,28 days,"9,000 Local/STD seconds"
+15761,68,,28 days,10000 Local/STD seconds
+15762,69,,90 days,145 Local Min valid for 3 days & All Local calls @ 25p/min
+15763,74,,28 days,Unlimited Local/STD Telenor to Telenor calls
+15764,83,,90 days,200 Local/STD Min Valid for 3 days & All Local/STD calls @ 25p/min
+15765,96,,28 days,"14,000 Local/STD seconds"
+15766,99,,28 days,"15,000 Local/STD seconds"
+15767,109,,14 days,60000 seconds Local Telenor to Telenor and 17000 seconds Local Telenor to others
+15768,129,,28 days,"20,000 Local/STD seconds"
+15769,139,,90 days,Unlimited Local Telenor to Telenor calls
+15770,147,,14 days,Unlimited Local & STD Telenor to Telenor Free Local/STD Telenor to other. (*100 Telenor to other min/day or 500 Telenor to other minutes in a week. Post that fixed tariff of 25p/min for Telenor to other calls will apply for the remainder of day/week)
+15771,195,,28 days,500 Local/STD min -- 1500 Local Telenor to Telenor min
+15772,209,,28 days,120000 Local Telenor to Telenor seconds and 30000 Local Telenor to others seconds
+15773,229,,28 days,120000 Local Telenor to Telenor seconds & 38000 Local Telenor to others seconds
+15774,252,,90 days,"50000 Any Local seconds & 50000 Local Telenor to Telenor seconds (28 days), Beyond that All Local & STD calls @ 1.2p/sec"
+15775,253,,28 days,52000 Any Local / STD seconds
+15776,555,,90 days,120000 Any Local seconds (28 days) -- All Local & STD calls at 1.2p/sec
+15777,599,,90 days,"120000 Local Telenor to Telenor seconds & 40000 Local Telenor to others seconds, every month for 3 months"
+15778,777,,90 days,120000 Any Local / STD seconds (28 days) -- All Local & STD at 1.2p/sec

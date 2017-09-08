@@ -1,0 +1,19 @@
+id,cost,talktime,validity,comments
+855,4,,1 day,L+N calls @ 30p/m
+856,11,,1 day,All Local calls @ 30p/min
+857,12,,2 days,18 All Local + STD minutes
+858,13,,1 day,Unlimited all Local calls to any network
+859,17,,56 days,"All Local calls @ 1.4p/sec & STD 1.5p/sec, LL 3p/sec"
+860,23,,5 days,All Loc+STD @25p/min
+861,25,,4 days,40 All Local + STD minutes
+862,28,,28 days,Local Aircel to Aircel calls @ 10p/min
+863,35,,4 days,65 All Local minutes
+864,48,,7 days,75 min L+N calls
+865,55,,28 days,"All Local A2A @ 35p/min, Other mobile & STD Calls @ 50p/min"
+866,56,,56 days,Local A2A calls @ 10p/min
+867,62,,7 days,120 All Local minutes
+868,75,,10 days,120 All Local + STD minutes
+869,89,,28 days,"Local Aircel @15p/min, STD Aircel @20p/min -- Also applicable while roaming "
+870,105,,14 days,200 All Local minutes
+871,109,,14 days,185 All Local + STD Minutes
+872,209,,28 days,515 Local Minutes

@@ -1,0 +1,12 @@
+id,cost,talktime,validity,comments
+15339,11,,1 day,"Local On-Net mobile calls @ 0p/sec till 3600 seconds, post 10p/60sec"
+15340,16,,30 days,All local calls @ 50p/Min; All STD calls @ 30p/Min
+15341,34,,30 days,Local On-Net mobile calls @ 15p/Min -- STD On-Net mobile calls @ 15p/Min
+15342,45,,28 days,Local Off-Net mobile calls @1p/2sec -- Local On-Net mobile calls @ 1p/6sec
+15343,61,,28 days,18000 Local On-Net Mins
+15344,68,,10 days,Local On-Net mobile calls @ 0p/sec (11PM to 5PM) & (5PM to 11PM 1p/sec)
+15345,95,,30 days,"Local On-Net mobile calls @ 72000 sec for Night Calling, then after 5p/60sec. (Night timing 10pm to 8am)"
+15346,123,,21 days,Local On-Net mobile calls @ 0p/sec (11PM to 5PM) & (5PM to 11PM 1p/sec)
+15347,129,,90 days,Local Off-Net mobile calls @ 50p/Min
+15348,199,,28 days,Local On-Net mobile calls @ 0p/sec
+15349,349,,28 days,Local On-Net mobile calls @ 0p/sec -- Local Mins: 60 Min on Sunday -- Local Secs: 1800

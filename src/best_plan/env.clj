@@ -2,8 +2,11 @@
 
 (def res "resources/")
 (def plans (str res "plans/"))
-(def subfolder "selected")
+(def subfolder "selected/")
 (def json-dir (str res "raw_jsons_dy/"))
+
+(def drop-cols-final 2) ;; number of columns in the last of final converted csv that are strings
+(def drop-cols-raw 1) ;; number of columns in the last of raw unconverted csv that are strings
 
 (def circle-names ["Andhra Pradesh" "Assam" "Bihar Jharkhand" "Chennai" "Delhi NCR"
                    "Gujarat" "Haryana" "Himachal Pradesh" "Jammu Kashmir" "Karnataka"
@@ -40,6 +43,7 @@
                    :recharge_type "type"})
 
 (def days-in-month 30)
+
 
 (def input-cost-cutter-csv-format [:id :cost :local-rate :std-rate :validity :comments])
 (def output-cost-cutter-csv-format [:cost :monthly-cost :local-rate :std-rate
