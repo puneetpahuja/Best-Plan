@@ -34,7 +34,7 @@
 
     <div class="container">
       <form action="" method="POST" class="center-align">
-        <select name="circle" id="state">
+        <select name="circle" id="state" required>
           <option value="" disabled selected>Choose your region</option>
           <option value="AP">Andhra Pradesh</option>
           <option value="NE">Arunachal Pradesh</option>
@@ -73,10 +73,13 @@
 
         <br />
 
-        <select name="telecom-provider" id="company">
+        <select name="telecom-provider" id="company" required>
           <option value="" disabled selected>Choose your telecom provider</option>
           <option value="airtel">Airtel</option>
+          <option value="bsnl">BSNL</option>
           <option value="idea">Idea</option>
+          <option value="tata_docomo">Tata Docomo</option>
+          <option value="vodafone">Vodafone</option>
         </select>
 
         <br />
@@ -87,12 +90,12 @@
           </legend>
 
           <div class="input-field">
-            <input type="number" name="local-usage" class="validate" id="local-use">
+            <input type="number" name="local-usage" class="validate" id="local-use" required>
             <label for="local-use">Local Usage (ex: 200)</label>
           </div>
 
           <div class="input-field">
-            <input type="number" name="std-usage" class="validate" id="std-use">
+            <input type="number" name="std-usage" class="validate" id="std-use" required>
             <label for="std-use">STD Usage (ex: 150)</label>
           </div>
 
@@ -106,12 +109,12 @@
           </legend>
 
           <div class="input-field">
-            <input type="number" step="0.01" name="local-rate" class="validate" id="local-call-rate">
+            <input type="number" step="0.01" name="local-rate" class="validate" id="local-call-rate" required>
             <label for="local-call-rate">Local Call Rate (ex: 0.6)</label>
           </div>
 
           <div class="input-field">
-            <input type="number" step="0.01" name="std-rate" class="validate" id="std-call-rate">
+            <input type="number" step="0.01" name="std-rate" class="validate" id="std-call-rate" required>
             <label for="std-call-rate">STD Call Rate (ex: 1.15)</label>
           </div>
         </fieldset>
