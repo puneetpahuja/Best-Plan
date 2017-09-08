@@ -1,0 +1,18 @@
+id,cost,talktime,validity,comments
+777,11,,7 days,Local A2A mobile @10p/min
+778,12,,1 day,"Unlimited STD/Local Aircel Calls and a capping of 60 mins for other STD/Local calling post that a charging of 30p/min for the day. (This STV should not be used for any Commercial Activity, else it will be deactivated. Commercial Activity means calling 100 or more unique callers)."
+779,16,,28 days,STD + Local mobile @ 35p/Min (with 1st OG Minute of the day @ 1.2Rs/Min) 
+780,22,,28 days,Local A2A @10p/min + Other STD/Local mobile @25p/min
+781,23,,1 day,"Unlimited STD/Local Aircel Calls and a capping of 180 mins for other STD/Local calling post that a charging of 30p/min for the day. (This STV should not be used for any Commercial Activity, else it will be deactivated. Commercial Activity means calling 100 or more unique callers)."
+782,25,,60 days,STD & Local mobile calls @ 25p/min (1st 2 OG mins@Re1/min)
+783,31,,28 days,All STD/Local mobile Calls @ 1p/2Sec
+784,48,,28 days,Local mobile calls@25p/min
+785,54,,28 days,Local mobile calls @ 35p/min -- STD mobile calls @ 40p/min
+786,56,,28 days,"All STD/Local Mobile Calls @ 20p/min (Thursday - 60 days, Remaining days 28 days)"
+787,58,,60 days,All STD & Local mobile calls @ 25p/min -- 
+788,66,,28 days,Local A2A mobile @ 1p/6sec & Other Local Mobile  -- STD mobile calls @1p/2sec
+789,94,,28 days,Local/STD Aircel calls @20p/min (on-net tariff applicable for Home and Roaming Aircel network) & other Local/STD Mobile calls @35p/min
+790,99,,10 days,1500 Local A-A mins
+791,124,,28 days,"16,000 Local & STD Seconds + 4,000 Local A-A secs"
+792,197,,28 days,"30,000 Local & STD Seconds + 10,000 Local A-A secs"
+793,551,,90 days,"30,000 Local & STD Seconds + 10,000 Local A-A secs per month for 3 Months"

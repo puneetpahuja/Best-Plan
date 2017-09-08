@@ -1,0 +1,23 @@
+id,cost,talktime,validity,comments
+7816,7,,2 days,Local On-Net mobile calls @ 0p/ sec -- 
+7817,23,,14 days,Local On-Net 600 mins 
+7818,24,,28 days,All local calls at 30p/min
+7819,35,,28 days,Local + STD mobile calls @ 1p/ 2secs. TnC apply 
+7820,37,,28 days,Local/ STD mobile calls @ 25p/ min. (on minute pulse) 
+7821,38,,45 days,Local/STD Mobile calls @30p/ min (on minute pulse) 
+7822,44,,56 days,All local calls @30p/min
+7823,45,,28 days,Local/STD Mobile calls @ 20p/Sec (on minute pulse)
+7824,46,,10 days,Local On-Net mobile calls @ 0p/ sec.
+7825,47,,14 days,"7,200 Local mobile secs. (120 mins.)"
+7826,53,,28 days,"Local/STD Mobile calls @ 30p/ min (On Second Pulse. In every min., 1st 30 secs. @ 1p/ sec. & next 30 secs. @ 0p/ sec.)"
+7827,66,,84 days,Local/STD Mobile calls @30p/ min (on minute pulse)
+7828,67,,14 days,12000 Local and STD mins. (200 mins) 
+7829,68,,30 days,23400 Local On-Net Sec + 5700 Local Mobile Seconds
+7830,81,,90 days,Local + STD mobile calls @ 25p/ min
+7831,85,,21 days,4500 Local On-Net Sec + 9900 Local Mobile Seconds 
+7832,93,,28 days,14700 Local Seconds
+7833,97,,28 days,Local onnet 250min and local Offnet 250 mins
+7834,103,,28 days,"L/S Tata Calls free, UL Calls Capped at Commercial usage policy of 3000min post which T2T calls at 10p/min -- Local On-Net mobile calls @ Unlimited -- STD On-Net mobile calls @ Unlimited"
+7835,108,,28 days,Local On-Net mobile calls free 
+7836,128,,28 days,Local + STD 375 mins
+7837,198,,28 days,120000 Local On-Net Sec + 42000 Local Mobile Seconds

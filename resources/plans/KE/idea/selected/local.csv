@@ -1,0 +1,14 @@
+id,cost,talktime,validity,comments
+10519,17,,28 days,All Local Calls at 1p/s
+10520,19,,7 days,Local Calls @ 30p/min
+10521,21,,28 days,Local Idea to Idea Calls @20p/min
+10522,26,,28 days,Local Calls @ 30p/min
+10523,32,,28 days,Local/ STD Roaming outgoing calls at 50p/min
+10524,34,,28 days,Local Idea to Idea Calls @20p/min and Local Other Calls @30p/min
+10525,39,,28 days,Local Idea to Idea Calls @10p/min
+10526,42,,28 days,All Local/STD mobile calls @30p/min
+10527,62,,28 days,Local Idea to Idea Calls @10p/min and Local Other Calls @30p/min
+10528,98,,28 days,"12,000 Local STD secs"
+10529,135,,28 days,"18,000 Local STD secs"
+10530,196,,28 days,"30,000 Local STD secs"
+10531,197,,7 days,"Unlimited Local/STD calls -- Commercial activity will mean customers using the said product for calling 100 unique callers in a week or more than 300 mins in a day or 1200 mins in a week. For any customer found violating any of these conditions, tariff @ Rs 0.10/min for all Idea to Idea calls will be applicable -- This STV should not be used for any commercial activity. "

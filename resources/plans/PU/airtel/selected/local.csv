@@ -1,0 +1,33 @@
+id,cost,talktime,validity,comments
+3750,6,,1 day,All Calls @ 1.6p / Sec
+3751,8,,3 days,"All Local + STD calls @ 30p/Min, 1st 120 Local + STD Sec @ 2p/sec)"
+3752,13,,27 days,L+N Mobile Calls @ 45p/Min 
+3753,16,,27 days,L+N Mobile Calls @ 1p/Sec
+3754,18,,1 day,140 Local A2A Mins
+3755,21,,1 day,1900 All Local+ STD Seconds
+3756,24,,6 days,Local A2A Calls @ 10p/Min 
+3757,31,,27 days,Local Mobile Calls @ 30p/Min
+3758,38,,3 days,280 Local A2A Mins
+3759,39,,8 days,L+N Mobile Calls @ 30p/Min
+3760,42,,3 days,4000 All Local+ STD Seconds
+3761,46,,27 days,Local A2A Calls @ 10p/Min 
+3762,54,,7 days,100 All Local Mins
+3763,56,,27 days,L+N Mobile Calls @ 30p/Min 
+3764,59,,7 days,5500 All Local+ STD Seconds
+3765,78,,7 days,560 Local A2A Mins
+3766,94,,14 days,330 Local A2A Min
+3767,96,,14 days,9000 All Local+ STD Seconds
+3768,97,,14 days,200 All Local Mins
+3769,99,,14 days,150 All Local + STD Min
+3770,123,,14 days,29K Local A2A Sec
+3771,136,,180 days,All local/STD mobile calls at 2p/sec and landline at 2.5p/sec
+3772,194,,27 days,420 Local+STD Min
+3773,197,,27 days,27000 Local+STD Sec
+3774,199,,2 days,Unlimited All Local & STD calls -- TNC Apply
+3775,249,,2 days,Unlimited Local Mobile Calls (TnC Apply)
+3776,295,,56 days,Unlimited Local + STD A2A Calls. T&C Apply.
+3777,299,,3 days,Unlimited All Local & STD calls -- TnC Apply
+3778,347,,60 days,Unlimited Local + STD A2A Calls. T&C Apply.
+3779,395,,75 days,Unlimited Local + STD A2A Calls. T&C Apply.
+3780,494,,28 days,800 All Local+STD Min
+3781,545,,90 days,Unlimited Local + STD A2A Calls. T&C Apply.

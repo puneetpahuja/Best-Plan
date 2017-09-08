@@ -1,0 +1,15 @@
+id,cost,talktime,validity,comments
+17743,6,,28 days,Local mobile calls @1p/sec
+17744,7,,28 days,"Local mobile calls @30p/min, First 120 local seconds of the day @2p/sec"
+17745,16,,28 days,Local + STD mobile calls @1p/s
+17746,17,,28 days,Local mobile calls @30p/min
+17747,22,,28 days,Local Vodafone to Vodafone mobile calls @10p/min -- First 120 local Vodafone to Vodafone seconds of the day @2p/sec
+17748,27,,2 days,7500 Seconds Local Vodafone Mobile
+17749,35,,28 days,Local+STD mobile calls @30p/min
+17750,41,,28 days,Local Vodafone to Vodafone mobile calls @10p/min
+17751,46,,28 days,Roam + Home pack :  All Local & STD calls in Home and National Roaming @ 1p/secIncoming calls while on National roaming is free
+17752,69,,7 days,15000 Local Vodafone to Vodafone mobile seconds
+17753,91,,10 days,18000 Local Vodafone to Vodafone mobile seconds
+17754,98,,28 days,12500 Local + STD mobile seconds
+17755,103,,28 days,Local + STD Vodafone to Vodafone mobile calls @15p/min
+17756,203,,28 days,"27,000 Local + STD mobile seconds"

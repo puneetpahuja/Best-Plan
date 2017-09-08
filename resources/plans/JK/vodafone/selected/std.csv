@@ -1,0 +1,11 @@
+id,cost,talktime,validity,comments
+19001,14,,14 days,STD calls @ 30p/min 
+19002,19,,45 days,STD Mobile calls @Re1/3min
+19003,25,,28 days,STD Mobile calls @30p/min
+19004,29,,28 days,STD calls @ 25p/min 
+19005,33,,60 days,Std Mobile calls @Re 1/3min
+19006,39,,60 days,STD Mobile calls @35p/min
+19007,41,,28 days,STD Mobile calls @ 35p/min
+19008,51,,60 days,STD Mobile calls @ 30p/min
+19009,68,,50 days,All STD Mobile Calls @25p/min 
+19010,104,,60 days,STD Mobile calls @ 30p/min

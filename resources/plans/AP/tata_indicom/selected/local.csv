@@ -1,0 +1,18 @@
+id,cost,talktime,validity,comments
+14966,9,,2 days,1200 Local + STD Secs
+14967,13,,28 days,Local On-Net mobile calls @ Re.1/10 mins -- All local off -net and all STD calls @ Re.1/3mins
+14968,21,,28 days,Local/STD Mobile calls @36ps/min
+14969,22,,30 days,Local & STD Mobile calls @ 30ps/min
+14970,23,,28 days,Local On-Net mobile calls @ 20ps/min -- Local Off-Net mobile calls @ 30ps/min
+14971,37,,28 days,All Local calls @ 30ps/min
+14972,38,,28 days,Local/STD Mobile calls @25ps/min (upto 300 mins)
+14973,41,,90 days,Local/STD Mobile calls @ 1ps/sec
+14974,45,,28 days,Local/STD Mobile calls @1.2ps/2secs
+14975,52,,21 days,Unlimited Local On-Net mobile calls
+14976,55,,28 days,Local & STD Mobile calls @ 1.2p/2sec
+14977,58,,84 days,"Local/STD Mobile calls @36ps/min, First 120 seconds of the day @ 2p/sec"
+14978,63,,30 days,Local On-Net mobile calls @ 1ps/4secs -- Local Off-Net mobile calls @ 1ps/2secs
+14979,65,,30 days,All Local calls @1ps/2secs
+14980,74,,28 days,Unlimited Local On-Net mobile calls
+14981,229,,28 days,120000 Local TATA Calling Seconds + 40000 Other Local Calling Seconds
+14982,666,,28 days,2500 Local Mins

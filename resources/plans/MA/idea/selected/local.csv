@@ -1,0 +1,12 @@
+id,cost,talktime,validity,comments
+10919,6,,28 days,Local Mobile Calls @30p/min (First 60 sec @ 2p/sec) 
+10920,9,,3 days,Local Mobile Calls @30p/min
+10921,14,,28 days,Local+STD Idea Calls@15p/min(First 120 secs @ 1.8p/s)
+10922,17,,28 days,Local + STD @1p/sec 
+10923,18,,28 days,Local Mobile Calls @30p/min.
+10924,22,,28 days,Local Idea@ 10p/min( First 90 secs@1.5p/sec)
+10925,34,,28 days,Local + STD calls @ 30p/min
+10926,39,,28 days,Local Idea@ 10p/min
+10927,44,,4 days,"9,000 Local Idea Secs Free"
+10928,54,,5 days,4000 Local + STD Mobile Secs
+10929,199,,28 days,30000 Local + National Seconds

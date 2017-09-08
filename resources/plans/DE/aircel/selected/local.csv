@@ -1,0 +1,27 @@
+id,cost,talktime,validity,comments
+409,5,,1 day,15 Local/National mins 
+410,6,,1 day,All Local/STD calls @ 30p/min
+411,8,,28 days,Local Mobile Call @30p/min + First minute of the day@80p/min.
+412,11,,28 days,Local A2A mobile Calls @10p/min
+413,12,,28 days,All mobile calls @ 30p/min
+414,13,,28 days,Roaming Incoming @20p/min -- Loc/STD calls @45p/min for roaming on ALL NETWORKS -- OG calls to Nepal @Rs6.99/Min
+415,14,,28 days,Local mobile calls @ 25p/min
+416,15,,3 days,35 Local & STD Minutes.
+417,16,,1 day,Unlimited Local Aircel to Aircel calls
+418,19,,1 day,"Unlimited All mobile Calls (UL calls till 300 Mins/day, post 300 Mins/day mobile calls @30p/min)"
+419,25,,5 days,60 Local & STD Minutes.
+420,27,,21 days,"Local Mobile Calls @20p/Min, post consumption of 100 Local Mobile Minutes, charge at 40p/Min"
+421,32,,90 days,All local mobile calls @ 30p/min (first min of the day @ 80p/min every day)
+422,33,,84 days,Local A2A mobile Calls @10p/min
+423,38,,35 days,L/S calls @25p
+424,46,,28 days,Local and STD Mobile Calls @ 40p/min
+425,54,,28 days,All mobile Calls (Local + STD) @ 20p/min
+426,64,,28 days,Unlimited Local A2A mobile calls + Local A2O calls & All STD mobile calls @30p/min
+427,65,,21 days,115 Local & STD Mobile Minutes
+428,67,,28 days,9500 Local Mobile Seconds
+429,79,,21 days,250 Local & STD Minutes.
+430,111,,28 days,300 Local Minutes
+431,115,,28 days,400 Local & STD Minutes.
+432,116,,28 days,"20,000 Local Mobile Seconds"
+433,149,,28 days,Unlimited Local A2A Calls
+434,1398,,28 days,"Unlimited Local A2A and 4500 STD A2A Mobile Minutes. Other Local/STD Mobile Calls @ 1p/sec. Post consumption of Free Mins, STD A2A Mobile Calls @ 1p/sec"

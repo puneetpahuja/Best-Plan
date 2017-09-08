@@ -1,0 +1,26 @@
+id,cost,talktime,validity,comments
+17127,15,,56 days,"Local & STD calls @ 2p/sec for first 60 secs, 30p local/std"
+17128,17,,45 days,Local & STD Mobile Calls @1p/sec
+17129,21,,9 days,Local Vodafone to Vodafone 15p/min
+17130,23,,3 days,150 Local Vodafone to Vodafone min
+17131,26,,10 days,Local mobile calls @25p/min
+17132,29,,3 days,70 Local & STD minutes
+17133,31,,21 days,Local V2V calls@ 10p/min
+17134,39,,28 days,Local V2V calls @ 10p/min
+17135,43,,28 days,Local mobile calls @25p/min
+17136,44,,5 days,250 Local Vodafone to Vodafone min
+17137,46,,28 days,Local & STD 30p/min
+17138,49,,45 days,Local moblie calls @30p/min
+17139,53,,7 days,Free 85 Local mins
+17140,59,,7 days,130 Local & STD mins
+17141,65,,45 days,Local Mobile calls @25p/min
+17142,79,,14 days,Free 175 Local & STD mins
+17143,86,,14 days,Free 200 Local & STD mins
+17144,96,,28 days,Free 620 Local Vodafone mins
+17145,99,,7 days,700 Local Vodafone to Vodafone min
+17146,105,,28 days,Free 255 Local & STD mins
+17147,109,,30 days,"Loc Onnet 15p, Loc Offnet 30p & STD @ 35p"
+17148,115,,28 days,Free 300 Local Mobile mins
+17149,198,,28 days,1100 Local Vodafone to Vodafone min
+17150,204,,28 days,Free 550 Local & STD mins
+17151,209,,28 days,Free 600 Local & STD Mobile mins

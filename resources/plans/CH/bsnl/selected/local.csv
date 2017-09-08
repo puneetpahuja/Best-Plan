@@ -1,0 +1,27 @@
+id,cost,talktime,validity,comments
+5240,26,,26 hours,U/L voice (local/STD) (Onnet/offnet) in Home LSA -- 1 onnet local SMS
+5241,34,,1 day,72 MINUTES LOCAL and STD CALLS ONNET -- 
+5242,42,,21 days,For Per Minute plan:(a)10paisa/min for On-net voice calls (Local/STD)(b)30paisa/min for Off-netvoicecalls(Local/STD) -- For Per Second plan:(a)1paisa/3sec for On-net voice calls (Local/STD) (b)2paisa/3 sec for Off-net Voice calls (Local/STD)
+5243,44,,25 days,Local any Network calls 1.4ps per 2sec -- 
+5244,47,,21 days,Local Onnet calls 20ps per min -- 
+5245,65,,27 days,STV VOICE LOCAL ONNET AT 15P PER MIN -- 
+5246,69,,30 days,Local call to anynet at 1paisa per 2 Sec
+5247,88,,48 days,For Per Minute plan:(a)10paisa/min for On-net voice calls (Local/STD)(b)30paisa/min for Off-netvoicecalls(Local/STD) -- For Per Second plan:(a)1paisa/3sec for On-net voice calls (Local/STD) (b)2paisa/3 sec for Off-net Voice calls (Local/STD)
+5248,101,,7 days,All Voice Calls FREE (Local/STD On-Net/Off-Net) in Home LSA.
+5249,122,,75 days,Local any Network calls 1.4ps per 2sec -- 
+5250,135,,28 days,300 min local or STD calls to any network
+5251,143,,30 days,U/L On net (local/STD) voice calls + U/L Off-net  (local/STD) voice calls (in Home LSA Only) -- The Free off-net (Local/STD) voice calls is limited to 20min/day -- This STV is applicable only for Plan_144 customers
+5252,149,,26 days,19800 Seconds Voice Calls (Local/STD) Free to any network in Home LSA Only.
+5253,152,,30 days,Local and STD Onnet calls 10ps per min and Offnet calls 30ps per min -- 
+5254,159,,28 days,Free 20300 Sec Loc or STD calls to any network
+5255,164,,5 days,Unlimited Local plus STD Onnet calls -- 
+5256,181,,30 days,23800 Sec Local/STD Voice Calls to Any N/w
+5257,201,,28 days,Free 26800 Secs  to Any Network Local and STD Calls
+5258,291,,90 days,Local Onnet mobile calls 10ps per min and other local calls 49 ps per min
+5259,344,,24 days,Unlimited Local Onnet. -- 
+5260,359,,60 days,Free 52000 Secs to Any Network Local and STD Calls
+5261,449,,84 days,1400 min Loc or STD to any network
+5262,574,,27 days,Unlimited Local On net and 500 Min free Local STD calls Any net. -- 
+5263,699,,30 days,"Local Onnet calls Unlimited free, Local Offnet calls 1500 min free"
+5264,701,,28 days,Unlimited Local or STD Onnet calls -- 
+5265,894,,81 days,Unlimited Local Onnet. -- 

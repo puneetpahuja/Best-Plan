@@ -1,0 +1,27 @@
+id,cost,talktime,validity,comments
+1692,2,,84 days,Local and STD mobile call @ 1p/sec
+1693,8,,7 days,Local mobile call @ 30p/min 
+1694,16,,27 days,Local and STD Mobile call @ 1p/sec
+1695,19,,20 days,Local Mobile Call @ 30p
+1696,22,,27 days,Local Airtel Call @ 20p/min
+1697,24,,27 days,Local Mobile Call @ 30p
+1698,27,,3 days,75 local airtel minutes
+1699,28,,3 days,45 Local Mobile Mins
+1700,32,,54 days,Local and STD Mobile call @ 1p/sec 
+1701,37,,27 days,Local A2A Call @10p/min
+1702,38,,54 days,Local Mobile call @ 30p/min
+1703,44,,81 days,Local Mobile Call @ 40p
+1704,45,,5 days,110 Local Airtel to Airtel minutes
+1705,46,,27 days,Local and STD Mobile Call @ 50p/min
+1706,78,,28 days,Local Mobile @35p/m
+1707,95,,28 days,Local Mobile 30p/m
+1708,97,,6 days,400 Local and STD mobile min
+1709,105,,14 days,185 local minutes
+1710,128,,13 days,400 Local + STD Mobile Mins
+1711,129,,13 days,410 Local + STD Mobile Mins
+1712,159,,7 days,240 All Local and STD (mobile + Landline) mins
+1713,195,,27 days,500 Local and STD mobile min 
+1714,196,,2 days,Unlimited Local & STD all calls
+1715,209,,28 days,460 All local min
+1716,247,,14 days,Unlimited Local mobile calls 
+1717,269,,10 days,Unlimited Local airtel calls

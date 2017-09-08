@@ -1,0 +1,25 @@
+id,cost,talktime,validity,comments
+13838,7,,90 days,All Local and STD calls @ 1paisa per second
+13839,8,,2 days,Local Reliance Voice calls @10p/min and other Local and STD voice calls @30p/min
+13840,16,,3 days,Local Reliance Voice calls at 10p/min and other Local and STD voice calls at 30p/min for 3 days
+13841,17,,2 days,150 minutes for local R2R calls
+13842,18,,14 days,All Local mobile calls@25p/min for 14 days
+13843,21,,28 days,All Calls at 20p/min
+13844,26,,2 days,Local and STD Reliance calls@20p/min
+13845,28,,28 days,"All local calls @ 1.2p/2sec, STD calls @ 2p/sec"
+13846,31,,28 days,All local calls @ 10p/min for 1st 100 minutes post which all local calls @ 30p/min
+13847,34,,90 days,All mobile calls @35p/min
+13848,35,,28 days,All local / STD mobile calls @ 30p/min 
+13849,43,,14 days,4500 seconds for all local mobile calls
+13850,45,,90 days,All Local & STD Calls @20p/min
+13851,47,,30 days,Local/STD calls in Home and National Roaming location at 35p/min & Incoming Free while National Roaming
+13852,53,,28 days,"All local / STD R2R calls @ 15p/min, All other local / STD mobile calls @ 25p/min"
+13853,55,,21 days,7500 seconds for all local mobile calls.
+13854,68,,14 days,Unlimited Local Reliance to Reliance calls
+13855,78,,28 days,150 minutes for all local mobile calls
+13856,88,,28 days,Unlimited Local Reliance to Reliance calls
+13857,89,,7 days,Local and STD Reliance calls@20p/min
+13858,95,,90 days,All Local & STD mobile calls @ 30p/min
+13859,124,,21 days,275 minutes for all local / STD calls
+13860,197,,28 days,520 minutes for all local calls
+13861,198,,28 days,"Unlimited local reliance to reliance seconds and 30,000 seconds local reliance to others."
