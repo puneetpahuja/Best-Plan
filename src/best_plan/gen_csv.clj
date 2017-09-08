@@ -30,7 +30,7 @@
                                    [(env/circle-codes circle) (s/lower-case (s/replace operator #" " "_")) recharge-type])
                            ".csv")]
          (io/make-parents csv-file)
-         (json->csv json-file columns csv-file (when (= number 1) true))))))
+         (json->csv json-file columns csv-file (= number 1))))))
   ([operator circle recharge-type columns]
    (create-csv operator circle recharge-type columns 1)))
 
