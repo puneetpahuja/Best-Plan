@@ -14,11 +14,18 @@
   {:body (slurp (io/resource "public/input_materialize.html"))
    :status 200})
 
+(defn padleft-zero [s]
+  (if (= (first s) \.)
+    (str "0" s)
+    s))
+
 (defn get-recharges [{:strs [telecom-provider circle local-rate std-rate
                              local-usage std-usage]}]
-  (core/get-best-recharges (user/user telecom-provider circle (read-string local-rate)
-                                      (read-string std-rate) (read-string local-usage)
-                                      (read-string std-usage))))
+  (core/get-best-recharges (user/user telecom-provider circle
+                                      (read-string (padleft-zero local-rate))
+                                      (read-string (padleft-zero std-rate))
+                                      (read-string (padleft-zero local-usage))
+                                      (read-string (padleft-zero std-usage)))))
 
 (defn get-table-data [data]
   [:td data])
